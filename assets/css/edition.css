@@ -1,0 +1,76 @@
+.asterisk{ display:block; }
+/*.TEIdoc { padding: 0 18%; }*/
+.tocBody { position: fixed; }
+.hi {background: yellow;}
+.diff-added {color: green;}
+.diff-removed {color: red;}
+.diff-unchanged { color: #cecece; }
+#display { }
+.parNo {
+    position: relative;
+    left: -2em;
+}
+.sourceNav {
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+.prevLink:before{
+    content: " ‹ ";
+}
+
+.prevLink, .nextLink {
+    color: #9cc4ff;
+}
+
+.prevLink {
+    position: absolute;
+    left: 0.2em;   
+}
+
+.nextLink {
+    position: absolute;
+    right: 1em;   
+}
+
+.nextLink:after{
+    content: " › ";
+}
+
+#selPar{
+    height:200px; overflow-y:auto;
+}
+.indentedP {
+    text-indent: -5em;
+}
+
+.parNum {
+    display: inline-block;
+    width: 5em;
+    text-align: right;
+    padding-right: 1em;
+}
+
+.pagebreakIndicator {
+    color: #aaa6a6;
+}
+
+div > .pagebreak {
+    position: absolute;
+    right: 3em;
+}
+
+p > .pagebreak {
+    position: absolute;
+    right: 0em;
+}
+
+.figure {
+    border: none;
+    max-width: 100%;
+}
+
+img {
+    max-width: inherit;
+}
