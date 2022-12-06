@@ -1,6 +1,6 @@
 [![Build and publish](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml/badge.svg)](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml)
 
-# Hanslick VMS (ARCHIVED)
+# Hanslick VMS 
 
 Find future updates at [Hanslick Online Data Repository](https://github.com/Hanslick-Online/hsl-vms-data).
 
