@@ -2,6 +2,8 @@
 
 # Hanslick VMS 
 
+Find future updates at [Hanslick Online Data Repository](https://github.com/Hanslick-Online/hsl-vms-data).
+
 This git repository currently contains test data of the [FWF edition project P 30554](https://pf.fwf.ac.at/project_pdfs/pdf_abstracts/p30554d.pdf) on Eduard Hanslick: „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik der Tonkunst.“
 
 Provided by Alexander and Meike Wilfing, Sept 2018
