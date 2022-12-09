@@ -24,7 +24,7 @@
             </teiHeader>
             <text>
                 <body>
-                    <xsl:for-each-group select="collection($collection)//tei:body//tei:placeName" group-by="substring(normalize-space(upper-case((@key,.)[.!=''][1])),1,1)">
+                    <xsl:for-each-group select="collection($collection)//tei:body//tei:rs[@type='place']" group-by="substring(normalize-space(upper-case((@key,.)[.!=''][1])),1,1)">
                         <xsl:sort select="current-grouping-key()" order="ascending"/>
                         <xsl:if test="matches(current-grouping-key(),'[A-ZÖÜÄ]')">
                             <div>
