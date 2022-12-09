@@ -110,4 +110,10 @@
         </span>
     </xsl:template>
     
+    <xsl:template match="tei:rs">
+        <span class="{@type} {@subtype} {substring-after(@rendition, '#')}" id="{@xml:id}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
 </xsl:stylesheet>
