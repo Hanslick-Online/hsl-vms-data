@@ -59,7 +59,7 @@
     
     <xsl:template match="tei:p[@n]">
         <p class="indentedP" id="{@xml:id}">
-            <a class="parNum" href="diff_{@n}.html">§ <xsl:value-of select="replace(@n, 'xyz', '')"/> </a>
+            <a class="parNum" href="diff_{@n}.html"><xsl:value-of select="replace(@n, 'xyz', '')"/> </a>
             <xsl:apply-templates/>
         </p>
     </xsl:template>

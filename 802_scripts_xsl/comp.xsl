@@ -41,7 +41,7 @@
                     <teiHeader>
                         <fileDesc>
                             <titleStmt>
-                                <title>Concorance – § <xsl:value-of select="replace(current-grouping-key(), 'xyz', '')"/></title>
+                                <title>Concorance <xsl:value-of select="replace(current-grouping-key(), 'xyz', '')"/></title>
                             </titleStmt>
                             <publicationStmt>
                                 <p>unpublished</p>
@@ -75,11 +75,11 @@
                                                 <xsl:sort select="xs:integer(replace(@source,'\P{N}',''))" order="ascending"/>
                                                 <seg type="sourceNav">
                                                     <xsl:if test="@prev != ''">
-                                                         <ref type="prevLink" target="diff_{@prev}.html">§ <xsl:value-of select="replace(@prev, 'xyz', '')"/></ref>
+                                                         <ref type="prevLink" target="diff_{@prev}.html"><xsl:value-of select="replace(@prev, 'xyz', '')"/></ref>
                                                      </xsl:if>
                                                      <ref target="{@file}#{@xml:id}"><xsl:value-of select="@source"/></ref>
                                                      <xsl:if test="@next != ''">
-                                                         <ref type="nextLink" target="diff_{@next}.html">§ <xsl:value-of select="replace(@next, 'xyz', '')"/></ref>
+                                                         <ref type="nextLink" target="diff_{@next}.html"><xsl:value-of select="replace(@next, 'xyz', '')"/></ref>
                                                      </xsl:if>
                                                 </seg>
                                             </xsl:for-each>

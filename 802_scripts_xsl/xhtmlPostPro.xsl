@@ -199,7 +199,7 @@
    <xsl:template match="h:span[@class = 'parNo']">
        <xsl:copy>
            <xsl:copy-of select="@*"/>
-           <a href="diff_{.}.html">§ <xsl:value-of select="."/></a>
+           <a href="diff_{.}.html"><xsl:value-of select="."/></a>
            <xsl:text> </xsl:text>
        </xsl:copy>
    </xsl:template>
