@@ -50,6 +50,17 @@
         </rs>
     </xsl:template>
     
+    <xsl:template match="//tei:front//tei:persName">
+        <rs type="person" ref="#enter-person-id">
+            <xsl:for-each select="@*">
+                <xsl:attribute name="{if (name(.) = 'type') then ('subtype') else (name(.))}">
+                    <xsl:value-of select="."/>
+                </xsl:attribute>
+            </xsl:for-each>
+            <xsl:apply-templates/>
+        </rs>
+    </xsl:template>
+    
     <xsl:template match="//tei:body//tei:placeName">
         <rs type="place" ref="#enter-place-id">
             <xsl:for-each select="@*">
@@ -61,7 +72,29 @@
         </rs>
     </xsl:template>
     
+    <xsl:template match="//tei:front//tei:placeName">
+        <rs type="place" ref="#enter-place-id">
+            <xsl:for-each select="@*">
+                <xsl:attribute name="{if (name(.) = 'type') then('subtype') else (name(.))}">
+                    <xsl:value-of select="."/>
+                </xsl:attribute>
+            </xsl:for-each>
+            <xsl:apply-templates/>
+        </rs>
+    </xsl:template>
+    
     <xsl:template match="//tei:body//tei:bibl">
+        <rs type="bibl" ref="#enter-bibl-id">
+            <xsl:for-each select="@*">
+                <xsl:attribute name="{if (name(.) = 'type') then('subtype') else (name(.))}">
+                    <xsl:value-of select="."/>
+                </xsl:attribute>
+            </xsl:for-each>
+            <xsl:apply-templates/>
+        </rs>
+    </xsl:template>
+    
+    <xsl:template match="//tei:body//tei:title">
         <rs type="bibl" ref="#enter-bibl-id">
             <xsl:for-each select="@*">
                 <xsl:attribute name="{if (name(.) = 'type') then('subtype') else (name(.))}">

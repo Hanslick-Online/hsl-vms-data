@@ -30,20 +30,32 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>102_derived_tei/102_06_paratexts/index.xml</String>
+                                    <String>802_scripts_xsl/tei2html.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>comp</String>
+                                        <String>index_bibl</String>
+                                        <String>index_orgname</String>
+                                        <String>index_persons</String>
+                                        <String>index_placename</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
+                                        <String>XML</String>
+                                        <String>XML</String>
+                                        <String>XML</String>
+                                        <String>XML</String>
+                                        <String>XML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
@@ -60,26 +72,6 @@
                                 <field name="scenarioTypes">
                                     <list>
                                         <String>XML</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>102_derived_tei/102_06_paratexts/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>TEI P5 XHTML - diff documents refactored</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
@@ -119,32 +111,40 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>802_scripts_xsl/tei2html.xsl</String>
+                                    <String>102_derived_tei/102_06_paratexts/index.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>comp</String>
-                                        <String>index_bibl</String>
-                                        <String>index_orgname</String>
-                                        <String>index_persons</String>
-                                        <String>index_placename</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XML</String>
-                                        <String>XML</String>
-                                        <String>XML</String>
-                                        <String>XML</String>
-                                        <String>XML</String>
+                                        <String>XSL</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
                                         <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>102_derived_tei/102_06_paratexts/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>TEI P5 XHTML - diff documents refactored</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
