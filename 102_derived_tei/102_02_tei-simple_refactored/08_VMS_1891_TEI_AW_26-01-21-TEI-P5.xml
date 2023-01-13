@@ -651,16 +651,12 @@
                <emph>
                   <rs type="person" ref="#enter-person-id" xml:id="d1e2074a1048964">Winterfeld</rs>
                </emph> hat nachgewiesen, daß viele der berühmtesten und ob ihres frommen Ausdrucks bewundertsten Stücke im <rs type="bibl" ref="#enter-bibl-id">„Messias“</rs> aus den weltlichen, meist erotischen Duetten herübergenommen sind, welche <rs type="person" ref="#enter-person-id" xml:id="d1e2080a1048964">Händel</rs> (<date>1711–1712</date>) für die Kurprinzessin <rs type="person" ref="#enter-person-id" xml:id="d1e2085a1048964">Caroline</rs> von Hannover auf 
-               <rs type="bibl" ref="#enter-bibl-id">Madrigale</rs>
-               <rs type="bibl" ref="#enter-bibl-id"/>
-                von 
-               <emph>
-                  Mauro <rs type="person" ref="#enter-person-id" xml:id="d1e2095a1048964">Ortensio</rs>
+               Madrigale von <emph>Mauro <rs type="person" ref="#enter-person-id" xml:id="d1e2095a1048964">Ortensio</rs>
                </emph> gesetzt hatte. Die Musik zu dem zweiten Duett:
             <!-- start: paragraph error 04: resolved and cit error resolved -->            
             
                <cit>
-                  <quote>„Nò, di voi non uoʼ fidarmi,Cieco amor, crudel beltà;Troppo siete menzognereLusinghiere deità!“ </quote>
+                  <quote>„Nò, di voi non uoʼ fidarmi, [/] Cieco amor, crudel beltà; [/] Troppo siete menzognere [/] Lusinghiere deità!“ </quote>
                </cit>
                <note place="foot" xml:id="d1e2105a1048964" n="13">
                   <cit>
@@ -677,7 +673,7 @@
                 hat dieselben Motive wie der Chor im zweiten Teil des <rs type="bibl" ref="#enter-bibl-id">Messias</rs>
                <cit>
                   <quote>„Wie Schafe gehen“</quote>
-               </cit>. Das <rs type="bibl" ref="#enter-bibl-id">Madrigal Nr. 16</rs> (Duett für Sopran und Alt) ist im wesentlichen ganz übereinstimmend <pb n="[52]"/> mit dem Duett im dritten Teil des <rs type="bibl" ref="#enter-bibl-id">Messias</rs>: <cit>
+               </cit>. Das Madrigal Nr. 16 (Duett für Sopran und Alt) ist im wesentlichen ganz übereinstimmend <pb n="[52]"/> mit dem Duett im dritten Teil des <rs type="bibl" ref="#enter-bibl-id">Messias</rs>: <cit>
                   <quote>„O Tod, wo ist dein Stachel“</quote>
                </cit>; – dort lautet der Text:
             
