@@ -29,16 +29,16 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+         <div type="main">
             <head>Team</head>
-            <div>
+            <div type="block">
                <head>Kontakt</head>
                <list type="biography">
                   <item>Dr. Alexander Wilfing</item>
                   <item>Email: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">alexander.wilfing(at)oeaw.ac.at</ref></item>
                </list>
             </div>
-            <div>
+            <div type="block">
                <head>Editionsleitung</head>
                <figure>
                   <graphic url="csm_Landerer_Portrait_d243839e69.jpg"></graphic>

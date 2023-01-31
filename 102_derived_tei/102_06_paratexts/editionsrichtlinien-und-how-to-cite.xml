@@ -29,10 +29,10 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+         <div type="main">
             <head>Editionsrichtlinien und How to Cite</head>
-            <head>Alexander Wilfing</head>
-            <div>
+            <byline>Alexander Wilfing</byline>
+            <div type="block">
                <p></p>
             </div>
          </div>
