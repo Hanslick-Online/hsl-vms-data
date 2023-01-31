@@ -6,19 +6,36 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>VMS Index</title>
+            <title>Hanslick Online Index</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>
+               <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <address>
+               <addrLine>Bäckerstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+            </address>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>born digital</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>Index page</p>
+         <div>
+            <p>Die Website „Hanslick Online“ bereitet die Schriften von Eduard Hanslick (1825–1904) auf, der im neunzehnten Jahrhundert als Musikästhetiker, Musikkritiker und erster Professor für „Geschichte und Ästhetik der Tonkunst“ im deutschen Sprachraum wirkte. Sie beinhaltet Ergebnisse des Projekts „Hanslick im Kontext“, das seit dem Jahr 2014 die historische Umgebung Hanslicks sowie seiner Schriften auslotet.</p>
+            <p>Besonderes Augenmerk liegt dabei auf den zahlreichen Bearbeitungen und Auflagen, die diese Texte zu Hanslicks Lebzeiten erfuhren. „Hanslick Online“ stellt diese Auflagen nicht nur bereit, sondern macht ebenso direkte Vergleiche zwischen den Varianten möglich. Damit füllt diese Website eine Lücke der modernen Hanslick-Forschung, die die dynamische Entwicklung von Hanslicks Denkweise immer stärker in den Blick nimmt.</p>
+            <p>Die Projektbeschreibung gibt eine kurze Skizze der historischen Bedeutung Hanslicks vom neunzehnten Jahrhundert bis zur Gegenwart, erläutert im Detail den Zweck dieser Website und schildert die Geschichte des Projekts „Hanslick im Kontext“ sowie dessen zahlreicher Teilprojekte, deren Resultate zur Schaffung dieser Homepage geführt haben. Die Ergebnisse der Teilprojekte können unter Aktivitäten vollständig eingesehen werden.</p>
+            <p>Unter dem Punkt Traktat finden sich die zehn Auflagen von Hanslicks Haupttext Vom Musikalisch-Schönen und die Option zum Vergleich zwischen beliebig gewählten Varianten. Begleitet werden diese von der Beschreibung der Genese und Kontexte der Schrift, einer kurzen Skizze ihrer Inhalte, sowie einer Darstellung der Unterschiede zwischen diesen Auflagen, die Anstoß dieser Website waren.</p>
+            <p>„Hanslick Online“ ist ein work in progress, das in den nächsten Jahren mit weiteren Funktionen sowie einem deutlich größeren Textkorpus ergänzt werden soll. So ist ein Projekt, das die kritischen Schriften Hanslicks erschließt, momentan in Begutachtung. Falls Sie zur Optimierung dieser Homepage Vorschläge oder auch Fragen zu Hanslick, den Projekten, sowie deren Ergebnissen haben sollten, stehen wir Ihnen als Team gerne zur Verfügung.</p>
+         </div>
       </body>
   </text>
 </TEI>
