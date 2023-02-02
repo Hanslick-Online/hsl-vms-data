@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hanslick Online - Team</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <address>
+               <addrLine>Bäckerstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+            </address>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main">
+            <head>Team</head>
+            <div type="block">
+               <head>Kontakt</head>
+               <list type="biography">
+                  <item>Dr. Alexander Wilfing</item>
+                  <item>Email: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">alexander.wilfing(at)oeaw.ac.at</ref></item>
+               </list>
+            </div>
+            <div type="block">
+               <head>Editionsleitung</head>
+               <figure>
+                  <graphic url="csm_Landerer_Portrait_d243839e69.jpg"></graphic>
+                  <head>Programm der Tagung "Hanslick im Kontext"; Foto von Franz Pflügl mit Genehmigung der Universität Wien</head>
+                  <!--<figDesc>...</figDesc>-->
+               </figure>
+               <list type="biography">
+                  <item>Dr. Christoph Landerer, Projektleiter (Vom Musikalisch-Schönen / On the Musically Beautiful)</item>
+                  <item>Selbstständiger Wissenschaftler</item>
+                  <item>Salzburg, Österreich</item>
+                  <item>Email: <ref type="mail" target="chlanderer@gmail.com">chlanderer(at)gmail.com</ref></item>
+                  <item>Website: <ref type="web" target="ResearchGate.net">ResearchGate.net</ref></item>
+               </list>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>

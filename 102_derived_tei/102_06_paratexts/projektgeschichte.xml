@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hanslick Online - Projektgeschichte</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <address>
+               <addrLine>Bäckerstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+            </address>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="main">
+            <head>Geschichte von „Hanslick im Kontext“</head>
+            <byline>Alexander Wilfing</byline>
+            <div type="inline">
+               <ref target="https://www.oeaw.ac.at/de/acdh/musikwissenschaft/news/eduard-hanslick-im-kontext-2">
+                  <figure>
+                     <graphic url="images/csm_Hanslick_Kongress_2a1f43ea12.jpg"></graphic>
+                     <head>Programm der Tagung "Hanslick im Kontext"; Foto von Franz Pflügl mit Genehmigung der Universität Wien</head>
+                     <!--<figDesc>...</figDesc>-->
+                  </figure>
+               </ref>
+               <p>„Hanslick im Kontext“ ist ein Langzeitprojekt, das Christoph Landerer und Alexander Wilfing unter Mitarbeit von Meike Wilfing-Albrecht seit 2014 im Rahmen von mehreren einzelnen Projekten an der Österreichischen Akademie der Wissenschaften durchführen, ursprünglich am Institut für kunst- und musikhistorische Forschungen (2014–2019) und seit 2020 am Austrian Centre for Digital Humanities and Cultural Heritage, Department of Musicology. Im Zentrum unserer Forschung steht dabei Hanslicks geschichtlich bedeutender Ästhetiktraktat Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (Leipzig: Rudolph Weigel, 1854), der bis 1902 in 10 von Hanslick edierten Auflagen erschien (für die Auflistung der Auflagen, siehe diesen Link unter „Eduard Hanslicks Schriften“). Landerer befasst sich seit etwa 1990 immer wieder mit Hanslicks Ästhetik: seine erste diesbezügliche Untersuchung „Bernard Bolzano, Eduard Hanslick und die Geschichte des musikästhetischen Objektivismus“ wurde bereits 1993 in Kriterion (Nr. 5 und Nr. 6) veröffentlicht und ein Schrödinger-Stipendium (J2161) hat ihn 2001–2003 mit dem Projekt „Eduard Hanslick’s Musical Aesthetics in the Context of Austrian Intellec­tual History“ an die University of Toronto zu Geoffrey Payzant gebracht, der Vom Musikalisch-Schönen im Jahr 1986 als On the Musically Beautiful ins Englische übersetzt hatte. Wilfing forscht seit seiner Dissertation Eduard Hanslicks Rezeption im englischen Sprachraum (2010–2016) und einem damit verbundenen PostDoc-Track-Programm der Österreichischen Akademie der Wissenschaften zu Eduard Hanslick sowie dessen Wirkung auf verschiedene disziplinäre Diskurse von der Musikwissenschaft und Musikphilosophie bis zur Musikpsychologie, Literaturtheorie, Kunstgeschichte und Musikkritik. „Hanslick im Kontext“, das die historischen Hintergründe dieses Textes sowie seiner Auflagen zum Thema hat, besteht – Stand 2021 – aus den folgenden zeitlich befristeten Projekten, die Landerer und Wilfing (mit Landerer als Projektleiter) bei verschiedenen Fördergebern eingeworben haben:</p>
+            </div>
+            <div type="block">
+               <list type="bibl">
+                  <item>„Hanslick in Context: Hanslick’s Aesthetic Ideas, Their Genesis, and Their Place in the History of Ideas“ (2014–2017, gefördert vom Wissenschaftsfond FWF, P26610)</item>
+                  <item>„Studies in the Genesis of Hanslick’s Vom Musikalisch-Schönen: Textual and Contextual Analysis“ (2017–2018, gefördert vom Jubiläumsfonds der Österreichischen Nationalbank, 17508)</item>
+                  <item>„Eduard Hanslick’s Vom Musikalisch-Schönen: An Analysis of the Dynamic Features of the Text and Its Contexts“ (2018–2021, gefördert vom Wissenschaftsfond FWF, P30554)</item>
+               </list>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
