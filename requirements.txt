@@ -1,0 +1,4 @@
+acdh-tei-pyutils>=0.30
+Pillow
+pandas
+lxml

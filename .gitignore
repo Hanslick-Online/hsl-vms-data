@@ -2,3 +2,6 @@
 /saxon
 /TEI-Stylesheets
 *.html
+/traktat-facs
+/env
+__pycache__
