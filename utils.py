@@ -38,7 +38,7 @@ def facs_to_tei(fpath=None,fnames=None):
         surface.attrib["lrx"] = str(row["width"])
         surface.attrib["lry"] = str(row["height"])
         graphic = ET.Element("{http://www.tei-c.org/ns/1.0}graphic")
-        graphic.attrib["url"] = f"https://iiif.acdh.oeaw.ac.at/hsl/{row['id']}"
+        graphic.attrib["url"] = f"https://iiif.acdh.oeaw.ac.at/images/hsl-vms/{row['id']}"
         surface.append(graphic)
         facs.append(surface)
     root_node.insert(1, facs)
