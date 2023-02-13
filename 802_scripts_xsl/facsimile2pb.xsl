@@ -19,10 +19,10 @@
     <xsl:template match="tei:pb">
         <xsl:variable name="idx" select="index-of(($pos2/@n), @n)"/>
         <xsl:copy>
+            <xsl:apply-templates select="node()|@*"/>
             <xsl:attribute name="facs">
                 <xsl:value-of select="$facs[$idx]/@url"/>
             </xsl:attribute>
-            <xsl:apply-templates select="node()|@*"/>
         </xsl:copy>
     </xsl:template>
     
