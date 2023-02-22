@@ -10,6 +10,46 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>102_derived_tei/102_02_tei-simple_refactored/05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>facs2pb</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>102_derived_tei/102_02_tei-simple_refactored/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>entity2rs</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>102_derived_tei/102_02_tei-simple_refactored/02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -35,26 +75,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>facs2pb</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>102_derived_tei/102_02_tei-simple_refactored/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>entity2rs</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -3992,26 +4012,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>public/diff_3.23.html</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>TEI P5 XHTML - PostPro DST</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>public/diff_3.22.html</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
