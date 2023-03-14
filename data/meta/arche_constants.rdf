@@ -6,7 +6,7 @@
     </acdh:Constanst>
     <acdh:TopCollection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms">
         <acdh:hasPid>create</acdh:hasPid>
-        <acdh:hasTitle xml:lang="de">Hanslicks "Vom Musikalisch-Schönen": Dynamische Aspekte des Texts und der Kontexte</acdh:hasTitle>
+        <acdh:hasTitle xml:lang="de">Hanslicks "Vom Musikalisch-Schönem": Dynamische Aspekte des Texts und der Kontexte</acdh:hasTitle>
         <acdh:hasDescription xml:lang="de">Beschreibung der Daten</acdh:hasDescription>
         <acdh:hasContact rdf:resource="http://d-nb.info/gnd/1033827401"/>
         <acdh:hasCreator rdf:resource="http://d-nb.info/gnd/1033827401"/>
