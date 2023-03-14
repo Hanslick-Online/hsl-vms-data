@@ -69,11 +69,10 @@
             <acdh:hasPersonalTitle xml:lang="und">BA MA</acdh:hasPersonalTitle>
             <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         </acdh:Person>
-        <acdh:Person rdf:about="https://orcid.org/0000-0002-0636-4476">
-            <acdh:hasTitle xml:lang="und">Daniel Stoxreiter</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="und">Stoxreiter</acdh:hasLastName>
+        <acdh:Person rdf:about="https://orcid.org/0000-0003-2436-0361">
+            <acdh:hasTitle xml:lang="und">Daniel Schopper</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Schopper</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Daniel</acdh:hasFirstName>
-            <acdh:hasPersonalTitle xml:lang="und">BA MA</acdh:hasPersonalTitle>
             <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         </acdh:Person>
         <acdh:Person rdf:about="http://d-nb.info/gnd/1033827401">
@@ -81,7 +80,7 @@
             <acdh:hasLastName xml:lang="und">Wilfing</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Alexander</acdh:hasFirstName>
             <acdh:hasPersonalTitle xml:lang="und">Dr.</acdh:hasPersonalTitle>
-            <acdh:hasEmail xml:lang="und">Alexander.Wilfing@oeaw.ac.at</acdh:hasEmail>
+            <acdh:hasEmail>Alexander.Wilfing@oeaw.ac.at</acdh:hasEmail>
             <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         </acdh:Person>
         <acdh:Person rdf:about="http://d-nb.info/gnd/118545825">
