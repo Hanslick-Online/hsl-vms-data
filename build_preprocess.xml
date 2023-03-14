@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tei2html">
+    <property name="tei" value="./102_derived_tei/102_02_tei-simple_refactored"/>
+    <property name="editions" value="./data/editions"/>
+
+    <!-- <delete>
+        <fileset dir="${editions}" includes="*.xml"/>
+    </delete> -->
+
+    <mkdir dir="${editions}"/>
+
+    <!-- project traktat -->
+
+    <!-- <move todir="${editions}">
+        <fileset dir="${tei}"/>
+        <mapper type="glob" from="*.xml" to="t__*.xml"/>
+    </move> -->
+
+    <xslt style="./802_scripts_xsl/preprocess.xsl"  basedir="${tei}" destdir="${editions}" includes="*.xml">
+        <mapper type="glob" from="*.xml" to="t__*.xml"/>
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
+
+</project>
