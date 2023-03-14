@@ -50,8 +50,9 @@
                 </xsl:variable>
                 <acdh:Resource rdf:about="{$id}">
                     <acdh:hasPid>create</acdh:hasPid>
+                    <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                     <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                    <acdh:hasTitle xml:lang="de"><xsl:value-of select="concat(.//tei:titleStmt/tei:title[@type='main'][1]/text(), ' ', .//tei:sourceDesc//tei:edition/text())"/></acdh:hasTitle>
+                    <acdh:hasTitle xml:lang="de"><xsl:value-of select="concat(.//tei:sourceDesc//tei:edition/@n, '. Auflage')"/></acdh:hasTitle>
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
