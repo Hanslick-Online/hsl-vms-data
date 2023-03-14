@@ -17,8 +17,8 @@
         <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
         <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
         <acdh:hasContributor rdf:resource="https://orcid.org/0000-0003-2436-0361"/>
-        <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1954-01-01</acdh:hasCoverageStartDate>
-        <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-31-12</acdh:hasCoverageEndDate>
+        <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasCoverageStartDate>
+        <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-12-31</acdh:hasCoverageEndDate>
         <acdh:hasSubject xml:lang="de">Digitale Edition</acdh:hasSubject>
         <acdh:hasSubject xml:lang="de">Traktat</acdh:hasSubject>
         <acdh:hasSubject xml:lang="de">Musikwissenschaft</acdh:hasSubject>
