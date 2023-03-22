@@ -44,7 +44,8 @@
                   <graphic url="images/Portrait_Landerer.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Dr. Christoph Landerer, Projektleiter (<emph>Vom Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph>)</item>
+                  <item><hi rend="bold">Dr. Christoph Landerer</hi>, Projektleiter (<emph>Vom
+                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph>)</item>
                   <item>Selbstständiger Wissenschaftler</item>
                   <item>Salzburg, Österreich</item>
                   <item>Email: <ref type="mail" target="chlanderer@gmail.com">chlanderer(at)gmail.com</ref></item>
@@ -54,7 +55,10 @@
                   <graphic url="images/Portrait_Wilfing.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Dr. Alexander Wilfing, Projektleiter (Hanslick in <emph>Neue Freie Presse</emph>) und Editionsleiter (<emph>Vom Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph> und Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item><hi rend="bold">Dr. Alexander Wilfing</hi>, Projektleiter (Hanslick in
+                        <emph>Neue Freie Presse</emph>) und Editionsleiter (<emph>Vom
+                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph> und
+                     Hanslick in <emph>Neue Freie Presse</emph>)</item>
                   <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
                   <item>Bäckerstrasse 13, 1010 Wien</item>
                   <item>Email: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">alexander.wilfing(at)oeaw.ac.at</ref></item>
@@ -67,7 +71,8 @@
                   <graphic url="images/Portrait_Bamer.jpeg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Katharina Bamer, BA, Projektmitarbeiterin (Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item><hi rend="bold">Katharina Bamer, BA</hi>, Projektmitarbeiterin (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
                   <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
                   <item>Bäckerstrasse 13, 1010 Wien</item>
                   <item>Email: <ref type="mail" target="katharina.bamer@oeaw.ac.at">katharina.bamer(at)oeaw.ac.at</ref></item>
@@ -77,7 +82,8 @@
                   <graphic url="images/Portrait_Leitner.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Jakob Leitner, BA BEd, Freier Mitarbeiter (Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item><hi rend="bold">Jakob Leitner, BA BEd</hi>, Freier Mitarbeiter (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
                   <item>Universität für Musik und Darstellende Kunst Graz / Karl-Franzens-Universität Graz</item>
                   <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
                   <item>Email: <ref type="mail" target="jakob.leitner@students.kug.ac.at">jakob.leitner(at])students.kug.ac.at</ref></item>
@@ -86,7 +92,8 @@
                   <graphic url="images/Portrait_Pfiel.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Anna-Maria Pfiel, BA, Projektmitarbeiterin (Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item><hi rend="bold">Anna-Maria Pfiel, BA</hi>, Projektmitarbeiterin (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
                   <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
                   <item>Bäckerstrasse 13, 1010 Wien</item>
                   <item>Email: <ref type="mail" target="anna-maria.pfiel@oeaw.ac.at">anna-maria.pfiel(at)oeaw.ac.at</ref></item>
@@ -96,7 +103,8 @@
                   <graphic url="images/Portrait_Picej.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Cornelia Picej, BA, Praktikantin (Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item><hi rend="bold">Cornelia Picej, BA</hi>, Praktikantin (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
                   <item>Universität für Musik und Darstellende Kunst Graz / Karl-Franzens-Universität Graz</item>
                   <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
                   <item>Email: <ref type="mail" target="cornelia.picej@student.kug.ac.at">cornelia.picej(at)student.kug.ac.at</ref></item>
@@ -104,17 +112,21 @@
                   <graphic url="images/Portrait_Stoxreiter.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Daniel Stoxreiter, MA, Projektmitarbeiter (<emph>Vom Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph> und Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item><hi rend="bold">Daniel Stoxreiter, MA</hi>, Projektmitarbeiter (<emph>Vom
+                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph> und
+                     Hanslick in <emph>Neue Freie Presse</emph>)</item>
                   <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
                   <item>Bäckerstrasse 13, 1010 Wien</item>
                   <item>Email: <ref type="mail" target="daniel.stoxreiter@oeaw.ac.at">daniel.stoxreiter(at)oeaw.ac.at</ref></item>
                   <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/team/current-team/daniel-stoxreiter">Österreichische Akademie der Wissenschaften</ref></item>
                </list>
                <figure>
-                  <graphic url="images/Portrait_Wilfing-Albrecht.jpg"></graphic>
+                  <graphic url="images/Portrait_Wilfing-Albrecht_new.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Dr. Meike Wilfing-Albrecht, Projektmitarbeiterin (<emph>Vom Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph>)</item>
+                  <item><hi rend="bold">Dr. Meike Wilfing-Albrecht</hi>, Projektmitarbeiterin
+                        (<emph>Vom Musikalisch-Schönen</emph> / <emph>On the Musically
+                        Beautiful</emph>)</item>
                   <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
                   <item>Bäckerstrasse 13, 1010 Wien</item>
                   <item>Email: <ref type="mail" target="meike.wilfing-albrecht@oeaw.ac.at">meike.wilfing-albrecht(at)oeaw.ac.at</ref></item>
