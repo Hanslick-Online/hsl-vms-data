@@ -17,7 +17,7 @@
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2023">2023</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
@@ -41,16 +41,96 @@
             <div type="block">
                <head>Editionsleitung</head>
                <figure>
-                  <graphic url="csm_Landerer_Portrait_d243839e69.jpg"></graphic>
-                  <head>Programm der Tagung "Hanslick im Kontext"; Foto von Franz Pflügl mit Genehmigung der Universität Wien</head>
-                  <!--<figDesc>...</figDesc>-->
+                  <graphic url="images/Portrait_Landerer.jpg"></graphic>
                </figure>
                <list type="biography">
-                  <item>Dr. Christoph Landerer, Projektleiter (Vom Musikalisch-Schönen / On the Musically Beautiful)</item>
+                  <item><hi rend="bold">Dr. Christoph Landerer</hi>, Projektleiter (<emph>Vom
+                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph>)</item>
                   <item>Selbstständiger Wissenschaftler</item>
                   <item>Salzburg, Österreich</item>
                   <item>Email: <ref type="mail" target="chlanderer@gmail.com">chlanderer(at)gmail.com</ref></item>
-                  <item>Website: <ref type="web" target="ResearchGate.net">ResearchGate.net</ref></item>
+                  <item>Website: <ref type="web" target="https://www.researchgate.net/profile/Christoph-Landerer">ResearchGate.net</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Wilfing.jpg"></graphic>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Dr. Alexander Wilfing</hi>, Projektleiter (Hanslick in
+                        <emph>Neue Freie Presse</emph>) und Editionsleiter (<emph>Vom
+                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph> und
+                     Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
+                  <item>Bäckerstrasse 13, 1010 Wien</item>
+                  <item>Email: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">alexander.wilfing(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/alexander-wilfing/">Österreichische Akademie der Wissenschaften</ref>; <ref type="web" target="https://alexanderwilfing.academia.edu/">Academia Website</ref>; <ref type="web" target="https://www.researchgate.net/profile/Alexander-Wilfing">ResearchGate.net</ref></item>
+               </list>
+            </div>
+            <div type="block">
+               <head>Projektteam</head>
+               <figure>
+                  <graphic url="images/Portrait_Bamer.jpeg"></graphic>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Katharina Bamer, BA</hi>, Projektmitarbeiterin (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
+                  <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
+                  <item>Bäckerstrasse 13, 1010 Wien</item>
+                  <item>Email: <ref type="mail" target="katharina.bamer@oeaw.ac.at">katharina.bamer(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/katharina-bamer">Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Leitner.jpg"></graphic>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Jakob Leitner, BA BEd</hi>, Freier Mitarbeiter (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
+                  <item>Universität für Musik und Darstellende Kunst Graz / Karl-Franzens-Universität Graz</item>
+                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
+                  <item>Email: <ref type="mail" target="jakob.leitner@students.kug.ac.at">jakob.leitner(at])students.kug.ac.at</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Pfiel.jpg"></graphic>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Anna-Maria Pfiel, BA</hi>, Projektmitarbeiterin (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
+                  <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
+                  <item>Bäckerstrasse 13, 1010 Wien</item>
+                  <item>Email: <ref type="mail" target="anna-maria.pfiel@oeaw.ac.at">anna-maria.pfiel(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/anna-maria-pfiel">Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Picej.jpg"></graphic>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Cornelia Picej, BA</hi>, Praktikantin (Hanslick in
+                        <emph>Neue Freie Presse</emph>)</item>
+                  <item>Universität für Musik und Darstellende Kunst Graz / Karl-Franzens-Universität Graz</item>
+                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
+                  <item>Email: <ref type="mail" target="cornelia.picej@student.kug.ac.at">cornelia.picej(at)student.kug.ac.at</ref></item>
+               </list><figure>
+                  <graphic url="images/Portrait_Stoxreiter.jpg"></graphic>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Daniel Stoxreiter, MA</hi>, Projektmitarbeiter (<emph>Vom
+                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph> und
+                     Hanslick in <emph>Neue Freie Presse</emph>)</item>
+                  <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
+                  <item>Bäckerstrasse 13, 1010 Wien</item>
+                  <item>Email: <ref type="mail" target="daniel.stoxreiter@oeaw.ac.at">daniel.stoxreiter(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/team/current-team/daniel-stoxreiter">Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Wilfing-Albrecht_new.jpg"></graphic>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Dr. Meike Wilfing-Albrecht</hi>, Projektmitarbeiterin
+                        (<emph>Vom Musikalisch-Schönen</emph> / <emph>On the Musically
+                        Beautiful</emph>)</item>
+                  <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
+                  <item>Bäckerstrasse 13, 1010 Wien</item>
+                  <item>Email: <ref type="mail" target="meike.wilfing-albrecht@oeaw.ac.at">meike.wilfing-albrecht(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/meike-wilfing-albrecht">Österreichische Akademie der Wissenschaften</ref></item>
                </list>
             </div>
          </div>

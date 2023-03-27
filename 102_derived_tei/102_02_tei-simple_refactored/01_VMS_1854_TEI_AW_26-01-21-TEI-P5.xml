@@ -517,8 +517,8 @@
             <p n="V1.4" xml:id="d1e329a1048964">Genug wenn es mir glückte, siegreiche Mauerbrecher gegen die verrottete Gefühlsästhetik auf den Kampfplatz zu tragen und einige Grundsteine für den künftigen Neubau bereit zu legen. Ueber die mir sehr wohl bewußten Lücken meiner Darstellung muß ich mir <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0003"
                    n="[VI]"/> mit der Hoffnung hinweghelfen, daß für die hier entwickelten Grundsätze noch ausführlicher Rede zu stehen mir einst vergönnt sein werde.</p>
             <p n="V1.5" xml:id="d1e335a1048964">Kann dieser Versuch dazu beitragen, Genuß und Erkenntniß des Schönen in der Tonkunst dem allein richtigen (d. i. ästhetischen) Boden näher zu bringen, so soll er damit manche ihm in Aussicht stehende Ungnade für mein Gefühl vollkommen wett gemacht haben.</p>
-            <p>
-               <rs type="place" ref="#hsl_place_id_55" xml:id="d1e342a1048964">Wien</rs>, den 11. September <date>1854</date>.</p>
+            <p><rs type="place" ref="#hsl_place_id_55" xml:id="d1e342a1048964">Wien</rs>, den
+               11. September <date>1854</date>.</p>
             <byline>Dr. Eduard Hanslick.</byline>
          </div>
          <div>
@@ -541,10 +541,19 @@
             <p n="1.12" xml:id="d1e419a1048964">Der erstere darf uns nicht lange beschäftigen, da die neuere Philosophie den Irrthum längst widerlegt hat, als liege der Zweck eines Schönen überhaupt in einer gewissen Tendenz auf das Fühlen der Menschen. Das Schöne hat seine Bedeutung in sich selbst, es ist zwar schön nur <emph>für</emph> das Wohlgefallen eines anschauenden Subjects, aber nicht <emph>durch</emph> dasselbe. Wie die Schlange in <rs type="person" ref="#hsl_person_id_100" xml:id="d1e425a1048964">Goethe</rs>ʼs Märchen vollendet es seinen Kreis in sich allein, unbekümmert um die magische Kraft, mit der es sogar das Todte wiederbelebt. Das <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0009"
                    n="[4]"/> Schöne hat nichts Anderes zu thun als schön zu sein, mag es gleich immerhin leiden, daß wir außer dem <emph>Anschauen</emph> – der eigentlich ästhetischen Thätigkeit – auch im <emph>Fühlen</emph> und <emph>Empfinden</emph> ein Uebriges thun.</p>
             <p n="1.14" xml:id="d1e438a1048964">„Gefühl“ und „Empfindung“, diese beiden unaufhörlich verwechselten Begriffe, müssen wir, ehe unsre Untersuchung beginnen kann, streng unterscheiden.</p>
-            <p n="1.15" xml:id="d1e441a1048964">
-               <emph>Empfindung</emph> ist das Wahrnehmen einer bestimmten Sinnesqualität: eines Tons, einer Farbe. <emph>Gefühl</emph> das Bewußtwerden einer Förderung oder Hemmung unsres Seelenzustandes, also eines Wohlseins oder Mißbehagens. Wenn ich den Geruch oder Geschmack eines Dinges, dessen Form, Farbe oder Ton mit meinen Sinnen einfach wahrnehme (percipire), so <emph>empfinde</emph> ich diese Qualitäten; wenn Wehmuth, Hoffnung, Frohsinn oder Haß mich merkbar über den gewöhnlichen Seelenzustand emporheben oder unter denselben herabdrücken, so <emph>fühle</emph> ich. (In dieser Begriffsbezeichnung stimmen die älteren Philosophen mit den neueren Physiologen überein, und wir mußten sie unbedingt den Benennungen der <emph>
+            <p n="1.15" xml:id="d1e441a1048964"><emph>Empfindung</emph> ist das Wahrnehmen einer
+               bestimmten Sinnesqualität: eines Tons, einer Farbe. <emph>Gefühl</emph> das
+               Bewußtwerden einer Förderung oder Hemmung unsres Seelenzustandes, also eines
+               Wohlseins oder Mißbehagens. Wenn ich den Geruch oder Geschmack eines Dinges, dessen
+               Form, Farbe oder Ton mit meinen Sinnen einfach wahrnehme (percipire), so
+                  <emph>empfinde</emph> ich diese Qualitäten; wenn Wehmuth, Hoffnung, Frohsinn oder
+               Haß mich merkbar über den gewöhnlichen Seelenzustand emporheben oder unter denselben
+               herabdrücken, so <emph>fühle</emph> ich. (In dieser Begriffsbezeichnung stimmen die
+               älteren Philosophen mit den neueren Physiologen überein, und wir mußten sie unbedingt
+               den Benennungen der <emph>
                   <rs type="person" ref="#hsl_person_id_378" xml:id="d1e453a1048964">Hegel</rs>
-               </emph>ʼschen Schule vorziehen, welche bekanntlich innere und äußere Empfindungen unterscheidet.)</p>
+               </emph>ʼschen Schule vorziehen, welche bekanntlich innere und äußere Empfindungen
+               unterscheidet.)</p>
             <p n="1.16" xml:id="d1e458a1048964">Das Schöne trifft zuerst unsere Sinne. Dieser Weg ist ihm nicht eigenthümlich, es theilt ihn mit allem überhaupt Erscheinenden. Die Empfindung ist Anfang und Bedingung des ästhetischen Gefallens und bildet erst die Basis des <emph>Gefühls</emph>, welches stets ein Verhältniß und oft die complicirtesten Verhältnisse voraussetzt. <emph>Empfindungen</emph> zu erregen bedarf es nicht der Kunst, ein einzelner Ton, eine einzelne Farbe kann das. Wie gesagt werden beide Ausdrücke willkürlich vertauscht, meistens aber in älteren Werken „Empfindung“ genannt, was wir als „<emph>Gefühl</emph>“ bezeichnen. Unsre <emph>Gefühle</emph> also, meinen jene Schriftsteller, solle die Musik erregen und uns abwechselnd mit Andacht, Liebe, Jubel, Wehmuth erfüllen.</p>
             <p n="1.17" xml:id="d1e469a1048964">Solche Bestimmung hat aber in Wahrheit weder diese noch eine andere Kunst. Das Organ, womit das Schöne aufgenommen wird, ist nicht das Gefühl, sondern die <emph>Phantasie</emph>, als die Thätigkeit des reinen Schauens. (<rs type="person" ref="#hsl_person_id_379">Vischer</rs>ʼs <rs type="bibl" ref="#hsl_work_id_319" xml:id="d1e473a1048964">Aesth.</rs> §. 384.)</p>
             <p n="1.18" xml:id="d1e477a1048964">Nahezu merkwürdig ist es, wie die Musiker und älteren Aesthe<pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0010"
@@ -557,8 +566,10 @@
             <p n="1.22" xml:id="d1e529a1048964">Allein ebensowenig wie wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, können wir in ihr eine specifische Bestimmtheit der <emph>Musik</emph> erblicken. Einmal festgehalten, daß die <emph>Phantasie</emph> das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung dieser auf das Gefühl in <emph>jeder</emph> Kunst vorkommen. Bewegt uns nicht mächtig ein bedeutendes Historiengemälde? Welche Andacht erwecken <rs type="person" ref="#hsl_person_id_380" xml:id="d1e537a1048964">Raphael</rs>ʼs Madonnen, welchʼ sehnsüchtige und frohe Stimmungen die Landschaften eines <rs type="person" ref="#hsl_person_id_381" xml:id="d1e540a1048964">Poussin</rs>? Wird der Anblick des <rs type="place" ref="#hsl_place_id_71" xml:id="d1e544a1048964">Straßburg</rs>er Münsters oder der <rs type="place" ref="#hsl_place_id_23">griechischen</rs> Marmorgestalten ohne Wirkung auf unser Fühlen bleiben? Dasselbe gilt von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblich principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung: ob man stärker und tiefer fühle bei einer <rs type="person" ref="#hsl_person_id_189" xml:id="d1e547a1048964">Mozart</rs>ʼschen Symphonie oder bei einem Trauerspiel <rs type="person" ref="#hsl_person_id_287" xml:id="d1e550a1048964">Shakespeare</rs>ʼs, bei einem Gedicht von <rs type="person" ref="#hsl_person_id_310" xml:id="d1e553a1048964">Uhland</rs> oder einem <rs type="person" ref="#hsl_person_id_382" xml:id="d1e556a1048964">Hummel</rs>ʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, <emph>unmittelbar</emph> nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der <emph>Baukunst</emph> be<pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0012"
                    n="[7]"
                    break="no"/>steht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den <emph>Zweck</emph>, Gefühle zu erregen, oder es seien diese der <emph>Inhalt</emph> derselben?</p>
-            <p n="1.23" xml:id="d1e571a1048964">
-               <emph>Jedes</emph> wahre Kunstwerk wird sich in irgend eine Beziehung zu unserm Fühlen setzen, <emph>keines</emph> in eine ausschließliche. Man sagt also gar nichts für das ästhetische Princip der Musik Entscheidendes, wenn man sie durch ihre Wirkung auf das Gefühl charakterisirt.</p>
+            <p n="1.23" xml:id="d1e571a1048964"><emph>Jedes</emph> wahre Kunstwerk wird sich in
+               irgend eine Beziehung zu unserm Fühlen setzen, <emph>keines</emph> in eine
+               ausschließliche. Man sagt also gar nichts für das ästhetische Princip der Musik
+               Entscheidendes, wenn man sie durch ihre Wirkung auf das Gefühl charakterisirt.</p>
             <p n="1.24" xml:id="d1e578a1048964">Dennoch will man dem Wesen der Musik immer von <emph>diesem</emph> Punkte aus beikommen. Dennoch wird stets die Besprechung eines Tonwerks mit der „Empfindung“ angehoben, die es hervorruft, und Lob oder Tadel nach dem Maß der eigenen subjectiven Affection bestimmt. Als wenn man das Wesen des Weines ergründete, indem man sich betrinkt! Die Erkenntniß eines Gegenstandes und dessen unmittelbare Wirkung auf unsre Subjectivität sind himmelweit verschiedene Dinge, ja man muß der letzteren in eben dem Maße sich zu entwinden wissen, als man der ersteren nahe kommen will. Das Verhalten unsrer Gefühlszustände zu irgend einem Schönen ist vielmehr Gegenstand der Psychologie als der Aesthetik. Sei die Wirkung der Musik so groß oder so klein als sie wolle – von <emph>ihr</emph> darf man nicht ausgehen, wenn man das Wesen dieser Kunst zu erforschen unternimmt. <emph>
                   <rs type="person" ref="#hsl_person_id_378" xml:id="d1e586a1048964">Hegel</rs>
                </emph> hat erschöpfend gezeigt, wie die Untersuchung der „Empfindungen,“ welche eine Kunst erweckt, ganz im Unbestimmten stehen bleibt und gerade vom eigentlichen, concreten Inhalt absieht. <cit>
@@ -579,163 +590,187 @@
             <p n="1.30" xml:id="d1e654a1048964">Die starken Gefühle selbst, welche Musik aus ihrem Schlummer wachsingt, und allʼ die süßen, wie schmerzlichen Stimmungen, in die sie uns Halbträumende einlullt, wir möchten sie nicht um Alles unterschätzen. Zu den schönsten, heilsamsten Mysterien gehört es ja, daß die Kunst solche Bewegungen ohne irdischen Anlaß, recht von <rs type="person" ref="#hsl_person_id_416">Gott</rs>es Gnaden hervorzurufen vermag. Nur gegen die unwissenschaftliche Verwerthung dieser Thatsachen für <emph>ästhetische Principien</emph> legen wir Verwahrung ein. Lust und Trauer können durch Musik in hohem Grade erweckt werden; das ist richtig. Nicht in noch höherem vielleicht durch den Gewinnst des großen Treffers oder die Todeskrankheit eines Freundes? So lange man Anstand nimmt, deshalb ein Lotterieloos den Symphonien, oder ein ärztliches Bülletin den Ouvertüren beizuzählen, so lange darf man auch factisch erzeugte Affecte nicht als eine ästhetische Specialität der Tonkunst oder eines bestimmten Tonstücks behandeln. Es wird einzig auf die <emph>specifische</emph> Art ankommen, wie solche Affecte <emph>durch Musik</emph> hervorgerufen werden. Wir werden im <ref type="chapter" target="#index.xml-body.1_div.5">IV.</ref> und <ref type="chapter" target="#index.xml-body.1_div.6">V.</ref> Kapitel den Ein<pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0015"
                    n="[10]"
                    break="no"/>wirkungen der Musik auf das Gefühl die aufmerksamste Betrachtung widmen, und die <emph>positiven</emph> Seiten dieses merkwürdigen Verhältnisses untersuchen. Hier, am Eingang unsrer Schrift, konnte die negative Seite, als Protest gegen ein unwissenschaftliches Princip, nicht zu scharf hervorgekehrt werden.</p>
-            <p n="1.31" xml:id="d1e675a1048964">
-               <emph>Anmerkung</emph>. Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten keineswegs die Blüthe eigenthümlicher Ueberzeugungen, sondern vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller hier Platz finden:
-            
-               <list type="unordered">
+            <p n="1.31" xml:id="d1e675a1048964"><emph>Anmerkung</emph>. Es dünkt uns für den
+               vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt,
+               die Namen ihrer Autoren beizusetzen, da diese Ansichten keineswegs die Blüthe
+               eigenthümlicher Ueberzeugungen, sondern vielmehr der Ausdruck einer allgemein
+               gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete
+               Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer
+               Musikschriftsteller hier Platz finden: <list type="unordered">
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_383"
-                         rendition="#bold"
-                         xml:id="d1e684a1048964">Mattheson</rs>: <cit>
-                        <quote>„Wir müssen bei jeder Melodie uns eine <emph>Gemüthsbewegung</emph> (wo nicht mehr als Eine) zum Hauptzweck setzen.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_321" xml:id="d1e694a1048964">Vollkomm. Capellmeister</rs> S. 143.)</item>
+                     <rs type="person" ref="#hsl_person_id_383" rendition="#bold"
+                        xml:id="d1e684a1048964">Mattheson</rs>: <cit>
+                        <quote>„Wir müssen bei jeder Melodie uns eine <emph>Gemüthsbewegung</emph>
+                           (wo nicht mehr als Eine) zum Hauptzweck setzen.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_321" xml:id="d1e694a1048964"
+                        >Vollkomm. Capellmeister</rs> S. 143.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_384"
-                         rendition="#bold"
-                         xml:id="d1e700a1048964">Neidhardt</rs>: <cit>
-                        <quote>„Der Musik Endzweck ist, <emph>alle Affecte</emph> durch die bloßen Töne und deren Rhytmum, trotz dem besten Redner, rege zu machen.“</quote>
-                     </cit> (Vorrede zur „<rs type="bibl" ref="#hsl_work_id_322" xml:id="d1e710a1048964">Temperatur</rs>.“)</item>
+                     <rs type="person" ref="#hsl_person_id_384" rendition="#bold"
+                        xml:id="d1e700a1048964">Neidhardt</rs>: <cit>
+                        <quote>„Der Musik Endzweck ist, <emph>alle Affecte</emph> durch die bloßen
+                           Töne und deren Rhytmum, trotz dem besten Redner, rege zu machen.“</quote>
+                     </cit> (Vorrede zur „<rs type="bibl" ref="#hsl_work_id_322"
+                        xml:id="d1e710a1048964">Temperatur</rs>.“)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_385"
-                         rendition="#bold"
-                         xml:id="d1e716a1048964">J. N. Forkel</rs> versteht unter den <cit>
-                        <quote>„Figuren in der Musik“ „dasselbe, was sie in der Dichtkunst und Redekunst sind, nämlich der Ausdruck der unterschiedenen Arten, nach welchen sich <emph>Empfindungen</emph> und <emph>Leidenschaften</emph> äußern.“</quote>
-                     </cit> („<rs type="bibl" ref="#hsl_work_id_323" xml:id="d1e734a1048964">Ueber die Theorie der Musik</rs>,“ <rs type="place" ref="#hsl_place_id_72">Göttingen</rs>
+                     <rs type="person" ref="#hsl_person_id_385" rendition="#bold"
+                        xml:id="d1e716a1048964">J. N. Forkel</rs> versteht unter den <cit>
+                        <quote>„Figuren in der Musik“ „dasselbe, was sie in der Dichtkunst und
+                           Redekunst sind, nämlich der Ausdruck der unterschiedenen Arten, nach
+                           welchen sich <emph>Empfindungen</emph> und <emph>Leidenschaften</emph>
+                           äußern.“</quote>
+                     </cit> („<rs type="bibl" ref="#hsl_work_id_323" xml:id="d1e734a1048964">Ueber
+                        die Theorie der Musik</rs>,“ <rs type="place" ref="#hsl_place_id_72"
+                        >Göttingen</rs>
                      <date>1777</date>. S. 26.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_386"
-                         rendition="#bold"
-                         xml:id="d1e740a1048964">I. Mosel</rs> definirt die Musik als <cit>
-                        <quote>„die Kunst, <emph>bestimmte Empfindungen</emph> durch geregelte Töne auszudrücken.“</quote>
+                     <rs type="person" ref="#hsl_person_id_386" rendition="#bold"
+                        xml:id="d1e740a1048964">I. Mosel</rs> definirt die Musik als <cit>
+                        <quote>„die Kunst, <emph>bestimmte Empfindungen</emph> durch geregelte Töne
+                           auszudrücken.“</quote>
                      </cit>
                   </item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_387"
-                         rendition="#bold"
-                         xml:id="d1e753a1048964">C. F. Michaelis</rs>: <cit>
-                        <quote>„Musik ist die Kunst des Ausdrucks von <emph>Empfindungen</emph> durch Modulation der Töne. Sie ist die Sprache der Affecte“</quote>
-                     </cit> etc. („<rs type="bibl" ref="#hsl_work_id_324" xml:id="d1e763a1048964">Ueber den Geist der Tonkunst</rs>,“ 2. Versuch. <date>1800</date>. S. 29.)</item>
+                     <rs type="person" ref="#hsl_person_id_387" rendition="#bold"
+                        xml:id="d1e753a1048964">C. F. Michaelis</rs>: <cit>
+                        <quote>„Musik ist die Kunst des Ausdrucks von <emph>Empfindungen</emph>
+                           durch Modulation der Töne. Sie ist die Sprache der Affecte“</quote>
+                     </cit> etc. („<rs type="bibl" ref="#hsl_work_id_324" xml:id="d1e763a1048964"
+                        >Ueber den Geist der Tonkunst</rs>,“ 2. Versuch. <date>1800</date>.
+                     S. 29.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_388"
-                         rendition="#bold"
-                         xml:id="d1e770a1048964">Marpurg</rs>: <cit>
-                        <quote>„Der Zweck, den der Componist sich in seiner Arbeit vorsetzen soll, ist die Natur nachzuahmen …. die Leidenschaften nach seinem Willen zu regen …. die Bewegungen der Seele, die Neigungen des Herzens nach dem Leben zu schildern.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_325" xml:id="d1e778a1048964">Krit. Musikus</rs>, 1. Band <date>1750</date>. 40. Stück.)</item>
+                     <rs type="person" ref="#hsl_person_id_388" rendition="#bold"
+                        xml:id="d1e770a1048964">Marpurg</rs>: <cit>
+                        <quote>„Der Zweck, den der Componist sich in seiner Arbeit vorsetzen soll,
+                           ist die Natur nachzuahmen …. die Leidenschaften nach seinem Willen zu
+                           regen …. die Bewegungen der Seele, die Neigungen des Herzens nach dem
+                           Leben zu schildern.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_325" xml:id="d1e778a1048964">Krit.
+                        Musikus</rs>, 1. Band <date>1750</date>. 40. Stück.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_389"
-                         rendition="#bold"
-                         xml:id="d1e784a1048964">W. Heinse</rs>: <cit>
-                        <quote>„Der Hauptendzweck der Musik ist die Nachahmung oder vielmehr Erregung der <emph>Leidenschaften</emph>.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_326" xml:id="d1e794a1048964">Musik. Dialoge</rs>. <date>1805</date>. S. 30.)</item>
+                     <rs type="person" ref="#hsl_person_id_389" rendition="#bold"
+                        xml:id="d1e784a1048964">W. Heinse</rs>: <cit>
+                        <quote>„Der Hauptendzweck der Musik ist die Nachahmung oder vielmehr
+                           Erregung der <emph>Leidenschaften</emph>.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_326" xml:id="d1e794a1048964">Musik.
+                        Dialoge</rs>. <date>1805</date>. S. 30.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_390"
-                         rendition="#bold"
-                         xml:id="d1e800a1048964">J. J. Engel</rs>: <cit>
-                        <quote>„Eine Sinfonie, eine Sonate u. s. w. muß die Ausführung einer Leidenschaft, die aber in mannigfaltige Empfindungen ausbeugt, enthalten.“</quote>
-                     </cit> („<rs type="bibl" ref="#hsl_work_id_327" xml:id="d1e808a1048964">Ueber mus. Malerei</rs>.“ <date>1780</date>. S. 29.)</item>
+                     <rs type="person" ref="#hsl_person_id_390" rendition="#bold"
+                        xml:id="d1e800a1048964">J. J. Engel</rs>: <cit>
+                        <quote>„Eine Sinfonie, eine Sonate u. s. w. muß die Ausführung einer
+                           Leidenschaft, die aber in mannigfaltige Empfindungen ausbeugt,
+                           enthalten.“</quote>
+                     </cit> („<rs type="bibl" ref="#hsl_work_id_327" xml:id="d1e808a1048964">Ueber
+                        mus. Malerei</rs>.“ <date>1780</date>. S. 29.)</item>
                </list>
-               <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0016"
-                   n="[11]"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0016" n="[11]"/>
                <list type="unordered">
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_391"
-                         rendition="#bold"
-                         xml:id="d1e819a1048964">J. Ph. Kirnberger</rs>: <cit>
-                        <quote>„Ein melodischer Satz (Thema) ist ein verständlicher Satz aus der Sprache der Empfindung, der einen empfindsamen Zuhörer die Gemüthslage, die ihn hervorgebracht hat, fühlen läßt.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_328" xml:id="d1e827a1048964">Kunst des reinen Satzes</rs>. II. Theil S. 152.)</item>
+                     <rs type="person" ref="#hsl_person_id_391" rendition="#bold"
+                        xml:id="d1e819a1048964">J. Ph. Kirnberger</rs>: <cit>
+                        <quote>„Ein melodischer Satz (Thema) ist ein verständlicher Satz aus der
+                           Sprache der Empfindung, der einen empfindsamen Zuhörer die Gemüthslage,
+                           die ihn hervorgebracht hat, fühlen läßt.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_328" xml:id="d1e827a1048964">Kunst
+                        des reinen Satzes</rs>. II. Theil S. 152.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_392"
-                         rendition="#bold"
-                         xml:id="d1e833a1048964">Pierer’s</rs>
-                     <rs type="bibl" ref="#hsl_work_id_329" xml:id="d1e839a1048964">Universallexikon</rs> (2. Auflage): <cit>
-                        <quote>„<emph>Musik</emph> ist die Kunst, durch schöne Töne Empfindungen und Seelenzustände auszudrücken. Sie steht höher als die <emph>Dichtkunst</emph>, welche nur (!) mit dem Verstande erkennbare Stimmungen darzustellen vermag, da die Musik ganz unerklärliche Empfindungen und Ahnungen ausdrückt.“</quote>
+                     <rs type="person" ref="#hsl_person_id_392" rendition="#bold"
+                        xml:id="d1e833a1048964">Pierer’s</rs>
+                     <rs type="bibl" ref="#hsl_work_id_329" xml:id="d1e839a1048964"
+                        >Universallexikon</rs> (2. Auflage): <cit>
+                        <quote>„<emph>Musik</emph> ist die Kunst, durch schöne Töne Empfindungen und
+                           Seelenzustände auszudrücken. Sie steht höher als die
+                              <emph>Dichtkunst</emph>, welche nur (!) mit dem Verstande erkennbare
+                           Stimmungen darzustellen vermag, da die Musik ganz unerklärliche
+                           Empfindungen und Ahnungen ausdrückt.“</quote>
                      </cit>
                   </item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_393"
-                         rendition="#bold"
-                         xml:id="d1e855a1048964">G. Schilling’s</rs>
-                     <rs type="bibl" ref="#hsl_work_id_330" xml:id="d1e861a1048964">Universallexikon der Tonkunst</rs> bringt unter dem Artikel „Musik“ die gleiche Erklärung.</item>
+                     <rs type="person" ref="#hsl_person_id_393" rendition="#bold"
+                        xml:id="d1e855a1048964">G. Schilling’s</rs>
+                     <rs type="bibl" ref="#hsl_work_id_330" xml:id="d1e861a1048964">Universallexikon
+                        der Tonkunst</rs> bringt unter dem Artikel „Musik“ die gleiche
+                     Erklärung.</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_394"
-                         rendition="#bold"
-                         xml:id="d1e870a1048964">Koch</rs> definiert die Musik als die <cit>
-                        <quote>„Kunst, ein angenehmes Spiel der Empfindungen durch Töne auszudrücken.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_331" xml:id="d1e878a1048964">Mus. Lexikon</rs>. „Musik.“)</item>
+                     <rs type="person" ref="#hsl_person_id_394" rendition="#bold"
+                        xml:id="d1e870a1048964">Koch</rs> definiert die Musik als die <cit>
+                        <quote>„Kunst, ein angenehmes Spiel der Empfindungen durch Töne
+                           auszudrücken.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_331" xml:id="d1e878a1048964">Mus.
+                        Lexikon</rs>. „Musik.“)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_395"
-                         rendition="#bold"
-                         xml:id="d1e884a1048964">A. André</rs>: <cit>
-                        <quote>„Musik ist die Kunst, Töne hervorzubringen, welche Empfindungen und Leidenschaften schildern, erregen und unterhalten.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_332" xml:id="d1e892a1048964">Lehrbuch der Tonkunst</rs> I.)</item>
+                     <rs type="person" ref="#hsl_person_id_395" rendition="#bold"
+                        xml:id="d1e884a1048964">A. André</rs>: <cit>
+                        <quote>„Musik ist die Kunst, Töne hervorzubringen, welche Empfindungen und
+                           Leidenschaften schildern, erregen und unterhalten.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_332" xml:id="d1e892a1048964">Lehrbuch
+                        der Tonkunst</rs> I.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_396"
-                         rendition="#bold"
-                         xml:id="d1e899a1048964">Sulzer</rs>: <cit>
-                        <quote>„Musik ist die Kunst, durch Töne unsre Leidenschaften auszudrücken, wie in der Sprache durch Worte.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_333" xml:id="d1e907a1048964">Theorie der schönen Künste</rs>.)</item>
+                     <rs type="person" ref="#hsl_person_id_396" rendition="#bold"
+                        xml:id="d1e899a1048964">Sulzer</rs>: <cit>
+                        <quote>„Musik ist die Kunst, durch Töne unsre Leidenschaften auszudrücken,
+                           wie in der Sprache durch Worte.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_333" xml:id="d1e907a1048964">Theorie
+                        der schönen Künste</rs>.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_397"
-                         rendition="#bold"
-                         xml:id="d1e913a1048964">J. W. Böhm</rs>: <cit>
-                        <quote>„Nicht den Verstand, nicht die Vernunft, sondern nur das <emph>Gefühlsvermögen</emph> beschäftigen der Saiten harmonische Töne.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_334" xml:id="d1e923a1048964">Analyse des Schönen der Musik</rs>. <rs type="place" ref="#hsl_place_id_55">Wien</rs>
+                     <rs type="person" ref="#hsl_person_id_397" rendition="#bold"
+                        xml:id="d1e913a1048964">J. W. Böhm</rs>: <cit>
+                        <quote>„Nicht den Verstand, nicht die Vernunft, sondern nur das
+                              <emph>Gefühlsvermögen</emph> beschäftigen der Saiten harmonische
+                           Töne.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_334" xml:id="d1e923a1048964">Analyse
+                        des Schönen der Musik</rs>. <rs type="place" ref="#hsl_place_id_55"
+                        >Wien</rs>
                      <date>1830</date>. S. 62.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_398"
-                         rendition="#bold"
-                         xml:id="d1e929a1048964">Gottfried Weber</rs>: <cit>
-                        <quote>„Die Tonkunst ist die Kunst, durch Töne <emph>Empfindungen</emph> auszudrücken.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_336" xml:id="d1e939a1048964">Theorie der Tonsetzkunst</rs>, 2. Aufl. 1. Bd. S. 15.)</item>
+                     <rs type="person" ref="#hsl_person_id_398" rendition="#bold"
+                        xml:id="d1e929a1048964">Gottfried Weber</rs>: <cit>
+                        <quote>„Die Tonkunst ist die Kunst, durch Töne <emph>Empfindungen</emph>
+                           auszudrücken.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_336" xml:id="d1e939a1048964">Theorie
+                        der Tonsetzkunst</rs>, 2. Aufl. 1. Bd. S. 15.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_399"
-                         rendition="#bold"
-                         xml:id="d1e945a1048964">F. Hand</rs>: <cit>
-                        <quote>„Die Musik stellt <emph>Gefühle</emph> dar. <emph>Jedes Gefühl und jeder Gemüthszustand</emph> hat an sich und so auch in der Musik seinen besondern Ton und Rhytmus.“ „Man kann der Musik eine weit größere Bestimmtheit (!) der Darstellung zuschreiben, als irgend eine Kunst besitzt; denn <emph>Gefühle</emph> vermag weder der malende Künstler so bestimmt zu zeichnen, …. noch glückt es dem mimischen Darsteller.“</quote>
-                     </cit> etc. (<rs type="bibl" ref="#hsl_work_id_337" xml:id="d1e965a1048964">Aesthetik der Tonkunst</rs>, I. Band §§. 24. 27.)</item>
+                     <rs type="person" ref="#hsl_person_id_399" rendition="#bold"
+                        xml:id="d1e945a1048964">F. Hand</rs>: <cit>
+                        <quote>„Die Musik stellt <emph>Gefühle</emph> dar. <emph>Jedes Gefühl und
+                              jeder Gemüthszustand</emph> hat an sich und so auch in der Musik
+                           seinen besondern Ton und Rhytmus.“ „Man kann der Musik eine weit größere
+                           Bestimmtheit (!) der Darstellung zuschreiben, als irgend eine Kunst
+                           besitzt; denn <emph>Gefühle</emph> vermag weder der malende Künstler so
+                           bestimmt zu zeichnen, …. noch glückt es dem mimischen
+                           Darsteller.“</quote>
+                     </cit> etc. (<rs type="bibl" ref="#hsl_work_id_337" xml:id="d1e965a1048964"
+                        >Aesthetik der Tonkunst</rs>, I. Band §§. 24. 27.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_400"
-                         rendition="#bold"
-                         xml:id="d1e971a1048964">Amadeus Autodidaktus</rs>: <cit>
-                        <quote>„Die Tonkunst entquillt und wurzelt nur in der Welt der geistigen <emph>Gefühle</emph> und <emph>Empfindungen</emph>. Musikalisch melodische Töne (!) erklingen nicht dem Verstande, welcher Empfindungen ja nur beschreibt und zergliedert, … sie sprechen zu dem <emph>Gemüth</emph>“</quote>
-                     </cit> etc. (<rs type="bibl" ref="#hsl_work_id_338" xml:id="d1e987a1048964">Aphorismen über Musik</rs>. <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>
+                     <rs type="person" ref="#hsl_person_id_400" rendition="#bold"
+                        xml:id="d1e971a1048964">Amadeus Autodidaktus</rs>: <cit>
+                        <quote>„Die Tonkunst entquillt und wurzelt nur in der Welt der geistigen
+                              <emph>Gefühle</emph> und <emph>Empfindungen</emph>. Musikalisch
+                           melodische Töne (!) erklingen nicht dem Verstande, welcher Empfindungen
+                           ja nur beschreibt und zergliedert, … sie sprechen zu dem
+                              <emph>Gemüth</emph>“</quote>
+                     </cit> etc. (<rs type="bibl" ref="#hsl_work_id_338" xml:id="d1e987a1048964"
+                        >Aphorismen über Musik</rs>. <rs type="place" ref="#hsl_place_id_32"
+                        >Leipzig</rs>
                      <date>1847</date>. S. 329.)</item>
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_401"
-                         rendition="#bold"
-                         xml:id="d1e993a1048964">Fermo Bellini</rs>: <cit>
-                        <quote>„Musica è l’arte, che esprime i sentimenti e le passione col mezzo di suoni.“</quote>
-                     </cit> (<rs type="bibl" ref="#hsl_work_id_339" xml:id="d1e999a1048964">Manuale alla Musica</rs>. <rs type="place" ref="#hsl_place_id_73">Milano</rs>, Riccardi <date>1853</date>.)</item>
+                     <rs type="person" ref="#hsl_person_id_401" rendition="#bold"
+                        xml:id="d1e993a1048964">Fermo Bellini</rs>: <cit>
+                        <quote>„Musica è l’arte, che esprime i sentimenti e le passione col mezzo di
+                           suoni.“</quote>
+                     </cit> (<rs type="bibl" ref="#hsl_work_id_339" xml:id="d1e999a1048964">Manuale
+                        alla Musica</rs>. <rs type="place" ref="#hsl_place_id_73">Milano</rs>,
+                     Riccardi <date>1853</date>.)</item>
                </list>
-               <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0017"
-                   n="[12]"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0017" n="[12]"/>
                <list type="unordered">
                   <item>
-                     <rs type="person"
-                         ref="#hsl_person_id_402"
-                         rendition="#bold"
-                         xml:id="d1e1014a1048964">Friedrich Thiersch</rs>, <rs type="bibl" ref="#hsl_work_id_340" xml:id="d1e1017a1048964">Allgemeine Aesthetik</rs> (<rs type="place" ref="#hsl_place_id_9">Berlin</rs>
+                     <rs type="person" ref="#hsl_person_id_402" rendition="#bold"
+                        xml:id="d1e1014a1048964">Friedrich Thiersch</rs>, <rs type="bibl"
+                        ref="#hsl_work_id_340" xml:id="d1e1017a1048964">Allgemeine Aesthetik</rs>
+                        (<rs type="place" ref="#hsl_place_id_9">Berlin</rs>
                      <date>1846</date>) §. 18 S. 101: <cit>
-                        <quote>„Die Musik ist die Kunst, durch Wahl und Verbindung der Töne Gefühle und Stimmungen des Gemüthes auszudrücken oder zu erregen.“</quote>
+                        <quote>„Die Musik ist die Kunst, durch Wahl und Verbindung der Töne Gefühle
+                           und Stimmungen des Gemüthes auszudrücken oder zu erregen.“</quote>
                      </cit>
                   </item>
                </list>
@@ -745,11 +780,13 @@
             <head>II. Die Gefühle sind nicht <emph>Inhalt</emph> der Musik</head>
             <p n="2.1" xml:id="d1e1033a1048964">Theils als Consequenz dieser Theorie, welche die Gefühle für das <emph>Endziel</emph> musikalischer Wirkung erklärt, theils als Correctiv derselben wird der Satz aufgestellt: die <emph>Gefühle</emph> seien der <emph>Inhalt</emph>, welchen die Tonkunst darzustellen habe.</p>
             <p n="2.2" xml:id="d1e1042a1048964">Die philosophische Untersuchung einer Kunst drängt zu der Frage nach dem <emph>Inhalt</emph> derselben. Jeder Kunst eignet ein Kreis von Ideen, welche sie mit ihren Ausdrucksmitteln, als Ton, Wort, Farbe, Stein darstellt. Das einzelne Kunstwerk verkörpert demnach eine bestimmte Idee als Schönes in sinnlicher Erscheinung. Diese bestimmte <emph>Idee</emph>, die sie verkörpernde <emph>Form</emph>, und die <emph>Einheit</emph> beider sind Bedingungen des Schönheitsbegriffs, von welchen keine wissenschaftliche Ergründung irgend einer Kunst sich mehr trennen kann.</p>
-            <p n="2.3" xml:id="d1e1053a1048964">
-               <emph>Was</emph> Inhalt eines Werks der dichtenden oder bildenden Kunst sei, läßt sich mit Worten ausdrücken und auf Begriffe zurückführen. Wir sagen: dies Bild stellt ein Blumenmädchen vor, diese Statue einen Gladiator, jenes Gedicht eine That <rs type="person"
-                   ref="#hsl_person_id_477"
-                   xml:id="d1e1057a1048964"
-                   subtype="fictional">Roland</rs>ʼs. Das mehr oder minder vollkommene Aufgehen des so bestimmten Inhalts in der künstlerischen Erscheinung begründet dann unser Urtheil über die Schönheit des Kunstwerks.</p>
+            <p n="2.3" xml:id="d1e1053a1048964"><emph>Was</emph> Inhalt eines Werks der dichtenden
+               oder bildenden Kunst sei, läßt sich mit Worten ausdrücken und auf Begriffe
+               zurückführen. Wir sagen: dies Bild stellt ein Blumenmädchen vor, diese Statue einen
+               Gladiator, jenes Gedicht eine That <rs type="person" ref="#hsl_person_id_477"
+                  xml:id="d1e1057a1048964" subtype="fictional">Roland</rs>ʼs. Das mehr oder minder
+               vollkommene Aufgehen des so bestimmten Inhalts in der künstlerischen Erscheinung
+               begründet dann unser Urtheil über die Schönheit des Kunstwerks.</p>
             <p n="2.4" xml:id="d1e1061a1048964">Als <emph>Inhalt der Musik</emph> hat man ziemlich einverständlich die ganze Stufenleiter menschlicher <emph>Gefühle</emph> genannt, weil man in diesen den Gegensatz zu begreiflicher Bestimmtheit und daher die richtige Unterscheidung von dem Ideal der bildenden und dichtenden Kunst gefunden glaubte. Demnach seien die Töne und ihr kunstreicher Zusammenhang blos Material, Ausdrucksmittel, wodurch der Componist die Liebe, den Muth, die Andacht, das Entzücken darstellt. Diese <emph>Gefühle</emph> in ihrer reichen Mannigfaltigkeit seien die Idee, welche den irdischen Leib des Klanges angethan, um als musikalisches <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0018"
                    n="[13]"/> Kunstwerk auf Erden zu wandeln. Was uns an einer reizenden Melodie, einer sinnigen Harmonie ergötzt und erhebt, sei nicht diese selbst, sondern was sie bedeutet: das Flüstern der Zärtlichkeit, das Stürmen der Kampflust.</p>
             <p n="2.5" xml:id="d1e1073a1048964">Um auf festen Boden zu gelangen, müssen wir vorerst solche altverbundene Metaphern schonungslos trennen: Das <emph>Flüstern</emph>? Ja; – aber keineswegs der „Sehnsucht;“ das <emph>Stürmen</emph>? Allerdings, doch nicht der „Kampflust“. In der That besitzt die Musik das Eine ohne das Andre; sie kann flüstern, stürmen, rauschen, – das Lieben und Zürnen aber trägt nur unser eigenes Herz in sie hinein.</p>
@@ -764,8 +801,8 @@
             <p n="2.10" xml:id="d1e1126a1048964">Die Ideen, welche der Componist darstellt, sind vor Allem und zuerst rein <emph>musikalische</emph>. Seiner Phantasie erscheint eine bestimmte schöne Melodie. Sie soll nichts Anderes sein, als sie selbst. Wie aber jede concrete Erscheinung auf ihren höheren Gattungsbegriff, auf die sie zunächst erfüllende Idee hinaufweist, und so fort immer höher und höher bis zur absoluten Idee, so geschieht es auch mit den musikalischen Ideen. So wird z. B. <emph>dieses</emph> sanfte, harmonisch ausklingende Adagio die Idee des Sanften, Harmonischen <emph>überhaupt</emph> zur schönen Erscheinung bringen. Die allgemeine Phantasie, welche gern die Ideen der Kunst in Bezug zum eigenen, menschlichen Seelenleben setzt, wird dies Ausklingen noch höher z. B. als den Ausdruck milder Resignation eines in sich versöhnten Gemüthes auffassen, und so fort bis zur Ahnung des Absoluten steigen.</p>
             <p n="2.11" xml:id="d1e1136a1048964">Auch die Poesie und bildende Kunst stellen vorerst ein Concretes dar. Erst mittelbar kann das Bild einer Blumenverkäuferin auf die allgemeinere Idee mädchenhafter Zufriedenheit und Anspruchslosigkeit, ein beschneiter Kirchhof auf die Idee der irdischen Vergänglichkeit hinaufweisen. Gerade so, nur mit ungleich unsicherer und willkürlicher Deutung kann der Hörer in diesem Musikstück die Idee jugendlichen Genügens, in jenem die Idee der Vergänglichkeit heraushören; allein ebensowenig als in den genannten Bildern sind diese abstracten <emph>Ideen</emph> der Inhalt des musikalischen Werkes; von einer Darstellung des „<emph>Gefühls</emph> der Vergänglichkeit,“ des „<emph>Gefühls</emph> der jugendlichen Genügsamkeit“ kann nun vollends keine Rede sein.</p>
             <p n="2.12" xml:id="d1e1145a1048964">Es giebt <emph>Ideen</emph>, welche durch die Tonkunst vollkommen repräsentirt werden und trotzdem nicht als <emph>Gefühl</emph> vorkommen, so wie umgekehrt <emph>Gefühle</emph> von solcher Mischung das Gemüth bewegen können, daß sie in keiner durch Musik darstellbaren <emph>Idee</emph> ihre adäquate Bezeichnung finden.</p>
-            <p n="2.13" xml:id="d1e1156a1048964">
-               <emph>Was</emph> kann also die Musik von den Gefühlen darstellen, wo nicht deren Inhalt?</p>
+            <p n="2.13" xml:id="d1e1156a1048964"><emph>Was</emph> kann also die Musik von den
+               Gefühlen darstellen, wo nicht deren Inhalt?</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0021"
                 n="[16]"/>
             <p n="2.14" xml:id="d1e1161a1048964">Nur das <emph>Dynamische</emph> derselben. Sie vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam, stark, schwach, steigernd, fallend nachzubilden. Bewegung ist aber nur <emph>eine</emph> Eigenschaft, <emph>ein</emph> Moment des Gefühls, nicht dieses <emph>selbst</emph>. Gemeiniglich glaubt man, das darstellende Vermögen der Musik genügend zu begrenzen, wenn man behauptet, sie könne keineswegs den <emph>Gegenstand</emph> eines Gefühles bezeichnen, wohl aber das Gefühl selbst, z. B. nicht das Object einer bestimmten Liebe, wohl aber „Liebe.“ Sie kann dies in Wahrheit ebensowenig. Nicht Liebe, sondern nur eine Bewegung kann sie schildern, welche bei der Liebe, oder auch bei einem andern Affect vorkommen kann, immer jedoch das Unwesentliche seines Charakters ist. „Liebe“ ist ein abstracter Begriff, so gut wie „Tugend“ und „Unsterblichkeit.“ Die Versicherung der Theoretiker, Musik habe keine abstracten Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß nur <emph>Ideen</emph>, d. i. lebendig gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst.
@@ -945,13 +982,18 @@
             <head>III. Das Musikalisch-Schöne</head>
             <p n="3.1" xml:id="d1e2063a1048964">Wir sind bisher negativ zu Werke gegangen und haben lediglich die irrige Voraussetzung abzuwehren gesucht, daß das Schöne der Musik in dem Darstellen von Gefühlen bestehen könne.</p>
             <p n="3.2" xml:id="d1e2066a1048964">Nun haben wir den positiven Gehalt zu jenem Umriß hinzuzubringen, indem wir die Frage beantworten, welcher Natur das Schöne einer Tondichtung sei?</p>
-            <p n="3.3" xml:id="d1e2069a1048964">
-               <emph>Es ist ein specifisch Musikalisches</emph>. Darunter verstehen <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0037"
-                   n="[32]"/> wir ein Schönes, das unabhängig und unbedürftig eines von Außen her kommenden Inhaltes, einzig in den Tönen und ihrer künstlerischen Verbindung liegt. Die sinnvollen Beziehungen in sich reizvoller Klänge, ihr Zusammenstimmen und Widerstreben, ihr Fliehen und sich Erreichen, ihr Aufschwingen und Ersterben, – dies ist, was in freien Formen vor unser geistiges Anschauen tritt und als schön gefällt.</p>
+            <p n="3.3" xml:id="d1e2069a1048964"><emph>Es ist ein specifisch Musikalisches</emph>.
+               Darunter verstehen <pb
+                  facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0037" n="[32]"/> wir
+               ein Schönes, das unabhängig und unbedürftig eines von Außen her kommenden Inhaltes,
+               einzig in den Tönen und ihrer künstlerischen Verbindung liegt. Die sinnvollen
+               Beziehungen in sich reizvoller Klänge, ihr Zusammenstimmen und Widerstreben, ihr
+               Fliehen und sich Erreichen, ihr Aufschwingen und Ersterben, – dies ist, was in freien
+               Formen vor unser geistiges Anschauen tritt und als schön gefällt.</p>
             <p n="3.4" xml:id="d1e2076a1048964">Das Urelement der Musik ist <emph>Wohllaut</emph>, ihr Wesen <emph>Rhythmus</emph>. Rhythmus im Großen, als die Uebereinstimmung eines symmetrischen Baues, und Rhythmus im Kleinen, als die wechselnd-gesetzmäßige Bewegung einzelner Glieder im Zeitmaß. Das <emph>Material</emph>, aus dem der Tondichter schafft, und dessen Reichthum nicht verschwenderisch genug gedacht werden kann, sind die gesammten <emph>Töne</emph>, mit der in ihnen ruhenden Möglichkeit zu verschiedener Melodie, Harmonie und Rhythmisirung. Unausgeschöpft und unerschöpflich waltet vor Allem die <emph>Melodie</emph>, als Grundgestalt musikalischer Schönheit; mit tausendfachem Verwandeln, Umkehren, Verstärken bietet ihr die <emph>Harmonie</emph> immer neue Grundlagen; beide vereint bewegt der <emph>Rhythmus</emph>, die Pulsader musikalischen Lebens, und färbt der Reiz mannigfaltiger <emph>Klangfarben</emph>.</p>
             <p n="3.5" xml:id="d1e2097a1048964">Frägt es sich nun, was mit diesem Tonmaterial ausgedrückt werden soll, so lautet die Antwort: <emph>Musikalische Ideen</emph>. Eine vollständig zur Erscheinung gebrachte musikalische Idee aber ist bereits selbstständiges Schöne, ist Selbstzweck und keineswegs erst wieder Mittel oder Material zur Darstellung von Gefühlen und Gedanken, wenn sie gleich in hohem Grad jene symbolische, die großen Weltgesetze wiederspiegelnde Bedeutsamkeit besitzen kann, welche wir in jedem Kunstschönen vorfinden.</p>
-            <p n="3.6" xml:id="d1e2102a1048964">
-               <emph>Tönend bewegte Formen</emph> sind einzig und allein Inhalt und Gegenstand der Musik.</p>
+            <p n="3.6" xml:id="d1e2102a1048964"><emph>Tönend bewegte Formen</emph> sind einzig und
+               allein Inhalt und Gegenstand der Musik.</p>
             <p n="3.7" xml:id="d1e2107a1048964">In welcher Weise uns die Musik <emph>schöne Formen</emph> ohne den Inhalt eines bestimmten Affectes bringen kann, zeigt uns recht treffend ein Zweig der Ornamentik in der bildenden Kunst: die <emph>Arabeske</emph>. Wir erblicken geschwungene Linien, hier sanft sich neigend, dort kühn emporstrebend, sich findend und loslassend, in kleinen und großen Bogen correspondirend, scheinbar incommensurabel, doch immer wohlgegliedert, überall ein Gegen- oder Seitenstück begrüßend, <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0038"
                    n="[33]"/> eine Sammlung kleiner Einzelnheiten, und doch ein Ganzes. Denken wir uns nun eine Arabeske nicht todt und ruhend, sondern in fortwährender Selbstbildung vor unsern Augen entstehend. Wie die starken und die feinen Linien einander verfolgen, aus kleiner Biegung zu prächtiger Höhe sich heben, dann wieder senken, sich erweitern, zusammenziehen und in sinnigem Wechsel von Ruhe und Anspannung das Auge stets neu überraschen! Da wird das Bild schon höher und würdiger. Denken wir uns vollends diese lebendige Arabeske als thätige Ausströmung eines künstlerischen Geistes, der die ganze Fülle seiner Phantasie unablässig in die Adern dieser Bewegung ergießt, wird dieser Eindruck dem <emph>musikalischen</emph> nicht sehr nahekommend sein?</p>
             <p n="3.8" xml:id="d1e2118a1048964">Jeder von uns hat als Kind sich wohl an dem wechselnden Farben- und Formenspiel eines <emph>Kaleidoscops</emph> ergötzt. Ein solches Kaleidoscop auf incommensurabel höherer Erscheinungsstufe ist Musik. Sie bringt in stets sich entwickelnder Abwechslung schöne Formen und Farben, sanft übergehend, scharf contrastirend, immer symmetrisch und in sich erfüllt. Der Hauptunterschied ist, daß solch unserm Ohr vorgeführtes <emph>Ton</emph>kaleidoscop sich als unmittelbare Emanation eines künstlerisch schaffenden Geistes giebt, jenes sichtbare aber als ein sinnreich-mechanisches Spielzeug. Will man nicht blos im Gedanken, sondern in Wirklichkeit die Erhebung der Farbe zur Musik vollziehen, und die Mittel der einen Kunst in die Wirkungen der andern einbetteln, so geräth man auf die abgeschmackte Spielerei des „Farbenclaviers,“ oder der „Augenorgel,“ deren Erfindung jedoch beweist, wie die formelle Seite beider Erscheinungen auf gleicher Basis ruhe.</p>
@@ -1116,13 +1158,24 @@
                    n="[53]"
                    break="no"/>dividualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerks annehmen, daß sie bald hoch, bald mäßiger fluthen wird, nie aber bis zum überwältigenden Affecte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speciell das Schaffen des <emph>Tonsetzers</emph> betrifft, so muß festgehalten werden, daß es ein stetes <emph>Bilden</emph> ist, ein <emph>Formen</emph> in Tonverhältnissen. Nirgend erscheint die Souverainetät des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Componisten während des Schaffens voraussetzt, und dieses als ein begeistertes Extemporiren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Takte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und complicirt, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht blos etwa fugirte oder contrapunktliche Sätze, in welchen wir abmessend Note gegen Note halten, das fließendste Rondo, die melodiöseste Arie erfordert, wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins Kleinste. Die Thätigkeit des Componisten ist eine in ihrer Art <emph>plastische</emph> und jener des bildenden Künstlers vergleichbar. Eben so wenig als dieser darf der Tondichter mit seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objectiv hinzustellen, zur reinen Form zu gestalten.</p>
             <p n="4.5" xml:id="d1e3014a1048964">Das dürfte von <emph>
-                  <rs type="person" ref="#hsl_person_id_404" xml:id="d1e3018a1048964">Rosenkranz</rs>
-               </emph> vielleicht übersehen worden sein, wenn er den Widerspruch bemerkt aber ungelöst läßt, warum die <emph>Frauen</emph>, welche doch von Natur vorzugsweise auf das Gefühl angewiesen sind, in der Composition nichts leisten?
-               <note place="foot" xml:id="d1e3024a1048964" n="9">
-                  <rs type="person" ref="#hsl_person_id_404">Rosenkranz</rs>
-                  <rs type="bibl" ref="#hsl_work_id_345" xml:id="d1e3026a1048964">Psychologie</rs>, 2. Aufl. S. 60.</note>
-               Der Grund liegt – außer den allgemeinen Bedingungen, welche Frauen von geistigen Hervorbringungen ferner halten – eben in dem plastischen Moment des Componirens, das eine <emph>Entäußerung</emph> der Subjectivität nicht minder, wenn gleich in verschiedener Richtung erheischt, <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0059"
-                   n="[54]"/> als die bildenden Künste. Wenn die Stärke und Lebendigkeit des Fühlens wirklich maßgebend für das Tondichten wäre, so würde der gänzliche Mangel von Componistinnen neben so zahlreichen Schriftstellerinnen und Malerinnen schwer zu erklären sein. Nicht das Gefühl componirt, sondern die speciell musikalische, künstlerisch geschulte Begabung. Ergötzlich klingt es daher, wenn F. L. <emph>
+                  <rs type="person" ref="#hsl_person_id_404" xml:id="d1e3018a1048964"
+                     >Rosenkranz</rs>
+               </emph> vielleicht übersehen worden sein, wenn er den Widerspruch bemerkt aber
+               ungelöst läßt, warum die <emph>Frauen</emph>, welche doch von Natur vorzugsweise auf
+               das Gefühl angewiesen sind, in der Composition nichts leisten? <note place="foot"
+                  xml:id="d1e3024a1048964" n="9"><rs type="person" ref="#hsl_person_id_404"
+                     >Rosenkranz</rs>
+                  <rs type="bibl" ref="#hsl_work_id_345" xml:id="d1e3026a1048964">Psychologie</rs>,
+                  2. Aufl. S. 60.</note> Der Grund liegt – außer den allgemeinen Bedingungen, welche
+               Frauen von geistigen Hervorbringungen ferner halten – eben in dem plastischen Moment
+               des Componirens, das eine <emph>Entäußerung</emph> der Subjectivität nicht minder,
+               wenn gleich in verschiedener Richtung erheischt, <pb
+                  facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0059" n="[54]"/> als
+               die bildenden Künste. Wenn die Stärke und Lebendigkeit des Fühlens wirklich maßgebend
+               für das Tondichten wäre, so würde der gänzliche Mangel von Componistinnen neben so
+               zahlreichen Schriftstellerinnen und Malerinnen schwer zu erklären sein. Nicht das
+               Gefühl componirt, sondern die speciell musikalische, künstlerisch geschulte Begabung.
+               Ergötzlich klingt es daher, wenn F. L. <emph>
                   <rs type="person" ref="#hsl_person_id_277" xml:id="d1e3040a1048964">Schubart</rs>
                </emph> die <cit>
                   <quote>„meisterhaften Andantes“</quote>
@@ -1130,15 +1183,18 @@
                   <rs type="person" ref="#hsl_person_id_491" xml:id="d1e3051a1048964">Stanitz</rs>
                </emph> ganz ernsthaft als eine natürliche <cit>
                   <quote>„Folge seines gefühlvollen Herzens“</quote>
-               </cit> darstellt
-               <note place="foot" xml:id="d1e3060a1048964" n="10">
-                  <rs type="person" ref="#hsl_person_id_277">Schubart</rs> „<rs type="bibl" ref="#hsl_work_id_378" xml:id="d1e3062a1048964">Ideen zu einer Aesthetik der Tonkunst</rs>“ <date>1806</date>.</note>
-               oder Christian <emph>
+               </cit> darstellt <note place="foot" xml:id="d1e3060a1048964" n="10"><rs type="person"
+                     ref="#hsl_person_id_277">Schubart</rs> „<rs type="bibl" ref="#hsl_work_id_378"
+                     xml:id="d1e3062a1048964">Ideen zu einer Aesthetik der Tonkunst</rs>“
+                     <date>1806</date>.</note> oder Christian <emph>
                   <rs type="person" ref="#hsl_person_id_492" xml:id="d1e3078a1048964">Rolle</rs>
                </emph> uns versichert, <cit>
-                  <quote>„ein leutseliger, zärtlicher Charakter mache uns geschickt, langsame Sätze zu Meisterstücken zu bilden.“</quote>
+                  <quote>„ein leutseliger, zärtlicher Charakter mache uns geschickt, langsame Sätze
+                     zu Meisterstücken zu bilden.“</quote>
                </cit>
-               <note place="foot" xml:id="d1e3087a1048964" n="11">„<rs type="bibl" ref="#hsl_work_id_379" xml:id="d1e3092a1048964">Neue Wahrnehmungen zur Aufnahme der Musik</rs>.“ <rs type="place" ref="#hsl_place_id_9">Berlin</rs>
+               <note place="foot" xml:id="d1e3087a1048964" n="11">„<rs type="bibl"
+                     ref="#hsl_work_id_379" xml:id="d1e3092a1048964">Neue Wahrnehmungen zur Aufnahme
+                     der Musik</rs>.“ <rs type="place" ref="#hsl_place_id_9">Berlin</rs>
                   <date>1784</date>. S. 102.</note>
             </p>
             <p n="4.6" xml:id="d1e3098a1048964">Ohne innere Wärme ist nichts Großes, noch Schönes im Leben vollbracht worden. Das Gefühl wird beim Tondichter, wie bei jedem Poeten, sich reich entwickelt vorfinden, nur ist es nicht der schaffende Factor in ihm. Gesetzt selbst, ein starkes, bestimmtes Pathos erfüllte ihn gänzlich, so wird dasselbe Anlaß und Weihe manches Kunstwerks werden, allein – wie wir aus der Natur der Tonkunst wissen, welche einen bestimmten Affect darzustellen weder die Fähigkeit noch den Beruf hat – niemals dessen Gegenstand.</p>
@@ -1177,17 +1233,33 @@
             <p n="4.20" xml:id="d1e3299a1048964">In Gemüthszuständen, wo weder Gemälde, noch Gedichte, weder Statuen noch Bauten mehr im Stande sind, uns zu theilnehmender Aufmerksamkeit zu reizen, wird <emph>Musik</emph> noch Macht über uns haben, ja gerade heftiger als sonst. Wer in schmerzhaft aufgeregter Stimmung Musik hören oder machen muß, dem schwingt sie wie Essig in der Wunde. Keine Kunst kann da so tief und scharf in unsere Seele schneiden. Form und Charakter des Gehörten verlieren ganz ihre Bedeutung, sei es nächtigtrübes Adagio oder ein hellfunkelnder Walzer, wir können uns nicht loswinden von seinen Klängen, – nicht mehr das Tonstück fühlen wir, sondern die Töne selbst, die Musik als gestaltlos dämonische Gewalt, wie sie mit Zauberaugen glühend an die Nerven unseres ganzen Leibes rückt.</p>
             <p n="4.21" xml:id="d1e3304a1048964">Als <emph>
                   <rs type="person" ref="#hsl_person_id_100" xml:id="d1e3308a1048964">Goethe</rs>
-               </emph> in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren <rs type="place" ref="#hsl_place_id_79" xml:id="d1e3312a1048964">Marienbad</rs>er Tage (<date>1823</date>) an <emph>
+               </emph> in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm
+               zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene
+               wunderbaren <rs type="place" ref="#hsl_place_id_79" xml:id="d1e3312a1048964"
+                  >Marienbad</rs>er Tage (<date>1823</date>) an <emph>
                   <rs type="person" ref="#hsl_person_id_556" xml:id="d1e3319a1048964">Zelter</rs>
                </emph>: <cit>
-                  <quote>„Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der <rs type="person" ref="#hsl_person_id_185" xml:id="d1e3326a1048964">Milder</rs>, das Klangreiche der <rs type="person" ref="#hsl_person_id_557" xml:id="d1e3329a1048964">Szymanowska</rs>, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Takte Deiner Singakademie den Saal verlassen müßte.“</quote>
-               </cit> Zu einsichtsvoll, um nicht den großen Antheil <emph>nervöser</emph> Aufregung in dieser Erscheinung zu erkennen, schließt <rs type="person" ref="#hsl_person_id_100" xml:id="d1e3338a1048964">Goethe</rs> mit den Worten: <cit>
-                  <quote>„Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“</quote>
+                  <quote>„Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der
+                        <rs type="person" ref="#hsl_person_id_185" xml:id="d1e3326a1048964"
+                        >Milder</rs>, das Klangreiche der <rs type="person" ref="#hsl_person_id_557"
+                        xml:id="d1e3329a1048964">Szymanowska</rs>, ja sogar die öffentlichen
+                     Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine
+                     geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im
+                     ersten Takte Deiner Singakademie den Saal verlassen müßte.“</quote>
+               </cit> Zu einsichtsvoll, um nicht den großen Antheil <emph>nervöser</emph> Aufregung
+               in dieser Erscheinung zu erkennen, schließt <rs type="person"
+                  ref="#hsl_person_id_100" xml:id="d1e3338a1048964">Goethe</rs> mit den Worten: <cit>
+                  <quote>„Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch
+                     eigentlich als die Ursache jenes Phänomens anzusehen ist.“</quote>
                </cit>
-               <note place="foot" xml:id="d1e3346a1048964" n="13">
-                  <rs type="bibl" ref="#hsl_work_id_387" xml:id="d1e3348a1048964">Briefwechsel zwischen Goethe und Zelter</rs>, 3. Band S. 332.</note>
-                Diese Beobachtungen <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0065"
-                   n="[60]"/> müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</p>
+               <note place="foot" xml:id="d1e3346a1048964" n="13"><rs type="bibl"
+                     ref="#hsl_work_id_387" xml:id="d1e3348a1048964">Briefwechsel zwischen Goethe
+                     und Zelter</rs>, 3. Band S. 332.</note> Diese Beobachtungen <pb
+                  facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0065" n="[60]"/> müssen
+               uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl ein
+               fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische
+               Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein
+               krankhaftes Mehr oder Weniger desselben.</p>
             <p n="4.22" xml:id="d1e3355a1048964">Die intensivere Einwirkung der Musik auf gesunde und ihre alleinige Einwirkung auf krankhafte Nervensysteme vindicirt ihr in der That einen Machtüberschuß vor den anderen Künsten. Wenn wir aber die Natur dieses Machtüberschusses untersuchen, so erkennen wir, daß er ein <emph>qualitativer</emph> sei und daß die eigenthümliche Qualität auf <emph>physiologischen</emph> Bedingungen ruhe. Der sinnliche Factor, der bei jedem Schönheitsgenuß den geistigen trägt, ist bei der Tonkunst größer, als in den andern Künsten. Die Musik, durch ihr körperloses Material die geistigste, von Seite ihres gegenstandlosen Formenspiels die sinnlichste Kunst, zeigt in dieser geheimnißvollen Vereinigung zweier Gegensätze ein lebhaftes Assimilationsbestreben mit den <emph>Nerven</emph>, diesen nicht minder räthselhaften Organen des unsichtbaren Telegraphendienstes zwischen Leib und Seele.</p>
             <p n="4.23" xml:id="d1e3364a1048964">Die intensive Wirkung der Musik auf das Nervenleben ist als Thatsache von der Psychologie wie von der Physiologie vollständig anerkannt. Leider fehlt noch eine ausreichende Erklärung derselben. Es vermag die <emph>Psychologie</emph> nimmermehr das Magnetisch-Zwingende des Eindrucks zu ergründen, den gewisse Accorde, Klangfarben und Melodien auf den ganzen Organismus des Menschen üben, weil es dabei zuvörderst auf eine specifische Reizung der Nerven ankommt. Ebensowenig hat die im Triumph fortschreitende Wissenschaft der <emph>Physiologie</emph> etwas Entscheidendes über unser Problem gebracht und pflegt bei der Untersuchung des Hörens vielmehr den Schall und Klang überhaupt, als insbesondere den <emph>musikalisch</emph> verwendeten, im Auge zu haben.</p>
             <p n="4.24" xml:id="d1e3374a1048964">Was die musikalischen Monographen dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Nothwendiges zurückzuführen. Dies allein aber thut uns <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0066"
@@ -1377,19 +1449,48 @@
             <p n="5.21" xml:id="d1e4211a1048964">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die <emph>geistige Befriedigung</emph>, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voran zu eilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzvoll vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein <emph>Nachdenken der Phantasie</emph> genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit gibt es überhaupt keinen ästhetischen Genuß. Der <emph>Musik</emph> aber ist <emph>diese</emph> Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes <emph>Betrachten</emph>, sondern ein in schärfster Wachsamkeit unermüdliches <emph>Begleiten</emph> fordern. Diese Begleitung kann bei verwickelten Composi<pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0084"
                    n="[79]"
                    break="no"/>tionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne <emph>Individuen</emph>, so können auch manche <emph>Nationen</emph> sich ihr nur sehr schwer unterziehen. Die siegende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volks, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß <emph>leichter</emph>, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</p>
-            <p n="5.22" xml:id="d1e4235a1048964">Das bei jedem Kunstgenuß nothwendige <emph>geistige</emph> Moment wird sich bei mehreren Zuhörern desselben Tonwerks in sehr verschiedener Abstufung thätig erweisen; es kann in sinnlichen und gefühlvollen Naturen auf ein Minimum sinken, in vorherrschend geistigen Persönlichkeiten das geradezu Entscheidende werden. Die wahre „<emph>rechte</emph> Mitte“ muß sich, nach unserm Gefühl, hier etwas nach rechts neigen. Zum Berauschtwerden brauchts nur der Schwäche, aber es gibt eine <emph>Kunst des Hörens</emph>.
-               <note place="foot" xml:id="d1e4243a1048964" n="25">
-                  <emph>W. <rs type="person" ref="#hsl_person_id_389" xml:id="d1e4245a1048964">Heinse</rs>ʼs</emph> schwärmerisch-dissolutem Temperament mußte es vollkommen entsprechen, von der bestimmten musikalischen Schönheit zu Gunsten des vagen Gefühlseindruckes abzusehen. Er geht (in der „<rs type="bibl" ref="#hsl_work_id_400">Hildegard von Hohenthal</rs>“) so weit, zu sagen: <cit>
-                     <quote>„Die wahre Musik ... geht überall auf den Zweck los, den Sinn der Worte und der Empfindung in die Zuhörer zu übertragen, so leicht und angenehm, daß man sie (die Musik) nicht merkt. Solche Musik dauert ewig, sie ist gerade so natürlich, daß man <emph>sie nicht merkt</emph>, sondern nur der Sinn der Worte übergeht.“</quote>
-                  </cit> Ein ästhetisches Aufnehmen der Musik findet aber gerade im Gegentheil da statt, wo man sie vollkommen „<emph>merkt</emph>,“ ihr <emph>aufmerkt</emph> und jeder ihrer Schönheiten sich unmittelbar bewußt wird. <emph>
+            <p n="5.22" xml:id="d1e4235a1048964">Das bei jedem Kunstgenuß nothwendige
+                  <emph>geistige</emph> Moment wird sich bei mehreren Zuhörern desselben Tonwerks in
+               sehr verschiedener Abstufung thätig erweisen; es kann in sinnlichen und gefühlvollen
+               Naturen auf ein Minimum sinken, in vorherrschend geistigen Persönlichkeiten das
+               geradezu Entscheidende werden. Die wahre „<emph>rechte</emph> Mitte“ muß sich, nach
+               unserm Gefühl, hier etwas nach rechts neigen. Zum Berauschtwerden brauchts nur der
+               Schwäche, aber es gibt eine <emph>Kunst des Hörens</emph>. <note place="foot"
+                  xml:id="d1e4243a1048964" n="25"><emph>W. <rs type="person"
+                        ref="#hsl_person_id_389" xml:id="d1e4245a1048964">Heinse</rs>ʼs</emph>
+                  schwärmerisch-dissolutem Temperament mußte es vollkommen entsprechen, von der
+                  bestimmten musikalischen Schönheit zu Gunsten des vagen Gefühlseindruckes
+                  abzusehen. Er geht (in der „<rs type="bibl" ref="#hsl_work_id_400">Hildegard von
+                     Hohenthal</rs>“) so weit, zu sagen: <cit>
+                     <quote>„Die wahre Musik ... geht überall auf den Zweck los, den Sinn der Worte
+                        und der Empfindung in die Zuhörer zu übertragen, so leicht und angenehm, daß
+                        man sie (die Musik) nicht merkt. Solche Musik dauert ewig, sie ist gerade so
+                        natürlich, daß man <emph>sie nicht merkt</emph>, sondern nur der Sinn der
+                        Worte übergeht.“</quote>
+                  </cit> Ein ästhetisches Aufnehmen der Musik findet aber gerade im Gegentheil da
+                  statt, wo man sie vollkommen „<emph>merkt</emph>,“ ihr <emph>aufmerkt</emph> und
+                  jeder ihrer Schönheiten sich unmittelbar bewußt wird. <emph>
                      <rs type="person" ref="#hsl_person_id_389" xml:id="d1e4265a1048964">Heinse</rs>
-                  </emph>, dessen genialem Naturalismus wir den Zoll einer angemessenen Bewunderung nicht versagen, ist in poetischer, noch mehr in musikalischer Hinsicht sehr überschätzt worden. Bei der Armuth an geistreichen Schriften über Musik hat man sich gewöhnt, <rs type="person" ref="#hsl_person_id_389" xml:id="d1e4268a1048964">Heinse</rs> als einen vorzüglichen musikalischen Aesthetiker zu behandeln und zu citiren. Konnte man dabei wirklich übersehen, wie nach einigen treffenden Apperçüʼs meist eine Fluth von Plattheiten und offenbaren Irrthümern hereinstürzt, daß man über solche Unbildung geradezu erschrickt. Ueberdies geht Hand in Hand mit technischer Unkenntniß <rs type="person" ref="#hsl_person_id_389" xml:id="d1e4271a1048964">Heinse</rs>ʼs schiefes ästhetisches Urtheil, wie seine Analysen der Opern von <emph>
+                  </emph>, dessen genialem Naturalismus wir den Zoll einer angemessenen Bewunderung
+                  nicht versagen, ist in poetischer, noch mehr in musikalischer Hinsicht sehr
+                  überschätzt worden. Bei der Armuth an geistreichen Schriften über Musik hat man
+                  sich gewöhnt, <rs type="person" ref="#hsl_person_id_389" xml:id="d1e4268a1048964"
+                     >Heinse</rs> als einen vorzüglichen musikalischen Aesthetiker zu behandeln und
+                  zu citiren. Konnte man dabei wirklich übersehen, wie nach einigen treffenden
+                  Apperçüʼs meist eine Fluth von Plattheiten und offenbaren Irrthümern hereinstürzt,
+                  daß man über solche Unbildung geradezu erschrickt. Ueberdies geht Hand in Hand mit
+                  technischer Unkenntniß <rs type="person" ref="#hsl_person_id_389"
+                     xml:id="d1e4271a1048964">Heinse</rs>ʼs schiefes ästhetisches Urtheil, wie seine
+                  Analysen der Opern von <emph>
                      <rs type="person" ref="#hsl_person_id_99" xml:id="d1e4274a1048964">Gluck</rs>
                   </emph>, <emph>
-                     <rs type="person" ref="#hsl_person_id_141" xml:id="d1e4277a1048964">Jomelli</rs>
+                     <rs type="person" ref="#hsl_person_id_141" xml:id="d1e4277a1048964"
+                        >Jomelli</rs>
                   </emph>, <emph>
-                     <rs type="person" ref="#hsl_person_id_678" xml:id="d1e4285a1048964">Traëtta</rs>
-                  </emph> u. A. darthun, in welchen man anstatt künstlerischer Belehrung fast nur enthusiastische Ausrufungen erhält. –</note>
+                     <rs type="person" ref="#hsl_person_id_678" xml:id="d1e4285a1048964"
+                        >Traëtta</rs>
+                  </emph> u. A. darthun, in welchen man anstatt künstlerischer Belehrung fast nur
+                  enthusiastische Ausrufungen erhält. –</note>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0085"
                 n="[80]"/>
@@ -1465,14 +1566,43 @@
                </cit> (<rs type="person" ref="#hsl_person_id_555" xml:id="d1e4535a1048964">Nägeli</rs>.)</p>
             <p n="6.8" xml:id="d1e4539a1048964">Harmonie und Melodie fehlen also in der Natur. Nur ein drittes Element in der Musik, dasjenige, von dem die beiden ersten getragen werden, existirt schon vor und außer dem Menschen: der <emph>Rhythmus</emph>. Im Galopp des Pferdes, dem Klappern der Mühle, dem Gesang der Amsel und Wachtel äußert sich eine Einheit, zu welcher aufeinanderfolgende Zeittheilchen sich zusammenfassen und ein anschauliches Ganze bilden. Nicht alle, aber viele Lautäußerungen der Natur sind rhythmisch. Und zwar herrscht in ihr das Gesetz des <emph>zweitheiligen</emph> Rhythmus, als Hebung und Senkung, Anlauf und Auslauf. Was diesen Naturrhythmus von der menschlichen Musik trennt, muß alsbald auffallen. In der <emph>Musik</emph> gibt es nämlich keinen isolirten Rhythmus als solchen, sondern nur Melodie oder Harmonie, welche rhythmisch sich äußert. In der Natur dagegen trägt der Rhythmus weder Melodie noch Harmonie, sondern nur unmeßbare Luftschwingungen. Der Rhythmus, das einzige musikalische Urelement in der Natur, ist auch das erste, so im Menschen erwacht, im Kinde, im Wilden am frühsten sich entwickelt. Wenn die Südsee-Insulaner mit Metallstücken und Holzstäben rhythmisch klappern und <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0091"
                    n="[86]"/> dazu ein unfaßliches Geheul ausstoßen, so ist das <emph>natürliche</emph> Musik, denn es ist eben <emph>keine Musik</emph>. Was wir aber einen <rs type="place" ref="#hsl_place_id_81">Tirol</rs>er Bauer singen hören, zu welchem anscheinend keine Spur von Kunst gedrungen, ist durchaus <emph>künstliche</emph> Musik. Der Mann meint freilich, er singe wie ihm der Schnabel gewachsen ist: aber damit dies möglich wurde, mußte die Saat von Jahrhunderten wachsen.</p>
-            <p n="6.9" xml:id="d1e4557a1048964">Wir hätten somit die nothwendigen Elementarbestandtheile unserer Musik betrachtet und gefunden, daß der Mensch von der ihn umgebenden Natur nicht musiciren lernte. In welcher Art und Folge sich unser heutiges Tonsystem ausgebildet hat, lehrt die Geschichte der Tonkunst. Wir haben diese Nachweisung vorauszusetzen und nur ihr Ergebniß festzuhalten, daß Melodie und Harmonie, daß unsere Intervallenverhältnisse und Tonleiter, die Theilung von Dur und Moll nach der verschiedenen Stellung des Halbtons, endlich die schwebende Temperatur, ohne welche unsere (<rs type="place" ref="#hsl_place_id_19">europäisch</rs>-abendländische) Musik unmöglich wäre, langsam und allmälig entstandene Schöpfungen des menschlichen Geistes sind. Die Natur hat dem Menschen nur die Organe und die Lust zum Singen mitgegeben, dazu die Fähigkeit, sich auf Grundlage der einfachsten Verhältnisse nach und nach ein Tonsystem zu bilden. Nur diese einfachsten Verhältnisse (Dreiklang, harmonische Progression) werden unwandelbare Grundpfeiler, jedem künftigen Weiterbau bleiben. – Man hüte sich vor der Verwechselung, als ob <emph>dieses</emph> (gegenwärtige) <emph>Tonsystem selbst</emph> nothwendig in der Natur läge. Die Erfahrung, daß selbst Naturalisten heutzutage mit den musikalischen Verhältnissen unbewußt und leicht handthieren wie mit angeborenen Kräften, die sich von selbst verstehen, stempelt die herrschenden Tongesetze keineswegs zu Naturgesetzen; es ist dies bereits Folge der unendlich verbreiteten musikalischen Cultur. <emph>
+            <p n="6.9" xml:id="d1e4557a1048964">Wir hätten somit die nothwendigen
+               Elementarbestandtheile unserer Musik betrachtet und gefunden, daß der Mensch von der
+               ihn umgebenden Natur nicht musiciren lernte. In welcher Art und Folge sich unser
+               heutiges Tonsystem ausgebildet hat, lehrt die Geschichte der Tonkunst. Wir haben
+               diese Nachweisung vorauszusetzen und nur ihr Ergebniß festzuhalten, daß Melodie und
+               Harmonie, daß unsere Intervallenverhältnisse und Tonleiter, die Theilung von Dur und
+               Moll nach der verschiedenen Stellung des Halbtons, endlich die schwebende Temperatur,
+               ohne welche unsere (<rs type="place" ref="#hsl_place_id_19"
+               >europäisch</rs>-abendländische) Musik unmöglich wäre, langsam und allmälig
+               entstandene Schöpfungen des menschlichen Geistes sind. Die Natur hat dem Menschen nur
+               die Organe und die Lust zum Singen mitgegeben, dazu die Fähigkeit, sich auf Grundlage
+               der einfachsten Verhältnisse nach und nach ein Tonsystem zu bilden. Nur diese
+               einfachsten Verhältnisse (Dreiklang, harmonische Progression) werden unwandelbare
+               Grundpfeiler, jedem künftigen Weiterbau bleiben. – Man hüte sich vor der
+               Verwechselung, als ob <emph>dieses</emph> (gegenwärtige) <emph>Tonsystem
+                  selbst</emph> nothwendig in der Natur läge. Die Erfahrung, daß selbst Naturalisten
+               heutzutage mit den musikalischen Verhältnissen unbewußt und leicht handthieren wie
+               mit angeborenen Kräften, die sich von selbst verstehen, stempelt die herrschenden
+               Tongesetze keineswegs zu Naturgesetzen; es ist dies bereits Folge der unendlich
+               verbreiteten musikalischen Cultur. <emph>
                   <rs type="person" ref="#hsl_person_id_399" xml:id="d1e4565a1048964">Hand</rs>
-               </emph> bemerkt ganz richtig, daß darum auch unsere Kinder in der Wiege schon besser singen, als erwachsene Wilde. <cit>
-                  <quote>„Läge die Tonfolge der Musik in der Natur fertig vor, so sänge auch jeder Mensch und immer rein.“</quote>
+               </emph> bemerkt ganz richtig, daß darum auch unsere Kinder in der Wiege schon besser
+               singen, als erwachsene Wilde. <cit>
+                  <quote>„Läge die Tonfolge der Musik in der Natur fertig vor, so sänge auch jeder
+                     Mensch und immer rein.“</quote>
                </cit>
-               <note place="foot" xml:id="d1e4574a1048964" n="27">
-                  <rs type="person" ref="#hsl_person_id_399">Hand</rs>, <rs type="bibl" ref="#hsl_work_id_337" xml:id="d1e4576a1048964">Aesth. d. T.</rs> I. 50. Ebendaselbst wird passend angeführt, daß die <emph>Galen</emph> in Schottland mit den <rs type="place" ref="#hsl_place_id_83">indisch</rs>en und <rs type="place" ref="#hsl_place_id_82">chinesisch</rs>en Völkerstämmen den Mangel der Quart und Septime theilen, die Folge ihrer Töne also c d e g a c <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0092"
-                      n="[87]"/> lautet. Bei den körperlich sehr ausgebildeten <emph>Patagoniern</emph> im <rs type="place" ref="#hsl_place_id_84">südlichen Amerika</rs> findet sich keine Spur von Musik oder Gesang.</note>
+               <note place="foot" xml:id="d1e4574a1048964" n="27"><rs type="person"
+                     ref="#hsl_person_id_399">Hand</rs>, <rs type="bibl" ref="#hsl_work_id_337"
+                     xml:id="d1e4576a1048964">Aesth. d. T.</rs> I. 50. Ebendaselbst wird passend
+                  angeführt, daß die <emph>Galen</emph> in Schottland mit den <rs type="place"
+                     ref="#hsl_place_id_83">indisch</rs>en und <rs type="place"
+                     ref="#hsl_place_id_82">chinesisch</rs>en Völkerstämmen den Mangel der Quart und
+                  Septime theilen, die Folge ihrer Töne also c d e g a c <pb
+                     facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0092" n="[87]"/>
+                  lautet. Bei den körperlich sehr ausgebildeten <emph>Patagoniern</emph> im <rs
+                     type="place" ref="#hsl_place_id_84">südlichen Amerika</rs> findet sich keine
+                  Spur von Musik oder Gesang.</note>
             </p>
             <p n="6.10" xml:id="d1e4615a1048964">Wenn man unser Tonsystem ein „künstliches“ nennt, so gebraucht man dies Wort nicht in dem raffinirten Sinn einer willkürlichen conventionellen Erfindung. Es bezeichnet blos ein <emph>Gewordenes</emph> im Gegensatz zum <emph>Erschaffenen</emph>.</p>
             <p n="6.11" xml:id="d1e4625a1048964">Dies übersieht <emph>
@@ -1493,19 +1623,50 @@
                <note place="foot" xml:id="d1e4695a1048964" n="30">Johanna <rs type="person" ref="#hsl_person_id_689">Kinkel</rs>, <rs type="bibl" ref="#hsl_work_id_405" xml:id="d1e4697a1048964">Acht Briefe über Clavierunterricht</rs>. <date>1852</date>, Cotta.</note>
                so würde Theorie, Compositionslehre und Aesthetik der Musik eine total andere. Der musikalische Theoretiker kann daher gegenwärtig den Ausblick auf <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0093"
                    n="[88]"/> diese Zukunft noch kaum anders frei lassen, als durch die einfache Anerkennung ihrer Möglichkeit.</p>
-            <p n="6.12" xml:id="d1e4704a1048964">Unserem Ausspruch, es gebe keine Musik in der Natur, wird man den Reichthum mannigfaltiger Stimmen einwenden, welche die Natur so wunderbar beleben. Sollte das Rieseln des Baches, das Klatschen der Meereswellen, der Donner der Lawinen, das Stürmen der Windsbraut nicht Anlaß und Vorbild der menschlichen Musik gewesen sein? Hatten allʼ die lispelnden, pfeifenden, schmetternden Laute mit unserem Musikwesen nichts zu schaffen? Wir müssen in der That mit Nein antworten. Alle diese Aeußerungen der Natur sind lediglich <emph>Schall</emph> und <emph>Klang</emph>, d. h. in ungleichen Zeittheilen aufeinander folgende Luftschwingungen. Höchst selten und dann nur isolirt bringt die Natur einen <emph>Ton</emph> hervor, d. i. einen Klang von bestimmter, meßbarer Höhe und Tiefe. <emph>Töne</emph> sind aber die Grundbedingung aller Musik. Mögen diese Klangäußerungen der Natur noch so mächtig oder reizend das Gemüth anregen, sie sind keine <emph>Stufe</emph> zur menschlichen Musik, sondern lediglich elementarische <emph>Andeutungen</emph> einer solchen. Selbst die reinste Erscheinung des natürlichen Tonlebens, der <emph>Vogelgesang</emph>, steht zur menschlichen Musik in keinem Bezug, da er unserer Scala nicht angepaßt werden kann. Auch das Phänomen der <emph>Naturharmonie</emph>, jedenfalls die einzige und unumstößliche Naturgrundlage, auf welcher die Hauptverhältnisse unserer Musik beruhen, – ist auf seine richtige Bedeutung zurückzuführen. Die harmonische Progression erzeugt sich auf der gleichbesaiteten Aeolsharfe von selbst, gründet also auf einem Naturgesetz, allein das Phänomen selbst hört man nirgend von der Natur unmittelbar erzeugt. Sobald nicht auf einem musikalischen Instrument ein bestimmter, meßbarer Grundton angeschlagen wird, erscheinen auch keine sympathischen Nebentöne, keine harmonische Progression. Der Mensch muß also <emph>fragen</emph>, damit die Natur Antwort gebe. Die Erscheinung des <emph>Echo</emph> erklärt sich noch einfacher. Es ist merkwürdig, wie selbst tüchtige Schriftsteller sich von dem Gedanken einer eigentlichen (nur unvollkommenen) „Musik“ in der Natur nicht losmachen können. Selbst <emph>
+            <p n="6.12" xml:id="d1e4704a1048964">Unserem Ausspruch, es gebe keine Musik in der
+               Natur, wird man den Reichthum mannigfaltiger Stimmen einwenden, welche die Natur so
+               wunderbar beleben. Sollte das Rieseln des Baches, das Klatschen der Meereswellen, der
+               Donner der Lawinen, das Stürmen der Windsbraut nicht Anlaß und Vorbild der
+               menschlichen Musik gewesen sein? Hatten allʼ die lispelnden, pfeifenden,
+               schmetternden Laute mit unserem Musikwesen nichts zu schaffen? Wir müssen in der That
+               mit Nein antworten. Alle diese Aeußerungen der Natur sind lediglich
+                  <emph>Schall</emph> und <emph>Klang</emph>, d. h. in ungleichen Zeittheilen
+               aufeinander folgende Luftschwingungen. Höchst selten und dann nur isolirt bringt die
+               Natur einen <emph>Ton</emph> hervor, d. i. einen Klang von bestimmter, meßbarer Höhe
+               und Tiefe. <emph>Töne</emph> sind aber die Grundbedingung aller Musik. Mögen diese
+               Klangäußerungen der Natur noch so mächtig oder reizend das Gemüth anregen, sie sind
+               keine <emph>Stufe</emph> zur menschlichen Musik, sondern lediglich elementarische
+                  <emph>Andeutungen</emph> einer solchen. Selbst die reinste Erscheinung des
+               natürlichen Tonlebens, der <emph>Vogelgesang</emph>, steht zur menschlichen Musik in
+               keinem Bezug, da er unserer Scala nicht angepaßt werden kann. Auch das Phänomen der
+                  <emph>Naturharmonie</emph>, jedenfalls die einzige und unumstößliche
+               Naturgrundlage, auf welcher die Hauptverhältnisse unserer Musik beruhen, – ist auf
+               seine richtige Bedeutung zurückzuführen. Die harmonische Progression erzeugt sich auf
+               der gleichbesaiteten Aeolsharfe von selbst, gründet also auf einem Naturgesetz,
+               allein das Phänomen selbst hört man nirgend von der Natur unmittelbar erzeugt. Sobald
+               nicht auf einem musikalischen Instrument ein bestimmter, meßbarer Grundton
+               angeschlagen wird, erscheinen auch keine sympathischen Nebentöne, keine harmonische
+               Progression. Der Mensch muß also <emph>fragen</emph>, damit die Natur Antwort gebe.
+               Die Erscheinung des <emph>Echo</emph> erklärt sich noch einfacher. Es ist merkwürdig,
+               wie selbst tüchtige Schriftsteller sich von dem Gedanken einer eigentlichen (nur
+               unvollkommenen) „Musik“ in der Natur nicht losmachen können. Selbst <emph>
                   <rs type="person" ref="#hsl_person_id_399" xml:id="d1e4729a1048964">Hand</rs>
-               </emph>, von dem wir absichtlich früher Beispiele citirten, welche seine richtige Einsicht in das incommensurable, kunstunfähige Wesen der natürlichen Schallerscheinungen darthun, bringt <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0094"
-                   n="[89]"/> ein eigenes Kapitel <cit>
+               </emph>, von dem wir absichtlich früher Beispiele citirten, welche seine richtige
+               Einsicht in das incommensurable, kunstunfähige Wesen der natürlichen
+               Schallerscheinungen darthun, bringt <pb
+                  facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0094" n="[89]"/> ein
+               eigenes Kapitel <cit>
                   <quote>„von der Musik der Natur,“</quote>
                </cit> deren Schallerscheinungen <cit>
                   <quote>„gewissermaßen“</quote>
                </cit> auch Musik genannt werden müssen. Eben so <emph>
                   <rs type="person" ref="#hsl_person_id_686" xml:id="d1e4748a1048964">Krüger</rs>
-               </emph>.
-               <note place="foot" xml:id="d1e4752a1048964" n="31">
-                  <rs type="bibl" ref="#hsl_work_id_406" xml:id="d1e4754a1048964">Beiträge für Leben und Wissenschaft der Tonkunst</rs>, S. 149 ff.</note>
-               Wo es sich aber um Principienfragen handelt, da gibt es kein „gewissermaßen;“ was wir in der Natur vernehmen, <emph>ist</emph> entweder Musik, oder es ist <emph>keine</emph> Musik. Das entscheidende Moment kann nur in die Meßbarkeit des Tons gelegt werden. <emph>
+               </emph>. <note place="foot" xml:id="d1e4752a1048964" n="31"><rs type="bibl"
+                     ref="#hsl_work_id_406" xml:id="d1e4754a1048964">Beiträge für Leben und
+                     Wissenschaft der Tonkunst</rs>, S. 149 ff.</note> Wo es sich aber um
+               Principienfragen handelt, da gibt es kein „gewissermaßen;“ was wir in der Natur
+               vernehmen, <emph>ist</emph> entweder Musik, oder es ist <emph>keine</emph> Musik. Das
+               entscheidende Moment kann nur in die Meßbarkeit des Tons gelegt werden. <emph>
                   <rs type="person" ref="#hsl_person_id_399" xml:id="d1e4765a1048964">Hand</rs>
                </emph> legt den Nachdruck überall auf die <cit>
                   <quote>„geistige Beseelung,“</quote>
@@ -1514,8 +1675,10 @@
                   <quote>„den Ausdruck inneren Lebens, innerer Empfindung,“</quote>
                </cit>
                <cit>
-                  <quote>„die Kraft der Selbstthätigkeit, wodurch unmittelbar ein Inneres zur Aussprache gelangt.“</quote>
-               </cit> Nach diesem Princip müßte der Vogelsang Musik genannt werden, die mechanische Spieluhr hingegen nicht; während gerade das Entgegengesetzte wahr ist.</p>
+                  <quote>„die Kraft der Selbstthätigkeit, wodurch unmittelbar ein Inneres zur
+                     Aussprache gelangt.“</quote>
+               </cit> Nach diesem Princip müßte der Vogelsang Musik genannt werden, die mechanische
+               Spieluhr hingegen nicht; während gerade das Entgegengesetzte wahr ist.</p>
             <p n="6.13" xml:id="d1e4785a1048964">Die „Musik“ der Natur und die Tonkunst des Menschen sind zwei verschiedene Gebiete. Der Uebergang von der ersten zur zweiten geht durch die <emph>Mathematik</emph>. Ein wichtiger, folgenreicher Satz. Freilich darf man ihn nicht so denken, als hätte der Mensch seine Töne durch absichtlich angestellte Berechnungen geordnet; es geschah dies vielmehr durch unbewußte Anwendung ursprünglicher Größen- und Verhältnißvorstellungen, durch ein verborgenes Messen und Zählen, dessen Gesetzmäßigkeit erst später die Wissenschaft constatirte.</p>
             <p n="6.14" xml:id="d1e4790a1048964">Dadurch, daß in der Musik Alles commensurabel sein muß, in den Naturlauten aber nichts commensurabel ist, stehen diese beiden Schallreiche unvermittelt neben einander. Die Natur gibt uns nicht das künstlerische Material eines fertigen, vorgebildeten Tonsystems, sondern nur den rohen Stoff der Körper, die wir der Musik dienstbar machen. Nicht die Stimmen der Thiere, sondern ihre Gedärme sind uns wichtig, und das Thier, dem die Musik am meisten verdankt, ist nicht die Nachtigall, sondern das Schaf.</p>
             <p n="6.15" xml:id="d1e4793a1048964">Nach dieser Untersuchung, welche für das Verhältniß des Musikalisch-<emph>Schönen</emph> nur ein Unterbau, aber ein nothwendiger war, heben wir uns eine Stufe höher, auf eigentlich <emph>ästhetisches</emph> Gebiet.</p>
@@ -1530,8 +1693,8 @@
                      <rs type="person" ref="#hsl_person_id_379" xml:id="d1e4863a1048964">Vischer</rs>ʼs</emph> vortrefflichen Kapiteln über das Naturschöne im zweiten Band seiner <rs type="bibl" ref="#hsl_work_id_319" xml:id="d1e4866a1048964">Aesthetik</rs>. Bis zur <emph>Musik</emph> ist dieses Werk bisher noch nicht vorgeschritten.</note>
             </p>
             <p n="6.20" xml:id="d1e4874a1048964">Stellen wir nun diesen Künsten die <emph>Musik</emph> entgegen, so erkennen wir, daß sie ein Vorbild, einen Stoff für ihre Werke nirgend vorfindet.</p>
-            <p n="6.21" xml:id="d1e4879a1048964">
-               <emph>Es gibt kein Naturschönes für die Musik</emph>.</p>
+            <p n="6.21" xml:id="d1e4879a1048964"><emph>Es gibt kein Naturschönes für die
+                  Musik</emph>.</p>
             <p n="6.22" xml:id="d1e4884a1048964">Dieser Unterschied zwischen der Musik und den übrigen Künsten (nur die <emph>Baukunst</emph> findet gleichfalls kein Vorbild in der Natur) ist tiefgehend und folgenschwer.</p>
             <p n="6.23" xml:id="d1e4890a1048964">Das Schaffen des Malers, des Dichters ist ein stetes (inneres oder wirkliches) Nachzeichnen, Nachformen, – etwas <emph>nachzumusiciren</emph> gibt es in der Natur nicht. Die Natur kennt keine Sonate, keine Ouvertüre, kein Rondo. Wohl aber Landschaften, Genrebilder, Idyllen, Trauerspiele. Der aristotelische Satz von der Naturnachahmung in der Kunst, welcher noch bei den Philosophen des vorigen Jahrhunderts gang und gäbe war, ist längst berichtigt und bedarf, bis zum Ueberdruß abgedroschen, hier keiner weiteren Erörterung. Nicht sklavisch nachbilden soll die Kunst die Natur, sie hat sie <emph>umzubilden</emph>. Der Ausdruck zeigt schon, daß vor der Kunst etwas da sein mußte, <emph>was</emph> umgebildet wird. Dies ist eben das von der Natur dargebotene Vorbild, das Naturschöne. Der Maler findet sich von einer reizenden Landschaft, einer Gruppe, einem Gedicht, der Dichter von einer historischen Begebenheit, einem Erlebniß, zur künstlerischen Darstellung des Vorgefundenen veranlaßt. Bei welcher Naturbetrachtung könnte aber der <emph>Tonsetzer</emph> jemals ausrufen: das ist ein prächtiges Vorbild für eine Ouvertüre, eine Symphonie! Der Componist kann gar nichts <emph>umbilden</emph>, er muß Alles <emph>neu erschaffen</emph>. Was der Maler, der Dichter in Betrachtung des Naturschönen findet, das muß der Componist durch Concentration seines Inneren <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0097"
                    n="[92]"/> herausarbeiten. Er muß der guten Stunde warten, wo es in ihm anfängt zu singen und zu klingen: da wird er sich versenken und aus sich heraus etwas schaffen, was in der Natur nicht seines Gleichen hat, und daher auch, ungleich den andern Künsten, geradezu nicht von dieser Welt ist.</p>
@@ -1565,8 +1728,7 @@
          </div>
          <div>
             <head>VII. Die Begriffe „<emph>Inhalt</emph>“ und „<emph>Form</emph>“ in der Musik</head>
-            <p n="7.1" xml:id="d1e5102a1048964">
-               <emph>Hat die Musik einen Inhalt</emph>?</p>
+            <p n="7.1" xml:id="d1e5102a1048964"><emph>Hat die Musik einen Inhalt</emph>?</p>
             <p n="7.2" xml:id="d1e5107a1048964">So lautet, seit man gewohnt ist, über unsere Kunst nachzudenken, ihre hitzigste Streitfrage. Sie wurde für und wider entschieden. Gewichtige Stimmen behaupten die Inhaltlosigkeit der Musik, sie gehören beinahe durchaus den <emph>Philosophen</emph>: <emph>
                   <rs type="person" ref="#hsl_person_id_415" xml:id="d1e5113a1048964">Rousseau</rs>
                </emph>, <emph>
@@ -1589,34 +1751,54 @@
                   <quote>„Abhülfe für den fehlenden Kunstgenuß“</quote>
                </cit> bieten kann. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen <emph>Gegenstand</emph>) hätte. Denn ein „unbestimmter Inhalt,“ den sich „Jedermann als etwas Anderes denken kann,“ der sich „nur fühlen,“ „nicht in Worten wiedergeben läßt,“ ist eben kein Inhalt in der genannten Bedeutung.</p>
             <p n="7.5" xml:id="d1e5197a1048964">Die Musik besteht aus Tonreihen, Tonformen, diese haben keinen andern Inhalt als sich selbst. Wir erinnern abermals an die Baukunst und den Tanz, die uns gleichfalls schöne Verhältnisse ohne bestimmten Inhalt entgegenbringen. Mag nun die Wirkung eines Tonstücks Jeder nach seiner Individualität anschlagen und benennen, der <emph>Inhalt</emph> desselben ist keiner, als eben die gehörten Tonformen, denn die Musik spricht nicht blos <emph>durch</emph> Töne, sie spricht auch <emph>nur</emph> Töne.</p>
-            <p n="7.6" xml:id="d1e5206a1048964">
-               <emph>
+            <p n="7.6" xml:id="d1e5206a1048964"><emph>
                   <rs type="person" ref="#hsl_person_id_686" xml:id="d1e5210a1048964">Krüger</rs>
-               </emph>, der geist- und kenntnißreichste Verfechter des musikalischen „Inhalts“ gegen <rs type="person" ref="#hsl_person_id_378" xml:id="d1e5214a1048964">Hegel</rs> und <rs type="person" ref="#hsl_person_id_694" xml:id="d1e5217a1048964">Kahlert</rs>, behauptet, die Musik gebe blos eine andere <emph>Seite</emph> desselben Inhalts, welcher den übrigen Künsten, z. B. der Malerei zusteht. <cit>
+               </emph>, der geist- und kenntnißreichste Verfechter des musikalischen „Inhalts“ gegen
+                  <rs type="person" ref="#hsl_person_id_378" xml:id="d1e5214a1048964">Hegel</rs> und
+                  <rs type="person" ref="#hsl_person_id_694" xml:id="d1e5217a1048964">Kahlert</rs>,
+               behauptet, die Musik gebe blos eine andere <emph>Seite</emph> desselben Inhalts,
+               welcher den übrigen Künsten, z. B. der Malerei zusteht. <cit>
                   <quote>„Jede plastische Gestalt,“</quote>
                </cit> sagt <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0102"
-                   n="[97]"/> er (<rs type="bibl" ref="#hsl_work_id_406" xml:id="d1e5230a1048964">Beiträge</rs>, 131), <cit>
-                  <quote>„ist eine ruhende: sie giebt nicht die Handlung, sondern die gewesene Handlung oder das Seiende. Also nicht: <rs type="person"
-                         ref="#hsl_person_id_695"
-                         xml:id="d1e5236a1048964"
-                         subtype="fictional">Apollo</rs> überwindet, sagt das Gemälde aus, sondern es zeigt den Ueberwinder, den zornigen Kämpfer“</quote>
+                  n="[97]"/> er (<rs type="bibl" ref="#hsl_work_id_406" xml:id="d1e5230a1048964"
+                  >Beiträge</rs>, 131), <cit>
+                  <quote>„ist eine ruhende: sie giebt nicht die Handlung, sondern die gewesene
+                     Handlung oder das Seiende. Also nicht: <rs type="person"
+                        ref="#hsl_person_id_695" xml:id="d1e5236a1048964" subtype="fictional"
+                        >Apollo</rs> überwindet, sagt das Gemälde aus, sondern es zeigt den
+                     Ueberwinder, den zornigen Kämpfer“</quote>
                </cit> etc. Hingegen <cit>
-                  <quote>„die Musik giebt zu jenen stillstehenden plastischen Substantiven das Verbum, die Thätigkeit, das innere Wogen hinzu, und wenn wir dort als den wahren ruhenden Inhalt erkannt haben: Zürnend, Liebend, so erkennen wir hier nicht minder den wahren bewegten Inhalt: Zürnt, Liebt, Rauscht, Wogt, Stürmt.“</quote>
-               </cit> Letzteres ist nur zur Hälfte richtig: „rauschen, wogen und stürmen“ kann die Musik, aber „zürnen“ und „lieben“ kann sie nicht. Das sind schon hineingefühlte Leidenschaften. Wir müssen hier auf unser <ref type="chapter" target="#index.xml-body.1_div.3">zweites Kapitel</ref> zurückweisen, das in seiner negativen Tendenz die Frage vom Inhalt der Musik eben so wesentlich unterstützt, als es das <ref type="chapter" target="#index.xml-body.1_div.4">dritte Kapitel</ref> mit seinen positiven Bestimmungen über das rein formale Wesen der musikalischen Schönheit thut. <emph>
+                  <quote>„die Musik giebt zu jenen stillstehenden plastischen Substantiven das
+                     Verbum, die Thätigkeit, das innere Wogen hinzu, und wenn wir dort als den
+                     wahren ruhenden Inhalt erkannt haben: Zürnend, Liebend, so erkennen wir hier
+                     nicht minder den wahren bewegten Inhalt: Zürnt, Liebt, Rauscht, Wogt,
+                     Stürmt.“</quote>
+               </cit> Letzteres ist nur zur Hälfte richtig: „rauschen, wogen und stürmen“ kann die
+               Musik, aber „zürnen“ und „lieben“ kann sie nicht. Das sind schon hineingefühlte
+               Leidenschaften. Wir müssen hier auf unser <ref type="chapter"
+                  target="#index.xml-body.1_div.3">zweites Kapitel</ref> zurückweisen, das in seiner
+               negativen Tendenz die Frage vom Inhalt der Musik eben so wesentlich unterstützt, als
+               es das <ref type="chapter" target="#index.xml-body.1_div.4">dritte Kapitel</ref> mit
+               seinen positiven Bestimmungen über das rein formale Wesen der musikalischen Schönheit
+               thut. <emph>
                   <rs type="person" ref="#hsl_person_id_686" xml:id="d1e5254a1048964">Krüger</rs>
-               </emph> fährt fort der Bestimmtheit des <emph>gemalten</emph> Inhalts die des <emph>musicirten</emph> an die Seite zu stellen. Er sagt: <cit>
-                  <quote>„Der <emph>Bildner</emph> stellt <rs type="person"
-                         ref="#hsl_person_id_696"
-                         xml:id="d1e5267a1048964"
-                         subtype="fictional">Orest</rs> von Furien verfolgt dar: es erscheint auf der Außenfläche seines Leibes, in Auge, Mund, Stirn und Haltung der Ausdruck des Flüchtigen, Düstern, Verzweifelten, neben ihm die Gestalten des Fluchs, die ihn beherrschen, in gebietender, furchtbarer Hoheit, ebenfalls äußerlich in verharrenden Umrissen, Gesichtszügen, Stellungen. Der <emph>Tondichter</emph> stellt <rs type="person"
-                         ref="#hsl_person_id_696"
-                         xml:id="d1e5272a1048964"
-                         subtype="fictional">Orest</rs> den Verfolgten nicht im beruhenden Umriß hin, sondern nach der Seite, die dem Bildner fehlt: er singt das Grausen und Beben seiner Seele, die fliehend kämpfende Regung“</quote>
+               </emph> fährt fort der Bestimmtheit des <emph>gemalten</emph> Inhalts die des
+                  <emph>musicirten</emph> an die Seite zu stellen. Er sagt: <cit>
+                  <quote>„Der <emph>Bildner</emph> stellt <rs type="person" ref="#hsl_person_id_696"
+                        xml:id="d1e5267a1048964" subtype="fictional">Orest</rs> von Furien verfolgt
+                     dar: es erscheint auf der Außenfläche seines Leibes, in Auge, Mund, Stirn und
+                     Haltung der Ausdruck des Flüchtigen, Düstern, Verzweifelten, neben ihm die
+                     Gestalten des Fluchs, die ihn beherrschen, in gebietender, furchtbarer Hoheit,
+                     ebenfalls äußerlich in verharrenden Umrissen, Gesichtszügen, Stellungen. Der
+                        <emph>Tondichter</emph> stellt <rs type="person" ref="#hsl_person_id_696"
+                        xml:id="d1e5272a1048964" subtype="fictional">Orest</rs> den Verfolgten nicht
+                     im beruhenden Umriß hin, sondern nach der Seite, die dem Bildner fehlt: er
+                     singt das Grausen und Beben seiner Seele, die fliehend kämpfende
+                     Regung“</quote>
                </cit> u. s. f. Dies ist, unserer Meinung, ganz falsch. Der Tonkünstler kann den <emph>
-                  <rs type="person"
-                      ref="#hsl_person_id_696"
-                      xml:id="d1e5278a1048964"
-                      subtype="fictional">Orest</rs>es</emph> weder so noch so, er kann ihn <emph>gar nicht</emph> darstellen.</p>
+                  <rs type="person" ref="#hsl_person_id_696" xml:id="d1e5278a1048964"
+                     subtype="fictional">Orest</rs>es</emph> weder so noch so, er kann ihn <emph>gar
+                  nicht</emph> darstellen.</p>
             <p n="7.7" xml:id="d1e5285a1048964">Man wende nicht ein, daß ja auch die bildenden Künste uns die bestimmte, historische Person nicht zu geben vermögen, und wir die gemalte Gestalt nicht als <emph>dieses</emph> Individuum erkennen würden, brächten wir nicht die Kenntniß des Historisch-Thatsächlichen hinzu. Freilich ist es nicht <emph>
                   <rs type="person"
                       ref="#hsl_person_id_696"
@@ -1643,19 +1825,21 @@
                    ref="#hsl_person_id_696"
                    xml:id="d1e5334a1048964"
                    subtype="fictional">Orest</rs> zu schaffen hat: Gesang.</p>
-            <p n="7.9" xml:id="d1e5338a1048964">
-               <emph>
+            <p n="7.9" xml:id="d1e5338a1048964"><emph>
                   <rs type="person" ref="#hsl_person_id_697" xml:id="d1e5342a1048964">Lessing</rs>
-               </emph> hat mit wunderbarer Klarheit auseinandergesetzt, was der Dichter und was der bildende Künstler aus der Geschichte des <rs type="person"
-                   ref="#hsl_person_id_698"
-                   xml:id="d1e5346a1048964"
-                   subtype="fictional">Laokoon</rs> zu machen vermag. Der Dichter, durch das Mittel der Sprache, giebt den historischen, individuell bestimmten <rs type="person"
-                   ref="#hsl_person_id_698"
-                   xml:id="d1e5349a1048964"
-                   subtype="fictional">Laokoon</rs>, der Maler und Bildhauer hingegen einen Greis mit zwei Knaben (von <emph>diesem</emph> bestimmten Alter, Aussehen, Costüm u. s. f.) von den furchtbaren Schlangen umwunden, in Mienen, Stellung und Geberden die Qual des nahenden Todes ausdrückend. Vom <emph>Musiker</emph> sagt <rs type="person" ref="#hsl_person_id_697" xml:id="d1e5357a1048964">Lessing</rs> nichts. Ganz begreiflich, denn Nichts ist es eben, was er aus dem <rs type="person"
-                   ref="#hsl_person_id_698"
-                   xml:id="d1e5360a1048964"
-                   subtype="fictional">Laokoon</rs> machen kann.</p>
+               </emph> hat mit wunderbarer Klarheit auseinandergesetzt, was der Dichter und was der
+               bildende Künstler aus der Geschichte des <rs type="person" ref="#hsl_person_id_698"
+                  xml:id="d1e5346a1048964" subtype="fictional">Laokoon</rs> zu machen vermag. Der
+               Dichter, durch das Mittel der Sprache, giebt den historischen, individuell bestimmten
+                  <rs type="person" ref="#hsl_person_id_698" xml:id="d1e5349a1048964"
+                  subtype="fictional">Laokoon</rs>, der Maler und Bildhauer hingegen einen Greis mit
+               zwei Knaben (von <emph>diesem</emph> bestimmten Alter, Aussehen, Costüm u. s. f.) von
+               den furchtbaren Schlangen umwunden, in Mienen, Stellung und Geberden die Qual des
+               nahenden Todes ausdrückend. Vom <emph>Musiker</emph> sagt <rs type="person"
+                  ref="#hsl_person_id_697" xml:id="d1e5357a1048964">Lessing</rs> nichts. Ganz
+               begreiflich, denn Nichts ist es eben, was er aus dem <rs type="person"
+                  ref="#hsl_person_id_698" xml:id="d1e5360a1048964" subtype="fictional">Laokoon</rs>
+               machen kann.</p>
             <p n="7.10" xml:id="d1e5364a1048964">Wir haben bereits angedeutet, wie eng die Frage nach dem <emph>Inhalt</emph> der Tonkunst mit deren Stellung zum <emph>Naturschönen</emph> zusam<pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0104"
                    n="[99]"
                    break="no"/>menhängt. Der Musiker findet nicht das Vorbild für seine Kunst, welches den andern Künsten die Bestimmtheit und Erkennbarkeit ihres Inhalts gewährleistet. Eine Kunst, der das vorbildende Naturschöne abgeht, wird im eigentlichen Sinne körperlos sein. Das Urbild ihrer Erscheinungsform begegnet uns nirgend, fehlt daher in dem Kreis unserer gesammelten Begriffe. Es wiederholt keinen bereits bekannten, benannten Gegenstand, darum hat es für unser in bestimmte Begriffe gefaßtes Denken keinen nennbaren Inhalt.</p>
@@ -1679,8 +1863,12 @@
             <p n="7.15" xml:id="d1e5460a1048964">Bei ganzen Compositionen, namentlich größerer Ausdehnung, pflegt man freilich von deren Form und Inhalt zu sprechen. Dann gebraucht man aber diese Begriffe nicht in ihrem ursprünglich logischen Sinne, sondern schon einer specifisch <emph>musikalischen</emph> Bedeutung. Die „Form“ einer Symphonie, Ouvertüre, Sonate nennt man die Architektonik der verbundenen Einzelheiten und Gruppen, aus welchen das Tonstück besteht, näher also: die Symmetrie dieser Theile in ihrer Reihenfolge, Contrastirung, Wiederkehr und Durchführung. Als den <emph>Inhalt</emph> begreift man aber dann die zu solcher <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0106"
                    n="[101]"/> Architektonik verarbeiteten Themen. Hier ist also von einem Inhalt als „Gegenstand“ keine Rede mehr, sondern lediglich von einem musikalischen. Bei ganzen Tonstücken wird daher „Inhalt“ und „Form“ in einer künstlerisch angewandten, nicht in der rein logischen Bedeutung gebraucht, wollen wir <emph>diese</emph> an den Begriff der Musik legen, so müssen wir nicht an einem ganzen, daher zusammengesetzten Kunstwerk operiren, sondern an dessen letztem, ästhetisch nicht weiter theilbarem Kerne. Dies ist das <emph>Thema</emph>, oder die Themen. Bei diesen läßt sich in gar keinem Sinne Form und Inhalt trennen. Will man Jemand den „Inhalt“ eines Motivs namhaft machen, so muß man ihm das <emph>Motiv selbst vorspielen</emph>. So kann also der Inhalt eines Tonwerks niemals gegenständlich, sondern nur musikalisch aufgefaßt werden, nämlich als das in jedem Musikstück concret Erklingende. Nachdem die Composition formellen Schönheitsgesetzen folgt, so improvisirt sich ihr Verlauf nicht in willkürlich planlosem Schweifen, sondern entwickelt sich in organisch übersichtlicher Allmäligkeit wie reiche Blüthen aus Einer Knospe.</p>
             <p n="7.16" xml:id="d1e5476a1048964">Dies ist das <emph>Hauptthema</emph>, – der wahre Stoff und Inhalt des ganzen Tongebildes. Alles darin ist Folge und Wirkung des Themaʼs, durch es bedingt und gestaltet, von ihm beherrscht und erfüllt. Es ist das selbstständige Axiom, das zwar augenblicklich befriedigt, aber von unserm Geist bestritten und entwickelt gesehen werden will, was denn in der musikalischen Durchführung, analog einer logischen Entwickelung stattfindet. Wie die Hauptfigur eines Romans bringt der Componist das Thema in die verschiedensten Lagen und Umgebungen, in die wechselndsten Erfolge und Stimmungen, – alles Andere, wenn noch so contrastirend, ist in Bezug darauf gedacht und gestaltet.</p>
-            <p n="7.17" xml:id="d1e5482a1048964">
-               <emph>Inhaltlos</emph> werden wir demnach etwa jenes freieste Präludiren nennen, bei welchem der Spieler, mehr ausruhend als schaffend, sich blos in Accorden, Arpeggioʼs, Rosalien ergeht, ohne eine selbstständige Tongestalt bestimmt hervortreten zu lassen. Solchʼ freie Präludien werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen dürfen, sie haben (im weiteren Sinne) keinen Inhalt, weil kein Thema.</p>
+            <p n="7.17" xml:id="d1e5482a1048964"><emph>Inhaltlos</emph> werden wir demnach etwa
+               jenes freieste Präludiren nennen, bei welchem der Spieler, mehr ausruhend als
+               schaffend, sich blos in Accorden, Arpeggioʼs, Rosalien ergeht, ohne eine
+               selbstständige Tongestalt bestimmt hervortreten zu lassen. Solchʼ freie Präludien
+               werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen
+               dürfen, sie haben (im weiteren Sinne) keinen Inhalt, weil kein Thema.</p>
             <p n="7.18" xml:id="d1e5487a1048964">Das Thema eines Tonstückes ist also sein wesentlicher Inhalt.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0107"
                 n="[102]"/>
