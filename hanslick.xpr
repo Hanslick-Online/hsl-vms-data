@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>102_derived_tei/102_02_tei-simple_refactored/10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml</String>
+                                    <String>102_derived_tei/102_06_paratexts/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>facs2pb</String>
+                                        <String>TEI P5 XHTML - diff documents refactored</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -30,11 +30,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>102_derived_tei/102_02_tei-simple_refactored/</String>
+                                    <String>102_derived_tei/102_02_tei-simple_refactored/10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>entity2rs</String>
+                                        <String>facs2pb</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -90,11 +90,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>102_derived_tei/102_02_tei-simple_refactored/04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml</String>
+                                    <String>102_derived_tei/102_02_tei-simple_refactored/</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>facs2pb</String>
+                                        <String>entity2rs</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -130,27 +130,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>102_derived_tei/102_02_tei-simple_refactored/02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>facs2pb</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>102_derived_tei/102_02_tei-simple_refactored/01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml</String>
+                                    <String>102_derived_tei/102_02_tei-simple_refactored/04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -190,11 +170,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>102_derived_tei/102_06_paratexts/</String>
+                                    <String>102_derived_tei/102_02_tei-simple_refactored/02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>TEI P5 XHTML - diff documents refactored</String>
+                                        <String>facs2pb</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -215,6 +195,26 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>comp</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>102_derived_tei/102_02_tei-simple_refactored/01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>facs2pb</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
