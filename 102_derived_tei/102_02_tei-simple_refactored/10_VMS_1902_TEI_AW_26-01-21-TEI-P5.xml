@@ -1840,9 +1840,7 @@
                doch abwechslungsvolles Bild, welches durch die Klangfarben der verschiedenen
                Instrumente und den Wechsel der Tonstärke noch reichere Lichter und Schatten
                erhält.</p>
-            <notatedMusic>
-               <graphic n="1001" url="assets/media/10/image1.tif.jpg"/>
-            </notatedMusic>
+            <notatedMusic><graphic n="1001" url="assets/media/10/image1.tif.jpg"/></notatedMusic>
             <pb n="[39]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1902_0048"/>
             <p n="2.20" xml:id="d1e1654a1048964">Einen weiteren <emph>Inhalt</emph> als den eben
@@ -2048,9 +2046,7 @@
             </p>
             <p n="2.27" xml:id="d1e1925a1048964">Wir setzen den Anfang der Arie, der Kürze wegen mit
                Klavierbegleitung, doch genau nach der <rs type="place" ref="#hsl_place_id_28">italienisch</rs>en Originalpartitur her: <notatedMusic>
-                  <graphic n="1002" url="assets/media/10/image2.tif.jpg"/>
-                  <desc>[Seite 48 beginnt im Notenbeispiel nach Takt 8]</desc>
-               </notatedMusic>
+                  <graphic n="1002" url="assets/media/10/image2.tif.jpg"/></notatedMusic>
             </p>
             <pb n="[48]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1902_0057"/>

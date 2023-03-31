@@ -31,13 +31,7 @@
       <body>
          <div type="main">
             <head>Team</head>
-            <div type="block">
-               <head>Kontakt</head>
-               <list type="biography">
-                  <item>Dr. Alexander Wilfing</item>
-                  <item>Email: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">alexander.wilfing(at)oeaw.ac.at</ref></item>
-               </list>
-            </div>
+            <p><hi rend="bold">Kontakt</hi>: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
             <div type="block">
                <head>Editionsleitung</head>
                <figure>

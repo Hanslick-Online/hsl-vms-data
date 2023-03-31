@@ -2058,10 +2058,7 @@
             </p>
             <p n="2.27" xml:id="d1e1965a1048964">Wir setzen den Anfang der Arie, der Kürze wegen mit
                Klavierbegleitung, doch genau nach der <rs type="place" ref="#hsl_place_id_28">italienisch</rs>en Originalpartitur her:</p>
-            <notatedMusic>
-               <graphic n="1002" url="assets/media/09/image2.tif.jpg"/>
-               <desc>[Seite 48 beginnt im Notenbeispiel nach Takt 8]</desc>
-            </notatedMusic>
+            <notatedMusic><graphic n="1002" url="assets/media/09/image2.tif.jpg"/></notatedMusic>
             <pb n="[48]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1896_0065"/>
             <p n="2.28" xml:id="d1e1990a1048964">Wir sind zwar durchaus nicht der Meinung, daß in
