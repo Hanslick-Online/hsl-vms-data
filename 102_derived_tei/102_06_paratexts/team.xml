@@ -31,9 +31,9 @@
       <body>
          <div type="main">
             <head>Team</head>
-            <p><hi rend="bold">Kontakt</hi>: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
             <div type="block">
                <head>Editionsleitung</head>
+               <p><hi rend="bold">Kontakt</hi>: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
                <figure>
                   <graphic url="images/Portrait_Landerer.jpg"></graphic>
                </figure>
