@@ -987,7 +987,7 @@
                Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten <pb n="[X]"
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1891_0014"/> bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur
                Reaktion reizen. Als ich die <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite Auflage</ref>
-               veranstaltete, waren eben <rs type="person" ref="#hsl_person_id_164" xml:id="d1e517a1048964">Lißt</rs>s Programm-Symphonien hinzugekommen, welche
+               veranstaltete, waren eben <rs type="person" ref="#hsl_person_id_164" xml:id="d1e517a1048964">Liszt</rs>s Programm-Symphonien hinzugekommen, welche
                vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik
                abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben.
                Seither besitzen wir nun auch Richard <rs type="person" ref="#hsl_person_id_319" xml:id="d1e520a1048964">Wagner</rs>s „<rs type="bibl" ref="#hsl_work_id_417">Tristan</rs>“, „<rs type="bibl" ref="#hsl_work_id_418">Nibelungenring</rs>“ und
@@ -1338,7 +1338,7 @@
                am Eingang unserer Schrift, konnte die negative Seite, als Protest gegen ein
                unwissenschaftliches Prinzip, nicht zu scharf hervorgekehrt werden.</p>
             <p n="1.30.1" xml:id="d1e956a1048964">Der erste, der meines Wissens diese
-               Gefühlsästhetik in der Musik angegriffen hat, ist <rs type="bibl" ref="#hsl_person_id_795" xml:id="d1e958a1048964">Herbart</rs> (im 9. Kapitel
+               Gefühlsästhetik in der Musik angegriffen hat, ist <rs type="person" ref="#hsl_person_id_795" xml:id="d1e958a1048964">Herbart</rs> (im 9. Kapitel
                seiner <rs type="bibl" ref="#hsl_work_id_481" xml:id="d1e961a1048964">Encyklopädie</rs>). Nachdem er sich gegen die „Deutelei“ von Kunstwerken erklärt
                hat, sagt er: <cit>
                   <quote>„Die Traumdeuter und Astrologen haben sich Jahrtausende nicht wollen sagen
@@ -1756,7 +1756,7 @@
                der Theoretiker, Musik habe keine abstrakten Begriffe darzustellen, ist überflüssig;
                denn <emph>keine</emph> Kunst kann dies. Daß nur <emph>Ideen</emph>, d. i. lebendig
                gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst.
-                  <note place="foot" xml:id="d1e1556a1048964" n="9"><rs type="bibl"
+                  <note place="foot" xml:id="d1e1556a1048964" n="9"><rs type="person"
                      ref="#hsl_person_id_379" xml:id="d1e1558a1048964">Vischer</rs> (<rs type="bibl"
                      ref="#hsl_work_id_319">Aesth.</rs> §. 11 Anmerkung) definiert die bestimmten
                   Ideen als die Reiche des Lebens, sofern ihre Wirklichkeit als ihrem Begriff
@@ -3089,7 +3089,7 @@
                   habe, um die Bedeutung seiner <rs type="bibl" ref="#hsl_work_id_467">D-moll-</rs>
                   und <rs type="bibl" ref="#hsl_work_id_468">F-moll-Sonate</rs> befragt,
                   geantwortet: <cit>
-                     <quote>„Lesen Sie nur <rs type="person" ref="#hsl_person_id_287" xml:id="d1e3322a1048964">Shakespeare</rs>s <rs type="bibl" ref="#hsl_work_id_469">Sturm</rs>.“</quote>
+                     <quote>„Lesen Sie nur <rs type="person" ref="#hsl_person_id_287" xml:id="d1e3322a1048964">Shakespeare</rs>s <emph><rs type="bibl" ref="#hsl_work_id_469">Sturm</rs></emph>.“</quote>
                   </cit> Vermutlich, sagt <emph>
                      <rs type="person" ref="#hsl_person_id_135" xml:id="d1e3329a1048964">Jahn</rs>
                   </emph>, wird der Frager von seiner
@@ -3225,7 +3225,7 @@
                Heroismus dazu, dieser pikanten, geistreich repräsentierten Richtung entgegenzutreten
                und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurteilen“
                verschiedene Dinge sind. <note place="foot" xml:id="d1e3569a1048964" n="21">Wenn wir
-                  hier die „<rs type="bibl" ref="#hsl_work_id_359" xml:id="d1e3571a1048964">Musikalischen Charakterköpfe</rs>“ von <emph>Riehl</emph> nennen, so geschieht
+                  hier die „<rs type="bibl" ref="#hsl_work_id_359" xml:id="d1e3571a1048964">Musikalischen Charakterköpfe</rs>“ von <emph><rs type="person" ref="#hsl_person_id_410">Riehl</rs></emph> nennen, so geschieht
                   dies gleichwohl mit dankbarer Anerkennung dieses geistreich anregenden
                   Buches.</note> Objektiv aber steht fest: <emph>erstens</emph>, daß die
                Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer
@@ -3418,7 +3418,7 @@
                   beitrug zu dieser Lieblingslüge der modernen Musikkritik von dem „inneren Drängen
                   der Musik zur Bestimmtheit der Wortsprache“ und „zur Abwerfung der eurhythmischen
                   Fesseln“. Wir meinen <emph>
-                     <rs type="person" ref="#hsl_person_id_25" xml:id="d1e3788a1048964">Beethoven</rs>s</emph> „<rs type="bibl" ref="#hsl_work_id_272">Neunte</rs>“. Sie ist eine jener
+                     <rs type="person" ref="#hsl_person_id_25" xml:id="d1e3788a1048964">Beethoven</rs>s</emph> „<emph><rs type="bibl" ref="#hsl_work_id_272">Neunte</rs></emph>“. Sie ist eine jener
                   geistigen Wasserscheiden, die weithin sichtbar und unübersteiglich sich zwischen
                   die Strömung entgegengesetzter Überzeugungen legen. Die Musiker, welchen die
                   Großartigkeit der „Intention“, die geistige Bedeutung der abstrakten Aufgabe über
@@ -3560,8 +3560,8 @@
                </emph> vielleicht übersehen worden sein, wenn er den Widerspruch bemerkt, aber
                ungelöst läßt, warum die <emph>Frauen</emph>, welche doch von Natur vorzugsweise auf
                das Gefühl angewiesen sind, in der Komposition nichts leisten? <note place="foot"
-                  xml:id="d1e3992a1048964" n="25"><rs type="person" ref="#hsl_person_id_404"
-                     >Rosenkranz</rs>, <rs type="bibl" ref="#hsl_work_id_345"
+                  xml:id="d1e3992a1048964" n="25"><emph><rs type="person" ref="#hsl_person_id_404"
+                     >Rosenkranz</rs></emph>, <rs type="bibl" ref="#hsl_work_id_345"
                      xml:id="d1e3994a1048964">Psychologie</rs>. 2. Aufl. S. 60.</note> Der Grund
                liegt – außer den allgemeinen Bedingungen, welche Frauen von geistigen
                Hervorbringungen ferner halten – eben in dem plastischen Moment des Komponierens, das
@@ -3580,8 +3580,8 @@
                   <rs type="person" ref="#hsl_person_id_491" xml:id="d1e4024a1048964">Stanitz</rs>
                </emph> ganz ernsthaft als eine natürliche <cit>
                   <quote>„Folge seines gefühlvollen Herzens“</quote>
-               </cit> hinstellt, <note place="foot" xml:id="d1e4033a1048964" n="26"><rs
-                     type="person" ref="#hsl_person_id_277">Schubart</rs>, „<rs type="bibl"
+               </cit> hinstellt, <note place="foot" xml:id="d1e4033a1048964" n="26"><emph><rs
+                  type="person" ref="#hsl_person_id_277">Schubart</rs></emph>, „<rs type="bibl"
                      ref="#hsl_work_id_378" xml:id="d1e4035a1048964">Ideen zu einer Ästhetik der
                      Tonkunst</rs>“. <date>1806</date>.</note> oder Christian <emph>
                   <rs type="person" ref="#hsl_person_id_492" xml:id="d1e4041a1048964">Rolle</rs>
@@ -3674,7 +3674,7 @@
                Technik, wie sie im Ausdruck des schöpferischen Gedankens als Gewöhnung erscheint.
                Der Meister bewährt „Stil“, indem er, die klar erfaßte Idee verwirklichend, alles
                Kleinliche, Unpassende, Triviale wegläßt und so in jeder technischen Einzelheit die
-               künstlerische Haltung des Ganzen übereinstimmend wahrt. Mit <rs type="bibl" ref="#hsl_person_id_379" xml:id="d1e4154a1048964">Vischer</rs> (<rs type="bibl" ref="#hsl_work_id_319" xml:id="d1e4193a1048964">Ästhetik</rs> § 527) würden wir
+               künstlerische Haltung des Ganzen übereinstimmend wahrt. Mit <rs type="person" ref="#hsl_person_id_379" xml:id="d1e4154a1048964">Vischer</rs> (<rs type="bibl" ref="#hsl_work_id_319" xml:id="d1e4193a1048964">Ästhetik</rs> § 527) würden wir
                das Wort „Stil“ auch in der Musik absolut gebrauchen und, absehend von den
                historischen oder individuellen Einteilungen, sagen: dieser Komponist <emph>hat
                   Stil</emph>, in dem Sinne wie man von jemand sagt: er hat
@@ -3865,7 +3865,7 @@
                   </emph>, welcher die Begriffe von
                   Medizinalpflanze und Musikinstrument kombinierte und die Wassersucht mit einer
                   Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein
-                  aus dem populus verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus
+                  aus dem <emph>populus</emph> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus
                      <emph>Zimtrohr</emph> geschnitzes Ohnmachten heilen. (<rs type="bibl" ref="#hsl_work_id_389" xml:id="d1e4395a1048964">Encyclopédie</rs>, article
                   „musique“.)</note>
             </p>
@@ -4836,8 +4836,8 @@
                   <quote>„indem die Musiker ebensowenig haben Intervalle bestimmen und ein Tonsystem
                      erfinden können, als die Sprachgelehrten die Worte der Sprache und die
                      Sprachfügung erfunden haben“</quote>
-               </cit>. <note place="foot" xml:id="d1e5499a1048964" n="44">M. <rs type="person" ref="#hsl_person_id_687">Hauptmann</rs>, <rs type="bibl" ref="#hsl_work_id_403" xml:id="d1e5501a1048964">Die Natur der Harmonik und Metrik</rs>.
-                     <date>1853</date>, S. 7.</note> Gerade die Sprache ist in demselben Sinne wie
+               </cit>. <note place="foot" xml:id="d1e5499a1048964" n="44">M. <emph><rs type="person" ref="#hsl_person_id_687">Hauptmann</rs></emph>, <rs type="bibl" ref="#hsl_work_id_403" xml:id="d1e5501a1048964">Die Natur der Harmonik und Metrik</rs>.
+                     <date>1853</date>. S. 7.</note> Gerade die Sprache ist in demselben Sinne wie
                die Musik ein künstliches Erzeugnis, indem beide nicht in der äußeren Natur
                vorgebildet liegen, sondern allmählich geworden sind und erlernt werden müssen. Nicht
                die Sprachgelehrten, aber die Nationen bilden sich ihre Sprache nach ihrem Charakter
@@ -4858,7 +4858,7 @@
                erscheinen dürfte. Bestände z. B. die Bereicherung in der „Emanzipation der
                Vierteltöne“, wovon eine moderne Schriftstellerin schon Andeutungen bei <emph>
                   <rs type="person" ref="#hsl_person_id_48" xml:id="d1e5528a1048964">Chopin</rs>
-               </emph> finden will, <note place="foot" xml:id="d1e5532a1048964" n="46">Johanna <rs type="person" ref="#hsl_person_id_689">Kinkel</rs>, <rs type="bibl" ref="#hsl_work_id_405" xml:id="d1e5534a1048964">Acht Briefe über
+               </emph> finden will, <note place="foot" xml:id="d1e5532a1048964" n="46"><emph>Johanna <rs type="person" ref="#hsl_person_id_689">Kinkel</rs></emph>, <rs type="bibl" ref="#hsl_work_id_405" xml:id="d1e5534a1048964">Acht Briefe über
                      Klavierunterricht</rs>. <date>1852</date>, Cotta.</note> so würde Theorie,
                Kompositionslehre und Ästhetik der Musik eine total andere. Der musikalische
                Theoretiker kann daher gegenwärtig den Ausblick auf diese Zukunft noch kaum <pb n="[188]"

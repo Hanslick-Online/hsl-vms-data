@@ -714,7 +714,7 @@
                Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur <pb n="[X]"
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1865_0014"/> Reaction
                reizen. Als ich die <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite Auflage</ref>
-               veranstaltete, waren eben <rs type="person" ref="#hsl_person_id_164" xml:id="d1e475a1048964">Lißt</rs>ʼs Programm-Symphonien hinzugekommen, welche
+               veranstaltete, waren eben <rs type="person" ref="#hsl_person_id_164" xml:id="d1e475a1048964">Liszt</rs>ʼs Programm-Symphonien hinzugekommen, welche
                vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik
                abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben.
                Seither besitzen wir nun auch Richard <rs type="person" ref="#hsl_person_id_319" xml:id="d1e478a1048964">Wagner</rs>ʼs „<rs type="bibl" ref="#hsl_work_id_417">Tristan</rs>,“ „<rs type="bibl" ref="#hsl_work_id_418">Nibelungenring</rs>“ und
@@ -1435,8 +1435,8 @@
                abstracten Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß
                nur <emph>Ideen</emph>, d. i. lebendig gewordene Begriffe Inhalt künstlerischer
                Verkörperung sind, versteht sich von selbst. <note place="foot"
-                  xml:id="d1e1382a1048964" n="4"><rs type="person" ref="#hsl_person_id_379"
-                     >Vischer</rs> (<rs type="bibl" ref="#hsl_work_id_319" xml:id="d1e1384a1048964"
+                  xml:id="d1e1382a1048964" n="4"><emph><rs type="person" ref="#hsl_person_id_379"
+                     >Vischer</rs></emph>S (<rs type="bibl" ref="#hsl_work_id_319" xml:id="d1e1384a1048964"
                      >Aesth.</rs> §. 11 Anmerkung) definirt die bestimmten Ideen als die Reiche des
                   Lebens, sofern ihre Wirklichkeit als ihrem Begriff entsprechend gedacht wird. Denn
                      <emph>Idee</emph> bezeichnet immer den in seiner Wirklichkeit rein und
@@ -1503,7 +1503,7 @@
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1865_0040"/> Versuche Jemand, dem noch so viel
                Gefühlssaiten aus einem Instrumentalstück anklingen, mit klaren Gründen nachzuweisen,
                   <emph>welcher</emph> Affect den Inhalt desselben bilde? Die Probe ist unerläßlich.
-               – Hören wir z. B. <rs type="person" ref="#hsl_person_id_25" xml:id="d1e1476a1048964">Beethoven</rs>ʼs Ouvertüre zu „<rs type="bibl" ref="#hsl_work_id_346">Prometheus</rs>“ Was das aufmerksame Ohr des Kunstfreundes in stetiger Folge aus
+               – Hören wir z. B. <rs type="person" ref="#hsl_person_id_25" xml:id="d1e1476a1048964">Beethoven</rs>ʼs Ouvertüre zu „<rs type="bibl" ref="#hsl_work_id_346">Prometheus</rs>“. Was das aufmerksame Ohr des Kunstfreundes in stetiger Folge aus
                ihr vernimmt, ist ungefähr Folgendes: Die Töne des 1. Tactes perlen rasch und leise
                aufwärts, wiederholen sich genau im 2.; der 3. und 4. Tact führen denselben Gang in
                größerem Umfang weiter, die Tropfen des in die Höhe getriebenen Springbrunnens perlen
@@ -2199,7 +2199,7 @@
                verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhange
                mit diesen Tonformen steht. Der Begriff der „Form“ findet in der Musik eine ganz
                eigenthümliche Verwirklichung. Die Formen, welche sich aus <emph>Tönen</emph> bilden,
-               sind nicht leere, sondern erfüllte, nicht loße Linienbegrenzung eines Vacuums,
+               sind nicht leere, sondern erfüllte, nicht bloße Linienbegrenzung eines Vacuums,
                sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist dennoch
                die Musik in der That ein <emph>Bild</emph>, allein ein solches, dessen Gegenstand
                wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist
@@ -2504,11 +2504,11 @@
                Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären,
                zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt zu unterlegen.
                Die Deutung paßt manchmal, öfter auch nicht, niemals mit Nothwendigkeit. Dies aber
-               wir[d] immer mit Nothwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden
+               wird immer mit Nothwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden
                sind, welche nach <emph>musikalisch</emph>-ästhetischen Gesetzen sich abzuheben und
                zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v. <emph>
                   <rs type="person" ref="#hsl_person_id_283" xml:id="d1e2803a1048964">Schwind</rs>
-               </emph> eine sehr anziehende Illustration der <rs type="bibl" ref="#hsl_work_id_277">Clavierphantasie op. 80</rs> von <emph>
+               </emph> eine sehr anziehende Illustration der <rs type="bibl" ref="#hsl_work_id_277"><emph>Clavierphantasie</emph> op. 80</rs> von <emph>
                   <rs type="person" ref="#hsl_person_id_25" xml:id="d1e2824a1048964">Beethoven</rs>
                </emph>, deren
                einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen
@@ -2544,7 +2544,7 @@
                      <rs type="person" ref="#hsl_person_id_249" xml:id="d1e2874a1048964">Schindler</rs>
                   </emph>s
                   bekannte Mittheilung an, <rs type="person" ref="#hsl_person_id_25" xml:id="d1e2877a1048964">Beethoven</rs> habe, um die Bedeutung seiner <rs type="bibl" ref="#hsl_work_id_467">D-moll-</rs> und <rs type="bibl" ref="#hsl_work_id_468">F-moll-Sonate</rs> befragt, geantwortet <cit>
-                     <quote>„Lesen Sie nur <rs type="person" ref="#hsl_person_id_287" xml:id="d1e2896a1048964">Shakespeare</rs>ʼs <rs type="bibl" ref="#hsl_work_id_469">Sturm</rs>.“</quote>
+                     <quote>„Lesen Sie nur <rs type="person" ref="#hsl_person_id_287" xml:id="d1e2896a1048964">Shakespeare</rs>ʼs <emph><rs type="bibl" ref="#hsl_work_id_469">Sturm</rs></emph>.“</quote>
                   </cit> Vermuthlich, sagt <emph>
                      <rs type="person" ref="#hsl_person_id_135" xml:id="d1e2903a1048964">Jahn</rs>
                   </emph>, wird der Frager von seiner
@@ -2552,8 +2552,7 @@
                   ihm erzeuge. Daß grade dieses Drama <rs type="person" ref="#hsl_person_id_25" xml:id="d1e2931a1048964">Beethoven</rs> zu solchen Schöpfungen anregen konnte,
                   ist freilich nicht ohne Interesse zu erfahren; aus dem <rs type="person" ref="#hsl_person_id_287" xml:id="d1e2934a1048964">Shakespeare</rs> das
                   Verständniß derselben herholen wollen, hieße nur die Unfähigkeit der musikalischen
-                  Auffassung bezeugen. Bei dem <rs type="bibl" ref="#hsl_work_id_470">Adagio des
-                     F-dur-Quartett</rs>s (op. 18. Nr. 1) <emph>soll</emph>
+                  Auffassung bezeugen. Bei dem Adagio des <rs type="bibl" ref="#hsl_work_id_470">F-dur-Quartett</rs>s (op. 18. Nr. 1) <emph>soll</emph>
                   <rs type="person" ref="#hsl_person_id_25" xml:id="d1e2950a1048964">Beethoven</rs>
                   die Grabesscene aus <rs type="bibl" ref="#hsl_work_id_57">Romeo und Julie</rs>
                   vorgeschwebt haben; wer nun etwa diese in seinem <rs type="person" ref="#hsl_person_id_287" xml:id="d1e2956a1048964">Shakespeare</rs> aufmerksam
@@ -2836,7 +2835,7 @@
                   Lieblingslüge der modernen Musikkritik von dem „inneren Drängen der Musik zur
                   Bestimmtheit der Wortsprache“ und „zur Abwerfung der eurhythmischen Fesseln.“ Wir
                   meinen <emph>
-                     <rs type="person" ref="#hsl_person_id_25" xml:id="d1e3365a1048964">Beethoven</rs>ʼs</emph> „<rs type="bibl" ref="#hsl_work_id_272">Neunte</rs>.“ Sie ist eine jener geistigen Wasserscheiden, die weithin sichtbar
+                     <rs type="person" ref="#hsl_person_id_25" xml:id="d1e3365a1048964">Beethoven</rs>ʼs</emph> „<emph><rs type="bibl" ref="#hsl_work_id_272">Neunte</rs></emph>.“ Sie ist eine jener geistigen Wasserscheiden, die weithin sichtbar
                   und unübersteiglich sich zwischen die Strömung entgegengesetzter Ueberzeugungen
                   legen. Die Musiker, welchen die Großartigkeit der „Intention,“ die geistige
                   Bedeutung der abstracten Aufgabe über Alles geht, stellen die <rs type="bibl" ref="#hsl_work_id_272">neunte Symphonie</rs> an die Spitze aller
@@ -2932,7 +2931,7 @@
                Beschaffenheit erfassen muß.</p>
             <p n="4.3" xml:id="d1e3518a1048964">In der Wirklichkeit erweist sich aber dies
                begrifflich von unserm Fühlen unabhängige, selbstständige Kunstwerk als wirksame
-               Mitte zwischen zwei lebendigen Kräften: seinem <emph>Woher</emph> sund seinem
+               Mitte zwischen zwei lebendigen Kräften: seinem <emph>Woher</emph> und seinem
                   <emph>Wohin</emph>, d. i. dem Componisten und dem Hörer. In dem Seelenleben dieser
                Beiden kann die künstlerische Thätigkeit der <emph>Phantasie</emph> nicht so zu
                reinem Metall ausgeschieden sein, wie sie in dem fertigen, unpersönlichen Kunstwerk
@@ -2974,9 +2973,8 @@
                </emph> vielleicht übersehen worden sein, wenn er den Widerspruch bemerkt, aber
                ungelöst läßt, warum die <emph>Frauen</emph>, welche doch von Natur vorzugsweise auf
                das Gefühl angewiesen sind, in der Composition nichts leisten? <note place="foot"
-                  xml:id="d1e3561a1048964" n="14"><rs type="person" ref="#hsl_person_id_404"
-                     >Rosenkranz</rs>
-                  <rs type="bibl" ref="#hsl_work_id_345" xml:id="d1e3563a1048964">Psychologie</rs>,
+                  xml:id="d1e3561a1048964" n="14"><emph><rs type="person" ref="#hsl_person_id_404"
+                     >Rosenkranz</rs></emph> <rs type="bibl" ref="#hsl_work_id_345" xml:id="d1e3563a1048964">Psychologie</rs>,
                   2. Aufl. S. 60.</note> Der Grund liegt – außer den allgemeinen Bedingungen, welche
                Frauen von geistigen Hervorbringungen ferner halten – eben in dem plastischen Moment
                des Componirens, das eine <emph>Entäußerung</emph> der Subjectivität nicht minder,
@@ -2993,8 +2991,8 @@
                   <rs type="person" ref="#hsl_person_id_491" xml:id="d1e3586a1048964">Stanitz</rs>
                </emph> ganz ernsthaft als eine natürliche <cit>
                   <quote>„Folge seines gefühlvollen Herzens“</quote>
-               </cit> darstellt, <note place="foot" xml:id="d1e3595a1048964" n="15"><rs
-                     type="person" ref="#hsl_person_id_277">Schubart</rs> „<rs type="bibl"
+               </cit> darstellt, <note place="foot" xml:id="d1e3595a1048964" n="15"><emph><rs
+                  type="person" ref="#hsl_person_id_277">Schubart</rs></emph> „<rs type="bibl"
                      ref="#hsl_work_id_378" xml:id="d1e3597a1048964">Ideen zu einer Aesthetik der
                      Tonkunst</rs>“ <date>1806</date>.</note> oder Christian <emph>
                   <rs type="person" ref="#hsl_person_id_492" xml:id="d1e3613a1048964">Rolle</rs>
@@ -3283,7 +3281,7 @@
                   </emph>, welcher die Begriffe von
                   Medicinalpflanze und Musikinstrument combinirte und die Wassersucht mit einer
                   Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein
-                  aus dem populus verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus
+                  aus dem <emph>populus</emph> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus
                      <emph>Zimmtrohr</emph> geschnitzes Ohnmachten heilen. (<rs type="bibl" ref="#hsl_work_id_389" xml:id="d1e3998a1048964">Encyclopédie</rs>, article
                   „musique“.)</note>
             </p>
@@ -3409,7 +3407,7 @@
                      <quote>„Die inneren Theile des Ohres sind so klein und liegen so tief in der
                         unmittelbaren Nachbarschaft der wesentlichen Lebenswerkzeuge verborgen, daß
                         sich keine Versuche an ihnen anstellen lassen.“</quote>
-                  </cit> G. <rs type="person" ref="#hsl_person_id_570">Valentin</rs>, <rs
+                  </cit> G. <emph><rs type="person" ref="#hsl_person_id_570">Valentin</rs></emph>, <rs
                      type="bibl" ref="#hsl_work_id_390" xml:id="d1e4144a1048964"
                   >Physiologie</rs> I. 3, 2. Auflage.</note> Unerklärt ist aber der Nervenproceß,
                wodurch die percipirte Tonreihe, Lust oder Unlust erzeugend, zum <emph>Gefühl</emph>
@@ -3687,7 +3685,7 @@
             <p n="5.2" xml:id="d1e4472a1048964">Halbwach in ihren Fauteuil geschmiegt, lassen jene
                Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie
                scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt,
-               aufjauchzt oder auszitttert, das versetzt sie in einen unbestimmten
+               aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten
                Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden
                das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am
                sichersten zu discreditiren. Das ästhetische Merkmal des <emph>geistigen</emph>
@@ -3750,7 +3748,7 @@
                   <emph>hören</emph>, aber <emph>zuzuhören</emph> braucht man selbst einer <rs type="person" ref="#hsl_person_id_21" xml:id="d1e4542a1048964">Mendelssohn</rs>ʼschen Symphonie nicht.</p>
             <p n="5.6" xml:id="d1e4546a1048964">Aus diesen Betrachtungen ergiebt sich leicht die
                richtige Werthschätzung für die sogenannten „<emph>moralischen Wirkungen</emph>“ der
-               Mnsik, die als glänzendes Seitenstück zu den im <ref type="chapter" target="#index.xml-body.1_div.5">ersten Artikel</ref> erwähnten „physischen“ von
+               Musik, die als glänzendes Seitenstück zu den im <ref type="chapter" target="#index.xml-body.1_div.5">ersten Artikel</ref> erwähnten „physischen“ von
                älteren Autoren mit so viel Vorliebe herausgestrichen werden. Da hierbei die Musik
                nicht im Entferntesten als ein Schönes genossen, sondern als rohe Naturgewalt
                empfunden wird, die bis zu besinnungslosem Handeln treibt, so stehen wir an dem
@@ -4283,7 +4281,7 @@
                      Tonsystem erfinden können, als die Sprachgelehrten die Worte der Sprache und
                      die Sprachfügung erfunden haben.“</quote>
                </cit>
-               <note place="foot" xml:id="d1e5180a1048964" n="33">M. <rs type="person" ref="#hsl_person_id_687">Hauptmann</rs>, <rs type="bibl" ref="#hsl_work_id_403" xml:id="d1e5182a1048964">die Natur der Harmonik und Metrik</rs>.
+               <note place="foot" xml:id="d1e5180a1048964" n="33">M. <emph><rs type="person" ref="#hsl_person_id_687">Hauptmann</rs></emph>, <rs type="bibl" ref="#hsl_work_id_403" xml:id="d1e5182a1048964">die Natur der Harmonik und Metrik</rs>.
                      <date>1853</date>, S. 7.</note> Gerade die Sprache ist in demselben Sinne wie
                die Musik ein künstliches Erzeugniß, indem beide nicht in der äußeren Natur
                vorgebildet liegen, sondern <emph>unerschaffen</emph> sind und <emph>erlernt</emph>
@@ -4306,7 +4304,7 @@
                der „Emancipation der Vierteltöne,“ wovon eine moderne Schriftstellerin <pb n="[120]"
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1865_0136"/> schon Andeutungen bei <emph>
                   <rs type="person" ref="#hsl_person_id_48" xml:id="d1e5224a1048964">Chopin</rs>
-               </emph> finden will <note place="foot" xml:id="d1e5228a1048964" n="35">Johanna <rs type="person" ref="#hsl_person_id_689">Kinkel</rs>, <rs type="bibl" ref="#hsl_work_id_405" xml:id="d1e5230a1048964">Acht Briefe über Clavierunterricht</rs>. <date>1852</date>, Cotta.</note> , so
+                   </emph> finden will <note place="foot" xml:id="d1e5228a1048964" n="35"><emph>Johanna <rs type="person" ref="#hsl_person_id_689">Kinkel</rs></emph>, <rs type="bibl" ref="#hsl_work_id_405" xml:id="d1e5230a1048964">Acht Briefe über Clavierunterricht</rs>. <date>1852</date>, Cotta.</note> , so
                würde Theorie, Compositionslehre und Aesthetik der Musik eine total andere. Der
                musikalische Theoretiker kann daher gegenwärtig den Ausblick auf diese Zukunft noch
                kaum anders frei lassen, als durch die einfache Anerkennung ihrer Möglichkeit.</p>
@@ -4912,7 +4910,7 @@
                zu nehmen. Daraus, daß die Musik keinen Inhalt (Gegenstand) hat, folgt nicht, daß sie
                des <emph>Gehaltes</emph> entbehre. „Geistigen Gehalt“ meinen offenbar Diejenigen,
                welche mit dem Eifer einer Partei für den „Inhalt“ der Musik fechten. Mag man den
-               „Gehalt“ nun mit <rs type="bibl" ref="#hsl_person_id_100" xml:id="d1e6119a1048964">Goethe</rs> (45, 419) als <cit>
+               „Gehalt“ nun mit <rs type="person" ref="#hsl_person_id_100" xml:id="d1e6119a1048964">Goethe</rs> (45, 419) als <cit>
                   <quote>„etwas Mystisches außer und über dem Gegenstand und Inhalt“</quote>
                </cit> eines Dinges begreifen oder dem all<pb n="[139]"
                    break="no"
