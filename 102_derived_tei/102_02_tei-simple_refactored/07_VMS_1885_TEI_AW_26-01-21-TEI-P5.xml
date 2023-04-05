@@ -771,7 +771,7 @@
    <text>
       <front>
          <titlePage>
-            <pb n="[IV]"
+            <pb n="[F]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1885_0000"/>
             <docTitle>
                <titlePart type="main">
@@ -798,7 +798,7 @@
             <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
                Universität. </byline>
             <docEdition>Siebente vermehrte und verbesserte Auflage.</docEdition>
-            <pb n="[V]"
+            <pb n="[F2]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1885_0002"/>
             <docImprint>
                <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>
@@ -808,7 +808,7 @@
             <docImprint>
                <date>1885</date>. 
       </docImprint>
-            <pb n="[VI]"
+            <pb n="[F3]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1885_0001"/>
             <milestone unit="section"/>
             <byline> Seinem Freunde </byline>
