@@ -31,9 +31,9 @@
       <body>
          <div type="main">
             <head>Team</head>
+            <p><hi rend="bold">Kontaktperson / contact person</hi>: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
             <div type="block">
-               <head>Editionsleitung / chief editors</head>
-               <p><hi rend="bold">Kontaktperson / contact person</hi>: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
+               <head>Projektleitung / Principal Investigators</head>
                <figure>
                   <graphic url="images/Portrait_Landerer.jpg"></graphic>
                </figure>
@@ -50,7 +50,7 @@
                </figure>
                <list type="biography">
                   <item><hi rend="bold">Dr. Alexander Wilfing</hi>, Projektleiter / Principal Investigator (Hanslick in
-                        <emph>Neue Freie Presse</emph>) und Editionsleiter / editor-in-chief (<emph>Vom
+                        <emph>Neue Freie Presse</emph>); Editionsleiter / editor-in-chief (<emph>Vom
                         Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph>; Hanslick in <emph>Neue Freie Presse</emph>)</item>
                   <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
                   <item>Bäckerstrasse 13, 1010 Wien</item>
@@ -106,7 +106,7 @@
                </figure>
                <list type="biography">
                   <item><hi rend="bold">Daniel Stoxreiter, MA</hi>, Projektmitarbeiter / project member (<emph>Vom
-                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph> und
+                        Musikalisch-Schönen</emph> / <emph>On the Musically Beautiful</emph>;
                      Hanslick in <emph>Neue Freie Presse</emph>)</item>
                   <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
                   <item>Bäckerstrasse 13, 1010 Wien</item>
