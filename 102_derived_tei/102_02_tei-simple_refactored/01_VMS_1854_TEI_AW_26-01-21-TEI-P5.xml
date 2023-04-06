@@ -466,9 +466,9 @@
    </facsimile>
    <text>
       <front>
-         <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0000"
-             n="[F]"/>
          <titlePage>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1854_0000"
+               n="[F]"/>
             <docTitle>
                <titlePart type="main">
                   <title>Vom</title>
