@@ -28,7 +28,7 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
+      <body xml:lang="de-AT">
          <div type="main">
             <head>Veranstaltungen</head>
             <byline>March 31, 2023</byline>

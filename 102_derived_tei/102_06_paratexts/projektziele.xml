@@ -17,7 +17,7 @@
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2023">2023</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
@@ -28,9 +28,9 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
+      <body xml:lang="de-AT">
          <div type="main">
-            <head>Hanslicks Ästhetik: Entstehung und Einführung</head>
+            <head>Projektziele von „Hanslick Online“</head>
             <byline>Alexander Wilfing</byline>
             <div type="block">
                <p></p>

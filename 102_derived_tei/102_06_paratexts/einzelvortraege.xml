@@ -28,7 +28,7 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
+     <body xml:lang="de-AT">
          <div type="main">
             <head>Vorträge mit Bezug auf Hanslick</head>
             <byline>March 31, 2023</byline>

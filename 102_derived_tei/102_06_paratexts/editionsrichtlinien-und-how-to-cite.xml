@@ -28,7 +28,7 @@
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
+     <body xml:lang="de-AT">
          <div type="main">
             <head>Editionsrichtlinien und Zitiervorschlag</head>
             <byline>Alexander Wilfing und Meike Wilfing-Albrecht</byline>
