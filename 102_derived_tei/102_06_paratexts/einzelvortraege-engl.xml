@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hanslick Online - Lectures</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <address>
+               <addrLine>Bäckerstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+            </address>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <body xml:lang="en-US">
+         <div type="main">
+            <head>Lectures Related to Hanslick</head>
+            <byline>March 31, 2023</byline>
+            <div type="block">
+               <list type="bibl">
+                  <item>2022/11. Wilfing, Alexander and Anja Bunzel. “‘Známý videňský a již zemřelý
+                     professor a aesthetik’: Eduard Hanslick’s Double Lives,” conference <ref
+                        target="https://komeniologie.flu.cas.cz/images/korespondence_program_net2.pdf"
+                        >Učenecká korespondence a praxe vícejazyčnosti mezi republikou učenců a
+                        počátky moderní národní společnosti</ref>, Prag.</item>
+                  <item>2022/09. Wilfing, Alexander. “Politik, Kultur, Philosophie: Frühe
+                     Weichenstellungen der Musikwissenschaft und ihre Folgen,” <ref
+                        target="https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/gfm2022"
+                        >Jahrestagung der Gesellschaft für Musikforschung</ref>, Berlin (Freies
+                     Panel “Listening from (No-)Where? Situierung/Positionierung im Hören, Denken
+                     und Analysieren von/über Musik”).</item>
+                  <item>2022/05. Wilfing, Alexander. Presentation of the project outline of “In
+                     Search of Identity: The Histories and Synergies of Musicology and Art History,”
+                     Research Seminar des <ref target="https://modernartbrno.com/en-o-nas/">Centre
+                        for Modern Art and Theory</ref>, Brno.</item>
+                  <item>2022/04. Wilfing, Alexander. Presentation of the project outline of “In
+                     Search of Identity: The Histories and Synergies of Musicology and Art History,”
+                     Zoombar, <ref target="https://iagmr.org/events/">Institute of Austrian and
+                        German Music Research</ref>, Surrey (online).</item>
+                  <item>2022/02. Wilfing, Alexander. Presentation of the project “Creating an
+                     Academic Discipline” and the project outline of “In Search of Identity: The
+                     Histories and Synergies of Musicology and Art History,” Research Seminar, <ref
+                        target="https://www.aesthetics.mpg.de/en/research/research-group-histories-of-music-mind-and-body/news/news-rg-hmmb-detail/article/dr-alexander-wilfing-guest-lecture.html"
+                        >Histories of Music, Mind, and Body</ref>, Max Planck Institute for
+                     Empirical Aesthetics, Frankfurt a.M.</item>
+                  <item>2021/12. Wilfing, Alexander. Presentation of the project “Creating an
+                     Academic Discipline” and the project outline of “In Search of Identity: The
+                     Histories and Synergies of Musicology and Art History,” Research Seminar, <ref
+                        target="https://www.aesthetics.mpg.de/forschung/abteilung-musik.html"
+                        >Department of Music</ref>, Max Planck Institute for Empirical Aesthetics,
+                     Frankfurt a.M.</item>
+                  <item>2021/09. Wilfing, Alexander. “How to Establish an Academic Discipline: The
+                     Multi-Ethnic Makeup of 19th-Century Austria, Habsburg Positivism, and the
+                     (Political) Creation of Musicology and Art History,” <ref
+                        target="https://iagmr.org/inaugural-conference-september-2021-copy/"
+                        >Inaugural Conference of the Institute for Austrian and German Music
+                        Research</ref>, Surrey (online).</item>
+                  <item>2021/09. Wilfing, Alexander. “Reframing the Beginnings of Academic
+                     Musicology,” conference <ref target="https://narratingmusicology.home.blog/"
+                        >Narrating Musicology: Fachgeschichte(n) der Musikwissenschaft</ref>,
+                     Bern.</item>
+                  <item>2021/02. Wilfing, Alexander. Presentation of “Hanslick Online,” Research
+                     Lunch Series, Austrian Centre for Digital Humanities and Cultural Heritage,
+                     Vienna (online).</item>
+                  <item>2020/10. Wilfing, Alexander. “Hanslick’s Concept(s) of Beauty in Relation to
+                     History,” <ref
+                        target="https://www.ucd.ie/music/t4media/SMI%202020%20Timetable.pdf">18th
+                        Annual Society for Musicology in Ireland Plenary Conference</ref>, Dublin
+                     (online).</item>
+                  <item>2019/11. Wilfing, Alexander. “Gurney Reading Hanslick?” <ref
+                        target="https://www.amsmusicology.org/general/custom.asp?page=boston">85th
+                        Annual Meeting der American Musicological Society</ref>, Boston (special
+                     session, “The Power of Sound: Excavating the Interdisciplinarity of Edmund
+                     Gurney’s Philosophy of Music”).</item>
+                  <item>2019/10. Wilfing, Alexander. “Aesthetics, Education, Liberalism: Eduard
+                     Hanslick’s <emph>Vom Musikalisch-Schönen</emph> and its Socio-Political
+                     Contexts,” <ref
+                        target="https://hmd-music.org/14-medunarodni-i-interdisciplinarni-simpozij/"
+                        >14th International Musicological and Interdisciplinary Conference of the
+                        Croatian Musicological Society</ref>, Zagreb.</item>
+                  <item>2019/09. Wilfing, Alexander. “Eduard Hanslick and Formalist Musicology:
+                     Tone, Score, and Composition in Hanslick’s Aesthetics,” <ref
+                        target="https://www.rma.ac.uk/2019/11/16/conference-review-rma-annual-conference-2019/"
+                        >55th Annual Meeting der Royal Musical Association</ref>, Manchester.</item>
+                  <item>2019/07. Landerer, Christoph. “‘Schön,’ ‘das Schöne,’ ‘Schönheit’:
+                     Hanslick’s Notion(s) of Beauty,” <ref
+                        target="https://musicandphilosophy.ac.uk/events/mpsg-2019/">7th Biennial
+                        Music and Philosophy Conference</ref>, London (special session, “Hanslick’s
+                     Concepts: Meaning, Translation, Reception,“ see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2019/07. Rothfarb, Lee. “How Do We Understand Hanslick?” <ref
+                        target="https://musicandphilosophy.ac.uk/events/mpsg-2019/">7th Biennial
+                        Music and Philosophy Conference</ref>, London (special session, “Hanslick’s
+                     Concepts: Meaning, Translation, Reception,“ see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2019/07. Wilfing, Alexander. “The Reception of Hanslick’s Concepts,” <ref
+                        target="https://musicandphilosophy.ac.uk/events/mpsg-2019/">7th Biennial
+                        Music and Philosophy Conference</ref>, London (special session, “Hanslick’s
+                     Concepts: Meaning, Translation, Reception,“ see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2019/06. Wilfing, Alexander. Presentation of my monograph <emph><ref
+                           target="https://doi.org/10.2307/j.ctvktrwbs">Re-Reading Hanslick’s
+                           Aesthetics</ref>: Die Rezeption Eduard Hanslicks im englischen Sprachraum
+                        und ihre diskursiven Grundlagen</emph>, <ref
+                        target="https://muwiserver.synology.me/Tag_der_offenen_Tuer/">Open Door
+                        Day</ref>, Department of Musicology, University of Vienna.</item>
+                  <item>2018/12. Wilfing, Alexander. Participation in panel group, “Leerstellen:
+                     Über methodische Problematiken der editorischen Praxis,” <ref
+                        target="https://www.oeaw.ac.at/detail/news/musik-quellen-denken/">Annual
+                        Meeting of the Austrian Musicological Society</ref>, Musik Quellen Denken:
+                     Prozesse der Re- und De-Konstruktion in Wissenschaft und Praxis, Vienna.</item>
+                  <item>2018/07. Wilfing, Alexander. “Historicism, Modernity, and the ‘Musically
+                     Beautiful’: Re-Reading Eduard Hanslick’s Aesthetics,” <ref
+                        target="https://research.hud.ac.uk/music/conferences/19thcenturymusic/">20th
+                        Biennial International Conference on 19th-Century Music</ref>,
+                     Huddersfield.</item>
+                  <item>2018/06. Wilfing, Alexander. Roundtable participation, “<ref
+                        target="https://musikwissenschaft.univie.ac.at/ueber-uns/veranstaltungsarchiv/2018/detailansicht-archiv/news/23-juni-interdisziplinaerer-workshop/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=96c71a8616b4f59118025f4784aa09d8"
+                        >Musik- und Theatergeschichte ausgestellt</ref>: Wien als Schnittstelle
+                     zwischen Transnationalität, Performativität und Institutionalisierung im
+                     Ausgang des 19. Jahrhunderts,” Vienna.</item>
+                  <item>2017/11. Wilfing, Alexander. “Constructing Antagonists: Eduard Hanslick,
+                     Heinrich Schenker, and the New Musicology,” <ref
+                        target="https://www.amsmusicology.org/page/rochester">83rd Annual Meeting
+                        der American Musicological Society</ref>, Rochester.</item>
+                  <item>2016/11. Wilfing, Alexander. “Spezialästhetik, Grenzziehung, Methodologie:
+                     Eduard Hanslick und August Wilhelm Ambros im ‚österreichischen‘ Ästhetikdiskurs
+                     um 1850,” conference August Wilhelm Ambros: Wege seiner Musikkritik, -ästhetik
+                     und -historiographie, Vienna.</item>
+                  <item>2016/09. Bonds, Mark Evan. “Hanslick and Leibniz,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Grey, Thomas. “Re-Thinking Beauty in the ‘Musically Beautiful,’”
+                     conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Grimes, Nicole. “Hanslick, the New Humanism, and the Music of
+                     Johannes Brahms,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Korenjak, Andrea. “Hanslick’s Music Aesthetic Discourse in the
+                     Context of Medicine and Psychiatry around 1850,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Landerer, Christoph and Lee Rothfarb. “Features of the New English
+                     Translation of <emph>On the Musically Beautiful</emph> (Oxford University
+                     Press, 2018),” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Pryer, Anthony. “Contextualizing Hanslick’s Musical Responses: The
+                     ‘Supplementary’ Beauty of Performance, the Changing Cultures of Human and
+                     Musical Expression, and the Nineteenth-Century Emergence of ‘Interpretation,’”
+                     conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Rothfarb, Lee. “Hanslick’s <emph>Hauptsatz</emph>: Brahms and
+                     Bruckner,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Stachel, Peter. “Eine komplizierte Beziehung: Eduard Hanslick und
+                     Carl Goldmark,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Štědronská Markéta. “Eduard Hanslick und August Wilhelm Ambros: Zur
+                     Geschichte eines musikästhetischen Austauschs,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Telesko, Werner. “Rudolf von Eitelberger (1817–1885):
+                     Wissenschaftliche Exaktheit und habsburgische Kulturpolitik; ein methodischer
+                     Grenzgänger und die Anfänge der Kunstgeschichte in Wien,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Wilfing, Alexander. “Hanslick’s Kantianism?: Johann Heinrich
+                     Dambeck, Christian Friedrich Michaelis, and Hans Georg Nägeli,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/09. Zangwill, Nick. “Non-absolute Music,” conference <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >Hanslick im Kontext / Hanslick in Context</ref>, Vienna (see <ref
+                        target="veranstaltungen-engl.html">events</ref>).</item>
+                  <item>2016/03. Wilfing, Alexander. “Eduard Hanslicks <emph>Vom
+                        Musikalisch-Schönen</emph>: Text, Kontext, Rezeption,” Lecture on behalf of
+                     an evaluation of the Institute of History of Art and Musicology, Austrian
+                     Academy of Sciences, Vienna.</item>
+                  <item>2014/07. Wilfing, Alexander. “Hanslick’s Aesthetics, Kant’s
+                        <emph>Critique</emph>, and Austrian Philosophy: A Long-Overdue
+                     Reassessment,” <ref target="https://musicandphilosophy.ac.uk/events/mpsg2014/"
+                        >4th Biennial Music and Philosophy Conference</ref>, London.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
