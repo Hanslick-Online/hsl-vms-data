@@ -48,22 +48,22 @@
                   advance (see the first two entries under „<ref
                      target="bedeutung-hanslick-engl.html">Eduard Hanslick Schriften</ref>“) did not
                   figure into this edition.</p>
-               <p>The individual editions of the original treatise are reproduced as faithfully as
-                  possible, the spelling is retained. Errors that were corrected by Hanslick himself
-                  within the editions—e.g., the change from „psychisch“ (psychic) to „physisch“
-                  (physical), 2.13, from edition 9 onward—are also reproduced faithfully. Only
-                  evident errata (e.g., „Mnsik“ instead of „Musik,“ 5.6, in edition 3) have been
-                  corrected without indication. Paragraphs are maintained (except for poems) and
-                  numbered by taking edition 1 as the point of origin. Modified paragraphs between
-                  editions are indicated by the following markers: contraction → &amp;; subdivision
-                  → a and b; addition → 3rd decimal place; deletion → number gap. Page numbers and
-                  breaks can either be shown or masked by using the „annotations“ menu. Verse breaks
-                  are indicated by using slashes /. The footnotes have been converted to endnotes
-                  with jump marks and have been numbered consecutively instead of using the original
-                  asterisks * to provide a more precise attribution Up to edition 7, the headings of
-                  individual chapters were only displayed in the table of contents. For the purpose
-                  of manageable navigation, they were incorporated into the transcription of
-                  editions 1-7. </p>
+               <p>The editions of the original treatise—transcribed and corrected by Meike
+                  Wilfing-Albrecht—are reproduced as faithfully as possible, the spelling is
+                  retained. Errors that were corrected by Hanslick himself within the editions—e.g.,
+                  the change from „psychisch“ (psychic) to „physisch“ (physical), 2.13, from edition
+                  9 onward—are also reproduced faithfully. Only evident errata (e.g., „Mnsik“
+                  instead of „Musik,“ 5.6, in edition 3) have been corrected without indication.
+                  Paragraphs are maintained (except for poems) and numbered by taking edition 1 as
+                  the point of origin. Modified paragraphs between editions are indicated by the
+                  following markers: contraction → &amp;; subdivision → a and b; addition → 3rd
+                  decimal place; deletion → number gap. Page numbers and breaks can either be shown
+                  or masked by using the „annotations“ menu. Verse breaks are indicated by using
+                  slashes /. The footnotes have been converted to endnotes with jump marks and have
+                  been numbered consecutively instead of using the original asterisks * to provide a
+                  more precise attribution Up to edition 7, the headings of individual chapters were
+                  only displayed in the table of contents. For the purpose of manageable navigation,
+                  they were incorporated into the transcription of editions 1-7. </p>
                <p>The printed copies of <emph>Vom Musikalisch-Schönen</emph> contain several fonts,
                   the meticulous reproduction of which, however, did not seem sensible for the
                   purpose of a digital edition. The German main text is set in Fraktur script
@@ -83,15 +83,15 @@
                   semantic validity. Hanslick probably had the musical examples set for this
                   specific purpose, but their print templates are not known either. In the example
                   of Christoph Willibald Gluck’s „Che farò“ (2.27, from edition 2 onward), the
-                  deviations in syllable division between individual editions are not indicated
-                  separately. These can be checked against the respective facsimile reproduction. </p>
+                  deviations in syllable division between editions are not indicated separately.
+                  These can be checked against the respective facsimile reproduction. </p>
                <p>The TEI annotation of <emph>Vom Musikalisch-Schönen</emph> was provided by
-                  Alexander Wilfing. In a first step, names, works, and places were marked up as
-                  entities, each of which can be color-coded in the online edition by using the
-                  „annotations“ menu. In the index—where <ref
-                     target="https://hanslick-online.github.io/hsl-app/listbibl.html">persons</ref>
+                  Alexander Wilfing, who oversaw the entire edition process. In a first step, names,
+                  works, and places were marked up as entities, each of which can be color-coded in
+                  the online edition by using the „annotations“ menu. In the index—where <ref
+                     target="https://hanslick-online.github.io/hsl-app/listperson.html">persons</ref>
                   (historical as well as fictional) and <ref
-                     target="https://hanslick-online.github.io/hsl-app/listperson.html">works</ref>
+                     target="https://hanslick-online.github.io/hsl-app/listbibl.html">works</ref>
                   are further linked with each other—and the detailed information of annotations,
                   the spelling of the <ref target="https://lobid.org/gnd">GND</ref> data base was
                   used for person names (if available in each case), and that of <ref
@@ -108,7 +108,7 @@
             <div type="sub">
                <head>How to Cite</head>
                <p>Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
-                     Aesthetik der Tonkunst</emph>, ed by Alexander Wilfing in collaboration with
+                     Ästhetik der Tonkunst</emph>, ed by Alexander Wilfing in collaboration with
                   Meike Wilfing-Albrecht and Christoph Landerer (2023), edition number, paragraph
                   number, hyperlink. </p>
             </div>
