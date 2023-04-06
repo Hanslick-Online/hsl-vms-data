@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hanslick Online - Events</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <address>
+               <addrLine>Bäckerstraße 13</addrLine>
+               <addrLine>1010 Vienna</addrLine>
+            </address>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body xml:lang="en-US">
+         <div type="main">
+            <head>Events</head>
+            <byline>March 31, 2023</byline>
+            <div type="block">
+               <list type="bibl">
+                  <item>2023/04. “Geschichte, Gegenwart und Zukunft der Musikwissenschaft(en),”
+                     workshop at the Austrian Centre for Digital Humanities and Cultural Heritage,
+                     Austrian Academy of Sciences, funded by the Austrian Science Fund FWF.</item>
+                  <item>2020/04. “New Directions in Hanslick Scholarship,” workshop at the
+                     Department of Musicology, University of Vienna, funded by the Austrian Science
+                     Fund FWF and the Austrian Academy of Sciences (cancelled due to COVID-19
+                     pandemic).</item>
+                  <item>2019/07. Organisation of the special session “Hanslick’s Concepts: Meaning,
+                     Translation, Reception,” 7th Biennial Music and Philosophy Conference, London;
+                     organisation: Alexander Wilfing; presenters: Christoph Landerer, Lee Rothfarb,
+                     and Alexander Wilfing; for further details and the program, see <ref
+                        target="https://musicandphilosophy.ac.uk/events/mpsg-2019/"
+                        >https://musicandphilosophy.ac.uk/events/mpsg-2019/</ref>.</item>
+                  <item>2017/03. “Probleme der Hanslick-Forschung,” workshop at the Institute of
+                     History of Art and Musicology, Austrian Academy of Sciences, funded by the
+                     Austrian Academy of Sciences and the City of Vienna.</item>
+                  <item>2016/09. “Hanslick im Kontext / Hanslick in Context,” bilingual
+                     international conference, Austrian Society for Music, funded by the Austrian
+                     Science Fund FWF, the Austrian Academy of Sciences, and the City of Vienna; for
+                     further details and the program, see <ref target="http://hanslick2016.com/"
+                        >http://hanslick2016.com/</ref> and <ref
+                        target="https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3"
+                        >https://www.oeaw.ac.at/acdh/musikwissenschaft/detail/eduard-hanslick-im-kontext-3</ref>.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
