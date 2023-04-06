@@ -11,16 +11,16 @@
                Wilfing</editor>
             <respStmt>
                <resp>transcription</resp>
-               <persName xml:id="mw">Meike Wilfing-Abrecht</persName>
+               <persName xml:id="mw">Meike Wilfing-Albrecht</persName>
             </respStmt>
             <respStmt>
                <resp>TEI modelling and conversion</resp>
-               <persName xml:id="ds">Daniel Schopper</persName>
-               <persName xml:id="dst">Daniel Stoxreiter</persName>
+               <persName xml:id="ds" ref="https://orcid.org/0000-0003-2436-0361">Daniel Schopper</persName>
+               <persName xml:id="dst" ref="https://orcid.org/0000-0002-0636-4476">Daniel Stoxreiter</persName>
             </respStmt>
             <respStmt>
                <resp>text annotation and document finalization</resp>
-               <persName xml:id="aw">Alexander Wilfing</persName>
+               <persName xml:id="aw" ref="http://d-nb.info/gnd/1033827401">Alexander Wilfing</persName>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -35,18 +35,16 @@
          </editionStmt>
          <publicationStmt>
             <publisher>
-               <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences,
-                  Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+               <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
             </publisher>
             <address>
-               <addrLine>Sonnenfelsgasse 19</addrLine>
+               <addrLine>Bäckerstraße 13</addrLine>
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2023">2023</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"> Attribution 4.0
-                  International (CC BY 4.0)</licence>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"> Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
          </publicationStmt>
          <sourceDesc>
