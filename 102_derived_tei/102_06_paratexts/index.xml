@@ -17,7 +17,7 @@
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2023">2023</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
@@ -30,11 +30,43 @@
   <text>
       <body>
          <div>
-            <p>Die Website „Hanslick Online“ bereitet die Schriften von Eduard Hanslick (1825–1904) auf, der im neunzehnten Jahrhundert als Musikästhetiker, Musikkritiker und erster Professor für „Geschichte und Ästhetik der Tonkunst“ im deutschen Sprachraum wirkte. Sie beinhaltet Ergebnisse des Projekts „Hanslick im Kontext“, das seit dem Jahr 2014 die historische Umgebung Hanslicks sowie seiner Schriften auslotet.</p>
-            <p>Besonderes Augenmerk liegt dabei auf den zahlreichen Bearbeitungen und Auflagen, die diese Texte zu Hanslicks Lebzeiten erfuhren. „Hanslick Online“ stellt diese Auflagen nicht nur bereit, sondern macht ebenso direkte Vergleiche zwischen den Varianten möglich. Damit füllt diese Website eine Lücke der modernen Hanslick-Forschung, die die dynamische Entwicklung von Hanslicks Denkweise immer stärker in den Blick nimmt.</p>
-            <p>Die Projektbeschreibung gibt eine kurze Skizze der <ref target="bedeutung-hanslick.html">historischen Bedeutung Hanslicks</ref> vom neunzehnten Jahrhundert bis zur Gegenwart, erläutert im Detail den <ref target="projektziele.html">Zweck dieser Website</ref> und schildert die <ref target="projektgeschichte.html">Geschichte des Projekts „Hanslick im Kontext“</ref> sowie dessen zahlreicher Teilprojekte, deren Resultate zur Schaffung dieser Homepage geführt haben. Die Ergebnisse der Teilprojekte können unter <ref target="aktivitaeten.html">Aktivitäten</ref> vollständig eingesehen werden.</p>
-            <p>Unter dem Punkt Traktat finden sich die zehn <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html">Auflagen von Hanslicks Haupttext</ref> Vom Musikalisch-Schönen und die Option zum Vergleich zwischen beliebig gewählten Varianten. Begleitet werden diese von der Beschreibung der <ref target="einfuehrung-vms.html">Genese und Kontexte der Schrift</ref>, einer kurzen <ref target="einfuehrung-vms.html">Skizze ihrer Inhalte</ref>, sowie einer <ref target="projektziele.html">Darstellung der Unterschiede</ref> zwischen diesen Auflagen, die Anstoß dieser Website waren.</p>
-            <p>„Hanslick Online“ ist ein work in progress, das in den nächsten Jahren mit weiteren Funktionen sowie einem deutlich größeren Textkorpus ergänzt werden soll. So ist ein Projekt, das die kritischen Schriften Hanslicks erschließt, momentan in Begutachtung. Falls Sie zur Optimierung dieser Homepage Vorschläge oder auch Fragen zu Hanslick, den Projekten, sowie deren Ergebnissen haben sollten, stehen wir Ihnen als <ref target="team.html">Team</ref> gerne zur Verfügung.</p>
+            <p>Die Website „Hanslick Online“ bereitet die Schriften von Eduard Hanslick (1825–1904)
+               auf, der im neunzehnten Jahrhundert als Musikästhetiker, Musikkritiker und erster
+               Professor für „Geschichte und Aesthetik der Tonkunst“ im deutschen Sprachraum wirkte.
+               Sie beinhaltet Ergebnisse mehrerer Drittmittel-Projekte, in deren Rahmen Christoph
+               Landerer und Alexander Wilfing seit dem Jahr 2014 die historischen Kontexte Hanslicks
+               sowie seiner Schriften ausloten.</p>
+            <p>Besonderes Augenmerk liegt dabei auf den zahlreichen Adaptionen, die diese Texte
+               zu Hanslicks Lebzeiten erfuhren. „Hanslick Online“ stellt diese Texte (aktuell: <ref target="https://hanslick-online.github.io/hsl-app/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?prs=off&amp;plc=off&amp;wrk=off&amp;pbs=off&amp;fs=default&amp;ff=default&amp;img=on"><emph>Vom
+                  Musikalisch-Schönen</emph></ref> und Hanslicks Kritiken für die <ref target="https://hanslick-online.github.io/hsl-app/toc.html"><emph>Neue Freie Presse</emph></ref>) nicht nur
+               bereit, sondern macht ebenso direkte Vergleiche zwischen den Varianten möglich. Damit
+               füllt diese Website eine Lücke der modernen Hanslick-Forschung, die die dynamische
+               Entwicklung von Hanslicks Denkweise immer stärker in den Blick nimmt.</p>
+            <p>Das Drop-Down-Menü „Projekt“ gibt eine kurze Skizze der <ref
+                  target="bedeutung-hanslick.html">historischen Bedeutung Hanslicks</ref> vom
+               neunzehnten Jahrhundert bis zur Gegenwart, erläutert Intention und <ref
+                  target="projektziele.html">Zweck dieser Website</ref> und beschreibt detailliert
+               die <ref target="projektgeschichte.html">Abfolge jener Projekte</ref>, deren
+               Resultate zur Schaffung dieser Homepage geführt haben. Die Ergebnisse der
+               Teilprojekte können unter Aktivitäten (<ref target="publikationen.html"
+                  >Publikationen</ref>, <ref target="einzelvortraege.html">Einzelvorträge</ref> und
+                  <ref target="veranstaltungen.html">Veranstaltungen</ref>) vollständig eingesehen
+               werden.</p>
+            <p>Unter dem Drop-Down-Menü „Edition“ finden sich die <ref
+                  target="https://hanslick-online.github.io/hsl-app/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?prs=off&amp;plc=off&amp;wrk=off&amp;pbs=off&amp;fs=default&amp;ff=default&amp;img=on"
+                  >10 Auflagen</ref> von Hanslicks Haupttext <emph>Vom Musikalisch-Schönen</emph>
+               und die Option zum Vergleich zwischen beliebig gewählten Varianten mittels
+               automatisierter Kollationierung. Bis Ende 2025 werden hier auch <ref
+                  target="https://hanslick-online.github.io/hsl-app/toc.html">Hanslicks
+                  Kritiken</ref> für die <emph>Neue Freie Presse</emph> (1864–1904) mit TEI-Markup
+               publiziert. Als Schlussstein der Projektreihe ist ein FWF-Projekt geplant, das
+               Hanslicks restliche Schriften als digitale Edition bereitstellt und Zusammenhänge
+               zwischen selbigen sichtbar macht.</p>
+            <p>„Hanslick Online“ ist ein work in progress, das zukünftig inhaltlich wie technisch
+               erweitert werden soll. Falls Sie zur Optimierung der digitalen Editionen und der
+               Homepage Vorschläge oder auch Fragen zu Hanslick, den Projekten, sowie deren
+               Ergebnissen haben sollten, stehen wir Ihnen als <ref target="team.html">Team</ref>
+               jederzeit zur Verfügung.</p>
          </div>
       </body>
   </text>
