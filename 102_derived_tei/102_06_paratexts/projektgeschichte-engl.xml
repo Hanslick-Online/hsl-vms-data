@@ -249,11 +249,6 @@
                   text(s) deeply affects our interpretation of Hanslick’s concepts and methods.</p>
             </div>
             <div type="inline">
-               <p>.</p>
-               <figure>
-                  <graphic url="images/Projektgeschichte_Hanslick_Karikatur.jpg"></graphic>
-                  <head>Eduard Hanslick and Richard Wagner, silhouette by Otto Böhler; by courtesy of <ref target="https://onb.digital/result/10F2ECCA">Österreichische Nationalbibliothek</ref></head>
-               </figure>
                <p>The project “Eduard Hanslick's Criticism Between Aesthetics, Journalism, and Scholarship”
                   now shifts the focus of our ongoing research to Hanslick's critical writings while retaining
                   our attention to questions of textual analysis. While scholarship has so far fixated chiefly on analyzing and interpreting 
@@ -282,17 +277,15 @@
                   (expression, speech figures, metaphors, etc.), opening the project to an
                   analysis of cultural, political, and general historical contexts as well as their
                   shifts over, which will become the focal point of a follow-up project.
-                  
                   The textual analysis is based on the digital edition of
                   <emph>Vom Musikalisch-Schönen</emph> (2023) and the transcription / TEI annotation of
                   Hanslick’s writings for the <emph>Neue Freie Presse</emph> (1864-1904) and his 12 anthologies,
                   which are being put online in an <ref target="https://hanslick-online.github.io/hsl-app/toc.html"
-                     >ongoing process</ref>.
-                  
-                   
-                  
-                  
-                  </p>
+                     >ongoing process</ref>.</p>
+               <figure>
+                  <graphic url="images/Projektgeschichte_Hanslick_Karikatur.jpg"></graphic>
+                  <head>Eduard Hanslick and Richard Wagner, silhouette by Otto Böhler; by courtesy of <ref target="https://onb.digital/result/10F2ECCA">Österreichische Nationalbibliothek</ref></head>
+               </figure>
             </div>
          </div>
       </body>
