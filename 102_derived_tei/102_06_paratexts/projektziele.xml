@@ -54,28 +54,46 @@
                         keine Vorlagen, Entwürfe oder Skizzen seiner Schriften bekannt. Die von uns
                         edierten Drucke machen hiermit die Primärquellen der Hanslick-Forschung aus,
                         die nun als digitale Edition mit TEI-Markup und Suchfunktion für alle
-                        zugänglich sind.</item>
+                        zugänglich sind und sich als Standard der Hanslick-Forschung etablieren
+                        sollen.</item>
                      <item>Hanslick hat <emph>Vom Musikalisch-Schönen</emph> aus persönlichen,
                         inhaltlichen und politischen Gründen immer wieder überarbeitet. „Hanslick
                         Online“ visualisiert diese Änderungen und ermöglicht Vergleiche von Absätzen
                         einzelner oder auch aller Auflagen, was es uns erleichtert, die Entwicklung
                         der Abhandlung zu rekonstruieren.</item>
-                     <item>Die bisherige Hanslick Forschung hat oft versucht, die ästhetische
-                        Auffassung Hanslicks auf den Punkt zu bringen und ebnete hierbei oft die
-                        Spannung zwischen einzelnen Auflagen ein. „Hanslick im Kontext“ reflektiert
-                        hingegen die Dynamik von Hanslicks Position(en), deren Verlauf mittels
-                        „Hanslick Online“ erstmals wirklich fasslich wird.</item>
+                     <item>Die bisherige Hanslick-Forschung hat oft versucht, <emph>die</emph>
+                        ästhetische Auffassung Hanslicks auf den Punkt zu bringen und ebnete hierbei
+                        oft die Spannung zwischen einzelnen Auflagen ein. „Hanslick im Kontext“
+                        reflektiert hingegen die <emph>Dynamik</emph> von Hanslicks Position(en),
+                        deren Verlauf in einzelnen Auflagen des Traktats mittels „Hanslick Online“
+                        erstmals wirklich fasslich wird.</item>
+                     <item>Im Hinblick auf die Dynamik von Hanslicks Standpunkt werden dann auch
+                        Vergleiche zwischen <emph>Vom Musikalisch-Schönen</emph> und späteren Texten wichtig.
+                        Suchbegriffe ermöglichen dabei einen weitgehend kompletten Überblick
+                        zentraler Begriffe sowie ihrer Funktion in Hanslicks Musikbild, das so auf
+                        Kohärenzen, Widersprüche, Veränderungen und Differenzierungen geprüft werden
+                        kann.</item>
                      <item>Hanslick benutzte seine eigenen Texte manchmal mehrfach: so übernahm er
-                        Passagen seiner frühen Kritiken in seinen Traktat, arbeitete in späteren
-                        Auflagen aber auch Elemente aus anderen Artikeln oder Büchern ein. Da solche
-                        Stellen nur ab und zu von Hanslick markiert wurden, soll „Hanslick Online“
-                        das Auffinden von unbekannten Übernahmen ermöglichen.</item>
+                        Passagen seiner frühen Kritiken in <emph>Vom Musikalisch-Schönen</emph>,
+                        arbeitete in späteren Auflagen aber auch Elemente aus anderen Artikeln oder
+                        Büchern ein. Da Hanslick solche Stellen nur ab und zu als richtige Zitate
+                        markiert, soll „Hanslick Online“ das Auffinden von unbekannten Übernahmen
+                        ermöglichen.</item>
                      <item>Das betrifft vor allem seine Anthologien, die von Hanslick aus bereits
                         gedruckten Aufsätzen kompiliert wurden. Hin und wieder wurden dafür auch
                         mehrere Kritiken eines Werks zu einem neuen Kapitel verschmolzen oder
                         Stellen eines nicht integrierten Aufsatzes verschoben. Für solche Fälle, die
                         manuell kaum entdeckt werden können, bedarf es automatisierter
-                        Textabgleiche.</item>
+                        Textvergleiche.</item>
+                     <item>Zuletzt wird aber auch die Deutung von Hanslicks Standpunkt von der
+                        hierbei jeweils genutzten Auflage von <emph>Vom Musikalisch-Schönen</emph>
+                        zumindest mittelbar bestimmt. Die deutschsprachige Hanslick-Forschung, die
+                        Hanslick oft in die Tradition der idealistischen Kunstästhetik stellt, geht
+                        dabei meist von der 1. Auflage aus. Auf Englisch liegen dagegen jedoch die
+                        7., 9. und 10. Auflage vor, aus denen einige idealistisch anmutende
+                        Textpassagen getilgt wurden. Ein kritischer Vergleich der Auflagen
+                        erschließt demnach nicht nur die Genese des Textes selbst, sondern ebenso
+                        die Formation ganzer Diskurse und Rezeptionsmuster.</item>
                   </list>
                </div>
             </div>
