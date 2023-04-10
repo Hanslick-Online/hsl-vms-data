@@ -214,7 +214,11 @@
             <div type="inline">
                <figure>
                   <graphic url="images/Projektgeschichte_Hanslick_Auflagen_new.jpg"></graphic>
-                  <head><ref target="https://archive.org/details/VomMusikalischSchnen1tea1854/mode/2up">edition 1 (1854)</ref> and <ref target="https://archive.org/details/VomMusikalischSchnen10tea1902/mode/2up">edition 10 (1902)</ref> of <emph>Vom Musikalisch-Schönen</emph></head>
+                  <head><emph>Vom Musikalisch-Schönen</emph>, <ref
+                        target="https://archive.org/details/VomMusikalischSchnen1tea1854/mode/2up"
+                        >edition 1 (1854)</ref> and <ref
+                        target="https://archive.org/details/VomMusikalischSchnen10tea1902/mode/2up"
+                        >edition 10 (1902)</ref></head>
                </figure>
                <p>The project “Eduard Hanslick’s <emph>Vom Musikalisch-Schönen</emph>: An Analysis of the Dynamic
                   Features of the Text and Its Contexts” resumed our treatment of Hanslick’s

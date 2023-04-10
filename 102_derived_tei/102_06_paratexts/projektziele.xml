@@ -33,7 +33,51 @@
             <head>Projektziele von „Hanslick Online“</head>
             <byline>Alexander Wilfing</byline>
             <div type="block">
-               <p></p>
+               <p>Die Website „Hanslick Online“, die aus der Projektreihe „<ref
+                     target="projektgeschichte.html">Hanslick im Kontext</ref>“ entstanden ist,
+                  ermöglicht Vergleiche zwischen Eduard Hanslicks Schriften: einerseits zwischen den
+                  10 Auflagen seines Traktats <ref
+                     target="https://hanslick-online.github.io/hsl-app/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?prs=off&amp;plc=off&amp;wrk=off&amp;pbs=off&amp;fs=default&amp;ff=default&amp;img=on"
+                        ><emph>Vom Musikalisch-Schönen</emph></ref>, die von ihm zeitlebens
+                  publiziert wurden, andererseits zwischen Hanslicks Aufsätzen für die <ref
+                     target="https://hanslick-online.github.io/hsl-app/toc.html"><emph>Neue Freie
+                        Presse</emph></ref> und den 12 Anthologien, die Hanslick aus diesen Texten
+                  gebaut hat und die sich hier als <ref target="bedeutung-hanslick.html">Liste</ref>
+                  finden lassen (dieses Feature ist aktuell in Arbeit). Zukünftig soll auch die
+                  Möglichkeit von automatisierten Quervergleichen zwischen dem Traktat, den Kritiken
+                  und den Anthologien bereitgestellt werden, welche im Rahmen eines neuen Projekts
+                  für die Bedürfnisse dieses Textkorpus zu schaffen sein wird. Hiermit reagiert
+                  „Hanslick Online“ auf mehrere konkrete Probleme der Hanslick-Forschung: </p>
+            <div type="block">
+                  <list type="bibl">
+                     <item>Da Hanslicks Nachlass im 2. Weltkrieg verlustig ging, sind (Stand heute)
+                        keine Vorlagen, Entwürfe oder Skizzen seiner Schriften bekannt. Die von uns
+                        edierten Drucke machen hiermit die Primärquellen der Hanslick-Forschung aus,
+                        die nun als digitale Edition mit TEI-Markup und Suchfunktion für alle
+                        zugänglich sind.</item>
+                     <item>Hanslick hat <emph>Vom Musikalisch-Schönen</emph> aus persönlichen,
+                        inhaltlichen und politischen Gründen immer wieder überarbeitet. „Hanslick
+                        Online“ visualisiert diese Änderungen und ermöglicht Vergleiche von Absätzen
+                        einzelner oder auch aller Auflagen, was es uns erleichtert, die Entwicklung
+                        der Abhandlung zu rekonstruieren.</item>
+                     <item>Die bisherige Hanslick Forschung hat oft versucht, die ästhetische
+                        Auffassung Hanslicks auf den Punkt zu bringen und ebnete hierbei oft die
+                        Spannung zwischen einzelnen Auflagen ein. „Hanslick im Kontext“ reflektiert
+                        hingegen die Dynamik von Hanslicks Position(en), deren Verlauf mittels
+                        „Hanslick Online“ erstmals wirklich fasslich wird.</item>
+                     <item>Hanslick benutzte seine eigenen Texte manchmal mehrfach: so übernahm er
+                        Passagen seiner frühen Kritiken in seinen Traktat, arbeitete in späteren
+                        Auflagen aber auch Elemente aus anderen Artikeln oder Büchern ein. Da solche
+                        Stellen nur ab und zu von Hanslick markiert wurden, soll „Hanslick Online“
+                        das Auffinden von unbekannten Übernahmen ermöglichen.</item>
+                     <item>Das betrifft vor allem seine Anthologien, die von Hanslick aus bereits
+                        gedruckten Aufsätzen kompiliert wurden. Hin und wieder wurden dafür auch
+                        mehrere Kritiken eines Werks zu einem neuen Kapitel verschmolzen oder
+                        Stellen eines nicht integrierten Aufsatzes verschoben. Für solche Fälle, die
+                        manuell kaum entdeckt werden können, bedarf es automatisierter
+                        Textabgleiche.</item>
+                  </list>
+               </div>
             </div>
          </div>
       </body>

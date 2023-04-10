@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>102_derived_tei/102_06_paratexts/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>TEI P5 XHTML - diff documents refactored</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>102_derived_tei/102_02_tei-simple_refactored/07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -55,26 +75,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>facs2pb</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>102_derived_tei/102_06_paratexts/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>TEI P5 XHTML - diff documents refactored</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
