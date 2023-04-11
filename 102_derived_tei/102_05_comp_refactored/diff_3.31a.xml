@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 3.31a</title>
+            <title>Concorance 3.31a</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,14 +325,14 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3209a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_3.31b.html">§ 3.31b</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3209a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_3.31b.html">3.31b</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3160a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_3.31b.html">§ 3.31b</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3160a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_3.31b.html">3.31b</ref>
                   </seg>
                </cell>
             </row>

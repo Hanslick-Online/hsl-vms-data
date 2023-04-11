@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 5.7</title>
+            <title>Concorance 5.7</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,27 +325,30 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.6.html">§ 5.6</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4007a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_5.8.html">§ 5.8</ref>
+                     <ref type="prevLink" target="diff_5.6.html">5.6</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4007a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_5.8.html">5.8</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.6.html">§ 5.6</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4164a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_5.8.html">§ 5.8</ref>
+                     <ref type="prevLink" target="diff_5.6.html">5.6</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4164a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_5.8.html">5.8</ref>
                   </seg>
+               </cell>
+               <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.6.html">§ 5.6</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4556a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_5.8.html">§ 5.8</ref>
+                     <ref type="prevLink" target="diff_5.6.html">5.6</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4556a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_5.8.html">5.8</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Der drängende Gläubiger, der durch die Töne seines Schuldners bewogen wird, ihm die ganze Summe zu schenken, ist dazu nicht anders angetrieben als der Ruhende, den ein Walzermotiv plötzlich zum Tanz begeistert. Der Erstere wird mehr durch die geistigeren Elemente: Harmonie und Melodie, der Zweite durch den sinnlicheren Rhythmus bewegt. Keiner von Beiden handelt aber aus freier Selbstbestimmung, keiner überwältigt durch geistige Ueberlegenheit oder ethische Schönheit, sondern in Folge befördernder Nervenreize. Die Musik löst ihnen die Füße oder das Herz, gerade so wie der Wein die Zunge. Solche Siege predigen nur die Schwäche des Besiegten.</cell>
                <cell xml:id="v2">Der drängende Gläubiger, der durch die Töne seines Schuldners bewogen wird, ihm die ganze Summe zu schenken , ist dazu nicht anders angetrieben als der Ruhende, den ein Walzermotiv plötzlich zum Tanz begeistert. Der Erstere wird mehr durch die geistigeren Elemente: Harmonie und Melodie, der Zweite durch den sinnlicheren Rhythmus bewegt. Keiner von Beiden handelt aber aus freier Selbstbestimmung, keiner überwältigt durch geistige Ueberlegenheit oder ethische Schönheit, sondern in Folge befördernder Nervenreize. Die Musik löst ihm die Füße oder das Herz, gerade so wie der Wein die Zunge. Solche Siege predigen nur die Schwäche des Besiegten.</cell>
+               <cell xml:id="v3">Der drängende Gläubiger, der durch die Töne seines Schuldners bewogen wird, ihm die ganze Summe zu schenken, ist dazu nicht anders angetrieben als der Ruhende, den ein Walzermotiv plötzlich zum Tanz begeistert. Der Erstere wird mehr durch die geistigeren Elemente: Harmonie und Melodie, der Zweite durch den sinnlicheren Rhythmus bewegt. Keiner von Beiden handelt aber aus freier Selbstbestimmung, keiner überwältigt durch geistige Ueberlegenheit oder ethische Schönheit, sondern in Folge befördernder Nervenreize. Die Musik löst ihm die Füße oder das Herz, gerade so wie der Wein die Zunge. Solche Siege predigen nur die Schwäche des Besiegten.</cell>
             </row>
          </table>
       </body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 2.14</title>
+            <title>Concorance 2.14</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,72 +325,72 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1161a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_2.15.html">§ 2.15</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1161a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_2.15.html">2.15</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1329a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_2.15.html">§ 2.15</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1367a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1329a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_2.15.html">2.15</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1383a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1367a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1367a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1383a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1620a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1550a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1367a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1545a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1620a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1550a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1543a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1545a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1543a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.13.html">§ 2.13</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1506a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_2.14.1.html">§ 2.14.1</ref>
+                     <ref type="prevLink" target="diff_2.13.html">2.13</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1506a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_2.14.1.html">2.14.1</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Nur das Dynamische derselben. Sie vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam, stark, schwach, steigernd, fallend nachzubilden. Bewegung ist aber nur eine Eigenschaft, ein Moment des Gefühls, nicht dieses selbst. Gemeiniglich glaubt man, das darstellende Vermögen der Musik genügend zu begrenzen, wenn man behauptet, sie könne keineswegs den Gegenstand eines Gefühles bezeichnen, wohl aber das Gefühl selbst, z. B. nicht das Object einer bestimmten Liebe, wohl aber „Liebe.“ Sie kann dies in Wahrheit ebensowenig. Nicht Liebe, sondern nur eine Bewegung kann sie schildern, welche bei der Liebe, oder auch bei einem andern Affect vorkommen kann, immer jedoch das Unwesentliche seines Charakters ist. „Liebe“ ist ein abstracter Begriff, so gut wie „Tugend“ und „Unsterblichkeit.“ Die Versicherung der Theoretiker, Musik habe keine abstracten Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß nur Ideen, d. i. lebendig gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst. Aber auch die Ideen, oder die Idee der Liebe, des Zornes, der Furcht können Instrumentalwerke nicht zur Erscheinung bringen, weil zwischen jenen Ideen und schönen Tonverbindungen kein nothwendiger Zusammenhang besteht. Welches Moment dieser Ideen istʼs denn also, dessen die Musik sich in der That so wirksam zu bemächtigen weiß? Es ist die Bewegung (natürlich in dem weiteren Sinne, der auch das Anschwellen und Abschwächen des einzelnen Tones oder Accordes als „Bewegung“ auffaßt). Sie bildet das Element, welches die Tonkunst mit den Gefühlszuständen gemeinschaftlich hat, und das sie schöpferisch in tausend Abstufungen und Gegensätzen zu gestalten vermag.</cell>
-               <cell xml:id="v2">Nur das Dynamische derselben. Sie vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam, stark, schwach, steigernd, fallend nachzubilden. Bewegung ist aber nur eine Eigenschaft, ein Moment des Gefühls, nicht dieses selbst. Gemeiniglich glaubt man, das darstellende Vermögen der Musik genügend zu begrenzen, wenn man behauptet, sie könne keineswegs den Gegenstand eines Gefühles bezeichnen, wohl aber das Gefühl selbst, z. B. nicht das Object einer bestimmten Liebe, wohl aber „Liebe.“ Sie kann dies in Wahrheit ebensowenig. Nicht Liebe, sondern nur eine Bewegung kann sie schildern, welche bei der Liebe, oder auch einem andern Affect vorkommen kann, immer jedoch das Unwesentliche seines Charakters ist. „Liebe“ ist ein abstracter Begriff, so gut wie „Tugend“ und „Unsterblichkeit.“ Die Versicherung der Theoretiker, Musik habe keine abstracten Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß nur Ideen, d. i. lebendig gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst. Aber auch die Ideen, oder die Idee der Liebe, des Zornes, der Furcht können Instrumentalwerke nicht zur Erscheinung bringen, weil zwischen jenen Ideen und schönen Tonverbindungen kein nothwendiger Zusammenhang besteht. Welches Moment dieser Ideen istʼs denn also, dessen die Musik sich in der That so wirksam zu bemächtigen weiß? Es ist die Bewegung (natürlich in dem weiteren Sinne, der auch das Anschwellen und Abschwächen des einzelnen Tones oder Accordes als „Bewegung“ auffaßt). Sie bildet das Element, welches die Tonkunst mit den Gefühlszuständen gemeinschaftlich hat, und das sie schöpferisch in tausend Abstufungen und Gegensätzen zu gestalten vermag.</cell>
+               <cell xml:id="v2">Nur das Dynamische derselben. Sie vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam, stark, schwach, steigernd, fallend nachzubilden. Bewegung ist aber nur eine Eigenschaft, ein Moment des Gefühls, nicht dieses selbst. Gemeiniglich glaubt man, das darstellende Vermögen der Musik genügend zu begrenzen, wenn man behauptet, sie könne keineswegs den Gegenstand eines Gefühles bezeichnen, wohl aber das Gefühl selbst, z. B. nicht das Object einer bestimmten Liebe, wohl aber „Liebe.“ Sie kann dies in Wahrheit ebensowenig. Nicht Liebe, sondern nur eine Bewegung kann sie schildern, welche bei der Liebe, oder auch einem andern Affect vorkommen kann, immer jedoch das Unwesentliche seines Charakters ist. „Liebe“ ist ein abstracter Begriff, so gut wie „Tugend“ und „Unsterblichkeit“. Die Versicherung der Theoretiker, Musik habe keine abstracten Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß nur Ideen, d. i. lebendig gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst. Aber auch die Ideen, oder die Idee der Liebe, des Zornes, der Furcht können Instrumentalwerke nicht zur Erscheinung bringen, weil zwischen jenen Ideen und schönen Tonverbindungen kein nothwendiger Zusammenhang besteht. Welches Moment dieser Ideen istʼs denn also, dessen die Musik sich in der That so wirksam zu bemächtigen weiß? Es ist die Bewegung (natürlich in dem weiteren Sinne, der auch das Anschwellen und Abschwächen des einzelnen Tones oder Accordes als „Bewegung“ auffaßt). Sie bildet das Element, welches die Tonkunst mit den Gefühlszuständen gemeinschaftlich hat, und das sie schöpferisch in tausend Abstufungen und Gegensätzen zu gestalten vermag.</cell>
                <cell xml:id="v3">Nur das Dynamische derselben. Sie vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam, stark, schwach, steigernd, fallend nachzubilden. Bewegung ist aber nur eine Eigenschaft, ein Moment des Gefühls, nicht dieses selbst. Gemeiniglich glaubt man, das darstellende Vermögen der Musik genügend zu begrenzen, wenn man behauptet, sie könne keineswegs den Gegenstand eines Gefühls bezeichnen, wohl aber das Gefühl selbst, z. B. nicht das Object einer bestimmten Liebe, wohl aber „Liebe.“ Sie kann dies in Wahrheit ebensowenig. Nicht Liebe, sondern nur eine Bewegung kann sie schildern, welche bei der Liebe oder auch einem andern Affect vorkommen kann, immer jedoch das Unwesentliche seines Charakters ist. „Liebe“ ist ein abstracter Begriff, so gut wie „Tugend“ und „Unsterblichkeit.“ Die Versicherung der Theoretiker, Musik habe keine abstracten, Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß nur Ideen, d. i. lebendig gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst. Aber auch die Ideen der Liebe, des Zornes, der Furcht können Instrumentalwerke nicht zur Erscheinung bringen, weil zwischen jenen Ideen und schönen Tonverbindungen kein nothwendiger Zusammenhang besteht. Welches Moment dieser Ideen istʼs denn also, dessen die Musik sich in der That so wirksam zu bemächtigen weiß? Es ist die Bewegung (natürlich in dem weiteren Sinne, der auch das Anschwellen und Abschwächen des einzelnen Tones oder Accordes als „Bewegung“ auffaßt). Sie bildet das Element, welches die Tonkunst mit den Gefühlszuständen gemeinschaftlich hat, und das sie schöpferisch in tausend Abstufungen und Gegensätzen zu gestalten vermag.</cell>
                <cell xml:id="v4">Nur das Dynamische derselben. Sie vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam, stark, schwach, steigernd, fallend nachzubilden. Bewegung ist aber nur eine Eigenschaft, ein Moment des Gefühls, nicht dieses selbst. Gemeiniglich glaubt man, das darstellende Vermögen der Musik genügend zu begrenzen, wenn man behauptet, sie könne keineswegs den Gegenstand eines Gefühls bezeichnen, wohl aber das Gefühl selbst, z. B. nicht das Object einer bestimmten Liebe, wohl aber „Liebe“. Sie kann dies in Wahrheit ebensowenig. Nicht Liebe, sondern nur eine Bewegung kann sie schildern, welche bei der Liebe oder auch einem andern Affect vorkommen kann, immer jedoch das Unwesentliche seines Charakters ist. „Liebe“ ist ein abstracter Begriff, so gut wie „Tugend“ und „Unsterblichkeit“. Die Versicherung der Theoretiker, Musik habe keine abstracten Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß nur Ideen, d. i. lebendig gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst. Aber auch die Ideen der Liebe, des Zornes, der Furcht können Instrumentalwerke nicht zur Erscheinung bringen, weil zwischen jenen Ideen und schönen Tonverbindungen kein nothwendiger Zusammenhang besteht. Welches Moment dieser Ideen istʼs denn also, dessen die Musik sich in der That so wirksam zu bemächtigen weiß? Es ist die Bewegung (natürlich in dem weiteren Sinne, der auch das Anschwellen und Abschwächen des einzelnen Tones oder Accordes als „Bewegung“ auffaßt). Sie bildet das Element, welches die Tonkunst mit den Gefühlszuständen gemeinschaftlich hat, und das sie schöpferisch in tausend Abstufungen und Gegensätzen zu gestalten vermag.</cell>
                <cell xml:id="v5">Nur das Dynamische derselben. Sie vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam, stark, schwach, steigend, fallend nachzubilden. Bewegung ist aber nur eine Eigenschaft, ein Moment des Gefühls, nicht dieses selbst. Gemeiniglich glaubt man, das darstellende Vermögen der Musik genügend zu begrenzen, wenn man behauptet, sie könne keineswegs den Gegenstand eines Gefühls bezeichnen, wohl aber das Gefühl selbst, z. B. nicht das Object einer bestimmten Liebe, wohl aber „Liebe“. Sie kann dies in Wahrheit ebensowenig. Nicht Liebe, sondern nur eine Bewegung kann sie schildern, welche bei der Liebe oder auch einem andern Affect vorkommen kann, immer jedoch das Unwesentliche seines Charakters ist. „Liebe“ ist ein abstracter Begriff, so gut wie „Tugend“ und „Unsterblichkeit“. Die Versicherung der Theoretiker, Musik habe keine abstracten Begriffe darzustellen, ist überflüssig; denn keine Kunst kann dies. Daß nur Ideen, d. i. lebendig gewordene Begriffe Inhalt künstlerischer Verkörperung sind, versteht sich von selbst. Aber auch die Ideen der Liebe, des Zornes, der Furcht können Instrumentalwerke nicht zur Erscheinung bringen, weil zwischen jenen Ideen und schönen Tonverbindungen kein nothwendiger Zusammenhang besteht. Welches Moment dieser Ideen istʼs denn also, dessen die Musik sich in der That so wirksam zu bemächtigen weiß? Es ist die Bewegung (natürlich in dem weiteren Sinne, der auch das Anschwellen und Abschwächen des einzelnen Tones oder Accordes als „Bewegung“ auffaßt). Sie bildet das Element, welches die Tonkunst mit den Gefühlszuständen gemeinschaftlich hat, und das sie schöpferisch in tausend Abstufungen und Gegensätzen zu gestalten vermag.</cell>

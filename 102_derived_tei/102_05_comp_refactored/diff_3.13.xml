@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 3.13</title>
+            <title>Concorance 3.13</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,75 +325,75 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2160a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2160a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2320a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2320a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2443a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2443a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2467a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2467a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2398a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2398a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2875a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2875a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e2835a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e2835a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e2848a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e2848a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e2853a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e2853a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.12.html">§ 3.12</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e2807a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_3.14.html">§ 3.14</ref>
+                     <ref type="prevLink" target="diff_3.12.html">3.12</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e2807a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_3.14.html">3.14</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Keineswegs ist das „Specifisch-Musikalische“ als blos akustische Schönheit, oder proportionale Dimension zu verstehen, – Zweige, die es als untergeordnet in sich begreift, – noch weniger kann von einem „ohrenkitzelnden Spiel in Tönen“ die Rede sein und ähnlichen Bezeichnungen, womit der Mangel an geistiger Beseelung hervorgehoben zu werden pflegt. Dadurch, daß wir auf musikalische Schönheit dringen, haben wir den geistigen Gehalt nicht ausgeschlossen, sondern ihn vielmehr bedingt. Denn wir anerkennen keine Schönheit ohne Geist. Indem wir aber das Schöne in der Musik wesentlich in Formen verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhang mit diesen Tonformen stehe. Der Begriff der „Form“ findet in der Musik eine ganz eigenthümliche Verwirklichung. Die Formen, welche sich aus Tönen bilden, sind nicht leere, sondern erfüllte, nicht bloße Linienbegrenzung eines Vacuums, sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist dennoch die Musik in der That ein Bild, allein ein solches, dessen Gegenstand wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist Sinn und Folge, aber musikalische; sie ist eine Sprache, die wir sprechen und verstehen, jedoch zu übersetzen nicht im Stande sind. Es liegt eine tiefsinnige Erkenntniß darin, daß man auch in Tonwerken von „Gedanken“ spricht, und wie in der Rede unterscheidet da das geübte Urtheil leicht echte Gedanken von bloßen Redensarten. Ebenso erkennen wir das vernünftig Abgeschlossene einer Tongruppe, indem wir sie einen „Satz“ nennen. Fühlen wir doch so genau, wie bei jeder logischen Periode, wo ihr Sinn zu Ende ist, obgleich die Wahrheit beider ganz incommensurabel dasteht.</cell>
                <cell xml:id="v2">Keineswegs ist das „Specifisch-Musikalische“ als blos akustische Schönheit, oder proportionale Dimension zu verstehen, – Zweige, die es als untergeordnet in sich begreift, – noch weniger kann von einem „ohrenkitzelnden Spiel in Tönen“ die Rede sein und ähnlichen Bezeichnungen, womit der Mangel an geistiger Beseelung hervorgehoben zu werden pflegt. Dadurch, daß wir auf musikalische Schönheit dringen, haben wir den geistigen Gehalt nicht ausgeschlossen, sondern ihn vielmehr bedingt. Denn wir anerkennen keine Schönheit ohne Geist. Indem wir aber das Schöne in der Musik wesentlich in Formen verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhange mit diesen Tonformen steht. Der Begriff der „Form“ findet in der Musik eine ganz eigenthümliche Verwirklichung. Die Formen, welche sich aus Tönen bilden, sind nicht leere, sondern erfüllte, nicht bloße Linienbegrenzung eines Vacuums, sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist dennoch die Musik in der That ein Bild, allein ein solches, dessen Gegenstand wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist Sinn und Folge, aber musikalische; sie ist eine Sprache, die wir sprechen und verstehen, jedoch zu übersetzen nicht im Stande sind. Es liegt eine tiefsinnige Erkenntniß darin, daß man auch in Tonwerken von „Gedanken“ spricht, und wie in der Rede unterscheidet da das geübte Urtheil leicht echte Gedanken von bloßen Redensarten. Ebenso erkennen wir das vernünftig Abgeschlossene einer Tongruppe, indem wir sie einen „Satz“ nennen. Fühlen wir doch so genau, wie bei jeder logischen Periode, wo ihr Sinn zu Ende ist, obgleich die Wahrheit beider ganz incommensurabel dasteht.</cell>
-               <cell xml:id="v3">Keineswegs ist das „Specifisch-Musikalische“ als blos akustische Schönheit, oder proportionale Dimension zu verstehen, – Zweige, die es als untergeordnet in sich begreift, – noch weniger kann von einem „ohrenkitzelnden Spiel in Tönen“ die Rede sein und ähnlichen Bezeichnungen, womit der Mangel an geistiger Beseelung hervorgehoben zu werden pflegt. Dadurch, daß wir auf musikalische Schönheit dringen, haben wir den geistigen Gehalt nicht ausgeschlossen, sondern ihn vielmehr bedingt. Denn wir anerkennen keine Schönheit ohne Geist. Indem wir aber das Schöne in der Musik wesentlich in Formen verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhange mit diesen Tonformen steht. Der Begriff der „Form“ findet in der Musik eine ganz eigenthümliche Verwirklichung. Die Formen, welche sich aus Tönen bilden, sind nicht leere, sondern erfüllte, nicht loße Linienbegrenzung eines Vacuums, sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist dennoch die Musik in der That ein Bild, allein ein solches, dessen Gegenstand wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist Sinn und Folge, aber musikalische; sie ist eine Sprache, die wir sprechen und verstehen, jedoch zu übersetzen nicht im Stande sind. Es liegt eine tiefsinnige Erkenntniß darin daß man auch in Tonwerken von „Gedanken“ spricht, und wie in der Rede unterscheidet da das geübte Urtheil leicht echte Gedanken von bloßen Redensarten. Ebenso erkennen wir das vernünftig Abgeschlossene einer Tongruppe, indem wir sie einen „Satz“ nennen. Fühlen wir doch so genau, wie bei jeder logischen Periode, wo ihr Sinn zu Ende ist, obgleich die Wahrheit beider ganz incommensurabel dasteht.</cell>
+               <cell xml:id="v3">Keineswegs ist das „Specifisch-Musikalische“ als blos akustische Schönheit, oder proportionale Dimension zu verstehen, – Zweige, die es als untergeordnet in sich begreift, – noch weniger kann von einem „ohrenkitzelnden Spiel in Tönen“ die Rede sein und ähnlichen Bezeichnungen, womit der Mangel an geistiger Beseelung hervorgehoben zu werden pflegt. Dadurch, daß wir auf musikalische Schönheit dringen, haben wir den geistigen Gehalt nicht ausgeschlossen, sondern ihn vielmehr bedingt. Denn wir anerkennen keine Schönheit ohne Geist. Indem wir aber das Schöne in der Musik wesentlich in Formen verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhange mit diesen Tonformen steht. Der Begriff der „Form“ findet in der Musik eine ganz eigenthümliche Verwirklichung. Die Formen, welche sich aus Tönen bilden, sind nicht leere, sondern erfüllte, nicht bloße Linienbegrenzung eines Vacuums, sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist dennoch die Musik in der That ein Bild, allein ein solches, dessen Gegenstand wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist Sinn und Folge, aber musikalische; sie ist eine Sprache, die wir sprechen und verstehen, jedoch zu übersetzen nicht im Stande sind. Es liegt eine tiefsinnige Erkenntniß darin daß man auch in Tonwerken von „Gedanken“ spricht, und wie in der Rede unterscheidet da das geübte Urtheil leicht echte Gedanken von bloßen Redensarten. Ebenso erkennen wir das vernünftig Abgeschlossene einer Tongruppe, indem wir sie einen „Satz“ nennen. Fühlen wir doch so genau, wie bei jeder logischen Periode, wo ihr Sinn zu Ende ist, obgleich die Wahrheit beider ganz incommensurabel dasteht.</cell>
                <cell xml:id="v4">Keineswegs ist das „Specifisch-Musikalische“ als blos akustische Schönheit, oder proportionale Symmetrie zu verstehen, – Zweige, die es als untergeordnet in sich begreift, – noch weniger kann von einem „ohrenkitzelnden Spiel in Tönen“ die Rede sein und ähnlichen Bezeichnungen, womit der Mangel an geistiger Beseelung hervorgehoben zu werden pflegt. Dadurch, daß wir auf musikalische Schönheit dringen, haben wir den geistigen Gehalt nicht ausgeschlossen, sondern ihn vielmehr bedingt. Denn wir anerkennen keine Schönheit ohne jeglichen Antheil von Geist. Indem wir aber das Schöne in der Musik wesentlich in Formen verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhange mit diesen Tonformen steht. Der Begriff der „Form“ findet in der Musik eine ganz eigenthümliche Verwirklichung. Die Formen, welche sich aus Tönen bilden, sind nicht leere, sondern erfüllte, nicht bloße Linienbegrenzung eines Vacuums, sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist demnach die Musik in der That ein Bild, allein ein solches, dessen Gegenstand wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist Sinn und Folge, aber musikalische; sie ist eine Sprache, die wir sprechen und verstehen, jedoch zu übersetzen nicht im Stande sind. Es liegt eine tiefsinnige Erkenntniß darin daß man auch in Tonwerken von „Gedanken“ spricht, und wie in der Rede unterscheidet da das geübte Urtheil leicht echte Gedanken von bloßen Redensarten. Ebenso erkennen wir das vernünftig Abgeschlossene einer Tongruppe, indem wir sie einen „Satz“ nennen. Fühlen wir doch so genau wie bei jeder logischen Periode, wo ihr Sinn zu Ende ist, obgleich die Wahrheit beider ganz incommensurabel dasteht.</cell>
                <cell xml:id="v5">Keineswegs ist das „Specifisch-Musikalische“ als blos akustische Schönheit, oder proportionale Symmetrie zu verstehen, – Zweige, die es als untergeordnet in sich begreift, – noch weniger kann von einem „ohrenkitzelnden Spiel in Tönen“ die Rede sein und ähnlichen Bezeichnungen, womit der Mangel an geistiger Beseelung hervorgehoben zu werden pflegt. Dadurch, daß wir auf musikalische Schönheit dringen, haben wir den geistigen Gehalt nicht ausgeschlossen, sondern ihn vielmehr bedingt. Denn wir anerkennen keine Schönheit ohne jeglichen Antheil von Geist. Indem wir aber das Schöne in der Musik wesentlich in Formen verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhange mit diesen Tonformen steht. Der Begriff der „Form“ findet in der Musik eine ganz eigenthümliche Verwirklichung. Die Formen, welche sich aus Tönen bilden, sind nicht leere, sondern erfüllte, nicht bloße Linienbegrenzung eines Vacuums, sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist demnach die Musik in der That ein Bild, allein ein solches, dessen Gegenstand wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist Sinn und Folge, aber musikalische; sie ist eine Sprache, die wir sprechen und verstehen, jedoch zu übersetzen nicht im Stande sind. Es liegt eine tiefsinnige Erkenntniß darin, daß man auch in Tonwerken von „Gedanken“ spricht, und wie in der Rede unterscheidet da das geübte Urtheil leicht echte Gedanken von bloßen Redensarten. Ebenso erkennen wir das vernünftig Abgeschlossene einer Tongruppe, indem wir sie einen „Satz“ nennen. Fühlen wir doch so genau wie bei jeder logischen Periode, wo ihr Sinn zu Ende ist, obgleich die Wahrheit beider ganz incommensurabel dasteht.</cell>
                <cell xml:id="v6">Keineswegs ist das „Specifisch-Musikalische“ als blos akustische Schönheit, oder proportionale Symmetrie zu verstehen, – Zweige, die es als untergeordnet in sich begreift, – noch weniger kann von einem „ohrenkitzelnden Spiel in Tönen“ die Rede sein und ähnlichen Bezeichnungen, womit der Mangel an geistiger Beseelung hervorgehoben zu werden pflegt. Dadurch, daß wir auf musikalische Schönheit dringen, haben wir den geistigen Gehalt nicht ausgeschlossen, sondern ihn vielmehr bedingt. Denn wir anerkennen keine Schönheit ohne jeglichen Antheil von Geist. Indem wir aber das Schöne in der Musik wesentlich in Formen verlegt haben, ist schon angedeutet, daß der geistige Gehalt in engstem Zusammenhange mit diesen Tonformen steht. Der Begriff der „Form“ findet in der Musik eine ganz eigenthümliche Verwirklichung. Die Formen, welche sich aus Tönen bilden, sind nicht leer, sondern erfüllte, nicht bloße Linienbegrenzung eines Vacuums, sondern sich von innen heraus gestaltender Geist. Der Arabeske gegenüber ist demnach die Musik in der That ein Bild, allein ein solches, dessen Gegenstand wir nicht in Worte fassen und unsern Begriffen unterordnen können. In der Musik ist Sinn und Folge, aber musikalische; sie ist eine Sprache, die wir sprechen und verstehen, jedoch zu übersetzen nicht im Stande sind. Es liegt eine tiefsinnige Erkenntniß darin, daß man auch in Tonwerken von „Gedanken“ spricht, und wie in der Rede unterscheidet da das geübte Urtheil leicht echte Gedanken von bloßen Redensarten. Ebenso erkennen wir das vernünftig Abgeschlossene einer Tongruppe, indem wir sie einen „Satz“ nennen. Fühlen wir doch so genau wie bei jeder logischen Periode, wo ihr Sinn zu Ende ist, obgleich die Wahrheit beider ganz incommensurabel dasteht.</cell>

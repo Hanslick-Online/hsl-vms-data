@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 3.33</title>
+            <title>Concorance 3.33</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,66 +325,66 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2557a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2557a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2720a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2720a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3071a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3071a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2990a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2990a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3059a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3059a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3518a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3467a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3518a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3483a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3467a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3483a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3494a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3494a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.32.html">§ 3.32</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3451a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_3.34.html">§ 3.34</ref>
+                     <ref type="prevLink" target="diff_3.32.html">3.32</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3451a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_3.34.html">3.34</ref>
                   </seg>
                </cell>
             </row>
@@ -394,7 +394,7 @@
                <cell xml:id="v3">Einem möglichen Mißverstehen wollen wir schließlich dadurch begegnen, daß wir unsern Begriff des „Musikalisch-Schönen“ nach drei Seiten feststellen. Das „Musikalisch-Schöne“ in dem von uns angenommenen specifischen Sinn beschränkt sich nicht auf das „Classische,“ noch enthält es eine Bevorzugung desselben vor dem „Romantischen.“ Es gilt sowohl in der einen als der andern Richtung, beherrscht Bach so gut als Beethoven , Mozart so gut als Schumann . Unsere Thesis also enthält auch nicht die Andeutung einer Parteinahme. Der ganze Verlauf der gegenwärtigen Untersuchung spricht überhaupt kein Sollen aus, sondern betrachtet nur ein Sein; kein bestimmtes musikalisches Ideal läßt sich daraus als das wahrhaft Schöne deduciren, sondern blos nachweisen, was in jeder auch in den entgegengesetztesten Schulen in gleicher Weise das Schöne ist.</cell>
                <cell xml:id="v4">Einem möglichen Mißverstehen wollen wir schließlich dadurch begegnen, daß wir unsern Begriff des „Musikalisch-Schönen“ nach drei Seiten feststellen. Das „Musikalisch-Schöne“ in dem von uns angenommenen specifischen Sinn beschränkt sich nicht auf das „Classische“, noch enthält es eine Bevorzugung desselben vor dem „Romantischen“. Es gilt sowohl in der einen als der andern Richtung, beherrscht Bach so gut als Beethoven , Mozart so gut als Schumann . Unsere Thesis also enthält auch nicht die Andeutung einer Parteinahme. Der ganze Verlauf der gegenwärtigen Untersuchung spricht überhaupt kein Sollen aus, sondern betrachtet nur ein Sein; kein bestimmtes musikalisches Ideal läßt sich daraus als das wahrhaft Schöne deduciren, sondern blos nachweisen, was in jeder, auch in den entgegengesetztesten Schulen in gleicher Weise das Schöne ist.</cell>
                <cell xml:id="v5">Einem möglichen Mißverstehen wollen wir schließlich dadurch begegnen, daß wir unsern Begriff des „Musikalisch-Schönen“ nach drei Seiten feststellen. Das „Musikalisch-Schöne“ in dem von uns angenommenen specifischen Sinn beschränkt sich nicht auf das „Classische,“ noch enthält es eine Bevorzugung desselben vor dem „Romantischen.“ Es gilt sowohl in der einen als der andern Richtung, beherrscht Bach so gut als Beethoven , Mozart so gut als Schumann . Unsere Thesis also enthält auch nicht die Andeutung einer Parteinahme. Der ganze Verlauf der gegenwärtigen Untersuchung spricht überhaupt kein Sollen aus, sondern betrachtet nur ein Sein; kein bestimmtes musikalisches Ideal läßt sich daraus als das wahrhaft Schöne deduciren, sondern blos nachweisen, was in jeder, auch in den entgegengesetztesten Schulen in gleicher Weise das Schöne ist.</cell>
-               <cell xml:id="v6">Einem möglichen Mißverstehen wollen wir schließlich dadurch begegnen, daß wir unsern Begriff des „Musikalisch-Schönen“ nach drei Seiten feststellen. Das „Musikalisch-Schöne“ in dem von uns angenommenen specifischen Sinn beschränkt sich nicht auf das „Classische“, noch enthält es eine Bevorzugung desselben vor dem „Romantischen“. Es gilt sowohl in der einen als der andern Richtung, beherrscht Bach so gut wie Beethoven, Mozart so gut wie Schumann. Unsere Thesis also enthält auch nicht die Andeutung einer Parteinahme. Der ganze Verlauf der gegenwärtigen Untersuchung spricht überhaupt kein Sollen aus, sondern betrachtet nur ein Sein; kein bestimmtes musikalisches Ideal läßt sich daraus als das wahrhaft Schöne deduciren, sondern bloß nachweisen, was in jeder, auch in den entgegengesetztesten Schulen in gleicher Weise das Schöne ist.</cell>
+               <cell xml:id="v6">Einem möglichen Mißverstehen wollen wir schließlich dadurch begegnen, daß wir unsern Begriff des „Musikalisch-Schönen“ nach drei Seiten feststellen. Das „Musikalisch-Schöne“ in dem von uns angenommenen specifischen Sinn beschränkt sich nicht auf das „Classische“, noch enthält es eine Bevorzugung desselben vor dem „Romantischen“. Es gilt sowohl in der einen als der andern Richtung, beherrscht Bach so gut wie Beethoven,Mozart so gut wie Schumann. Unsere Thesis also enthält auch nicht die Andeu tung einer Parteinahme. Der ganze Verlauf der gegenwärtigen Untersuchung spricht überhaupt kein Sollen aus, sondern betrachtet nur ein Sein; kein bestimmtes musikalisches Ideal läßt sich daraus als das wahrhaft Schöne deduciren, sondern bloß nachweisen, was in jeder, auch in den entgegengesetztesten Schulen in gleicher Weise das Schöne ist.</cell>
                <cell xml:id="v7">Einem möglichen Mißverstehen wollen wir schließlich dadurch begegnen, daß wir unsern Begriff des „Musikalisch-Schönen“ nach drei Seiten feststellen. Das „Musikalisch-Schöne“ in dem von uns angenommenen spezifischen Sinn beschränkt sich nicht auf das „Klassische“, noch enthält es eine Bevorzugung desselben vor dem „Romantischen“. Es gilt sowohl in der einen als der andern Richtung, beherrscht Bach so gut wie Beethoven, Mozart so gut wie Schumann. Unsere Thesis also enthält auch nicht die Andeutung einer Parteinahme. Der ganze Verlauf der gegenwärtigen Untersuchung spricht überhaupt kein Sollen aus, sondern betrachtet nur ein Sein; kein bestimmtes musikalisches Ideal läßt sich daraus als das wahrhaft Schöne deduzieren, sondern bloß nachweisen, was in jeder, auch in den entgegengesetztesten Schulen in gleicher Weise das Schöne ist.</cell>
             </row>
          </table>

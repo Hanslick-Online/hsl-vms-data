@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 5.1a</title>
+            <title>Concorance 5.1a</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,52 +325,52 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.47.html">§ 4.47</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4324a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_5.1b.html">§ 5.1b</ref>
+                     <ref type="prevLink" target="diff_4.47.html">4.47</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4324a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_5.1b.html">5.1b</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.47.html">§ 4.47</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4241a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_5.1b.html">§ 5.1b</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.47.html">§ 4.47</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4829a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_5.1b.html">§ 5.1b</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.47.html">§ 4.47</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4748a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_5.1b.html">§ 5.1b</ref>
+                     <ref type="prevLink" target="diff_4.47.html">4.47</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4241a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_5.1b.html">5.1b</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.47.html">§ 4.47</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4793a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_5.1b.html">§ 5.1b</ref>
+                     <ref type="prevLink" target="diff_4.47.html">4.47</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4829a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.1b.html">5.1b</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.47.html">4.47</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4748a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_5.1b.html">5.1b</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.47.html">§ 4.47</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4795a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_5.1b.html">§ 5.1b</ref>
+                     <ref type="prevLink" target="diff_4.47.html">4.47</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4793a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_5.1b.html">5.1b</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.47.html">4.47</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4795a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_5.1b.html">5.1b</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.47.html">§ 4.47</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4762a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_5.1b.html">§ 5.1b</ref>
+                     <ref type="prevLink" target="diff_4.47.html">4.47</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4762a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_5.1b.html">5.1b</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Nichts hat die wissenschaftliche Entwicklung der musikalischen Aesthetik so empfindlich gehemmt als der übermäßige Werth, welchen man den Wirkungen der Musik auf die Gefühle beilegte. Je auffallender sich diese Wirkungen zeigten, desto höher pries man sie als Herolde musikalischer Schönheit. Wir haben im Gegentheil gesehen, daß gerade den überwältigendsten Eindrücken der Musik der stärkste Antheil körperlicher Erregung von Seite des Hörers beigemischt ist. Von Seite der Musik liegt diese heftige Eindringlichkeit in das Nervensysten nicht sowohl in ihrem künstlerischen Moment, das ja aus dem Geiste kommt und an den Geist sich wendet, als vielmehr in ihrem Material, dem die Natur jene unergründliche physiologische Wahlverwandtschaft eingeboren hat. Das Elementarische der Musik, der Klang und die Bewegung ist es, was die wehrlosen Gefühle so vieler Musikfreunde in Ketten schlägt, mit denen sie gar gerne klirren. Weit sei es von uns, die Rechte des Gefühls an die Musik verkürzen zu wollen. Allein dies Gefühl, welches sich thatsächlich mehr oder minder mit der reinen Anschauung paart, kann nur dann als künstlerisch gelten, wenn es sich seiner ästhetischen Herkunft bewußt bleibt, d. h. der Freude an einem und zwar gerade diesem bestimmten Schönen.</cell>
                <cell xml:id="v2">Nichts hat die wissenschaftliche Entwicklung der musikalischen Aesthetik so empfindlich gehemmt als der übermäßige Werth, welchen man den Wirkungen der Musik auf die Gefühle beilegte. Je auffallender sich diese Wirkungen zeigten, desto höher pries man sie als Herolde musikalischer Schönheit. Wir haben im Gegentheil gesehen, daß gerade den überwältigendsten Eindrücken der Musik der stärkste Antheil körperlicher Erregung von Seite des Hörers beigemischt ist. Von Seite der Musik liegt diese heftige Eindringlichkeit in das Nervensystem nicht sowohl in ihrem künstlerischen Moment, das ja aus dem Geiste kommt und an den Geist sich wendet, als vielmehr in ihrem Material, dem die Natur jene unergründliche physiologische Wahlverwandtschaft eingeboren hat. Das Elementarische der Musik, der Klang und die Bewegung ist es, was die wehrlosen Gefühle so vieler Musikfreunde in Ketten schlägt, mit denen sie gar gerne klirren. Weit sei es von uns, die Rechte des Gefühls an die Musik verkürzen zu wollen. Allein dies Gefühl, welches sich thatsächlich mehr oder minder mit der reinen Anschauung paart, kann nur dann als künstlerisch gelten, wenn es sich seiner ästhetischen Herkunft bewußt bleibt, d. h. der Freude an einem und zwar gerade diesem bestimmten Schönen.</cell>
-               <cell xml:id="v3">Nichts hat die wissenschaftliche Entwicklung der musikalischen Asthetik so empfindlich gehemmt als der übermäßige Wert, welchen man den Wirkungen der Musik auf die Gefühle beilegte. Je auffallender sich diese Wirkungen zeigten, desto höher pries man sie als Herolde musikalischer Schönheit. Wir haben im Gegenteil gesehen, daß gerade den überwältigendsten Eindrücken der Musik der stärkste Anteil körperlicher Erregung von Seite des Hörers beigemischt ist. Von Seite der Musik liegt diese heftige Eindringlichkeit in das Nervensystem nicht sowohl in ihrem künstlerischen Moment, das ja aus dem Geiste kommt und an den Geist sich wendet, als vielmehr in ihrem Material, dem die Natur jene unergründliche physiologische Wahlverwandtschaft eingeboren hat. Das Elementarische der Musik, der Klang und die Bewegung ist es, was die wehrlosen Gefühle so vieler Musikfreunde in Ketten schlägt, mit denen sie gar gerne klirren. Weit sei es von uns, die Rechte des Gefühls an die Musik verkürzen zu wollen. Allein dies Gefühl, welches sich thatsächlich mehr oder minder mit der reinen Anschauung paart, kann nur dann als künstlerisch gelten, wenn es sich seiner ästhetischen Herkunft bewußt bleibt, d. h. der Freude an einem und zwar gerade diesem bestimmten Schönen.</cell>
+               <cell xml:id="v3">Nichts hat die wissenschaftliche Entwicklung der musikalischen Ästhetik so empfindlich gehemmt als der übermäßige Wert, welchen man den Wirkungen der Musik auf die Gefühle beilegte. Je auffallender sich diese Wirkungen zeigten, desto höher pries man sie als Herolde musikalischer Schönheit. Wir haben im Gegenteil gesehen, daß gerade den überwältigendsten Eindrücken der Musik der stärkste Anteil körperlicher Erregung von Seite des Hörers beigemischt ist. Von Seite der Musik liegt diese heftige Eindringlichkeit in das Nervensystem nicht sowohl in ihrem künstlerischen Moment, das ja aus dem Geiste kommt und an den Geist sich wendet, als vielmehr in ihrem Material, dem die Natur jene unergründliche physiologische Wahlverwandtschaft eingeboren hat. Das Elementarische der Musik, der Klang und die Bewegung ist es, was die wehrlosen Gefühle so vieler Musikfreunde in Ketten schlägt, mit denen sie gar gerne klirren. Weit sei es von uns, die Rechte des Gefühls an die Musik verkürzen zu wollen. Allein dies Gefühl, welches sich thatsächlich mehr oder minder mit der reinen Anschauung paart, kann nur dann als künstlerisch gelten, wenn es sich seiner ästhetischen Herkunft bewußt bleibt, d. h. der Freude an einem und zwar gerade diesem bestimmten Schönen.</cell>
                <cell xml:id="v4">Nichts hat die wissenschaftliche Entwicklung der musikalischen Ästhetik so empfindlich gehemmt als der übermäßige Wert, welchen man den Wirkungen der Musik auf die Gefühle beilegte. Je auffallender sich diese Wirkungen zeigten, desto höher pries man sie als Herolde musikalischer Schönheit. Wir haben im Gegenteil gesehen, daß gerade den überwältigendsten Eindrücken der Musik ein stärkster Anteil körperlicher Erregung von Seite des Hörers beigemischt ist. Von Seite der Musik liegt diese heftige Eindringlichkeit in das Nervensystem nicht sowohl in ihrem künstlerischen Moment, das ja aus dem Geiste kommt und an den Geist sich wendet, als vielmehr in ihrem Material, dem die Natur jene unergründliche physiologische Wahlverwandtschaft eingeboren hat. Das Elementarische der Musik, der Klang und die Bewegung ist es, was die wehrlosen Gefühle so vieler Musikfreunde in Ketten schlägt, mit denen sie gar gerne klirren. Weit sei es von uns, die Rechte des Gefühls an die Musik verkürzen zu wollen. Allein dies Gefühl, welches sich thatsächlich mehr oder minder mit der reinen Anschauung paart, kann nur dann als künstlerisch gelten, wenn es sich seiner ästhetischen Herkunft bewußt bleibt, d. h. der Freude an einem und zwar gerade diesem bestimmten Schönen.</cell>
             </row>
          </table>

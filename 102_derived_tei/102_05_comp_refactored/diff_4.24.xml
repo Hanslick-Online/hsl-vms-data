@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 4.24</title>
+            <title>Concorance 4.24</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,71 +325,65 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3374a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3374a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3912a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3526a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
                   </seg>
-               </cell>
-               <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3526a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3912a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3765a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3855a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3765a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4354a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4274a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3855a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4310a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4354a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4323a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4274a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4310a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4323a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.23.html">§ 4.23</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4284a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_4.25.html">§ 4.25</ref>
+                     <ref type="prevLink" target="diff_4.23.html">4.23</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4284a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_4.25.html">4.25</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Was die musikalischen Monographen dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Nothwendiges zurückzuführen. Dies allein aber thut uns Noth, und weder die Ueberzeugungstreue eines Doctor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedtʼs , der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
-               <cell xml:id="v2">Was die musikalischen Monographen dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Nothwendiges zurückzuführen. Dies allein aber thut uns Noth, und weder die Ueberzeugungstreue eines Doctor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedt ʼs, der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
-               <cell xml:id="v3">Was die musikalischen Monographien dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Nothwendiges zurückzuführen. Dies allein aber thut uns Noth, und weder die Ueberzeugungstreue eines Doctor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedt ʼs, der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
-               <cell xml:id="v4">Was die musikalischen Monographien dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Nothwendiges zurückzuführen. Dies allein aber thut uns Noth, und weder die Ueberzeugungstreue eines Doctor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedtʼs , der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
-               <cell xml:id="v5">Was die musikalischen Monographien dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Notwendiges zurückzuführen. Dies allein aber thut uns not, und weder die Überzeugungstreue eines Doktor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedts , der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
+               <cell xml:id="v1">Was die musikalischen Monographen dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Nothwendiges zurückzuführen. Dies allein aber thut uns Noth, und weder die Ueberzeugungstreue eines Doctor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedtʼs, der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
+               <cell xml:id="v2">Was die musikalischen Monographien dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Nothwendiges zurückzuführen. Dies allein aber thut uns Noth, und weder die Ueberzeugungstreue eines Doctor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedtʼs, der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
+               <cell xml:id="v3">Was die musikalischen Monographien dieses Zwittergegenstandes betrifft, so ziehen sie es fast durchgängig vor, die Tonkunst durch Ausbreitung glänzender Schaustücke in einen imposanten Nimbus von Wunderthätigkeit zu bringen, als in wissenschaftlicher Forschung den Zusammenhang der Musik mit unserm Nervenleben auf sein Wahres und Notwendiges zurückzuführen. Dies allein aber thut uns not, und weder die Überzeugungstreue eines Doktor Albrecht , welcher seinen Patienten Musik als schweißtreibendes Mittel verschrieb, noch der Unglaube Oerstedts, der das Heulen eines Hundes bei gewissen Tonarten durch rationelle Prügel erklärt, mittelst welcher derselbe zum Heulen abgerichtet worden sei.</cell>
             </row>
          </table>
       </body>

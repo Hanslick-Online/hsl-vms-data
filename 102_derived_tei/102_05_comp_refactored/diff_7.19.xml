@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 7.19</title>
+            <title>Concorance 7.19</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,68 +325,66 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5490a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5490a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5621a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6073a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5621a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5825a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5738a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6073a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6375a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5825a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5738a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6295a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6375a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6361a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6295a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6338a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6361a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.18.html">§ 7.18</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6325a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_7.20.html">§ 7.20</ref>
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6338a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.18.html">7.18</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6325a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_7.20.html">7.20</ref>
                   </seg>
                </cell>
             </row>
@@ -397,8 +395,7 @@
                <cell xml:id="v4">In Aesthetik und Kritik wird auf das Hauptthema einer Composition lange nicht das gehörige Gewicht gelegt. Das Thema allein offenbart schon den Geist, der das ganze Werk geschaffen. Wenn ein Beethoven die Ouvertüre zur „Leonore“ so anfängt, oder ein Mendelssohn die Ouvertüre zur „Fingalshöhle“ so, da muß jeder Musiker, ohne von der weiteren Durchführung noch eine Note zu wissen, erkennen, vor welchem Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur Fausta-Ouvertüre von Donizetti, oder „Louise Miller“ von Verdi, so bedarf es ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in der Kneipe sind. In Deutschland legt Theorie und Praxis einen überwiegenden Werth auf die musikalische Durchführung gegenüber dem thematischen Gehalt. Was aber nicht (offenkundig oder versteckt) im Thema ruht, kann später nicht organisch entwickelt werden, und weniger vielleicht in der Kunst der Entwickelung, als in der symphonischen Kraft und Fruchtbarkeit der Themen liegt es, daß unsere Zeit keine Beethovenʼschen Orchesterwerke mehr aufweist.</cell>
                <cell xml:id="v5">In Aesthetik und Kritik wird auf das Hauptthema einer Composition lange nicht das gehörige Gewicht gelegt. Das Thema allein offenbart schon den Geist, der das ganze Werk geschaffen. Wenn ein Beethoven die Ouverture zur „Leonore“ so anfängt, oder ein Mendelssohn die Ouverture zur „Fingalshöhle“ so, da muß jeder Musiker, ohne von der weiteren Durchführung noch eine Note zu wissen, erkennen, vor welchem Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur Fausta-Ouverture von Donizetti, oder „Louise Miller“ von Verdi, so bedarf es ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in der Kneipe sind. In Deutschland legt Theorie und Praxis einen überwiegenden Werth auf die musikalische Durchführung gegenüber dem thematischen Gehalt. Was aber nicht (offenkundig oder versteckt) im Thema ruht, kann später nicht organisch entwickelt werden, und weniger vielleicht in der Kunst der Entwickelung, als in der symphonischen Kraft und Fruchtbarkeit der Themen liegt es, daß unsere Zeit keine Beethovenʼschen Orchesterwerke mehr aufweist.</cell>
                <cell xml:id="v6">In Ästhetik und Kritik wird auf das Hauptthema einer Komposition lange nicht das gehörige Gewicht gelegt. Das Thema allein offenbart schon den Geist, der das ganze Werk geschaffen. Wenn ein Beethoven die Ouverture zur „Leonore“ so anfängt, oder ein Mendelssohn die Ouverture zur „Fingalshöhle“ so, da muß jeder Musiker, ohne von der weiteren Durchführung noch eine Note zu wissen, erkennen, vor welchem Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur Fausta-Ouverture von Donizetti, oder „Louise Miller“ von Verdi, so bedarf es ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in der Kneipe sind. In Deutschland legt Theorie und Praxis einen überwiegenden Wert auf die musikalische Durchführung gegenüber dem thematischen Gehalt. Was aber nicht (offenkundig oder versteckt) im Thema ruht, kann später nicht organisch entwickelt werden, und weniger vielleicht in der Kunst der Entwickelung, als in der symphonischen Kraft und Fruchtbarkeit der Themen liegt es, daß unsere Zeit keine Beethovenschen Orchesterwerke mehr aufweist.</cell>
-               <cell xml:id="v7">In Ästhetik und Kritik wird auf das Hauptthema einer Komposition lange nicht das gehörige Gewicht gelegt. Das Thema allein offenbart schon den Geist, der das ganze Werk geschaffen. Wenn ein Beethoven die Ouverture zur „Leonore“ so anfängt, oder ein Mendelssohn die Ouverture zur „ Fingalshöhle “ so, da wird jeder Musiker, ohne von der weiteren Durchführung noch eine Note zu wissen, ahnen, vor welchem Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur Fausta-Ouverture von Donizetti, oder „Louise Miller“ von Verdi, so bedarf es ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in der Kneipe sind. In Deutschland legt Theorie und Praxis einen überwiegenden Wert auf die musikalische Durchführung gegenüber dem thematischen Gehalt. Was aber nicht (offenkundig oder versteckt) im Thema ruht, kann später nicht organisch entwickelt werden, und weniger vielleicht in der Kunst der Entwickelung, als in der symphonischen Kraft und Fruchtbarkeit der Themen liegt es, daß unsere Zeit keine Beethovenschen Orchesterwerke mehr aufweist.</cell>
-               <cell xml:id="v8">In Ästhetik und Kritik wird auf das Hauptthema einer Komposition lange nicht das gehörige Gewicht gelegt. Das Thema allein offenbart schon den Geist, der das ganze Werk geschaffen. Wenn ein Beethoven die Ouverture zur „Leonore“ so anfängt, oder ein Mendelssohn die Ouverture zur „Fingalshöhle“ so, da wird jeder Musiker, ohne von der weiteren Durchführung noch eine Note zu wissen, ahnen, vor welchem Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur Fausta-Ouverture von Donizetti, oder „Louise Miller“ von Verdi, so bedarf es ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in der Kneipe sind. In Deutschland legt Theorie und Praxis einen überwiegenden Wert auf die musikalische Durchführung gegenüber dem thematischen Gehalt. Was aber nicht (offenkundig oder versteckt) im Thema ruht, kann später nicht organisch entwickelt werden, und weniger vielleicht in der Kunst der Entwickelung, als in der symphonischen Kraft und Fruchtbarkeit der Themen liegt es, daß unsere Zeit keine Beethovenschen Orchesterwerke mehr aufweist.</cell>
+               <cell xml:id="v7">In Ästhetik und Kritik wird auf das Hauptthema einer Komposition lange nicht das gehörige Gewicht gelegt. Das Thema allein offenbart schon den Geist, der das ganze Werk geschaffen. Wenn ein Beethoven die Ouverture zur „Leonore“ so anfängt, oder ein Mendelssohn die Ouverture zur „Fingalshöhle“ so, da wird jeder Musiker, ohne von der weiteren Durchführung noch eine Note zu wissen, ahnen, vor welchem Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur Fausta-Ouverture von Donizetti, oder „Louise Miller“ von Verdi, so bedarf es ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in der Kneipe sind. In Deutschland legt Theorie und Praxis einen überwiegenden Wert auf die musikalische Durchführung gegenüber dem thematischen Gehalt. Was aber nicht (offenkundig oder versteckt) im Thema ruht, kann später nicht organisch entwickelt werden, und weniger vielleicht in der Kunst der Entwickelung, als in der symphonischen Kraft und Fruchtbarkeit der Themen liegt es, daß unsere Zeit keine Beethovenschen Orchesterwerke mehr aufweist.</cell>
             </row>
          </table>
       </body>

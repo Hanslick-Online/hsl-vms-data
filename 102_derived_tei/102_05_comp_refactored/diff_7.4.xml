@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 7.4</title>
+            <title>Concorance 7.4</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,66 +325,66 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5152a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5152a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5276a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5276a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5733a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5733a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5483a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5483a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5401a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5401a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6033a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6033a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5953a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5953a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6016a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6016a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6005a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6005a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.3.html">§ 7.3</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5980a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_7.5.html">§ 7.5</ref>
+                     <ref type="prevLink" target="diff_7.3.html">7.3</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5980a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_7.5.html">7.5</ref>
                   </seg>
                </cell>
             </row>
@@ -393,8 +393,8 @@
                <cell xml:id="v2">Die Verwechslung der Begriffe: Inhalt, Gegenstand, Stoff ist, was in dieser Materie so viel Unklarheit verursacht hat, und noch immer veranlaßt, da Jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Theile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort Niemand zufriedenstellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandtheilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Aesth. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhülfe für den fehlenden Kunstgenuß“ bieten kann. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt,“ den sich „Jedermann als etwas Anderes denken kann,“ der sich „nur fühlen,“ „nicht in Worten wiedergeben läßt,“ ist eben kein Inhalt in der genannten Bedeutung.</cell>
                <cell xml:id="v3">Die Verwechslung der Begriffe: Inhalt, Gegenstand, Stoff ist, was in der Materie so viel Unklarheit verursacht hat, und noch immer veranlaßt, da Jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Theile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort Niemand zufriedenstellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandtheilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Aesth. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhülfe für den fehlenden Kunstgenuß“ bieten kann. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt,“ den sich „Jedermann als etwas Anderes denken kann,“ der sich „nur fühlen,“ „nicht in Worten wiedergeben läßt,“ ist eben kein Inhalt in der genannten Bedeutung.</cell>
                <cell xml:id="v4">Die Verwechslung der Begriffe: Inhalt, Gegenstand, Stoff ist es, was in der Materie so viel Unklarheit verursacht hat, und noch immer veranlaßt, da Jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Theile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort Niemand zufrieden stellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandtheilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Aesth. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhülfe für den fehlenden Kunstgenuß“ bieten könne. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt“, den sich Jedermann als etwas Anderes denken kann, der sich nur fühlen, nicht in Worten wiedergeben läßt, ist eben kein Inhalt in der genannten Bedeutung.</cell>
-               <cell xml:id="v5">Die Verwechslung der Begriffe: Inhalt, Gegenstand, Stoff ist es, was in der Materie so viel Unklarheit verursacht hat, und noch immer veranlaßt, da jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Theile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort Niemand zufrieden stellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandtheilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Aesth. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhülfe für den fehlenden Kunstgenuß“ bieten könne. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt“, den sich Jedermann als etwas Anderes denken kann, der sich nur fühlen, nicht in Worten wiedergeben läßt, ist eben kein Inhalt in der genanten Bedeutung.</cell>
-               <cell xml:id="v6">Die Verwechslung der Begriffe: Inhalt, Gegenstand, Stoff ist es, was in der Materie so viel Unklarheit verursacht hat und noch immer veranlaßt, da jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Theile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort Niemand zufrieden stellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandtheilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Aesth. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhülfe für den fehlenden Kunstgenuß“ bieten könne. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt“, den sich Jedermann als etwas Anderes denken kann, der sich nur fühlen, nicht in Worten wiedergeben läßt, ist eben kein Inhalt in der genannten Bedeutung.</cell>
+               <cell xml:id="v5">Die Verwechslung der Begriffe: Inhalt, Gegenstand, Stoff ist es, was in der Materie so viel Unklarheit verursacht hat, und noch immer veranlaßt, da jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Theile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort Niemand zufrieden stellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandtheilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Aesth. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhülfe für den fehlenden Kunstgenuß“ bieten könne. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt“, den sich Jedermann als etwas Anderes denken kann, der sich nur fühlen, nicht in Worten wiedergeben läßt, ist eben kein Inhalt in der genannten Bedeutung.</cell>
+               <cell xml:id="v6">Die Verwechslung der Begriffe: Inhalt, Gegenstand,Stoff ist es, was in der Materie so viel Unklarheit verursacht hat und noch immer veranlaßt, da jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Theile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort Niemand zufrieden stellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandtheilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Aesth. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhülfe für den fehlenden Kunstgenuß“ bieten könne. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich nothwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt“, den sich Jedermann als etwas Anderes denken kann, der sich nur fühlen, nicht in Worten wiedergeben läßt, ist eben kein Inhalt in der genannten Bedeutung.</cell>
                <cell xml:id="v7">Die Verwechslung der Begriffe: Inhalt, Gegenstand, Stoff ist es, was in der Materie so viel Unklarheit verursacht hat und noch immer veranlaßt, da jeder für denselben Begriff eine andere Bezeichnung gebraucht, oder mit dem gleichen Wort verschiedene Vorstellungen verbindet. „Inhalt“ im ursprünglichen und eigentlichen Sinne ist: was ein Ding enthält, in sich hält. In dieser Bedeutung sind die Töne, aus welchen ein Musikstück besteht, welche als dessen Teile es zum Ganzen bilden, der Inhalt desselben. Daß sich mit dieser Antwort niemand zufrieden stellen mag, sie als etwas ganz Selbstverständliches abfertigend, hat seinen Grund darin, daß man gemeiniglich den „Inhalt“ mit „Gegenstand“ verwechselt. Bei der Frage nach dem „Inhalt“ der Musik hat man die Vorstellung von „Gegenstand“ (Stoff, Sujet) im Sinne, welchen man als die Idee, das Ideale, den Tönen als „materiellen Bestandteilen“ geradezu entgegensetzt. Einen Inhalt in dieser Bedeutung, einen Stoff im Sinne des behandelten Gegenstandes hat die Tonkunst in der That nicht. Kahlert stützt sich mit Recht nachdrücklich darauf, daß sich von der Musik nicht, wie vom Gemälde, eine „Wortbeschreibung“ liefern läßt (Ästh. 380), wenngleich seine weitere Annahme irrig ist, daß solche Wortbeschreibung jemals eine „Abhilfe für den fehlenden Kunstgenuß“ bieten könne. Aber eine erklärende Verständigung, um was es sich handelt, kann sie bieten. Die Frage nach dem „Was“ des musikalischen Inhaltes müßte sich notwendig in Worten beantworten lassen, wenn das Musikstück wirklich einen „Inhalt“ (einen Gegenstand) hätte. Denn ein „unbestimmter Inhalt“, den sich jedermann als etwas anderes denken kann, der sich nur fühlen, nicht in Worten wiedergeben läßt, ist eben kein Inhalt in der genannten Bedeutung.</cell>
             </row>
          </table>

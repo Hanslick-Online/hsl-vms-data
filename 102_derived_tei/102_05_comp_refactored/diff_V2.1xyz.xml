@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § V2.1</title>
+            <title>Concorance V2.1</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,41 +325,41 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e345a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_V2.2xyz.html">§ V2.2</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e345a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_V2.2xyz.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e365a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_V2.2xyz.html">§ V2.2</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e365a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_V2.2xyz.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e365a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_V2.2xyz.html">§ V2.2</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e365a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_V2.2xyz.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e361a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_V2.2xyz.html">§ V2.2</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e361a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_V2.2xyz.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e334a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_V2.2xyz.html">§ V2.2</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e334a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_V2.2xyz.html">V2.2</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Die vorliegende sechste Auflage dieser zuerst im J. 1854 erschienenen Schrift unterscheidet sich von der fünften (1876) nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th. Vischer so eben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat zu schützen. Auch verbessernden Ueberarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhülfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
-               <cell xml:id="v2">Die vorliegende siebente Auflage dieser zuerst im J. 1854 erschienenen Schrift unterscheidet sich von der fünften (1876) und sechsten (1881) nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th.  Vischer so eben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme“, sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Ueberarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhülfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
+               <cell xml:id="v1">Die vorliegende sechste Auflage dieser zuerst im J. 1854 erschienenen Schrift unterscheidet sich von der fünften (1876) nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th. Vischer so eben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat zu schützen. Auch verbessernden Ueber arbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhülfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
+               <cell xml:id="v2">Die vorliegende siebente Auflage dieser zuerst im J. 1854 erschienenen Schrift unterscheidet sich von der fünften (1876) und sechsten (1881) nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th. Vischer so eben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme“, sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Ueberarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhülfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
                <cell xml:id="v3">An der vorliegenden achten Auflage dieser zuerst im Jahre 1854 erschienenen Schrift ist nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Im Texte unterscheidet sie sich von der siebenten Auflage (1885) nur durch einige unwesentliche Verbesserungen. Ich möchte diese neue Auflage am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th.  Vischer soeben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
-               <cell xml:id="v4">An der achten Auflage (1891) dieser zuerst im Jahre 1854 erschienenen Schrift war nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Dasselbe gilt von der hier vorliegenden neunten Auflage. Auch dieser darf ich die Worte anpassen, welche Fr. Th.  Vischer dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickte. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
-               <cell xml:id="v5">An der achten Auflage (1891) dieser zuerst im Jahre 1854 erschienenen Schrift war nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Dasselbe gilt von der hier vorliegenden neuen Auflage. Auch dieser darf ich die Worte anpassen, welche Fr. Th.  Vischer dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickte. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
+               <cell xml:id="v4">An der achten Auflage (1891) dieser zuerst im Jahre 1854 erschienenen Schrift war nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Dasselbe gilt von der hier vorliegenden neunten Auflage. Auch dieser darf ich die Worte anpassen, welche Fr. Th. Vischer dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickte. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
+               <cell xml:id="v5">An der achten Auflage (1891) dieser zuerst im Jahre 1854 erschienenen Schrift war nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Dasselbe gilt von der hier vorliegenden neuen Auflage. Auch dieser darf ich die Worte anpassen, welche Fr. Th. Vischer dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickte. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
             </row>
          </table>
       </body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 4.4</title>
+            <title>Concorance 4.4</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,68 +325,68 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.2 &amp; 4.3.html">§ 4.2 &amp; 4.3</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2998a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.2 &amp; 4.3.html">4.2 &amp; 4.3</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2998a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3155a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3155a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3534a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3534a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3488a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3488a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3413a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3413a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3998a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3998a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3932a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3932a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3966a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3966a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3974a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3974a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.3.html">§ 4.3</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3942a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_4.5.html">§ 4.5</ref>
+                     <ref type="prevLink" target="diff_4.3.html">4.3</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3942a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_4.5.html">4.5</ref>
                   </seg>
                </cell>
             </row>
@@ -396,7 +396,7 @@
                <cell xml:id="v3">Betrachten wir den Componisten. Ihn wird während des Schaffens eine gehobene Stimmung erfüllen, wie sie zur Befreiung des Schönen aus dem Schacht der Phantasie kaum entbehrlich gedacht werden kann. Daß diese gehobene Stimmung, nach der Individualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerkes annehmen, daß sie bald hoch, bald mäßiger fluthen wird, nie aber bis zum überwältigenden Affecte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speciell das Schaffen des Tonsetzers betrifft, so muß festgehalten werden, daß es ein stetes Bilden ist, ein Formen in Tonverhältnissen. Nirgend erscheint die Souverainetät des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Componisten während des Schaffens voraussetzt, und dieses als ein begeistertes Extemporiren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Tacte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und complicirt, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht blos etwa fugirte oder contrapunktische Sätze, in welchen wir abmessend Note gegen Note halten, das fließendste Rondo, die melodiöseste Arie erfordert, wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins Kleinste. Die Thätigkeit des Componisten ist eine in ihrer Art plastische und jener des bildenden Künstlers vergleichbar. Eben so wenig als dieser darf der Tondichter seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objectiv hinzustellen, zur reinen Form zu gestalten.</cell>
                <cell xml:id="v4">Betrachten wir den Componisten. Ihn wird während des Schaffens eine gehobene Stimmung erfüllen, wie sie zur Befreiung des Schönen aus dem Schacht der Phantasie kaum entbehrlich gedacht werden kann. Daß diese gehobene Stimmung, nach der Individualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerkes annehmen, daß sie bald hoch, bald mäßiger fluthen wird, nie aber bis zum überwältigenden Affecte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speciell das Schaffen des Tonsetzers betrifft, so muß festgehalten werden, daß es ein stetes Bilden ist, ein Formen in Tonverhältnissen. Nirgend erscheint die Souverainetät des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Componisten während des Schaffens voraussetzt und dieses als ein begeistertes Extemporiren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Tacte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und complicirt, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht blos etwa fugirte oder contrapunktische Sätze, in welchen wir abmessend Note gegen Note halten, auch das fließendste Rondo, die melodiöseste Arie erfordert, wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins Kleinste. Die Thätigkeit des Componisten ist eine in ihrer Art plastische und jener des bildenden Künstlers vergleichbar. Eben so wenig als dieser darf der Tondichter seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objectiv hinzustellen, zur reinen Form zu gestalten.</cell>
                <cell xml:id="v5">Betrachten wir den Componisten. Ihn wird während des Schaffens eine gehobene Stimmung erfüllen, wie sie zur Befreiung des Schönen aus dem Schacht der Phantasie kaum entbehrlich gedacht werden kann. Daß diese gehobene Stimmung, nach der Individualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerkes annehmen, daß sie bald hoch, bald mäßiger fluthen wird, nie aber bis zum überwältigenden Affecte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speciell das Schaffen des Tonsetzers betrifft, so muß festgehalten werden, daß es ein stetes Bilden ist, ein Formen in Tonverhältnissen. Nirgend erscheint die Souverainetät des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Componisten während des Schaffens voraussetzt und dieses als ein begeistertes Extemporiren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Tacte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und complicirt, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht blos etwa fugirte oder contrapunktische Sätze, in welchen wir abmessend Note gegen Note halten, auch das fließendste Rondo, die melodiöseste Arie erfordert wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins Kleinste. Die Thätigkeit des Componisten ist eine in ihrer Art plastische und jener des bildenden Künstlers vergleichbar. Eben so wenig als dieser darf der Tondichter seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objectiv hinzustellen, zur reinen Form zu gestalten.</cell>
-               <cell xml:id="v6">Betrachten wir den Componisten. Ihn wird während des Schaffens eine gehobene Stimmung erfüllen, wie sie zur Befreiung des Schönen aus dem Schacht der Phantasie kaum entbehrlich gedacht werden kann. Daß diese gehobene Stimmung, nach der Individualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerkes annehmen, daß sie bald hoch, bald mäßiger fluthen wird, nie aber bis zum überwältigenden Affecte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speciell das Schaffen des Tonsetzers betrifft, so muß festgehalten werden, daß es ein stetes Bil- den ist, ein Formen in Tonverhältnissen. Nirgend erscheint die Souverainetät des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Componisten während des Schaffens voraussetzt und dieses als ein begeistertes Extemporiren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Tacte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und complicirt, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht blos etwa fugirte oder contrapunktische Sätze, in welchen wir abmessend Note gegen Note halten, auch das fließendste Rondo, die melodiöseste Arie erfordert, wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins Kleinste. Die Thätigkeit des Componisten ist eine in ihrer Art plastische und jener des bildenden Künstlers vergleichbar. Eben so wenig als dieser darf der Tondichter seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objectiv hinzustellen, zur reinen Form zu gestalten.</cell>
+               <cell xml:id="v6">Betrachten wir den Componisten. Ihn wird während des Schaffens eine gehobene Stimmung erfüllen, wie sie zur Befreiung des Schönen aus dem Schacht der Phantasie kaum entbehrlich gedacht werden kann. Daß diese gehobene Stimmung, nach der Individualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerkes annehmen, daß sie bald hoch, bald mäßiger fluthen wird, nie aber bis zum überwältigenden Affecte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speciell das Schaffen des Tonsetzers betrifft, so muß festgehalten werden, daß es ein stetes Bil den ist, ein Formen in Tonverhältnissen. Nirgend erscheint die Souverainetät des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Componisten während des Schaffens voraussetzt und dieses als ein begeistertes Extemporiren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Tacte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und complicirt, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht blos etwa fugirte oder contrapunktische Sätze, in welchen wir abmessend Note gegen Note halten, auch das fließendste Rondo, die melodiöseste Arie erfordert, wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins Kleinste. Die Thätigkeit des Componisten ist eine in ihrer Art plastische und jener des bildenden Künstlers vergleichbar. Eben so wenig als dieser darf der Tondichter seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objectiv hinzustellen, zur reinen Form zu gestalten.</cell>
                <cell xml:id="v7">Betrachten wir den Componisten. Ihn wird während des Schaffens eine gehobene Stimmung erfüllen, wie sie zur Befreiung des Schönen aus dem Schacht der Phantasie kaum entbehrlich gedacht werden kann. Daß diese gehobene Stimmung, nach der Individualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerkes annehmen, daß sie bald hoch, bald mäßiger fluthen wird, nie aber bis zum überwältigenden Affecte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speciell das Schaffen des Tonsetzers betrifft, so muß festgehalten werden, daß es ein stetes Bilden ist, ein Formen in Tonverhältnissen. Nirgend erscheint die Souverainetät des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Componisten während des Schaffens voraussetzt und dieses als ein begeistertes Extemporiren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Tacte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und complicirt, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht bloß etwa fugirte oder contrapunktische Sätze, in welchen wir abmessend Note gegen Note halten, auch das fließendste Rondo, die melodiöseste Arie erfordert, wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins Kleinste. Die Thätigkeit des Componisten ist eine in ihrer Art plastische und jener des bildenden Künstlers vergleichbar. Ebensowenig als dieser darf der Tondichter seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objectiv hinzustellen, zur reinen Form zu gestalten.</cell>
                <cell xml:id="v8">Betrachten wir den Komponisten. Ihn wird während des Schaffens eine gehobene Stimmung erfüllen, wie sie zur Befreiung des Schönen aus dem Schacht der Phantasie kaum entbehrlich gedacht werden kann. Daß diese gehobene Stimmung, nach der Individualität des Künstlers, mehr oder minder die Färbung des werdenden Kunstwerkes annehmen, daß sie bald hoch, bald mäßiger fluten wird, nie aber bis zum überwältigenden Affekte, der das künstlerische Hervorbringen vereitelt, daß die klare Besinnung hierbei wenigstens gleiche Wichtigkeit behauptet mit der Begeisterung, – das sind bekannte, der allgemeinen Kunstlehre angehörige Bestimmungen. Was speziell das Schaffen des Tonsetzers betrifft, so muß festgehalten werden, daß es ein stetes Bilden ist, ein Formen in Tonverhältnissen. Nirgend erscheint die Souveränität des Gefühls, welche man so gern der Musik andichtet, schlimmer angebracht, als wenn man sie im Komponisten während des Schaffens voraussetzt und dieses als ein begeistertes Extemporieren auffaßt. Die schrittweis vorgehende Arbeit, durch welche ein Musikstück, das dem Tondichter anfangs nur in Umrissen vorschwebte, bis in die einzelnen Takte zur bestimmten Gestalt ausgemeißelt wird, allenfalls gleich in der empfindlichen vielgestaltigen Form des Orchesters, ist so besonnen und kompliziert, daß sie kaum verstehen kann, wer nicht selbst einmal Hand daran gelegt. Nicht bloß etwa fugierte oder kontrapunktische Sätze, in welchen wir abmessend Note gegen Note halten, auch das fließendste Rondo, die melodiöseste Arie erfordert, wie es unsere Sprache bedeutsam nennt, ein „Ausarbeiten“ ins kleinste. Die Thätigkeit des Komponisten ist eine in ihrer Art plastische und jener des bildenden Künstlers vergleichbar. Ebensowenig als dieser darf der Tondichter seinem Stoff unfrei verwachsen sein, denn gleich ihm hat er ja sein (musikalisches) Ideal objektiv hinzustellen, zur reinen Form zu gestalten.</cell>
             </row>

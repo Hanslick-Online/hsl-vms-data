@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 1.18</title>
+            <title>Concorance 1.18</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,64 +325,64 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e477a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e477a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e631a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e631a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e646a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e646a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e639a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e639a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e639a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e817a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e639a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e753a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e817a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e733a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e753a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e733a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e738a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e738a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.17.html">§ 1.17</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e694a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_1.19.html">§ 1.19</ref>
+                     <ref type="prevLink" target="diff_1.17.html">1.17</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e694a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_1.19.html">1.19</ref>
                   </seg>
                </cell>
             </row>
@@ -390,7 +390,7 @@
                <cell xml:id="v1">Nahezu merkwürdig ist es, wie die Musiker und älteren Aesthetiker sich nur in dem Contrast von „Gefühl“ und „Verstand“ bewegen, als läge nicht die Hauptsache gerade inmitten dieses angeblichen Dilemmas. Aus der Phantasie des Künstlers entsteigt das Tonstück für die Phantasie des Hörers. Freilich ist die Phantasie gegenüber dem Schönen nicht blos ein Schauen, sondern ein Schauen mit Verstand, d. i. Vorstellen und Urtheilen, letzteres natürlich mit solcher Schnelligkeit, daß die einzelnen Vorgänge uns gar nicht zum Bewußtsein kommen, und die Täuschung entsteht, es geschehe unmittelbar, was doch in Wahrheit von vielfach vermittelnden Geistesprocessen abhängt. Das Wort „Anschauung,“ längst von den Gesichtsvorstellungen auf alle Sinneserscheinungen übertragen, entspricht überdies trefflich dem Acte des aufmerksamen Hörens, welches ja in einem successiven Betrachten der Tonformen besteht. Die Phantasie ist natürlich kein abgeschlossenes Gebiet: so wie sie ihren Lebensfunken aus den Sinnesempfindungen zog, sendet sie wiederum ihre Radien schnell an die Thätigkeit des Verstandes und des Gefühls aus. Dies sind für die echte Auffassung des Schönen jedoch nur Grenzgebiete.</cell>
                <cell xml:id="v2">Merkwürdig ist es, wie die Musiker und älteren Aesthetiker sich nur in dem Contrast von „Gefühl“ und „Verstand“ bewegen, als läge nicht die Hauptsache gerade inmitten dieses angeblichen Dilemmas. Aus der Phantasie des Künstlers entsteigt das Tonstück für die Phantasie des Hörers. Freilich ist die Phantasie gegenüber dem Schönen nicht blos ein Schauen, sondern ein Schauen mit Verstand, d. i. Vorstellen und Urtheilen, letzteres natürlich mit solcher Schnelligkeit, daß die einzelnen Vorgänge uns gar nicht zum Bewußtsein kommen, und die Täuschung entsteht, es geschehe unmittelbar, was doch in Wahrheit von vielfach vermittelnden Geistesprocessen abhängt. Das Wort „Anschauung“, längst von den Gesichtsvorstellungen auf alle Sinneserscheinungen übertragen, entspricht überdies trefflich dem Acte des aufmerksamen Hörens, welches ja in einem successiven Betrachten der Tonformen besteht. Die Phantasie ist dabei keineswegs ein abgeschlossenes Gebiet: so wie sie ihren Lebensfunken aus den Sinnesempfindungen zog, sendet sie wiederum ihre Radien schnell an die Thätigkeit des Verstandes und des Gefühls aus. Dies sind für die echte Auffassung des Schönen jedoch nur Grenzgebiete.</cell>
                <cell xml:id="v3">Merkwürdig ist es, wie die Musiker und älteren Aesthetiker sich nur in dem Contrast von „Gefühl“ und „Verstand“ bewegen, als läge nicht die Hauptsache gerade inmitten dieses angeblichen Dilemmas. Aus der Phantasie des Künstlers entsteigt das Tonstück für die Phantasie des Hörers. Freilich ist die Phantasie gegenüber dem Schönen nicht blos ein Schauen, sondern ein Schauen mit Verstand, d. i. Vorstellen und Urtheilen, letzteres natürlich mit solcher Schnelligkeit, daß die einzelnen Vorgänge uns gar nicht zum Bewußtsein kommen, und die Täuschung entsteht, es geschehe unmittelbar, was doch in Wahrheit von vielfach vermittelnden Geistesprocessen abhängt. Das Wort „Anschauung“, längst von den Gesichtsvorstellungen auf alle Sinneserscheinungen übertragen, entspricht überdies trefflich dem Acte des aufmerksamen Hörens, welches ja in einem successiven Betrachten der Tonfarben besteht. Die Phantasie ist dabei keineswegs ein abgeschlossenes Gebiet: so wie sie ihren Lebensfunken aus den Sinnesempfindungen zog, sendet sie wiederum ihre Radien schnell an die Thätigkeit des Verstandes und des Gefühls aus. Dies sind für die echte Auffassung des Schönen jedoch nur Grenzgebiete.</cell>
-               <cell xml:id="v4">Merkwürdig ist es, wie die Musiker und älteren Aesthetiker sich nur in dem Contrast von „Gefühl“ und „Verstand“ bewegen, als läge nicht die Hauptsache gerade inmitten dieses angeblichen Dilemmas. Aus der Phantasie des Künstlers entsteigt das Tonstück für die Phantasie des Hörers. Freilich ist die Phantasie gegenüber dem Schönen nicht blos ein Schauen, sondern ein Schauen mit Verstand, d. i. Vorstellen und Urtheilen, letzteres natürlich mit solcher Schnelligkeit, daß die einzelnen Vorgänge uns gar nicht zum Bewußtsein kommen, und die Täuschung entsteht, es geschehe unmittelbar, was doch in Wahrheit von vielfach vermittelnden Geistesprocessen abhängt. Das Wort „Anschauung,“ längst von den Gesichtsvorstellungen auf alle Sinneserscheinungen übertragen, entspricht überdies trefflich dem Acte des aufmerksamen Hörens, welches ja in einem successiven Betrachten der Tonformen besteht. Die Phantasie ist dabei keineswegs ein abgeschlossenes Gebiet: so wie sie ihren Lebensfunken aus den Sinnesempfindungen zog, sendet sie wiederum ihre Radien schnell an die Thätigkeit des Verstandes und des Gefühls aus. Dies sind für die echte Auffassung des Schönen jedoch nur Grenzgebiete.</cell>
+               <cell xml:id="v4">Merkwürdig ist es, wie die Musiker und älteren Aesthetiker sich nur in dem Contrast von „Gefühl“ und „Verstand“ bewegen, als läge nicht die Hauptsache gerade inmitten dieses an geblichen Dilemmas. Aus der Phantasie des Künstlers entsteigt das Tonstück für die Phantasie des Hörers. Freilich ist die Phantasie gegenüber dem Schönen nicht blos ein Schauen, sondern ein Schauen mit Verstand, d. i. Vorstellen und Urtheilen, letzteres natürlich mit solcher Schnelligkeit, daß die einzelnen Vorgänge uns gar nicht zum Bewußtsein kommen, und die Täuschung entsteht, es geschehe unmittelbar, was doch in Wahrheit von vielfach vermittelnden Geistesprocessen abhängt. Das Wort „Anschauung,“ längst von den Gesichtsvorstellungen auf alle Sinneserscheinungen übertragen, entspricht überdies trefflich dem Acte des aufmerksamen Hörens, welches ja in einem successiven Betrachten der Tonformen besteht. Die Phantasie ist dabei keineswegs ein abgeschlossenes Gebiet: so wie sie ihren Lebensfunken aus den Sinnesempfindungen zog, sendet sie wiederum ihre Radien schnell an die Thätigkeit des Verstandes und des Gefühls aus. Dies sind für die echte Auffassung des Schönen jedoch nur Grenzgebiete.</cell>
                <cell xml:id="v5">Merkwürdig ist es, wie die Musiker und älteren Aesthetiker sich nur in dem Contrast von „Gefühl“ und „Verstand“ bewegen, als läge nicht die Hauptsache gerade inmitten dieses angeblichen Dilemmas. Aus der Phantasie des Künstlers entsteigt das Tonstück für die Phantasie des Hörers. Freilich ist die Phantasie gegenüber dem Schönen nicht bloß ein Schauen, sondern ein Schauen mit Verstand, d. i. Vorstellen und Urtheilen, letzteres natürlich mit solcher Schnelligkeit, daß die einzelnen Vorgänge uns gar nicht zum Bewußtsein kommen, und die Täuschung entsteht, es geschehe unmittelbar, was doch in Wahrheit von vielfach vermittelnden Geistesprocessen abhängt. Das Wort „Anschauung“, längst von den Gesichtsvorstellungen auf alle Sinneserscheinungen übertragen, entspricht überdies trefflich dem Acte des aufmerksamen Hörens, welches ja in einem successiven Betrachten der Tonformen besteht. Die Phantasie ist dabei keineswegs ein abgeschlossenes Gebiet: so wie sie ihren Lebensfunken aus den Sinnesempfindungen zog, sendet sie wiederum ihre Radien schnell an die Thätigkeit des Verstandes und des Gefühls aus. Dies sind für die echte Auffassung des Schönen jedoch nur Grenzgebiete.</cell>
                <cell xml:id="v6">Merkwürdig ist es, wie die Musiker und älteren Ästhetiker sich nur in dem Kontrast von „Gefühl“ und „Verstand“ bewegen, als läge nicht die Hauptsache gerade inmitten dieses angeblichen Dilemmas. Aus der Phantasie des Künstlers entsteigt das Tonstück für die Phantasie des Hörers. Freilich ist die Phantasie gegenüber dem Schönen nicht bloß ein Schauen, sondern ein Schauen mit Verstand, d. i. Vorstellen und Urteilen, letzteres natürlich mit solcher Schnelligkeit, daß die einzelnen Vorgänge uns gar nicht zum Bewußtsein kommen, und die Täuschung entsteht, es geschehe unmittelbar, was doch in Wahrheit von vielfach vermittelnden Geistesprozessen abhängt. Das Wort „Anschauung“, längst von den Gesichtsvorstellungen auf alle Sinneserscheinungen übertragen, entspricht überdies trefflich dem Akte des aufmerksamen Hörens, welches ja in einem successiven Betrachten der Tonformen besteht. Die Phantasie ist dabei keineswegs ein abgeschlossenes Gebiet: so wie sie ihren Lebensfunken aus den Sinnesempfindungen zog, sendet sie wiederum ihre Radien schnell an die Thätigkeit des Verstandes und des Gefühls aus. Dies sind für die echte Auffassung des Schönen jedoch nur Grenzgebiete.</cell>
             </row>

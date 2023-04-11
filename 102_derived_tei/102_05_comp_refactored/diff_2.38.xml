@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 2.38</title>
+            <title>Concorance 2.38</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,75 +325,75 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1726a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1726a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1892a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1892a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2031a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2051a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2031a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2013a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2051a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2346a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2013a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e2303a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2346a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e2312a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e2303a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e2312a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e2316a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e2316a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.37.html">§ 2.37</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e2273a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_2.39.html">§ 2.39</ref>
+                     <ref type="prevLink" target="diff_2.37.html">2.37</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e2273a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_2.39.html">2.39</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und Zuspitzung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches dem vergeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks.“ Gesetzt der Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung derselben gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die   declamatorisch-dramatische Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
+               <cell xml:id="v1">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und Zuspitzung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches dem vergeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks.“ Gesetzt der Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung derselben gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die  declamatorisch-dramatische Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
                <cell xml:id="v2">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und Zuspitzung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches dem vorgeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks.“ Gesetzt der Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung derselben gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die declamatorisch-dramatische Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
                <cell xml:id="v3">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und durch Verwerthung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches mit dem vorgeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks.“ Gesetzt der Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung derselben gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die declamatorisch-dramatische Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
                <cell xml:id="v4">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und durch Verwerthung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches mit dem vorgeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks.“ Gesetzt den Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung derselben gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die declamatorisch-dramatische Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
-               <cell xml:id="v5">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und durch Verwerthung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches mit dem vorgeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks.“ Gesetzt den Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? (wir erinnern an Bach’s Fugen und Präludien). Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die declamatorisch-dramatisch, Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
+               <cell xml:id="v5">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu ver leihen. Sie thut dies durch möglichste Charakteristik der Bewegung und durch Verwerthung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches mit dem vorgeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks.“ Gesetzt den Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? (wir erinnern an Bach’s Fugen und Präludien). Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die declamatorisch-dramatisch,Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
                <cell xml:id="v6">Hier bestimmen die dem Componisten vorliegenden Worte das zu schildernde Object; die Musik hat die Macht es zu beleben, zu commentiren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und durch Verwerthung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisirung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas Aehnliches mit dem vorgeblichen „Darstellen eines Affectes als Inhalt des bestimmten Musikstücks“. Gesetzt den Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären congruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Compositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? (wir erinnern an Bach’s Fugen und Präludien). Umgekehrt giebt es Vocalcompositionen, welche ein bestimmtes Gefühl aufs Genaueste, innerhalb der eben erklärten Grenzen abzuconterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Princip geht. Bei näherer Betrachtung gelangen wir zu dem Ergebniß, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältniß steht zu ihrer selbstständigen Schönheit, daß also die declamatorisch-dramatische Genauigkeit und die musikalische Vollendung nur die Hälfte Weges mit einander fortschreiten, dann aber sich trennen.</cell>
                <cell xml:id="v7">Hier bestimmen die dem Komponisten vorliegenden Worte das zu schildernde Objekt; die Musik hat die Macht es zu beleben, zu kommentieren, ihm in mehr oder weniger hohem Grade den Ausdruck individueller Innerlichkeit zu verleihen. Sie thut dies durch möglichste Charakteristik der Bewegung und durch Verwertung der den Tönen innewohnenden Symbolik. Faßt sie als Hauptgesichtspunkt den Text ins Auge, und nicht die eigene ausgeprägte Schönheit, so kann sie es zu hoher Individualisierung, ja zu dem Scheine bringen, sie allein stelle wirklich das Gefühl dar, welches in den Worten bereits unverrückbar, wenngleich steigerungsfähig vorlag. Diese Tendenz erreicht in der Wirkung etwas ähnliches mit dem vorgeblichen „Darstellen eines Affektes als Inhalt des bestimmten Musikstücks“. Gesetzt den Fall, jene wirkliche und diese angebliche Kraft der Tonkunst wären kongruent, die Gefühlsdarstellung möglich und Inhalt der Musik, so würden wir folgerichtig solche Kompositionen die vollkommensten nennen, welche die Aufgabe am bestimmtesten lösen. Allein wer kennt nicht Tonwerke von höchster Schönheit ohne solchen Inhalt? (wir erinnern an Bachs Fugen und Präludien). Umgekehrt giebt es Vokalkompositionen, welche ein bestimmtes Gefühl aufs genaueste, innerhalb der eben erklärten Grenzen abzukonterfeien suchen, und welchen die Wahrheit dieses Schilderns über jedes andere Prinzip geht. Bei näherer Betrachtung gelangen wir zu dem Ergebnis, daß das rücksichtslose Anschmiegen solcher musikalischen Schilderung meist in umgekehrtem Verhältnis steht zu ihrer selbständigen Schönheit, daß also die deklamatorisch-dramatische Genauigkeit und die musikalische Vollendung nur die Hälfte Weges miteinander fortschreiten, dann aber sich trennen.</cell>
             </row>

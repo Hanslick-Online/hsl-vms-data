@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 1.5</title>
+            <title>Concorance 1.5</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,14 +325,14 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.4xyz.html">§ 1.4</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e376a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_1.6xyz &amp; 1.7xyz.html">§ 1.6 &amp; 1.7</ref>
+                     <ref type="prevLink" target="diff_1.4xyz.html">1.4</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e376a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_1.6xyz.html">1.6</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Die ästhetischen Principe der Malerei, Architektur, Musik mußten gewonnen und Special-Aesthetiken entwickelt werden. Letztere sind freilich in ganz andrer Weise zu begründen, als durch ein bloßes Anpassen des allgemeinen Schönheitsbegriffs, weil dieser in jeder Kunst eine Reihe neuer Unterschiede eingeht. Es muß jede Kunst in ihren technischen Bestimmungen gekannt, will aus sich selbst begriffen und beurtheilt sein. Die Special-Aesthetiken sowie ihre praktischen Ausläufer, die Kunstkritiken, müssen, bei aller Verschiedenheit ihrer Standpunkte, sich trotzdem in der Einen unverlierbaren Ueberzeugung vereinigen, daß in ästhetischen Untersuchungen vorerst das schöne Object, und nicht das empfindende Subject zu erforschen sei. Sie müssen mit der älteren Anschauungsweise brechen, welche die Untersuchung lediglich mit Rücksicht – beinahe aus Rücksicht – für die dadurch hervorgerufenen Gefühle vornahm, und die Philosophie des Schönen als eine Tochter der Empfindung (αίσδη-σιϛ) aus der Taufe hob.</cell>
+               <cell xml:id="v1">Die ästhetischen Principe der Malerei, Architektur, Musik mußten gewonnen und Special-Aesthetiken entwickelt werden. Letztere sind freilich in ganz andrer Weise zu begründen, als durch ein bloßes Anpassen des allgemeinen Schönheitsbegriffs, weil dieser in jeder Kunst eine Reihe neuer Unterschiede eingeht. Es muß jede Kunst in ihren technischen Bestimmungen gekannt, will aus sich selbst begriffen und beurtheilt sein. Die Special-Aesthetiken sowie ihre praktischen Ausläufer, die Kunstkritiken, müssen, bei aller Verschiedenheit ihrer Standpunkte, sich trotzdem in der Einen unverlierbaren Ueberzeugung vereinigen, daß in ästhetischen Untersuchungen vorerst das schöne Object, und nicht das empfindende Subject zu erforschen sei. Sie müssen mit der älteren Anschauungsweise brechen, welche die Untersuchung lediglich mit Rücksicht – beinahe aus Rücksicht – für die dadurch hervorgerufenen Gefühle vornahm, und die Philosophie des Schönen als eine Tochter der Empfindung (αίσδησιϛ) aus der Taufe hob.</cell>
             </row>
          </table>
       </body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 6.4</title>
+            <title>Concorance 6.4</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,69 +325,69 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4492a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4492a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4645a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4645a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5041a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4868a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4788a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5041a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5401a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4868a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5312a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5356a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4788a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5356a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5401a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.3.html">§ 6.3</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5323a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_6.5.html">§ 6.5</ref>
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5312a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5356a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5356a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_6.3.html">6.3</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5323a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_6.5.html">6.5</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Untersucht man, inwiefern die Natur Stoff für die Musik biete, so ergibt sich, daß sie dies nur in dem untersten Sinn des rohen Materials thut, welches der Mensch zum Tönen zwingt. Das stumme Erz der Berge, das Holz des Waldes, der Thiere Fell und Gedärm sind Alles, was wir vorfinden, um den eigentlichen Baustoff für die Musik: den reinen Ton zu bereiten. Wir erhalten also vorerst nur Material zum Material: dies Letztere ist der reine, nach Höhe und Tiefe bestimmte, d.i. meßbare Ton. Er ist erste und unumgängliche Bedingung jeder Musik. Diese gestaltet ihn zu Melodie und Harmonie, den zwei Hauptfactoren der Tonkunst. Beide finden sich in der Natur nicht vor, sie sind Schöpfungen des Menschengeistes.</cell>
+               <cell xml:id="v1">Untersucht man, inwiefern die Natur Stoff für die Musik biete, so ergibt sich, daß sie dies nur in dem untersten Sinn des rohen Materials thut, welches der Mensch zum Tönen zwingt. Das stumme Erz der Berge, das Holz des Waldes, der Thiere Fell und Gedärm sind Alles, was wir vorfinden, um den eigentlichen Baustoff für die Musik: den reinen Ton zu bereiten. Wir erhalten also vorerst nur Material zum Material: dies Letztere ist der reine, nach Höhe und Tiefe bestimmte, d. i. meßbare Ton. Er ist erste und unumgängliche Bedingung jeder Musik. Diese gestaltet ihn zu Melodie und Harmonie, den zwei Hauptfactoren der Tonkunst. Beide finden sich in der Natur nicht vor, sie sind Schöpfungen des Menschengeistes.</cell>
                <cell xml:id="v2">Untersucht man, inwiefern die Natur Stoff für die Musik biete, so ergiebt sich, daß sie dies nur in dem untersten Sinn des rohen Materials thut, welches der Mensch zum Tönen zwingt. Das stumme Erz der Berge, das Holz des Waldes, der Thiere Fell und Gedärm sind Alles, was wir vorfinden, um den eigentlichen Baustoff für die Musik: den reinen Ton zu bereiten. Wir erhalten also vorerst nur Material zum Material: dies Letztere ist der reine, nach Höhe und Tiefe bestimmte, d. i. meßbare Ton. Er ist erste und unumgängliche Bedingung jeder Musik. Diese gestaltet ihn zu Melodie und Harmonie, den zwei Hauptfactoren der Tonkunst. Beide finden sich in der Natur nicht vor, sie sind Schöpfungen des Menschengeistes.</cell>
                <cell xml:id="v3">Untersucht man, inwiefern die Natur Stoff für die Musik biete, so ergiebt sich, daß sie dies nur in dem untersten Sinn des rohen Materials thut, welches der Mensch zum Tönen zwingt. Das stumme Erz der Berge, das Holz des Waldes, der Thiere Fell und Gedärm sind Alles, was wir vorfinden, um den eigentlichen Baustoff für die Musik, den reinen Ton zu bereiten. Wir erhalten also vorerst nur Material zum Material: dies Letztere ist der reine, nach Höhe und Tiefe bestimmte, d. i. meßbare Ton. Er ist erste und unumgängliche Bedingung jeder Musik. Diese gestaltet ihn zu Melodie und Harmonie, den zwei Hauptfactoren der Tonkunst. Beide finden sich in der Natur nicht vor, sie sind Schöpfungen des Menschengeistes.</cell>
                <cell xml:id="v4">Untersucht man, inwiefern die Natur Stoff für die Musik biete, so ergiebt sich, daß sie dies nur in dem untersten Sinn des rohen Materials thut, welches der Mensch zum Tönen zwingt. Das stumme Erz der Berge, das Holz des Waldes, der Thiere Fell und Gedärm sind Alles, was wir vorfinden, um den eigentlichen Baustoff für die Musik, den reinen Ton zu bereiten. Wir erhalten also vorerst nur Material zum Material, dies Letztere ist der reine, nach Höhe und Tiefe bestimmte, d. i. meßbare Ton. Er ist erste und unumgängliche Bedingung jeder Musik. Diese gestaltet ihn zu Melodie und Harmonie, den zwei Hauptfactoren der Tonkunst. Beide finden sich in der Natur nicht vor, sie sind Schöpfungen des Menschengeistes.</cell>

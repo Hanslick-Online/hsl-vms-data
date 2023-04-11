@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 2.25</title>
+            <title>Concorance 2.25</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,68 +325,68 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1378a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_2.26xyz.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1378a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_2.26xyz.html">2.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1558a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1558a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1595a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1637a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1595a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1609a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1637a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1921a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1609a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1865a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1921a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1864a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1865a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1867a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1864a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1867a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.24.html">§ 2.24</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1824a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_2.26.html">§ 2.26</ref>
+                     <ref type="prevLink" target="diff_2.24.html">2.24</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1824a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_2.26.html">2.26</ref>
                   </seg>
                </cell>
             </row>
@@ -395,8 +395,8 @@
                <cell xml:id="v2">Die Vocalmusik illuminirt die Zeichnung des Gedichts. Wir haben in den musikalischen Elementen Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangsstücke darstellen, sondern der Text. Die Zeichnung, nicht das Colorit bestimmt den dargestellten Gegenstand. Wir appelliren an das Abstractionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlichen, bewegten Liebe, also das gerade Gegentheil, werden vielleicht gleich richtig durch dieselbe Melodie interpretirt sein.</cell>
                <cell xml:id="v3">Die Vocalmusik illuminirt die Zeichnung des Gedichts. Wir haben in den musikalischen Elementen Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Colorit bestimmt den dargestellten Gegenstand. Wir appelliren an das Abstractionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlichen bewegten Liebe, also das gerade Gegentheil, werden vielleicht gleich richtig durch dieselbe Melodie interpretirt sein.</cell>
                <cell xml:id="v4">Die Vocalmusik illuminirt die Zeichnung des Gedichts. Wir haben in den musikalischen Elementen Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Colorit bestimmt den dargestellten Gegenstand. Wir appelliren an das Abstractionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlich bewegten Liebe, also das gerade Gegentheil, werden vielleicht gleich richtig durch dieselbe Melodie interpretirt sein.</cell>
-               <cell xml:id="v5">Die Vocalmusik illuminirt die Zeichnung des Gedichts. Wir haben in den musikalischen Elementen Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Colorit bestimmt den dargestellten Gegenstand. Wir appelliren an das Abstractionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlich bewegten Liebe, also das gerade Gegentheil, werden vielleicht gleich richtig durch dieselbe Melodie interpretirt sein.</cell>
-               <cell xml:id="v6">Die Vocalmusik illuminirt die Zeichnung des Gedichtes. Wir haben in den musikalischen Elementen Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Colorit bestimmt den dargestellten Gegenstand. Wir appelliren an das Abstractionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlich bewegten Liebe, also das gerade Gegentheil, werden vielleicht gleich richtig durch dieselbe Melodie interpretirt sein.</cell>
+               <cell xml:id="v5">Die Vocalmusik illuminirt die Zeichnung des Gedichts. Wir haben in den musikalischen Ele menten Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Colorit bestimmt den dargestellten Gegenstand. Wir appelliren an das Abstractionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlich bewegten Liebe, also das gerade Gegentheil, werden vielleicht gleich richtig durch dieselbe Melodie interpretirt sein.</cell>
+               <cell xml:id="v6">Die Vocalmusik illuminirt die Zeichnung des Gedichtes. Wir haben in den musikalischen Ele menten Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Colorit bestimmt den dargestellten Gegenstand. Wir appelliren an das Abstractionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leiden schaftlich bewegten Liebe, also das gerade Gegentheil, werden vielleicht gleich richtig durch dieselbe Melodie interpretirt sein.</cell>
                <cell xml:id="v7">Die Vokalmusik illuminiert die Zeichnung des Gedichtes. Wir haben in den musikalischen Elementen Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Kolorit bestimmt den dargestellten Gegenstand. Wir appelieren an das Abstraktionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen drammatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlich bewegten Liebe, also das gerade Gegenteil, werden vielleicht gleich richtig durch dieselbe Melodie interpretiert sein.</cell>
                <cell xml:id="v8">Die Vokalmusik illuminiert die Zeichnung des Gedichtes. Wir haben in den musikalischen Elementen Farben von größter Pracht und Zartheit erkannt, von symbolischer Bedeutsamkeit obendrein. Sie werden vielleicht ein mittelmäßiges Gedicht zur innigsten Offenbarung des Herzens umwandeln. Trotzdem sind es die Töne nicht, welche in einem Gesangstücke darstellen, sondern der Text. Die Zeichnung, nicht das Kolorit bestimmt den dargestellten Gegenstand. Wir appellieren an das Abstraktionsvermögen des Hörers, das sich irgend eine dramatisch wirksame Melodie abgelöst von aller dichterischen Bestimmung rein musikalisch vorstellen wolle. Man wird z. B. in einer sehr wirksamen dramatischen Melodie, welche Zorn auszudrücken hat, an und für sich keinen weiteren psychischen Ausdruck finden, als den einer raschen, leidenschaftlichen Bewegung. Worte einer leidenschaftlich bewegten Liebe, also das gerade Gegenteil, werden vielleicht gleich richtig durch dieselbe Melodie interpretiert sein.</cell>
             </row>

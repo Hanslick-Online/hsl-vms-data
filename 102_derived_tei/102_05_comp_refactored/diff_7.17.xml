@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 7.17</title>
+            <title>Concorance 7.17</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,70 +325,70 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5482a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5482a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6063a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5613a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6063a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5815a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5728a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6367a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5613a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6287a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5815a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5728a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6367a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6353a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6287a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6330a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6353a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6330a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.16.html">§ 7.16</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6317a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_7.18.html">§ 7.18</ref>
+                     <ref type="prevLink" target="diff_7.16.html">7.16</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6317a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_7.18.html">7.18</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Inhaltlos werden wir demnach etwa jenes freieste Präludiren nennen, bei welchem der Spieler, mehr ausruhend als schaffend, sich blos in Accorden, Arpeggioʼs, Rosalien ergeht, ohne eine selbstständige Tongestalt bestimmt hervortreten zu lassen. Solchʼ freie Präludien werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen dürfen, sie haben (im weiteren Sinne) keinen Inhalt, weil kein Thema.</cell>
-               <cell xml:id="v2">Inhaltlos werden wir demnach etwa jenes freieste Präludiren nennen, bei welchem der Spieler, mehr ausruhend als schaffend, sich blos in Accorden, Arpeggioʼs, Rosalien ergeht, ohne ein selbstständige Tongestalt bestimmt hervortreten zu lassen. Solchʼ freie Präludien werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen dürfen, sie haben (im weiterem Sinne) keinen Inhalt, weil kein Thema.</cell>
+               <cell xml:id="v2">Inhaltlos werden wir demnach etwa jenes freieste Präludiren nennen, bei welchem der Spieler, mehr ausruhend als schaffend, sich blos in Accorden, Arpeggioʼs, Rosalien ergeht, ohne eine selbstständige Tongestalt bestimmt hervortreten zu lassen. Solchʼ freie Präludien werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen dürfen, sie haben (im weiterem Sinne) keinen Inhalt, weil kein Thema.</cell>
                <cell xml:id="v3">Inhaltlos werden wir demnach etwa jenes freieste Präludiren nennen, bei welchem der Spieler, mehr ausruhend als schaffend, sich blos in Accorden, Arpeggioʼs, Rosalien ergeht, ohne eine selbstständige Tongestalt bestimmt hervortreten zu lassen. Solch freie Präludien werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen dürfen, sie haben (im weiteren Sinne) keinen Inhalt, weil kein Thema.</cell>
                <cell xml:id="v4">Inhaltlos werden wir demnach etwa jenes freieste Präludiren nennen, bei welchem der Spieler, mehr ausruhend als schaffend, sich bloß in Accorden, Arpeggios, Rosalien ergeht, ohne eine selbstständige Tongestalt bestimmt hervortreten zu lassen. Solch freie Präludien werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen dürfen, sie haben (im weiteren Sinne) keinen Inhalt, weil kein Thema.</cell>
                <cell xml:id="v5">Inhaltlos werden wir demnach etwa jenes freieste Präludieren nennen, bei welchem der Spieler, mehr ausruhend als schaffend, sich bloß in Akkorden, Arpeggios, Rosalien ergeht, ohne eine selbständige Tongestalt bestimmt hervortreten zu lassen. Solch freie Präludien werden als Individuen nicht erkennbar oder unterscheidbar sein, wir werden sagen dürfen, sie haben (im weiteren Sinne) keinen Inhalt, weil kein Thema.</cell>

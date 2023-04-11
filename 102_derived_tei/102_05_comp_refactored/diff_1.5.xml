@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 1.5</title>
+            <title>Concorance 1.5</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,40 +325,37 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.4.html">§ 1.4</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e526a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_1.6.html">§ 1.6</ref>
+                     <ref type="prevLink" target="diff_1.4.html">1.4</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e526a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_1.6.html">1.6</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.4.html">1.4</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e540a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_1.6.html">1.6</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.4.html">1.4</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e536a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_1.6.html">1.6</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.4.html">1.4</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e536a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_1.6.html">1.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.4.html">§ 1.4</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e540a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_1.6.html">§ 1.6</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.4.html">§ 1.4</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e536a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_1.6.html">§ 1.6</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.4.html">§ 1.4</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e536a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_1.6.html">§ 1.6</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.4.html">§ 1.4</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e666a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_1.6.html">§ 1.6</ref>
+                     <ref type="prevLink" target="diff_1.4.html">1.4</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e666a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_1.6.html">1.6</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Für’s Erste haben ihre Gelehrten größtentheils den Wahn abgelegt, es könne die Aesthetik einer bestimmten Kunst durch bloßes Anpassen des allgemeinen, metaphysischen Schönheitsbegriffs (der doch in jeder Kunst eine Reihe neuer Unterschiede eingeht) gewonnen werden. Die knechtische Abhängigkeit der Special-Aesthetiken unter dem obersten metaphysischen Princip einer allgemeinen Aesthetik weicht immer mehr der Ueberzeugung, daß jede Kunst in ihren eigenen technischen Bestimmungen gekannt, aus sich sebst heraus begriffen sein will. Das „System“ macht allmälig der „Forschung“ Platz und diese hält fest an dem Grundsatz, daß die Schönheitsgesetze jeder Kunst untrennbar sind von den Eigenthümlichkeiten ihres Materials, ihrer Technik.</cell>
-               <cell xml:id="v2">Für’s Erste haben ihre Gelehrten größtentheils den Wahn abgelegt, es könne die Aesthetik einer bestimmten Kunst durch bloßes Anpassen des allgemeinen, metaphysischen Schönheitsbegriffs (der doch in jeder Kunst eine Reihe neuer Unterschiede eingeht) gewonnen werden. Die knechtische Abhängigkeit der Special-Aesthetiken unter dem obersten metaphysischen Princip einer allgemeinen Aesthetik weicht immer mehr der Ueberzeugung, daß jede Kunst in ihren eigenen technischen Bestimmungen gekannt, aus sich selbst heraus begriffen sein will. Das „System“ macht allmälig der „Forschung“ Platz und diese hält fest an dem Grundsatz, daß die Schönheitsgesetze jeder Kunst untrennbar sind von den Eigenthümlichkeiten ihres Materials, ihrer Technik.</cell>
-               <cell xml:id="v3">Ihre Gelehrten haben größtentheils den Wahn abgelegt, es könne die Aesthetik einer bestimmten Kunst durch bloßes Anpassen des allgemeinen, metaphysischen Schönheitsbegriffs (der doch in jeder Kunst eine Reihe neuer Unterschiede eingeht) gewonnen werden. Die knechtische Abhängigkeit der Special-Aesthetiken unter dem obersten metaphysischen Princip einer allgemeinen Aesthetik weicht immer mehr der Ueberzeugung, daß jede Kunst in ihren eigenen technischen Bestimmungen gekannt, aus sich selbst heraus begriffen sein will. Das „System“ macht allmälig der „Forschung“ Platz und diese hält fest an dem Grundsatz, daß die Schönheitsgesetze jeder Kunst untrennbar sind von den Eigenthümlichkeiten ihres Materials, ihrer Technik.</cell>
+               <cell xml:id="v1">Für’s Erste haben ihre Gelehrten größtentheils den Wahn abgelegt, es könne die Aesthetik einer bestimmten Kunst durch bloßes Anpassen des allgemeinen, metaphysischen Schönheitsbegriffs (der doch in jeder Kunst eine Reihe neuer Unterschiede eingeht) gewonnen werden. Die knechtische Abhängigkeit der Special-Aesthetiken unter dem obersten metaphysischen Princip einer allgemeinen Aesthetik weicht immer mehr der Ueberzeugung, daß jede Kunst in ihren eigenen technischen Bestimmungen gekannt, aus sich selbst heraus begriffen sein will. Das „System“ macht allmälig der „Forschung“ Platz und diese hält fest an dem Grundsatz, daß die Schönheitsgesetze jeder Kunst untrennbar sind von den Eigenthümlichkeiten ihres Materials, ihrer Technik.</cell>
+               <cell xml:id="v2">Ihre Gelehrten haben größtentheils den Wahn abgelegt, es könne die Aesthetik einer bestimmten Kunst durch bloßes Anpassen des allgemeinen, metaphysischen Schönheitsbegriffs (der doch in jeder Kunst eine Reihe neuer Unterschiede eingeht) gewonnen werden. Die knechtische Abhängigkeit der Special-Aesthetiken unter dem obersten metaphysischen Princip einer allgemeinen Aesthetik weicht immer mehr der Ueberzeugung, daß jede Kunst in ihren eigenen technischen Bestimmungen gekannt, aus sich selbst heraus begriffen sein will. Das „System“ macht allmälig der „Forschung“ Platz und diese hält fest an dem Grundsatz, daß die Schönheitsgesetze jeder Kunst untrennbar sind von den Eigenthümlichkeiten ihres Materials, ihrer Technik.</cell>
             </row>
          </table>
       </body>

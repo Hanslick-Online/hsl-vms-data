@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § V2.5</title>
+            <title>Concorance V2.5</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,58 +325,58 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e432a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e432a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e422a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e422a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e427a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e427a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e490a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e473a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e490a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e473a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e471a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e471a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">§ V2.4</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e442a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">§ V2.6</ref>
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e442a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Emanuel Seibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn vielleicht dies schöne Sinngedicht (wie ich vermuthe) obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, so muß sich meine, von poetischen Gemüthern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
-               <cell xml:id="v2">Emanuel Seibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuthen Anlaß habe, so muß sich meine, von poetischen Gemüthern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
-               <cell xml:id="v3">Emanuel Seibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“</cell>
-               <cell xml:id="v4">Emanuel Seibel hat durch ein glückliches Bild dies Verhältnis anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in den Distichen: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuten Anlaß habe, so muß sich meine, von poetischen Gemütern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
+               <cell xml:id="v1">Emanuel Geibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn vielleicht dies schöne Sinngedicht (wie ich vermuthe) obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, so muß sich meine, von poetischen Gemüthern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
+               <cell xml:id="v2">Emanuel Geibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuthen Anlaß habe, so muß sich meine, von poetischen Gemüthern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
+               <cell xml:id="v3">Emanuel Geibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“</cell>
+               <cell xml:id="v4">Emanuel Geibel hat durch ein glückliches Bild dies Verhältnis anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in den Distichen: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuten Anlaß habe, so muß sich meine, von poetischen Gemütern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
             </row>
          </table>
       </body>

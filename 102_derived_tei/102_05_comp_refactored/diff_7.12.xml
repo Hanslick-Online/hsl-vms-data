@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 7.12</title>
+            <title>Concorance 7.12</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,74 +325,68 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5408a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5408a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5538a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5538a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5990a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5740a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5655a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6290a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6210a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5990a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5740a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5655a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6290a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6274a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6210a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6274a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6251a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6251a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.11.html">§ 7.11</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6238a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_7.13.html">§ 7.13</ref>
+                     <ref type="prevLink" target="diff_7.11.html">7.11</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6238a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_7.13.html">7.13</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Die selbstständige, ästhetisch nicht weiter theilbare, musikalische Gedankeneinheit ist in jeder Composition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethoven ʼs B-dur -Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jene auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern concreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
-               <cell xml:id="v2">Die selbstständige, ästhetisch nicht weiter theilbare, musikalische Gedankeneinheit ist in jeder Composition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovenʼs B-dur -Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jene auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern concreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
-               <cell xml:id="v3">Die selbstständige, ästhetisch nicht weiter theilbare, musikalische Gedankeneinheit ist in jeder Composition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovenʼs B-dur -Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jener auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern concreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
-               <cell xml:id="v4">Die selbstständige, ästhetisch nicht weiter theilbare, musikalische Gedankeneinheit ist in jeder Composition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovenʼs B -dur-Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jener auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern concreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
-               <cell xml:id="v5">Die selbständige, ästhetisch nicht weiter teilbare, musikalische Gedankeneinheit ist in jeder Komposition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovens B-dur -Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jener auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern konkreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
-               <cell xml:id="v6">Die selbständige, ästhetisch nicht weiter teilbare, musikalische Gedankeneinheit ist in jeder Komposition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer schon am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovens B-dur -Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jener auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern konkreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
+               <cell xml:id="v1">Die selbstständige, ästhetisch nicht weiter theilbare, musikalische Gedankeneinheit ist in jeder Composition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovenʼs B-dur-Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jene auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern concreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
+               <cell xml:id="v2">Die selbstständige, ästhetisch nicht weiter theilbare, musikalische Gedankeneinheit ist in jeder Composition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovenʼs B-dur-Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jener auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern concreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
+               <cell xml:id="v3">Die selbständige, ästhetisch nicht weiter teilbare, musikalische Gedankeneinheit ist in jeder Komposition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovens B-dur-Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jener auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern konkreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
+               <cell xml:id="v4">Die selbständige, ästhetisch nicht weiter teilbare, musikalische Gedankeneinheit ist in jeder Komposition das Thema. Die primitiven Bestimmungen, die man der Musik als solcher zuschreibt, müssen sich immer schon am Thema, dem musikalischen Mikrokosmus, nachweisbar finden. Hören wir irgend ein Hauptthema, z. B. zu Beethovens B-dur-Symphonie. Was ist dessen Inhalt? Was seine Form? Wo fängt diese an, wo hört jener auf? Daß ein bestimmtes Gefühl nicht Inhalt des Satzes sei, hoffen wir dargethan zu haben, und wird in diesem wie in jedem andern konkreten Fall nur immer einleuchtender erscheinen. Was also will man den Inhalt nennen? Die Töne selbst? Gewiß; allein sie sind eben schon geformt. Was die Form? Wieder die Töne selbst, – sie aber sind schon erfüllte Form.</cell>
             </row>
          </table>
       </body>

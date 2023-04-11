@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 3.31</title>
+            <title>Concorance 3.31</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,58 +325,55 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2492a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2492a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2655a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2655a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
-               </cell>
-               <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2787a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2787a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2794a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2794a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2725a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2725a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3242a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3242a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3189a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3189a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">§ 3.30</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3207a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_3.32.html">§ 3.32</ref>
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3207a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Dies ist nämlich die aus der Gefühlsanschauung hervorgegangene landläufige Theorie der Sonate und Symphonie. Der Tonsetzer, heißt es, habe vier von einander verschiedene Seelenzustände, die aber mit einander (wie?) zusammenhängen, in den einzelnen Sätzen der Sonate darzustellen. Um den unläugbaren Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären, zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt zu unterlegen. Die Deutung paßt manchmal, öfter auch nicht, niemals mit Nothwendigkeit. Dies aber wird immer mit Nothwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden sind, welche nach musikalisch-ästhetischen Gesetzen sich abzuheben und zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v.  Schwind eine sehr anziehende Illustration der Clavierphantasie op . 80 von Beethoven , deren einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen auffaßte und bildlich darstellte. Gerade so wie der Maler Scenen und Gestalten aus den Tönen heraussieht, so legt der Zuhörer Gefühle und Ereignisse hinein. Beides hat damit einen gewissen Zusammenhang, aber keinen nothwendigen, und nur mit diesem haben es wissenschaftliche Gesetze zu thun.</cell>
-               <cell xml:id="v2">Dies ist nämlich die aus der Gefühlsanschauung hervorgegangene landläufige Theorie der Sonate und Symphonie. Der Tonsetzer, heißt es, habe vier von einander verschiedene Seelenzustände, die aber mit einander (wie?) zusammenhängen, in den einzelnen Sätzen der Sonate darzustellen. Um den unläugbaren Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären, zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt zu unterlegen. Die Deutung paßt manchmal, öfter auch nicht, niemals mit Nothwendigkeit. Dies aber wir[d] immer mit Nothwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden sind, welche nach musikalisch-ästhetischen Gesetzen sich abzuheben und zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v.  Schwind eine sehr anziehende Illustration der Clavierphantasie op . 80 von Beethoven , deren einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen auffaßte und bildlich darstellte. Gerade so wie der Maler Scenen und Gestalten aus den Tönen heraussieht, so legt der Zuhörer Gefühle und Ereignisse hinein. Beides hat damit einen gewissen Zusammenhang, aber keinen nothwendigen, und nur mit diesem haben es wissenschaftliche Gesetze zu thun.</cell>
-               <cell xml:id="v3">Dies ist nämlich die aus der Gefühlsanschauung hervorgegangene landläufige Theorie der Sonate und Symphonie. Der Tonsetzer, heißt es, habe vier von einander verschiedene Seelenzustände, die aber mit einander (wie?) zusammenhängen, in den einzelnen Sätzen der Sonate darzustellen. Um den unläugbaren Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären, zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt unterzulegen. Die Deutung paßt manchmal, öfter auch nicht, niemals mit Nothwendigkeit. Dies aber wird immer mit Nothwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden sind, welche nach musikalisch-ästhetischen Gesetzen sich abzuheben und zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v.  Schwind eine sehr anziehende Illustration der Clavierphantasie op . 80 von Beethoven , deren einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen auffaßte und bildlich darstellte. Gerade so wie der Maler Scenen und Gestalten aus den Tönen heraussieht, so legt der Zuhörer Gefühle und Ereignisse hinein. Beides hat damit einen gewissen Zusammenhang, aber keinen nothwendigen, und nur mit diesem haben es wissenschaftliche Gesetze zu thun.</cell>
-               <cell xml:id="v4">Dies ist nämlich die aus der Gefühlsanschauung hervorgegangene landläufige Theorie der Sonate und Symphonie. Der Tonsetzer, heißt es, habe vier voneinander verschiedene Seelenzustände, die aber miteinander (wie?) zusammenhängen, in den einzelnen Sätzen der Sonate darzustellen. Um den unleugbaren Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären, zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt unterzulegen. Die Deutung paßt manchmal, öfter auch nicht, niemals mit Notwendigkeit. Dies aber wird immer mit Notwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden sind, welche nach musikalisch-ästhetischen Gesetzen sich abzuheben und zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v.  Schwind eine sehr anziehende Illustration der Klavierphantasie op . 80 von Beethoven , deren einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen auffaßte und bildlich darstellte. Gerade so wie der Maler Scenen und Gestalten aus den Tönen heraussieht, so legt der Zuhörer Gefühle und Ereignisse hinein. Beides hat damit einen gewissen Zusammenhang, aber keinen notwendigen, und nur mit diesem haben es wissenschaftliche Gesetze zu thun.</cell>
+               <cell xml:id="v1">Dies ist nämlich die aus der Gefühlsanschauung hervorgegangene landläufige Theorie der Sonate und Symphonie. Der Tonsetzer, heißt es, habe vier von einander verschiedene Seelenzustände, die aber mit einander (wie?) zusammenhängen, in den einzelnen Sätzen der Sonate darzustellen. Um den unläugbaren Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären, zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt zu unterlegen. Die Deutung paßt manchmal, öfter auch nicht, niemals mit Nothwendigkeit. Dies aber wird immer mit Nothwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden sind, welche nach musikalisch-ästhetischen Gesetzen sich abzuheben und zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v.  Schwind eine sehr anziehende Illustration der Clavierphantasie op. 80 von Beethoven , deren einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen auffaßte und bildlich darstellte. Gerade so wie der Maler Scenen und Gestalten aus den Tönen heraussieht, so legt der Zuhörer Gefühle und Ereignisse hinein. Beides hat damit einen gewissen Zusammenhang, aber keinen nothwendigen, und nur mit diesem haben es wissenschaftliche Gesetze zu thun.</cell>
+               <cell xml:id="v2">Dies ist nämlich die aus der Gefühlsanschauung hervorgegangene landläufige Theorie der Sonate und Symphonie. Der Tonsetzer, heißt es, habe vier von einander verschiedene Seelenzustände, die aber mit einander (wie?) zusammenhängen, in den einzelnen Sätzen der Sonate darzustellen. Um den unläugbaren Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären, zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt unterzulegen. Die Deutung paßt manchmal, öfter auch nicht, niemals mit Nothwendigkeit. Dies aber wird immer mit Nothwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden sind, welche nach musikalisch-ästhetischen Gesetzen sich abzuheben und zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v.  Schwind eine sehr anziehende Illustration der Clavierphantasie op. 80 von Beethoven , deren einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen auffaßte und bildlich darstellte. Gerade so wie der Maler Scenen und Gestalten aus den Tönen heraussieht, so legt der Zuhörer Gefühle und Ereignisse hinein. Beides hat damit einen gewissen Zusammenhang, aber keinen nothwendigen, und nur mit diesem haben es wissenschaftliche Gesetze zu thun.</cell>
+               <cell xml:id="v3">Dies ist nämlich die aus der Gefühlsanschauung hervorgegangene landläufige Theorie der Sonate und Symphonie. Der Tonsetzer, heißt es, habe vier voneinander verschiedene Seelenzustände, die aber miteinander (wie?) zusammenhängen, in den einzelnen Sätzen der Sonate darzustellen. Um den unleugbaren Zusammenhang der Sätze zu rechtfertigen und ihre verschiedene Wirkung zu erklären, zwingt man ordentlich den Zuhörer, ihnen bestimmte Gefühle als Inhalt unterzulegen. Die Deutung paßt manchmal, öfter auch nicht, niemals mit Notwendigkeit. Dies aber wird immer mit Notwendigkeit passen, daß vier Tonsätze zu einem Ganzen verbunden sind, welche nach musikalisch-ästhetischen Gesetzen sich abzuheben und zu steigern haben. Wir verdanken dem phantasiereichen Maler M. v.  Schwind eine sehr anziehende Illustration der Klavierphantasie op. 80 von Beethoven , deren einzelne Sätze der Künstler als zusammenhängende Ereignisse derselben Hauptpersonen auffaßte und bildlich darstellte. Gerade so wie der Maler Scenen und Gestalten aus den Tönen heraussieht, so legt der Zuhörer Gefühle und Ereignisse hinein. Beides hat damit einen gewissen Zusammenhang, aber keinen notwendigen, und nur mit diesem haben es wissenschaftliche Gesetze zu thun.</cell>
             </row>
          </table>
       </body>

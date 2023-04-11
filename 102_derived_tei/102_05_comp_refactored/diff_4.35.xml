@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 4.35</title>
+            <title>Concorance 4.35</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,64 +325,66 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3577a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3577a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3733a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3733a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4118a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4118a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4060a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4060a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3973a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4568a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4481a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3973a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4523a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4568a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4481a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4523a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4536a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4536a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.34.html">§ 4.34</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4496a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_4.36.html">§ 4.36</ref>
+                     <ref type="prevLink" target="diff_4.34.html">4.34</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4496a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_4.36.html">4.36</ref>
                   </seg>
                </cell>
             </row>
@@ -392,7 +394,8 @@
                <cell xml:id="v3">Jede mit Beihilfe von Musik vollführte Cur trägt den Charakter eines Ausnahmefalles, dessen Gelingen niemals der Musik allein zuzuschreiben war, sondern zugleich von speciellen, vielleicht von ganz individuellen körperlichen und geistigen Bedingungen abhing. Es däucht uns sehr bemerkenswerth, daß die einzige Anwendung von Musik, welche wirklich in der Medicin vorkommt, nämlich in der Behandlung von Irrsinnigen, vorzugsweise auf die geistige Seite der musikalischen Wirkung reflectirt. Die moderne Psychiatrie verwendet bekanntlich Musik in vielen Fällen und mit glücklichem Erfolge. Dieser beruht aber weder auf der materiellen Erschütterung des Nervensystems, noch auf der Erregung der Leidenschaften, sondern auf dem besänftigend aufheiternden Einfluß, welchen das halb zerstreuende, halb fesselnde Tonspiel auf ein verdüstertes oder überreiztes Gemüth auszuüben vermag. Lauscht der Geisteskranke auch dem Sinnlichen, nicht dem Künstlerischen des Tonstücks, so steht er doch, da er mit Aufmerksamkeit hört, schon auf einer, wenn gleich untergeordneten Stufe ästhetischer Auffassung.</cell>
                <cell xml:id="v4">Jede mit Beihilfe von Musik vollführte Cur trägt den Charakter eines Ausnahmefalles, des Gelingen niemals der Musik allein zuzuschreiben war, sondern zugleich von speciellen, vielleicht von ganz individuellen körperlichen und geistigen Bedingungen abhing. Es ist sehr bemerkenswerth, daß die einzige Anwendung von Musik, welche wirklich in der Medicin vorkommt, nämlich in der Behandlung von Irrsinnigen, vorzugsweise auf die geistige Seite der musikalischen Wirkung reflectirt. Die moderne Psychiatrie verwendet bekanntlich Musik in vielen Fällen und mit glücklichem Erfolge. Dieser beruht aber weder auf der materiellen Erschütterung des Nervensystems, noch auf der Erregung der Leidenschaften, sondern auf dem besänftigend aufheiternden Einfluß, welchen das halb zerstreuende, halb fesselnde Tonspiel auf ein verdüstertes oder überreiztes Gemüth auszuüben vermag. Lauscht der Geisteskranke auch dem Sinnlichen, nicht dem Künstlerischen des Tonstücks, so steht er doch, wenn er mit Aufmerksamkeit hört, schon auf einer, wenn gleich untergeordneten Stufe ästhetischer Auffassung.</cell>
                <cell xml:id="v5">Jede mit Beihilfe von Musik vollführte Cur trägt den Charakter eines Ausnahmefalles, dessen Gelingen niemals der Musik allein zuzuschreiben war, sondern zugleich von speciellen, vielleicht von ganz individuellen körperlichen und geistigen Bedingungen abhing. Es ist sehr bemerkenswerth, daß die einzige Anwendung von Musik, welche wirklich in der Medicin vorkommt, nämlich in der Behandlung von Irrsinnigen, vorzugsweise auf die geistige Seite der musikalischen Wirkung reflectirt. Die moderne Psychiatrie verwendet bekanntlich Musik in vielen Fällen und mit glücklichem Erfolge. Dieser beruht aber weder auf der materiellen Erschütterung des Nervensystems, noch auf der Erregung der Leidenschaften, sondern auf dem besänftigend aufheiternden Einfluß, welchen das halb zerstreuende, halb fesselnde Tonspiel auf ein verdüstertes oder überreiztes Gemüth auszuüben vermag. Lauscht der Geisteskranke auch dem Sinnlichen, nicht dem Künstlerischen des Tonstücks, so steht er doch, wenn er mit Aufmerksamkeit hört, schon auf einer, wenn gleich untergeordneten Stufe ästhetischer Auffassung.</cell>
-               <cell xml:id="v6">Jede mit Beihilfe von Musik vollführte Kur trägt den Charakter eines Ausnahmefalles, dessen Gelingen niemals der Musik allein zuzuschreiben war, sondern zugleich von speziellen, vielleicht von ganz individuellen körperlichen und geistigen Bedingungen abhing. Es ist sehr bemerkenswert, daß die einzige Anwendung von Musik, welche wirklich in der Medizin vorkommt, nämlich in der Behandlung von Irrsinnigen, vorzugsweise auf die geistige Seite der musikalischen Wirkung reflektiert. Die moderne Psychiatrie verwendet bekanntlich Musik in vielen Fällen und mit glücklichem Erfolge. Dieser beruht aber weder auf der materiellen Erschütterung des Nervensystems, noch auf der Erregung der Leidenschaften, sondern auf dem besänftigend aufheiternden Einfluß, welchen das halb zerstreuende, halb fesselnde Tonspiel auf ein verdüstertes oder überreiztes Gemüt auszuüben vermag. Lauscht der Geisteskranke auch dem Sinnlichen, nicht dem Künstlerischen des Tonstücks, so steht er doch, wenn er mit Aufmerksamkeit hört, schon auf einer, wenngleich untergeordneten Stufe ästhetischer Auffassung.</cell>
+               <cell xml:id="v6">Jede mit Beihilfe von Musik vollführte Cur trägt den Charakter eines Ausnahmefalles, dessen Gelingen niemals der Musik allein zuzuschreiben war, sondern zugleich von speciellen, vielleicht von ganz individuellen körperlichen und geistigen Be dingungen abhing. Es ist sehr bemerkenswerth, daß die einzige Anwendung von Musik, welche wirklich in der Medicin vorkommt, nämlich in der Behandlung von Irrsinnigen, vorzugsweise auf die geistige Seite der musikalischen Wirkung reflectirt. Die moderne Psychiatrie verwendet bekanntlich Musik in vielen Fällen und mit glücklichem Erfolge. Dieser beruht aber weder auf der materiellen Erschütterung des Nervensystems, noch auf der Erregung der Leidenschaften, sondern auf dem besänftigend aufheiternden Einfluß, welchen das halb zerstreuende, halb fesselnde Tonspiel auf ein verdüstertes oder überreiztes Gemüth auszuüben vermag. Lauscht der Geisteskranke auch dem Sinnlichen, nicht dem Künstlerischen des Tonstücks, so steht er doch, wenn er mit Aufmerksamkeit hört, schon auf einer, wenn gleich untergeordneten Stufe ästhetischer Auffassung.</cell>
+               <cell xml:id="v7">Jede mit Beihilfe von Musik vollführte Kur trägt den Charakter eines Ausnahmefalles, dessen Gelingen niemals der Musik allein zuzuschreiben war, sondern zugleich von speziellen, vielleicht von ganz individuellen körperlichen und geistigen Bedingungen abhing. Es ist sehr bemerkenswert, daß die einzige Anwendung von Musik, welche wirklich in der Medizin vorkommt, nämlich in der Behandlung von Irrsinnigen, vorzugsweise auf die geistige Seite der musikalischen Wirkung reflektiert. Die moderne Psychiatrie verwendet bekanntlich Musik in vielen Fällen und mit glücklichem Erfolge. Dieser beruht aber weder auf der materiellen Erschütterung des Nervensystems, noch auf der Erregung der Leidenschaften, sondern auf dem besänftigend aufheiternden Einfluß, welchen das halb zerstreuende, halb fesselnde Tonspiel auf ein verdüstertes oder überreiztes Gemüt auszuüben vermag. Lauscht der Geisteskranke auch dem Sinnlichen, nicht dem Künstlerischen des Tonstücks, so steht er doch, wenn er mit Aufmerksamkeit hört, schon auf einer, wenngleich untergeordneten Stufe ästhetischer Auffassung.</cell>
             </row>
          </table>
       </body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 2.22</title>
+            <title>Concorance 2.22</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,37 +325,37 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.21.html">§ 2.21</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1310a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_2.23.html">§ 2.23</ref>
+                     <ref type="prevLink" target="diff_2.21.html">2.21</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1310a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_2.23.html">2.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.21.html">§ 2.21</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1492a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_2.23.html">§ 2.23</ref>
+                     <ref type="prevLink" target="diff_2.21.html">2.21</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1492a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_2.23.html">2.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.21.html">§ 2.21</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1529a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_2.23.html">§ 2.23</ref>
+                     <ref type="prevLink" target="diff_2.21.html">2.21</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1529a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_2.23.html">2.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.21.html">§ 2.21</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1538a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_2.23.html">§ 2.23</ref>
+                     <ref type="prevLink" target="diff_2.21.html">2.21</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1538a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_2.23.html">2.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.21.html">§ 2.21</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1516a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_2.23.html">§ 2.23</ref>
+                     <ref type="prevLink" target="diff_2.21.html">2.21</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1516a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_2.23.html">2.23</ref>
                   </seg>
                </cell>
             </row>
@@ -363,8 +363,8 @@
                <cell xml:id="v1">Wem dies nicht genügt, der mag ihr immerhin den ganzen Boden ausschlagen. Er spiele das Thema irgend einer Mozartʼschen oder Haydnʼschen Sinfonie, eines Beethovenʼschen Adagioʼs, eines Mendelssohnʼschen Scherzoʼs, eines Schumannʼschen oder Chopinʼschen Clavierstückes, den Stamm unserer gehaltvollsten Musik; oder auch die populärsten Ouvertürenmotive von Auber, Donizetti, Flotow. Wer tritt hinzu und getraut sich, ein bestimmtes Gefühl als Inhalt dieser Themen aufzuzeigen? Der Eine wird „Liebe“ sagen. Möglich. Der Andere meint „Sehnsucht“. Vielleicht. Der Dritte fühlt „Andacht“. Niemand kann das widerlegen. Und so fort. Heißt dies nur ein bestimmtes Gefühl darstellen, wenn Niemand weiß, was eigentlich dargestellt wird? Ueber die Schönheit und Schönheiten des Musikstücks werden wahrscheinlich Alle übereinstimmend denken, von dem Inhalt Jeder verschieden. Darstellen heißt aber einen Inhalt klar, anschaulich produciren, ihn uns vor Augen „daher stellen.“ Derlei Grundbegriffe können nicht streng genug genommen werden. Wie mag man nun dasjenige als das von einer Kunst Dargestellte bezeichnen, welches, das ungewisseste, vieldeutigste Element derselben, einem ewigen Streit unterworfen ist?</cell>
                <cell xml:id="v2">Wem dies nicht genügt, der mag ihr immerhin den ganzen Boden ausschlagen. Er spiele das Thema irgend einer Mozartʼschen oder Haydnʼschen Symphonie, eines Beethovenʼschen Adagioʼs, eines Mendelssohnʼschen Scherzoʼs, eines Schumannʼschen oder Chopinʼschen Clavierstückes, den Stamm unserer gehaltvollsten Musik; oder auch die populärsten Ouvertürenmotive von Auber, Donizetti, Flotow. Wer tritt hinzu und getraut sich, ein bestimmtes Gefühl als Inhalt dieser Themen aufzuzeigen? Der Eine wird „Liebe“ sagen. Möglich. Der Andere meint „Sehnsucht“. Vielleicht. Der Dritte fühlt „Andacht“. Niemand kann das widerlegen. Und so fort. Heißt dies nun ein bestimmtes Gefühl darstellen, wenn Niemand weiß, was eigentlich dargestellt wird? Ueber die Schönheit und Schönheiten des Musikstücks werden wahrscheinlich Alle übereinstimmend denken, von dem Inhalt Jeder verschieden. Darstellen heißt aber einen Inhalt klar, anschaulich produciren, ihn uns vor Augen „daher stellen.“ Derlei Grundbegriffe können nicht streng genug genommen werden. Wie mag man nun dasjenige als das von einer Kunst Dargestellte bezeichnen, welches, das ungewisseste, vieldeutigste Element derselben, einem ewigen Streit unterworfen ist?</cell>
                <cell xml:id="v3">Wem dies nicht genügt, der mag ihr immerhin den ganzen Boden ausschlagen. Er spiele das Thema irgend einer Mozartʼschen oder Haydnʼschen Symphonie, eines Beethovenʼschen Adagioʼs, eines Mendelssohnʼschen Scherzoʼs, eines Schumannʼschen oder Chopinʼschen Clavierstückes, den Stamm unserer gehaltvollsten Musik; oder auch die populärsten Ouvertürenmotive von Auber, Donizetti, Flotow. Wer tritt hinzu und getraut sich, ein bestimmtes Gefühl als Inhalt dieser Themen aufzuzeigen? Der Eine wird „Liebe“ sagen. Möglich. Der Andere meint „Sehnsucht“. Vielleicht. Der Dritte fühlt „Andacht“. Niemand kann das widerlegen. Und so fort. Heißt dies nun ein bestimmtes Gefühl darstellen, wenn Niemand weiß, was eigentlich dargestellt wird? Ueber die Schönheit und Schönheiten des Musikstücks werden wahrscheinlich Alle übereinstimmend denken, von dem Inhalt Jeder verschieden. Darstellen heißt aber einen Inhalt klar, anschaulich produciren, ihn uns vor Augen „daher stellen.“ Wie mag man nun dasjenige als das von einer Kunst Dargestellte bezeichnen, welches, das ungewisseste, vieldeutigste Element derselben, einem ewigen Streit unterworfen ist?</cell>
-               <cell xml:id="v4">Wem dies nicht genügt, der mag ihr immerhin den ganzen Boden ausschlagen. Er spiele das Thema irgend einer Mozartʼschen oder Haydnʼschen Symphonie, eines Beethovenʼschen Adagios, eines Mendelssohnʼschen Scherzos, eines Schumannʼschen oder Chopinʼschen Clavierstückes, den Stamm unserer gehaltvollsten Musik; oder auch die populärsten Ouvertürenmotive von Auber, Donizetti, Flotow. Wer tritt hinzu und getraut sich, ein bestimmtes Gefühl als Inhalt dieser Themen aufzuzeigen? Der Eine wird „Liebe“ sagen. Möglich. Der Andere meint „Sehnsucht“. Vielleicht. Der Dritte fühlt „Andacht.“ Niemand kann das widerlegen. Und so fort. Heißt dies nun ein bestimmtes Gefühl darstellen, wenn Niemand weiß, was eigentlich dargestellt wird? Ueber die Schönheit und Schönheiten des Musikstücks werden wahrscheinlich Alle übereinstimmend denken, von dem Inhalt Jeder verschieden. Darstellen heißt aber einen Inhalt klar, anschaulich produciren, ihn uns vor Augen „daher stellen.“ Wie mag man nun dasjenige als das von einer Kunst Dargestellte bezeichnen, welches, das ungewisseste, vieldeutigste Element derselben, einem ewigen Streit unterworfen ist?</cell>
-               <cell xml:id="v5">Wem dies nicht genügt, der mag ihr immerhin den ganzen Boden ausschlagen. Er spiele das Thema irgend einer Mozartʼschen oder Haydnʼschen Symphonie, eines Beethovenʼschen Adagios, eines Mendelssohnʼschen Scherzos, eines Schumannʼschen oder Chopinʼschen Clavierstückes, den Stamm unserer gehaltvollsten Musik; oder auch die populärsten Ouvertürenmotive von Auber, Donizetti, Flotow. Wer tritt hinzu und getraut sich, ein bestimmtes Gefühl als Inhalt dieser Themen aufzuzeigen? Der Eine wird „Liebe“ sagen. Möglich. Der Andere meint „Sehnsucht“. Vielleicht. Der Dritte fühlt „Andacht.“ Niemand kann das widerlegen. Und so fort. Heißt dies nun ein bestimmtes Gefühl darstellen, wenn Niemand weiß, was eigentlich dargestellt wird? Ueber die Schönheit und Schönheiten des Musikstückes werden wahrscheinlich Alle übereinstimmend denken, von dem Inhalt Jeder verschieden. Darstellen heißt aber einen Inhalt klar, anschaulich produciren, ihn uns vor Augen „daher stellen“. Wie mag man nun dasjenige als das von einer Kunst Dargestellte bezeichnen, welches, das ungewisseste, vieldeutigste Element derselben, einem ewigen Streit unterworfen ist?</cell>
+               <cell xml:id="v4">Wem dies nicht genügt, der mag ihr immerhin den ganzen Boden ausschlagen. Er spiele das Thema irgend einer Mozartʼschen oder Haydnʼschen Symphonie, eines Beethovenʼschen Adagios, eines Mendelssohnʼschen Scherzos, eines Schumannʼschen oder Chopinʼschen Clavierstückes, den Stamm unserer gehaltvollsten Musik; oder auch die populärsten Ouvertürenmotive von Auber, Donizetti, Flotow. Wer tritt hinzu und getraut sich, ein bestimmtes Gefühl als Inhalt dieser Themen aufzuzeigen? Der Eine wird „Liebe“ sagen. Möglich. Der Andere meint „Sehnsucht.“ Vielleicht. Der Dritte fühlt „Andacht.“ Niemand kann das widerlegen. Und so fort. Heißt dies nun ein bestimmtes Gefühl darstellen wenn Niemand weiß, was eigentlich dargestellt wird? Ueber die Schönheit und Schönheiten des Musikstücks werden wahrscheinlich Alle übereinstimmend denken, von dem Inhalt Jeder verschieden. Darstellen heißt aber einen Inhalt klar, anschaulich produciren, ihn uns vor Augen „daher stellen.“ Wie mag man nun dasjenige als das von einer Kunst Dargestellte bezeichnen, welches, das ungewisseste, vieldeutigste Element derselben, einem ewigen Streit unterworfen ist?</cell>
+               <cell xml:id="v5">Wem dies nicht genügt, der mag ihr immerhin den ganzen Boden ausschlagen. Er spiele das Thema irgend einer Mozartʼschen oder Haydnʼschen Symphonie, eines Beethovenʼschen Adagios, eines Mendelssohnʼschen Scherzos, eines Schumannʼschen oder Chopinʼschen Clavierstückes, den Stamm unserer gehaltvollsten Musik; oder auch die populärsten Ouvertürenmotive von Auber, Donizetti, Flotow. Wer tritt hinzu und getraut sich, ein bestimmtes Gefühl als Inhalt dieser Themen aufzuzeigen? Der Eine wird „Liebe“ sagen. Möglich. Der Andere meint „Sehnsucht“. Vielleicht. Der Dritte fühlt „Andacht“. Niemand kann das widerlegen. Und so fort. Heißt dies nun ein bestimmtes Gefühl darstellen, wenn Niemand weiß, was eigentlich dargestellt wird? Ueber die Schönheit und Schönheiten des Musikstückes werden wahrscheinlich Alle übereinstimmend denken, von dem Inhalt Jeder verschieden. Darstellen heißt aber einen Inhalt klar, anschaulich produciren, ihn uns vor Augen „daher stellen“. Wie mag man nun dasjenige als das von einer Kunst Dargestellte bezeichnen, welches, das ungewisseste, vieldeutigste Element derselben, einem ewigen Streit unterworfen ist?</cell>
             </row>
          </table>
       </body>

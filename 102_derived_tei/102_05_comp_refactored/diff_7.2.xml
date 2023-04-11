@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 7.2</title>
+            <title>Concorance 7.2</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,64 +325,64 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5107a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5107a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5229a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5662a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5229a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5414a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5662a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5332a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5964a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5881a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5414a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5944a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5332a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5964a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5881a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5933a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5944a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5933a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.1.html">§ 7.1</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5908a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_7.3.html">§ 7.3</ref>
+                     <ref type="prevLink" target="diff_7.1.html">7.1</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5908a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_7.3.html">7.3</ref>
                   </seg>
                </cell>
             </row>
@@ -392,7 +392,7 @@
                <cell xml:id="v3">So lautet, seit man gewohnt ist, über unsere Kunst nachzudenken, ihre hitzigste Streitfrage. Sie wurde für und wider entschieden. Gewichtige Stimmen behaupten die Inhaltlosigkeit der Musik, sie gehören beinahe durchaus den Philosophen: Rousseau , Kant , Hegel , Herbart , Kahlert u. A. Von den zahlreichen Physiologen, welche diese Ueberzeugung unterstützen, sind uns die durch musikalische Bildung hervorragenden Denker Lotze und Helmholtz die wichtigsten. Die ungleich zahlreichern Kämpfer fechten für den Inhalt der Tonkunst; es sind die eigentlichen Musiker unter den Schriftstellern, und das Gros der allgemeinen Ueberzeugung steht zu ihnen.</cell>
                <cell xml:id="v4">So lautet, seit man gewohnt ist, über unsere Kunst nachzudenken, ihre hitzigste Streitfrage. Sie wurde für und wider entschieden. Gewichtige Stimmen behaupten die Inhaltlosigkeit der Musik, sie gehören beinahe durchaus den Philosophen: Rousseau , Kant , Hegel , Herbart , Kahlert u. A. Von den zahlreichen Physiologen, welche diese Ueberzeugung unterstützen, sind uns die durch musikalische Bildung hervorragenden Denker Lotze und Helmholtz die wichtigsten. Die ungleich zahlreicheren Kämpfer fechten für den Inhalt der Tonkunst; es sind die eigentlichen Musiker unter den Schriftstellern, und das Gros der allgemeinen Ueberzeugung steht zu ihnen.</cell>
                <cell xml:id="v5">So lautet, seit man gewohnt ist, über unsere Kunst nachzudenken, ihre hitzigste Streitfrage. Sie wurde für und wider entschieden. Gewichtige Stimmen behaupten die Inhaltlosigkeit der Musik, sie gehören beinahe durchaus den Philosophen: Rousseau , Kant , Hegel , Herbart , Kahlert u. a. Von den zahlreichen Physiologen, welche diese Überzeugung unterstützen, sind uns die durch musikalische Bildung hervorragenden Denker Lotze und Helmholtz die wichtigsten. Die ungleich zahlreicheren Kämpfer fechten für den Inhalt der Tonkunst; es sind die eigentlichen Musiker unter den Schriftstellern, und das Gros der allgemeinen Überzeugung steht zu ihnen.</cell>
-               <cell xml:id="v6">So lautet, seit man gewohnt ist, über unsere Kunst nachzudenken, ihre hitzigste Streitfrage. Sie wurde für und wider entschieden. Gewichtige Stimmen behaupten die Inhaltlosigkeit der Musik, sie gehören beinahe durchaus den Philosophen: Rousseau , Kant , Hegel , Herbart , Kahlert u. a. Von den zahlreichen Physiologen, welche diese Überzeugungen unterstützen, sind uns die durch musikalische Bildung hervorragenden Denker Lotze und Helmholtz die wichtigsten. Die ungleich zahlreicheren Kämpfer fechten für den Inhalt der Tonkunst! es sind die eigentlichen Musiker unter den Schriftstellern, und das Gros der allgemeinen Überzeugung steht zu ihnen.</cell>
+               <cell xml:id="v6">So lautet, seit man gewohnt ist, über unsere Kunst nachzudenken, ihre hitzigste Streitfrage. Sie wurde für und wider entschieden. Gewichtige Stimmen behaupten die Inhaltlosigkeit der Musik, sie gehören beinahe durchaus den Philosophen: Rousseau , Kant , Hegel , Herbart , Kahlert u. a. Von den zahlreichen Physiologen, welche diese Überzeugungen unterstützen, sind uns die durch musikalische Bildung hervorragenden Denker Lotze und Helmholtz die wichtigsten. Die ungleich zahlreicheren Kämpfer fechten für den Inhalt der Tonkunst! Es sind die eigentlichen Musiker unter den Schriftstellern, und das Gros der allgemeinen Überzeugung steht zu ihnen.</cell>
             </row>
          </table>
       </body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 4.21</title>
+            <title>Concorance 4.21</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,80 +325,74 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3304a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3304a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3452a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3452a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3842a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3787a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3703a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3842a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4280a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3787a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4206a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3703a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4242a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4280a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4255a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4206a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4242a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4255a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.20.html">§ 4.20</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4210a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_4.22.html">§ 4.22</ref>
+                     <ref type="prevLink" target="diff_4.20.html">4.20</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4210a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_4.22.html">4.22</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Takte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Antheil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
                <cell xml:id="v2">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Tacte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Antheil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
-               <cell xml:id="v3">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche derSzymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Tacte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Antheil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
-               <cell xml:id="v4">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme derMilder, das Klangreiche derSzymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Tacte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Antheil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
-               <cell xml:id="v5">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Tacte Deiner Singakademie den Saal verlassen müßte.“nervöser Goethe„Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
-               <cell xml:id="v6">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Tacte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Antheil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl häufig ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
-               <cell xml:id="v7">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Takte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Anteil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl häufig ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
-               <cell xml:id="v8">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentliche Exhibition des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Takte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Anteil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl häufig ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
+               <cell xml:id="v3">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Tacte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Antheil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl häufig ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
+               <cell xml:id="v4">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich aus einander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Tacte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Antheil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl häufig ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
+               <cell xml:id="v5">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentlichen Exhibitionen des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Takte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Anteil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl häufig ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens, und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
+               <cell xml:id="v6">Als Goethe in hohem Alter noch einmal die Gewalt der Liebe erfuhr, da erwachte in ihm zugleich eine nie gekannte Empfänglichkeit für Musik. Er schreibt über jene wunderbaren Marienbader Tage (1823) an Zelter : „Die ungeheure Gewalt der Musik auf mich in diesen Tagen! Die Stimme der Milder, das Klangreiche der Szymanowska, ja sogar die öffentliche Exhibition des hiesigen Jägercorps falten mich auseinander, wie man eine geballte Faust freundlich flach läßt. Ich bin völlig überzeugt, daß ich im ersten Takte Deiner Singakademie den Saal verlassen müßte.“ Zu einsichtsvoll, um nicht den großen Anteil nervöser Aufregung in dieser Erscheinung zu erkennen, schließt Goethe mit den Worten: „Du würdest mich von einer krankhaften Reizbarkeit heilen, die denn doch eigentlich als die Ursache jenes Phänomens anzusehen ist.“ Diese Beobachtungen müssen uns schon aufmerksam machen, daß in den musikalischen Wirkungen auf das Gefühl häufig ein fremdes, nicht rein ästhetisches Element mit im Spiele sei. Eine rein ästhetische Wirkung wendet sich an die volle Gesundheit des Nervenlebens und zählt auf kein krankhaftes Mehr oder Weniger desselben.</cell>
             </row>
          </table>
       </body>

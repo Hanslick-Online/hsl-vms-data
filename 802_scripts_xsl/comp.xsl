@@ -19,7 +19,7 @@
         <xsl:variable name="prev" select="preceding::tei:p[@n != ''][1]/@n"/>
         <xsl:variable name="next" select="following::tei:p[@n != ''][1]/@n"/>
         <xsl:copy>
-            <xsl:attribute name="source" select="root(.)//tei:sourceDesc//tei:edition/concat('VMS ',replace(@n,'^0+',''),' (',../tei:imprint/tei:date,')')"/>
+            <xsl:attribute name="source" select="root(.)//tei:sourceDesc//tei:edition/concat('VMS ',replace(@n,'^0+',''))"/>
             <xsl:attribute name="prev" select="$prev"/>
             <xsl:attribute name="next" select="$next"/>
             <xsl:attribute name="file" select="tokenize(base-uri(.),'/')[last()]"/>

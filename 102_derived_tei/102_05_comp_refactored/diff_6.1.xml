@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 6.1</title>
+            <title>Concorance 6.1</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,21 +325,21 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.30.html">§ 5.30</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4479a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_6.2.html">§ 6.2</ref>
+                     <ref type="prevLink" target="diff_5.30.html">5.30</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4479a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_6.2.html">6.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.30.html">§ 5.30</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4632a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_6.2.html">§ 6.2</ref>
+                     <ref type="prevLink" target="diff_5.30.html">5.30</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4632a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_6.2.html">6.2</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.30.html">§ 5.30</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5028a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_6.2.html">§ 6.2</ref>
+                     <ref type="prevLink" target="diff_5.30.html">5.30</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5028a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_6.2.html">6.2</ref>
                   </seg>
                </cell>
             </row>

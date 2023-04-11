@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 5.21</title>
+            <title>Concorance 5.21</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,62 +325,64 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4211a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4211a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4370a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4370a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4758a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4758a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4614a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4531a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4614a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5137a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5053a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4531a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5089a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5137a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5053a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5089a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5089a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5089a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">§ 5.20</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5056a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_5.22.html">§ 5.22</ref>
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5056a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
             </row>
@@ -389,7 +391,8 @@
                <cell xml:id="v2">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voran zu eilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volks, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
                <cell xml:id="v3">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voran zu eilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
                <cell xml:id="v4">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voranzueilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
-               <cell xml:id="v5">Der wichtigste Faktor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Komponisten fortwährend zu folgen und voranzueilen, sich in seinen Vermutungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellektuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Kompositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und kontrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
+               <cell xml:id="v5">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten über sehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voranzueilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durch dringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
+               <cell xml:id="v6">Der wichtigste Faktor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Komponisten fortwährend zu folgen und voranzueilen, sich in seinen Vermutungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellektuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Kompositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und kontrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
             </row>
          </table>
       </body>

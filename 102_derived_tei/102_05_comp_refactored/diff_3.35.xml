@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 3.35</title>
+            <title>Concorance 3.35</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,70 +325,68 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2645a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2645a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2809a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2809a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3165a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3165a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3138a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3138a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3069a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3069a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3599a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3599a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3539a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3539a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3555a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3555a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3566a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3566a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.34.html">§ 3.34</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3523a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_3.36.html">§ 3.36</ref>
+                     <ref type="prevLink" target="diff_3.34.html">3.34</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3523a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_3.36.html">3.36</ref>
                   </seg>
                </cell>
             </row>
@@ -396,12 +394,11 @@
                <cell xml:id="v1">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Carricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser picanten und geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest erstens: daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens: daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischeste Notturno von Chopin mit Recht gefällt, musikalisch schön sei.</cell>
                <cell xml:id="v2">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Carricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser picanten und geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest erstens: daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens: daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischeste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
                <cell xml:id="v3">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser picanten und geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest erstens: daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens: daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischeste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
-               <cell xml:id="v4">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalische Elemente beruhe, und zweitens, daß, was an einer Composition, sei es die strengste Basch ʼsche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
-               <cell xml:id="v5">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Composition, sei es die strengste Basch ʼsche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
-               <cell xml:id="v6">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
-               <cell xml:id="v7">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jeden Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
-               <cell xml:id="v8">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jeden Tonstückes mit dem seines Autors gewiß, allein er steht für den Ästhetiker nicht zu Tage; – die Idee des notwendigen Zusammenhangs aller Erscheinungen kann in ihrer konkreten Nachweisung bis zur Karikatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentierten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurteilen“ verschiedene Dinge sind. Objektiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Komposition, sei es die strengste Bach sche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
-               <cell xml:id="v9">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Ästhetiker nicht zu Tage; – die Idee des notwendigen Zusammenhangs aller Erscheinungen kann in ihrer konkreten Nachweisung bis zur Karikatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentierten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurteilen“ verschiedene Dinge sind. Objektiv aber steht fest: erstens, daß die Verschiedenartigkeit, des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Komposition, sei es die strengste Bach sche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön ist.</cell>
+               <cell xml:id="v4">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalische Elemente beruhe, und zweitens, daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
+               <cell xml:id="v5">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
+               <cell xml:id="v6">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jeden Tonstückes mit dem seines Autors gewiß, allein er steht für den Aesthetiker nicht zu Tage; – die Idee des nothwendigen Zusammenhangs aller Erscheinungen kann in ihrer concreten Nachweisung bis zur Caricatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentirten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurtheilen“ verschiedene Dinge sind. Objectiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Composition, sei es die strengste Bach ʼsche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
+               <cell xml:id="v7">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jeden Tonstückes mit dem seines Autors gewiß, allein er steht für den Ästhetiker nicht zu Tage; – die Idee des notwendigen Zusammenhangs aller Erscheinungen kann in ihrer konkreten Nachweisung bis zur Karikatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentierten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurteilen“ verschiedene Dinge sind. Objektiv aber steht fest: erstens, daß die Verschiedenartigkeit des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Komposition, sei es die strengste Bach sche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön sei.</cell>
+               <cell xml:id="v8">Auch Hegel hat in Besprechung der Tonkunst oft irregeführt, indem er seinen vorwiegend kunstgeschichtlichen Standpunkt unmerklich mit dem rein ästhetischen verwechselt und in der Musik Bestimmtheiten nachweist, die sie an sich niemals hatte. „Einen Zusammenhang“ hat der Charakter jedes Tonstückes mit dem seines Autors gewiß, allein er steht für den Ästhetiker nicht zu Tage; – die Idee des notwendigen Zusammenhangs aller Erscheinungen kann in ihrer konkreten Nachweisung bis zur Karikatur übertrieben werden. Es gehört heutzutage ein wahrer Heroismus dazu, dieser pikanten, geistreich repräsentierten Richtung entgegenzutreten und auszusprechen, daß das „historische Begreifen“ und das „ästhetische Beurteilen“ verschiedene Dinge sind. Objektiv aber steht fest: erstens, daß die Verschiedenartigkeit, des Ausdrucks der verschiedenen Werke und Schulen auf einer durchgreifend verschiedenen Stellung der musikalischen Elemente beruhe, und zweitens, daß, was an einer Komposition, sei es die strengste Bach sche Fuge, oder das träumerischste Notturno von Chopin , mit Recht gefällt, musikalisch schön ist.</cell>
             </row>
          </table>
       </body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 1.30.1</title>
+            <title>Concorance 1.30.1</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,37 +325,37 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1044a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_1.31.html">§ 1.31</ref>
+                     <ref type="prevLink" target="diff_1.30.html">1.30</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1044a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e975a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_1.31.html">§ 1.31</ref>
+                     <ref type="prevLink" target="diff_1.30.html">1.30</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e975a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e956a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_1.31.html">§ 1.31</ref>
+                     <ref type="prevLink" target="diff_1.30.html">1.30</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e956a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e961a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_1.31.html">§ 1.31</ref>
+                     <ref type="prevLink" target="diff_1.30.html">1.30</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e961a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e919a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_1.31.html">§ 1.31</ref>
+                     <ref type="prevLink" target="diff_1.30.html">1.30</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e919a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
             </row>
@@ -364,7 +364,7 @@
                <cell xml:id="v2">Der erste, der meines Wissens diese Gefühlsästhetik in der Musik angegriffen hat, ist Herbart (im 9. Kapitel seiner Encyklopädie). Nachdem er sich gegen die „Deutelei“ von Kunstwerken erklärt hat, sagt er: „Die Traumdeuter und Astrologen haben sich Jahrtausende nicht wollen sagen lassen, daß ein Mensch träume, weil er schläft, und daß die Gestirne sich bald da bald dort zeigen, weil sie sich bewegen. So wiederholen bis auf den heutigen Tag, selbst gute Musikkenner den Satz, die Musik drücke Gefühle aus, als ob das Gefühl, das etwa durch sie erregt wird und zu dessen Ausdruck sie eben deshalb, wenn man will, sich gebrauchen läßt, den allgemeinen Regeln des einfachen und doppelten Contrapunktes zum Grunde läge, auf denen ihr wahres Wesen beruht. Was mögen doch die alten Künstler, welche die möglichen Formen der Fuge entwickelten, auszudrücken beabsichtigt haben? Gar nichts wollen sie ausdrücken; ihre Gedanken gingen nicht hinaus, sondern in das innere Wesen der Kunst hinein; diejenigen aber, die sich auf Bedeutungen legen, verrathen ihre Scheu vor dem Innern und ihre Vorliebe für den äußeren Schein.“ Leider hat Herbart diese gelegentliche Opposition im einzelnen wenig näher begründet, und neben dieser glänzenden finden sich bei ihm auch manche schiefen Bemerkungen über Musik. Jedenfalls haben seine obigen Worte, wie wir sogleich sehen werden, nicht die verdiente Beachtung gefunden.</cell>
                <cell xml:id="v3">Der erste, der meines Wissens diese Gefühlsästhetik in der Musik angegriffen hat, ist Herbart (im 9. Kapitel seiner Encyklopädie). Nachdem er sich gegen die „Deutelei“ von Kunstwerken erklärt hat, sagt er: „Die Traumdeuter und Astrologen haben sich Jahrtausende nicht wollen sagen lassen, daß ein Mensch träume, weil er schläft, und daß die Gestirne sich bald da bald dort zeigen, weil sie sich bewegen. So wiederholen bis auf den heutigen Tag selbst gute Musikkenner den Satz, die Musik drücke Gefühle aus, als ob das Gefühl, das etwa durch sie erregt wird und zu dessen Ausdruck sie eben deshalb, wenn man will, sich gebrauchen läßt, den allgemeinen Regeln des einfachen und doppelten Kontrapunktes zu Grunde läge, auf denen ihr wahres Wesen beruht. Was mögen doch die alten Künstler, welche die möglichen Formen der Fuge entwickelten, auszudrücken beabsichtigt haben? Gar nichts wollen sie ausdrücken; ihre Gedanken gingen nicht hinaus, sondern in das innere Wesen der Kunst hinein; diejenigen aber, die sich auf Bedeutungen legen, verraten ihre Scheu vor dem Innern und ihre Vorliebe für den äußeren Schein.“ Leider hat Herbart diese gelegentliche Opposition im einzelnen wenig näher begründet, und neben dieser glänzenden finden sich bei ihm auch manche schiefen Bemerkungen über Musik. Jedenfalls haben seine obigen Worte, wie wir sogleich sehen werden, nicht die verdiente Beachtung gefunden.</cell>
                <cell xml:id="v4">Der erste, der meines Wissens diese Gefühlsästhetik in der Musik angegriffen hat, ist Herbart (im 9. Kapitel seiner Encyklopädie). Nachdem er sich gegen die „Deutelei“ von Kunstwerken erklärt hat, sagt er: „Die Traumdeuter und Astrologen haben sich Jahrtausende nicht wollen sagen lassen, daß ein Mensch träume, weil er schläft, und daß die Gestirne sich bald da bald dort zeigen, weil sie sich bewegen. So wiederholen bis auf den heutigen Tag selbst gute Musikkenner den Satz, die Musik drücke Gefühle aus, als ob das Gefühl, das etwa durch sie erregt wird und zu dessen Ausdruck sie eben deshalb, wenn man will, sich gebrauchen läßt, den allgemeinen Regeln des einfachen und doppelten Kontrapunktes zu Grunde läge, auf denen ihr wahres Wesen beruht. Was mögen doch die alten Künstler, welche die möglichen Formen der Fuge entwickelten, auszudrücken beabsichtigt haben? Gar nichts wollen sie ausdrücken; ihre Gedanken gingen nicht hinaus, sondern in das innere Wesen der Kunst hinein; diejenigen aber, die sich auf Bedeutungen legen, verraten ihre Scheu vor dem Innern und ihre Vorliebe für den äußern Schein.“ Leider hat Herbart diese gelegentliche Opposition im einzelnen nicht näher begründet, und neben dieser glänzenden finden sich bei ihm auch manche schiefen Bemerkungen über Musik. Jedenfalls haben seine obigen Worte, wie wir sogleich sehen werden, nicht die verdiente Beachtung gefunden.</cell>
-               <cell xml:id="v5">Der erste, der meines Wissens diese Gefühlsästhetik in der Musik angegriffen hat, ist Herbart (im 9. Kapitel seiner Encyklopädie). Nachdem er sich gegen die „Deutelei“ von Kunstwerken erklärt hat, sagt er: „Die Traumdeuter und Astrologen haben sich Jahrtausende nicht wollen sagen lassen, daß ein Mensch träume, weil er schläft, und daß die Gestirne sich bald da bald dort zeigen, weil sie sich bewegen. So wiederholen [19] bis auf den heutigen Tag selbst gute Musikkenner den Satz, die Musik drücke Gefühle aus, als ob das Gefühl, das etwa durch sie erregt wird und zu dessen Ausdruck sie eben deshalb, wenn man will, sich gebrauchen läßt, den allgemeinen Regeln des einfachen und doppelten Kontrapunktes zu Grunde läge, auf denen ihr wahres Wesen beruht. Was mögen doch die alten Künstler, welche die möglichen Formen der Fuge entwickelten, auszudrücken beabsichtigt haben? Gar nichts wollen sie ausdrücken; ihre Gedanken gingen nicht hinaus, sondern in das innere Wesen der Kunst hinein; diejenigen aber, die sich auf Bedeutungen legen, verraten ihre Scheu vor dem innern und ihre Vorliebe für den äußern Schein.“ Leider hat Herbart diese gelegentliche Opposition im einzelnen nicht näher begründet, und neben dieser glänzenden finden sich bei ihm auch manche schiefe Bemerkungen über Musik. Jedenfalls haben seine obigen Worte, wie wir sogleich sehen werden, nicht die verdiente Beachtung gefunden.</cell>
+               <cell xml:id="v5">Der erste, der meines Wissens diese Gefühlsästhetik in der Musik angegriffen hat, ist Herbart (im 9. Kapitel seiner Encyklopädie). Nachdem er sich gegen die „Deutelei“ von Kunstwerken erklärt hat, sagt er: „Die Traumdeuter und Astrologen haben sich Jahrtausende nicht wollen sagen lassen, daß ein Mensch träume, weil er schläft, und daß die Gestirne sich bald da bald dort zeigen, weil sie sich bewegen. So wiederholen bis auf den heutigen Tag selbst gute Musikkenner den Satz, die Musik drücke Gefühle aus, als ob das Gefühl, das etwa durch sie erregt wird und zu dessen Ausdruck sie eben deshalb, wenn man will, sich gebrauchen läßt, den allgemeinen Regeln des einfachen und doppelten Kontrapunktes zu Grunde läge, auf denen ihr wahres Wesen beruht. Was mögen doch die alten Künstler, welche die möglichen Formen der Fuge entwickelten, auszudrücken beabsichtigt haben? Gar nichts wollen sie ausdrücken; ihre Gedanken gingen nicht hinaus, sondern in das innere Wesen der Kunst hinein; diejenigen aber, die sich auf Bedeutungen legen, verraten ihre Scheu vor dem innern und ihre Vorliebe für den äußern Schein.“ Leider hat Herbart diese gelegentliche Opposition im einzelnen nicht näher begründet, und neben dieser glänzenden finden sich bei ihm auch manche schiefe Bemerkungen über Musik. Jedenfalls haben seine obigen Worte, wie wir sogleich sehen werden, nicht die verdiente Beachtung gefunden.</cell>
             </row>
          </table>
       </body>

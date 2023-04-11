@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 4.32</title>
+            <title>Concorance 4.32</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,80 +325,80 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3548a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3548a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3705a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3705a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4088a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4032a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4088a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3945a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4032a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4539a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3945a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4452a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4539a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4491a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4452a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4504a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4491a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4504a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.31.html">§ 4.31</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4464a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_4.33.html">§ 4.33</ref>
+                     <ref type="prevLink" target="diff_4.31.html">4.31</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4464a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_4.33.html">4.33</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger ʼschen electromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein electrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen electrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine gückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik beliebige Gemüthsaffecte hervorzubringen.</cell>
-               <cell xml:id="v2">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger ʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine gückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
-               <cell xml:id="v3">Der Gedanke, durch Musik bestimmte Affecte, als Liebe Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger ʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
-               <cell xml:id="v4">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger ʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
-               <cell xml:id="v5">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger ʼschen elektromagnetischen Ketten“ ergab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
-               <cell xml:id="v6">Der Gedanke, durch Musik bestimmte Affecte als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger ʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
-               <cell xml:id="v7">Der Gedanke, durch Musik bestimmte Affekte als Liebe, Wehmut, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger schen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „ Goldberger schen Ketten“ keinen elektrischen Strom zu erzeugen im stande sind. Auf unsere Tondoktoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemütsaffekte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemütsaffekte hervorzubringen.</cell>
-               <cell xml:id="v8">Der Gedanke, durch Musik bestimmte Affekte als Liebe, Wehmut, Zorn, Entzücken, in der Seele zu erregen, welche den Körper, durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „ Goldberger schen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „ Goldberger schen Ketten“ keinen elektrischen Strom zu erzeugen im stande sind. Auf unsere Tondoktoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemütsaffekte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemütsaffekte hervorzubringen.</cell>
+               <cell xml:id="v1">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerʼschen electromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein electrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen electrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine gückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik beliebige Gemüthsaffecte hervorzubringen.</cell>
+               <cell xml:id="v2">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine gückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
+               <cell xml:id="v3">Der Gedanke, durch Musik bestimmte Affecte, als Liebe Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
+               <cell xml:id="v4">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
+               <cell xml:id="v5">Der Gedanke, durch Musik bestimmte Affecte, als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerʼschen elektromagnetischen Ketten“ ergab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krank heiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
+               <cell xml:id="v6">Der Gedanke, durch Musik bestimmte Affecte als Liebe, Wehmuth, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerʼschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerʼschen Ketten“ keinen elektrischen Strom zu erzeugen im Stande sind. Auf unsere Tondoctoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemüthsaffecte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemüthsaffecte hervorzubringen.</cell>
+               <cell xml:id="v7">Der Gedanke, durch Musik bestimmte Affekte als Liebe, Wehmut, Zorn, Entzücken, in der Seele zu erregen, welche den Körper durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerschen Ketten“ keinen elektrischen Strom zu erzeugen im stande sind. Auf unsere Tondoktoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemütsaffekte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemütsaffekte hervorzubringen.</cell>
+               <cell xml:id="v8">Der Gedanke, durch Musik bestimmte Affekte als Liebe, Wehmut, Zorn, Entzücken, in der Seele zu erregen, welche den Körper, durch wohlthätige Aufregung heilen, klingt so übel nicht. Uns fällt dabei stets das köstliche Parere ein, welches einer unserer berühmtesten Naturforscher über die sogenannten „Goldbergerschen elektromagnetischen Ketten“ abgab. Er sagte: es sei nicht ausgemacht, ob ein elektrischer Strom gewisse Krankheiten zu heilen vermöge, – das aber sei ausgemacht, daß die „Goldbergerschen Ketten“ keinen elektrischen Strom zu erzeugen im stande sind. Auf unsere Tondoktoren angewandt, heißt dies: Es ist möglich, daß bestimmte Gemütsaffekte eine glückliche Krisis in leiblichen Krankheiten herbeiführen, – allein es ist nicht möglich, durch Musik jederzeit beliebige Gemütsaffekte hervorzubringen.</cell>
             </row>
          </table>
       </body>

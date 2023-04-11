@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 5.27</title>
+            <title>Concorance 5.27</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,76 +325,76 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4346a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4346a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4500a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4500a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4893a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4893a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4732a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4655a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4732a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5259a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4655a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5175a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5259a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5214a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5175a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5214a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5214a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5214a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.26.html">§ 5.26</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5181a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_5.28.html">§ 5.28</ref>
+                     <ref type="prevLink" target="diff_5.26.html">5.26</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5181a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_5.28.html">5.28</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Wenn Heinrich der Vierte bei Shakespear e (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element zu wiegen. Ebenso wenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hören auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht blos die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik niemals als Ursache, sondern stets als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
+               <cell xml:id="v1">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element zu wiegen. Ebenso wenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hören auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht blos die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik niemals als Ursache, sondern stets als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
                <cell xml:id="v2">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element zu wiegen. Ebenso wenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hört auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht blos die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, denn als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
                <cell xml:id="v3">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element sich zu wiegen. Ebenso wenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niederlegt, – sie hört auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht blos die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, denn als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
-               <cell xml:id="v4">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element sich zu wiegen. Ebenso wenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hört auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht blos die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elemetarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, den als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
+               <cell xml:id="v4">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element sich zu wiegen. Ebenso wenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hört auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht blos die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elemetarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, denn als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
                <cell xml:id="v5">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element sich zu wiegen. Ebenso wenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hört auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht blos die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, denn als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
-               <cell xml:id="v6">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element sich zu wiegen. Ebensowenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hört auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht bloß die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, denn als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
+               <cell xml:id="v6">Wenn Heinrich der Vierte bei Shakespeare (II. Theil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vor getragene Composition anzuhören, sondern um träumend in deren gegenstandlosem Element sich zu wiegen. Ebensowenig werden Porzia und Bassanio „(im Kaufmann von Venedig)“ gestimmt sein, während der verhängnißvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hört auf es zu sein, sobald man lediglich dabei im Tact tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht bloß die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüth und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, denn als Wirkung aufzufassen, nicht als Producirendes, sondern als Product.</cell>
                <cell xml:id="v7">Wenn Heinrich der Vierte bei Shakespeare (II. Teil. IV. 4.) sich sterbend Musik machen läßt, so geschieht es wahrlich nicht, um die vorgetragene Komposition anzuhören, sondern um träumend in deren gegenstandlosem Element sich zu wiegen. Ebensowenig werden Porzia und Bassanio (im „Kaufmann von Venedig“) gestimmt sein, während der verhängnisvollen Kästchenwahl der bestellten Musik Aufmerksamkeit zu schenken. J.  Strauß hat reizende, ja geistreiche Musik in seinen bessern Walzern niedergelegt, – sie hört auf es zu sein, sobald man lediglich dabei im Takt tanzen will. In allen diesen Fällen ist es ganz gleichgültig, welche Musik gemacht wird, wenn sie nur den verlangten Grundcharakter hat. Wo aber Gleichgültigkeit gegen das Individuelle eintritt, da herrscht Klangwirkung, nicht Tonkunst. Nur derjenige, welcher nicht bloß die allgemeine Nachwirkung des Gefühls, sondern die unvergeßliche, bestimmte Anschauung eben dieses Tonstücks mit sich nimmt, hat es gehört und genossen. Jene erhebenden Eindrücke auf unser Gemüt und ihre hohe psychische, wie physiologische Bedeutung dürfen nicht hindern, daß die Kritik überall unterscheide, was bei einer vorhandenen Wirkung künstlerisch, was elementarisch sei. Eine ästhetische Anschauung hat Musik nicht sowohl als Ursache, denn als Wirkung aufzufassen, nicht als Produzierendes, sondern als Produkt.</cell>
             </row>
          </table>

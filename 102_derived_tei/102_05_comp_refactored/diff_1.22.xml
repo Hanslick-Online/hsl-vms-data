@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 1.22</title>
+            <title>Concorance 1.22</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,73 +325,73 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e529a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_1.23.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e529a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_1.23.html">1.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e684a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_1.23.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e684a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_1.23.html">1.23</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e699a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_1.23.html">§ 1.23</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e694a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_1.23.html">§ 1.23</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e694a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_1.23.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e699a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_1.23.html">1.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e876a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_1.23xyz.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e694a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_1.23.html">1.23</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e694a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_1.23.html">1.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e811a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_1.23xyz.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e876a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_1.23xyz.html">1.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e791a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_1.23xyz.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e811a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_1.23xyz.html">1.23</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e791a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_1.23xyz.html">1.23</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e796a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_1.23xyz.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e796a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_1.23xyz.html">1.23</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.21.html">§ 1.21</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e752a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_1.23xyz.html">§ 1.23</ref>
+                     <ref type="prevLink" target="diff_1.21.html">1.21</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e752a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_1.23xyz.html">1.23</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Allein ebensowenig wie wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, können wir in ihr eine specifische Bestimmtheit der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung dieser auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht mächtig ein bedeutendes Historiengemälde? Welche Andacht erwecken Raphaelʼs Madonnen, welchʼ sehnsüchtige und frohe Stimmungen die Landschaften eines Poussin? Wird der Anblick des Straßburger Münsters oder der griechischen Marmorgestalten ohne Wirkung auf unser Fühlen bleiben? Dasselbe gilt von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblich principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung: ob man stärker und tiefer fühle bei einer Mozartʼschen Symphonie oder bei einem Trauerspiel Shakespeareʼs, bei einem Gedicht von Uhland oder einem Hummel ʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
+               <cell xml:id="v1">Allein ebensowenig wie wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, können wir in ihr eine specifische Bestimmtheit der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung dieser auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht mächtig ein bedeutendes Historiengemälde? Welche Andacht erwecken Raphaelʼs Madonnen, welchʼ sehnsüchtige und frohe Stimmungen die Landschaften eines Poussin? Wird der Anblick des Straßburger Münsters oder der griechischen Marmorgestalten ohne Wirkung auf unser Fühlen bleiben? Dasselbe gilt von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblich principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung: ob man stärker und tiefer fühle bei einer Mozartʼschen Symphonie oder bei einem Trauerspiel Shakespeareʼs, bei einem Gedicht von Uhland oder einem Hummelʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
                <cell xml:id="v2">Allein ebensowenig wie wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, können wir in ihr das specifische Wesen der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht ein großes Geschichtsbild mit der Kraft eines Erlebnisses? Stimmen uns Raphaels Madonnen nicht zur Andacht, Poussins Landschaften nicht zu sehnsüchtiger Wanderlust? Bleibt etwa der Anblick des Straßburger Doms ohne Wirkung auf unser Gemüth? Die Antwort kann nicht zweifelhaft sein. Sie gilt ebenso von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblich principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung: ob man stärker und tiefer fühle bei einer Mozartʼschen Symphonie oder bei einem Trauerspiele Shakespeareʼs, bei einem Gedicht von Uhland oder einem Hummelʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
                <cell xml:id="v3">Allein so wenig wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, so wenig können wir in ihr das specifische Wesen der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht ein großes Geschichtsbild mit der Kraft eines Erlebnisses? Stimmen uns Raphaels Madonnen nicht zur Andacht, Poussins Landschaften nicht zu sehnsüchtiger Wanderlust? Bleibt etwa der Anblick des Straßburger Doms ohne Wirkung auf unser Gemüth? Die Antwort kann nicht zweifelhaft sein. Sie gilt ebenso von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz, u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblich principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung, ob man stärker und tiefer fühle bei einer Mozartʼschen Symphonie oder bei einem Trauerspiele Shakespeareʼs, bei einem Gedicht von Uhland oder einem Hummelʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
                <cell xml:id="v4">Allein so wenig wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, so wenig können wir in ihr das specifische Wesen der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht ein großes Geschichtsbild mit der Kraft eines Erlebnisses? Stimmen uns Raphaels Madonnen nicht zur Andacht, Poussins Landschaften nicht zu sehnsüchtiger Wanderlust? Bleibt etwa der Anblick des Straßburger Doms ohne Wirkung auf unser Gemüth? Die Antwort kann nicht zweifelhaft sein. Sie gilt ebenso von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz, u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblichen principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung, ob man stärker und tiefer fühle bei einer Mozartʼschen Symphonie oder bei einem Trauerspiele Shakespeareʼs, bei einem Gedicht von Uhland oder einem Hummelʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
-               <cell xml:id="v5">Allein so wenig wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, so wenig können wir in ihr das specifische Wesen der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht ein großes Geschichtsbild mit der Kraft eines Erlebnisses? Stimmen uns Raphaels Madonnen nicht zur Andacht, Poussins Landschaften nicht zu sehnsüchtiger Wanderlust? Bleibt etwa der Anblick des Straßburger Doms ohne Wirkung auf unser Gemüth? Die Antwort kann nicht zweifelhaft sein. Sie gilt ebenso von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblichen principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung, ob man stärker und tiefer fühle bei einer Mozartʼschen Symphonie oder bei einem Trauerspiele Shakespeareʼs, bei einem Gedicht von Uhland oder einem Hummelʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
+               <cell xml:id="v5">Allein so wenig wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, so wenig können wir in ihr das specifische Wesen der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine secundäre Wirkung auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht ein großes Geschichtsbild mit der Kraft eines Erlebnisses? Stimmen uns Raphael’s Madonnen nicht zur Andacht, Poussin’s Landschaften nicht zu sehnsüchtiger Wanderlust? Bleibt etwa der Anblick des Straßburger Doms ohne Wirkung auf unser Gemüth? Die Antwort kann nicht zweifelhaft sein. Sie gilt ebenso von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblichen principiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basiren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung, ob man stärker und tiefer fühle bei einer Mozartʼschen Symphonie oder bei einem Trauerspiele Shakespeareʼs, bei einem Gedicht von Uhland oder einem Hummelʼschen Rondo, füglich Jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
                <cell xml:id="v6">Allein so wenig wir diese Wirkung als die Aufgabe der Künste überhaupt anerkannten, so wenig können wir in ihr das spezifische Wesen der Musik erblicken. Einmal festgehalten, daß die Phantasie das eigentliche Organ des Schönen ist, wird eine sekundäre Wirkung auf das Gefühl in jeder Kunst vorkommen. Bewegt uns nicht ein großes Geschichtsbild mit der Kraft eines Erlebnisses? Stimmen uns Raphaels Madonnen nicht zur Andacht, Poussins Landschaften nicht zu sehnsüchtiger Wanderlust? Bleibt etwa der Anblick des Straßburger Doms ohne Wirkung auf unser Gemüt? Die Antwort kann nicht zweifelhaft sein. Sie gilt ebenso von der Poesie, ja von mancher außerästhetischen Thätigkeit, z. B. religiöser Erbauung, Eloquenz u. a. Wir sehen, daß die übrigen Künste ebenfalls stark genug auf das Gefühl einwirken. Den angeblichen prinzipiellen Unterschied derselben von der Musik müßte man daher auf ein Mehr oder Weniger dieser Wirkung basieren. Ganz unwissenschaftlich an sich, hätte dieser Ausweg obendrein die Entscheidung, ob man stärker und tiefer fühle bei einer Mozartschen Symphonie oder bei einem Trauerspiele Shakespeares, bei einem Gedicht von Uhland oder einem Hummelschen Rondo, füglich jedermann selbst zu überlassen. Meint man aber, die Musik wirke „unmittelbar“ auf das Gefühl, die andern Künste erst durch die Vermittlung von Begriffen, so fehlt man nur mit andern Worten, weil, wie wir gesehen, die Gefühle auch von dem Musikalisch-Schönen nur in zweiter Linie beschäftigt werden sollen, unmittelbar nur die Phantasie. Unzählige Mal wird in musikalischen Abhandlungen die Analogie herbeigerufen, die zweifellos zwischen der Musik und der Baukunst besteht. Ist aber je einem vernünftigen Architekten beigefallen, die Baukunst habe den Zweck, Gefühle zu erregen, oder es seien diese der Inhalt derselben?</cell>
             </row>
          </table>

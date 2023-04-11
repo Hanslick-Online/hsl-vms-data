@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 1.8</title>
+            <title>Concorance 1.8</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,64 +325,64 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.6xyz &amp; 1.7xyz.html">§ 1.6 &amp; 1.7</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e392a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.6xyz.html">1.6</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e392a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.7.html">§ 1.7</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e539a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.7.html">1.7</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e539a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.7.html">§ 1.7</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e555a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.7.html">1.7</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e555a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.7.html">§ 1.7</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.7.html">1.7</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.7.html">§ 1.7</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.6.html">§ 1.6</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e703a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.6.html">§ 1.6</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e639a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.7.html">1.7</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.6.html">§ 1.6</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e623a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.6.html">1.6</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e703a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.6.html">§ 1.6</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e621a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.6.html">1.6</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e639a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.6.html">1.6</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e623a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.6.html">§ 1.6</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e577a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_1.9.html">§ 1.9</ref>
+                     <ref type="prevLink" target="diff_1.6.html">1.6</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e621a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.6.html">1.6</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e577a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_1.9.html">1.9</ref>
                   </seg>
                </cell>
             </row>
@@ -392,7 +392,7 @@
                <cell xml:id="v3">Die Tonkunst allein scheint diesen heilsamen Standpunkt noch immer nicht erringen zu können. Sie scheidet streng ihre theoretisch-grammatikalischen Regeln von den ästhetischen Untersuchungen und liebt es, erstere so trocken verständig, letztere so lyrisch-sentimental als möglich zu halten. Sich ihren Inhalt als eine selbstständige Art des Schönen klar und scharf gegenüber zu stellen, war der musikalischen Aesthetik bisher eine unerschwingliche Anstrengung. Statt dessen treiben da die „Empfindungen“ den alten Spuk bei hellichtem Tage fort. Das musikalisch Schöne wird nach wie vor nur von Seite seines subjectiven Eindrucks angesehen und in Büchern, Kritiken und Gesprächen täglich bekräftigt, daß die Affecte die einzige ästhetische Grundlage der Tonkunst und allein berechtigt seien, die Grenzen des Urtheils über dieselbe abzustecken.</cell>
                <cell xml:id="v4">Die Tonkunst allein scheint diesen heilsamen Standpunkt noch immer nicht erringen zu können. Sie scheidet streng ihre theoretisch-grammatikalischen Regeln von den ästhetischen Untersuchungen und liebt es, erstere so trocken verständig, letztere so lyrisch-sentimental als möglich zu halten. Sich ihren Inhalt als eine selbstständige Art des Schönen klar und scharf gegenüber zu stellen, war der musikalischen Aesthetik bisher eine unerschwingliche Anstrengung. Statt dessen treiben da die „Empfindungen“ den alten Spuk bei hellichtem Tage fort. Das musikalisch Schöne wird nach wie vor nur von Seite seines subjectiven Eindrucks angesehen, und in Büchern, Kritiken und Gesprächen täglich bekräftigt, daß die Affecte die einzige ästhetische Grundlage der Tonkunst und allein berechtigt seien, die Grenzen des Urtheils über dieselbe abzustecken.</cell>
                <cell xml:id="v5">Die Tonkunst allein scheint diesen sachlichen Standpunkt noch immer nicht erringen zu können. Sie scheidet streng ihre theoretisch-grammatikalischen Regeln von den ästhetischen Untersuchungen und liebt es, erstere so trocken verständig, letztere so lyrisch-sentimental als möglich zu halten. Sich ihren Inhalt als eine selbstständige Art des Schönen klar und scharf gegenüber zu stellen, war der musikalischen Aesthetik bisher eine unerschwingliche Anstrengung. Statt dessen treiben da die „Empfindungen“ den alten Spuk bei hellichtem Tage fort. Das musikalisch Schöne wird nach wie vor nur von Seite seines subjectiven Eindrucks angesehen, und in Büchern, Kritiken und Gesprächen täglich bekräftigt, daß die Affecte die einzige ästhetische Grundlage der Tonkunst und allein berechtigt seien, die Grenzen des Urtheils über dieselbe abzustecken.</cell>
-               <cell xml:id="v6">Die Tonkunst allein scheint diesen sachlichen Standpunkt noch immer nicht erringen zu können. Sie scheidet streng ihre theoretischstrengung. Statt dessen treiben da die „Empfindungen“ den alten Spuk bei hellichtem Tage fort. Das musikalisch Schöne wird nach wie vor nur von Seite seines subjektiven Eindrucks angesehen, und in Büchern, Kritiken und Gesprächen täglich bekräftigt, daß die Affekte die einzige ästhetische Grundlage der Tonkunst und allein berechtigt seien, die Grenzen des Urteils über dieselbe abzustecken.</cell>
+               <cell xml:id="v6">Die Tonkunst allein scheint diesen sachlichen Standpunkt noch immer nicht erringen zu können. Sie scheidet streng ihre theoretisch-grammatikalischen Regeln von den ästhetischen Untersuchungen und liebt es, erstere so trocken verständig, letztere so lyrisch-sentimental als möglich zu halten. Sich ihren Inhalt als eine selbständige Art des Schönen klar und scharf gegenüber zu stellen, war der musikalischen Ästhetik bisher eine unerschwingliche Anstrengung. Statt dessen treiben da die „Empfindungen“ den alten Spuk bei hellichtem Tage fort. Das musikalisch Schöne wird nach wie vor nur von Seite seines subjektiven Eindrucks angesehen, und in Büchern, Kritiken und Gesprächen täglich bekräftigt, daß die Affekte die einzige ästhetische Grundlage der Tonkunst und allein berechtigt seien, die Grenzen des Urteils über dieselbe abzustecken.</cell>
             </row>
          </table>
       </body>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 2.24</title>
+            <title>Concorance 2.24</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,65 +325,68 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1367a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1367a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1549a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1549a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1586a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1586a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1628a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1628a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1598a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1598a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1908a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1852a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1852a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1854a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1908a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1854a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1851a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1851a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.23.html">§ 2.23</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1811a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_2.25.html">§ 2.25</ref>
+                     <ref type="prevLink" target="diff_2.23.html">2.23</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1811a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_2.25.html">2.25</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Wir haben in der Vocalcomposition ein untrennbar verschmolzenes Product vor uns, aus dem es nicht mehr möglich ist, die Größe der einzelnen Factoren zu bestimmen. Wenn es sich um die Wirkung der Dichtkunst handelt, so wird es Niemand einfallen, die Oper als Beleg hervorzuheben; es braucht größerer Verleugnung aber nur derselben Einsicht, um bei den Grundbestimmungen musikalischer Aesthetik ein Gleiches zu thun.</cell>
                <cell xml:id="v2">Wir haben in der Vocalcomposition ein untrennbar verschmolzenes Product vor uns, aus dem es nicht mehr möglich ist, die Größe der einzelnen Factoren zu bestimmen. Wenn es sich um die Wirkung der Dichtkunst handelt, so wird es Niemand einfallen, die Oper als Beleg hervorzuheben; es braucht größerer Verleugnung, aber nur derselben Einsicht, um bei den Grundbestimmungen musikalischer Aesthetik ein Gleiches zu thun.</cell>
-               <cell xml:id="v3">Wir haben in der Vokalkomposition ein untrennbar verschmolzenes Produkt vor uns, aus dem es nicht mehr möglich ist, die Größe der einzelnen Faktoren zu bestimmen. Wenn es sich um die Wirkung der Dichtkunst handelt, so wird es niemand einfallen, die Oper als Beleg hervorzuheben; es braucht größerer Verleugnung, aber nur derselben Einsicht, um bei den Grundbestimmungen musikalischer Ästhetik ein Gleiches zu thun.</cell>
+               <cell xml:id="v3">Wir haben in der Vocalcomposition ein untrennbar verschmolzenes Product vor uns, aus dem es nicht mehr möglich ist, die Größe der einzelnen Factoren zu bestimmen. Wenn es sich um die Wirkung der Dichtkunst handelt, so wird es Niemand einfallen, die Oper als Beleg hervorzuheben; es braucht größerer Verleugnung, aber nur derselben Einsicht, um bei den Grund bestimmungen musikalischer Aesthetik ein Gleiches zu thun.</cell>
+               <cell xml:id="v4">Wir haben in der Vokalkomposition ein untrennbar verschmolzenes Produkt vor uns, aus dem es nicht mehr möglich ist, die Größe der einzelnen Faktoren zu bestimmen. Wenn es sich um die Wirkung der Dichtkunst handelt, so wird es niemand einfallen, die Oper als Beleg hervorzuheben; es braucht größerer Verleugnung, aber nur derselben Einsicht, um bei den Grundbestimmungen musikalischer Ästhetik ein Gleiches zu thun.</cell>
             </row>
          </table>
       </body>

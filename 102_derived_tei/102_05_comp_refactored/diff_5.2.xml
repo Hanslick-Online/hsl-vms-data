@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 5.2</title>
+            <title>Concorance 5.2</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,77 +325,77 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1.html">§ 5.1</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3923a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1.html">5.1</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3923a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1.html">§ 5.1</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4076a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1.html">5.1</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4076a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.1.html">5.1</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4472a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1.html">§ 5.1</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4472a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1b.html">5.1b</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4381a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.1b.html">5.1b</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4298a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1b.html">§ 5.1b</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4381a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1b.html">§ 5.1b</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4298a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1b.html">5.1b</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4896a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1b.html">§ 5.1b</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4896a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1b.html">§ 5.1b</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4815a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1b.html">5.1b</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4815a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1b.html">§ 5.1b</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4852a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1b.html">5.1b</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4852a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1b.html">§ 5.1b</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4852a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1b.html">5.1b</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4852a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1b.html">§ 5.1b</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4819a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_5.3.html">§ 5.3</ref>
+                     <ref type="prevLink" target="diff_5.1b.html">5.1b</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4819a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_5.3.html">5.3</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publikum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein pikanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther. In der That zaubert uns die Aethernarkose einen höchst angenehmen, wachsenden, den ganzen Organismus süßtraumhaft durchbebenden Rausch, – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
                <cell xml:id="v2">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein picanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther. In der That zaubert uns die Aethernarkose einen höchst angenehmen, wachsenden, den ganzen Organismus süßtraumhaft durchbebenden Rausch, – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
-               <cell xml:id="v3">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszitttert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein picanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther. In der That zaubert uns die Aethernarkose einen höchst angenehmen, wachsenden, den ganzen Organismus süßtraumhaft durchbebenden Rausch, – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
-               <cell xml:id="v4">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein picanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen höchst angenehmen, den ganzen Organismus süßtraumhaft durchbebenden Rausch, – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
-               <cell xml:id="v5">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein pikanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen höchst angenehmen, den ganzen Organismus süßtraumhaft durchbebenden Rausch – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
+               <cell xml:id="v3">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein picanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen höchst angenehmen, den ganzen Organismus süßtraumhaft durchbebenden Rausch, – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
+               <cell xml:id="v4">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein pikanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen höchst angenehmen, den ganzen Organismus süßtraumhaft durchbebenden Rausch – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
+               <cell xml:id="v5">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publicum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu discreditiren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein pikanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der Einen bis zur tollen Verzückung der Andern ist das Princip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistes bethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen höchst angenehmen, den ganzen Organismus süßtraumhaft durchbebenden Rausch – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
                <cell xml:id="v6">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publikum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu diskreditieren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein pikanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der einen bis zur tollen Verzückung der andern ist das Prinzip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen höchst angenehmen, den ganzen Organismus süßtraumhaft durchbebenden Rausch – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
-               <cell xml:id="v7">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publikum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu diskreditieren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein pikanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der einen bis zur tollen Verzückung der andern ist das Prinzip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen in den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen, den ganzen Organismus süßtraumhaft durchbebenden Rausch – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
+               <cell xml:id="v7">Halbwach in ihren Fauteuil geschmiegt, lassen jene Enthusiasten von den Schwingungen der Töne sich tragen und schaukeln, statt sie scharfen Blickes zu betrachten. Wie das stark und stärker anschwillt, nachläßt, aufjauchzt oder auszittert, das versetzt sie in einen unbestimmten Empfindungszustand, den sie für rein geistig zu halten so unschuldig sind. Sie bilden das „dankbarste“ Publikum und dasjenige, welches geeignet ist, die Würde der Musik am sichersten zu diskreditieren. Das ästhetische Merkmal des geistigen Genusses geht ihrem Hören ab; eine feine Cigarre, ein pikanter Leckerbissen, ein laues Bad leistet ihnen unbewußt, was eine Symphonie. Vom gedankenlos gemächlichen Dasitzen der einen bis zur tollen Verzückung der andern ist das Prinzip dasselbe: die Lust am Elementarischen der Musik. Die neue Zeit hat übrigens eine herrliche Entdeckung gebracht, welche für Hörer, die ohne alle Geistesbethätigung nur den Gefühlsniederschlag der Musik suchen, diese Kunst weit überbietet. Wir meinen den Schwefeläther, das Chloroform. In der That zaubern uns diese Mittel einen, den ganzen Organismus süßtraumhaft durchbebenden Rausch – ohne die Gemeinheit des Weintrinkens, welches auch nicht ohne musikalische Wirkung ist.</cell>
             </row>
          </table>
       </body>

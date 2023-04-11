@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 7.24</title>
+            <title>Concorance 7.24</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,63 +325,60 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5621a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.25.html">§ 7.25</ref>
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5621a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.25.html">7.25</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5750a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.25.html">§ 7.25</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6198a1048964">VMS 3 (1865)</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5860a1048964">VMS 5 (1876)</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6409a1048964">VMS 7 (1885)</ref>
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5750a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.25.html">7.25</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5951a1048964">VMS 4 (1874)</ref>
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6198a1048964">VMS 3</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5951a1048964">VMS 4</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5860a1048964">VMS 5</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6409a1048964">VMS 7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6485a1048964">VMS 6 (1881)</ref>
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6485a1048964">VMS 6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6471a1048964">VMS 8 (1891)</ref>
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6471a1048964">VMS 8</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6452a1048964">VMS 9 (1896)</ref>
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6452a1048964">VMS 9</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.23.html">§ 7.23</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6435a1048964">VMS 10 (1902)</ref>
+                     <ref type="prevLink" target="diff_7.23.html">7.23</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6435a1048964">VMS 10</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel Kapitel 3 berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negirt, rettet man deren „Gehalt“. Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem, begrifflosem Material.</cell>
-               <cell xml:id="v2">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel Kapitel 3 berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negirt, rettet man deren „Gehalt“. Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten schönen Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem Material.</cell>
-               <cell xml:id="v3">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel Kapitel 3 -&gt; berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negirt, rettet man deren „Gehalt“. Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten schönen Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem Material.</cell>
-               <cell xml:id="v4">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel Kapitel 3 berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negirt, rettet man deren „Gehalt.“ Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten schönen Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem Material.</cell>
-               <cell xml:id="v5">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel Kapitel 3 berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negiert, rettet man deren „Gehalt“. Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten schönen Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem Material.</cell>
+               <cell xml:id="v1">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negirt, rettet man deren „Gehalt“. Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem, begrifflosem Material.</cell>
+               <cell xml:id="v2">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negirt, rettet man deren „Gehalt“. Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten schönen Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem Material.</cell>
+               <cell xml:id="v3">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negirt, rettet man deren „Gehalt.“ Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten schönen Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem Material.</cell>
+               <cell xml:id="v4">Wie die Individualität sich in der Wahl und Bearbeitung der verschiedenen musikalischen Elemente ausprägt, haben wir im 3. Kapitel berührt. Gegenüber dem Vorwurf der Inhaltlosigkeit also hat die Musik Inhalt, allein musikalischen, welcher ein nicht geringerer Funke des göttlichen Feuers ist, als das Schöne jeder andern Kunst. Nur dadurch aber, daß man jeden andern „Inhalt“ der Tonkunst unerbittlich negiert, rettet man deren „Gehalt“. Denn aus dem unbestimmten Gefühle, worauf sich jener Inhalt im besten Fall zurückführt, ist ihr eine geistige Bedeutung nicht abzuleiten, wohl aber aus der bestimmten schönen Tongestaltung als der freien Schöpfung des Geistes aus geistfähigem Material.</cell>
             </row>
          </table>
       </body>

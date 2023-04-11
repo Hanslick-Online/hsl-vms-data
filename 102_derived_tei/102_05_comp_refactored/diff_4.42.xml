@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 4.42</title>
+            <title>Concorance 4.42</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,29 +325,29 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.41.html">§ 4.41</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3697a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.43.html">§ 4.43</ref>
+                     <ref type="prevLink" target="diff_4.41.html">4.41</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3697a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_4.43.html">4.43</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.41.html">§ 4.41</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3847a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_4.43.html">§ 4.43</ref>
+                     <ref type="prevLink" target="diff_4.41.html">4.41</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3847a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_4.43.html">4.43</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.41.html">§ 4.41</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4235a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.43.html">§ 4.43</ref>
+                     <ref type="prevLink" target="diff_4.41.html">4.41</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4235a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_4.43.html">4.43</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Hr. Lotze sagt in seiner „medicinischen Psychologie“ (S. 237): „Die Betrachtung der Melodien würde zu dem Geständniß führen, daß wir gar nichts über die Bedingungen wissen, unter denen ein Uebergang der Nerven aus einer Form der Erregung in die andere eine physische Grundlage für die kraftvollen ästhetischen Gefühle bietet, die der Abwechslung der Töne folgen.“ Ferner über den Eindruck von Lust und Unlust, den selbst ein einfacher Ton auf das Gefühl ausüben kann (S. 236): „Es ist uns völlig unmöglich, gerade für diese Eindrücke einfacher Empfindungen einen physiologischen Grund anzugeben, da uns die Richtung, in welcher sie die Nerventhätigkeit verändern, zu unbekannt ist, als daß wir aus ihr die Größe der Begünstigung oder Störung, die sie erfährt, abzuleiten vermöchten.“</cell>
-               <cell xml:id="v2">Lotze sagt in seiner „medicinischen Psychologie“ (S. 237): „Die Betrachtung der Melodien würde zu dem Geständniß führen, daß wir gar nichts über die Bedingungen wissen, unter denen ein Uebergang der Nerven aus einer Form der Erregung in die andere eine physische Grundlage für die kraftvollen ästhetischen Gefühle bietet, die der Abwechslung der Töne folgen.“S. 236„Es ist uns völlig unmöglich, gerade für diese Eindrücke einfacher Empfindungen einen physiologischen Grund anzugeben, da uns die Richtung, in welcher sie die Nerventhätigkeit verändern, zu unbekannt ist, als daß wir aus ihr die Größe der Begünstigung oder Störung, die sie erfährt, abzuleiten vermöchten.“</cell>
+               <cell xml:id="v2">Lotze sagt in seiner „medicinischen Psychologie“ (S. 237): „Die Betrachtung der Melodien würde zu dem Geständniß führen, daß wir gar nichts über die Bedingungen wissen, unter denen ein Uebergang der Nerven aus einer Form der Erregung in die andere eine physische Grundlage für die kraftvollen ästhetischen Gefühle bietet, die der Abwechslung der Töne folgen.“ Ferner über den Eindruck von Lust oder Unlust, den selbst ein einfacher Ton auf das Gefühl ausüben kann (S. 236): „Es ist uns völlig unmöglich, gerade für diese Eindrücke einfacher Empfindungen einen physiologischen Grund anzugeben, da uns die Richtung, in welcher sie die Nerventhätigkeit verändern, zu unbekannt ist, als daß wir aus ihr die Größe der Begünstigung oder Störung, die sie erfährt, abzuleiten vermöchten.“</cell>
                <cell xml:id="v3">Lotze sagt in seiner „medicinischen Psychologie“ (S. 237): „Die Betrachtung der Melodien würde zu dem Geständniß führen, daß wir gar nichts über die Bedingungen wissen, unter denen ein Uebergang der Nerven aus einer Form der Erregung in die andere eine physische Grundlage für die kraftvollen ästhetischen Gefühle bietet, die der Abwechslung der Töne folgen.“ Ferner über den Eindruck von Lust und Unlust, den selbst ein einfacher Ton auf das Gefühl ausüben kann (S. 236): „Es ist uns völlig unmöglich, gerade für diese Eindrücke einfacher Empfindungen einen physiologischen Grund anzugeben, da uns die Richtung, in welcher sie die Nerventhätigkeit verändern, zu unbekannt ist, als daß wir aus ihr die Größe der Begünstigung oder Störung, die sie erfährt, abzuleiten vermöchten.“</cell>
             </row>
          </table>

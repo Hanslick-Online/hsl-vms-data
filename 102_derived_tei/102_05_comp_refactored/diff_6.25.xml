@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 6.25</title>
+            <title>Concorance 6.25</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,69 +325,69 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4916a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4916a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5032a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5032a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5438a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5438a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5211a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5211a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5129a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5753a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5129a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5672a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5753a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5721a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5672a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5721a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5709a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5709a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.24.html">§ 6.24</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5684a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_6.26.html">§ 6.26</ref>
+                     <ref type="prevLink" target="diff_6.24.html">6.24</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5684a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_6.26.html">6.26</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Wenn daher ein Componist wirkliche Nationalmelodien benützt, so ist dies kein Naturschönes, denn man muß bis zu Einem zurückgehen, der sie erfunden hat, – woher hatte sie dieser? Fand er ein Vorbild dafür in der Natur? Dies ist die berechtigte Frage. Die Antwort kann nur verneinend lauten. Der Volksgesang ist kein Vorgefundenes, kein Naturschönes, sondern die erste Stufe wirklicher Kunst, naive Kunst. Er ist für die Tonkunst ebensowenig ein von der Natur erzeugtes Vorbild, als die mit Kohle an Wachtstuben und Schuttböden geschmierten Blumen oder Soldaten natürliche Vorbilder für die Malerei sind. Beides ist menschliches Kunstproduct. Für die Kohlenfiguren lassen die Vorbilder in der Natur sich nachweisen, für den Volksgesang nicht; man kann nicht hinter ihn zurückgehen.</cell>
                <cell xml:id="v2">Wenn daher ein Componist wirkliche Nationalmelodien benützt, so ist dies kein Naturschönes, denn man muß bis zu Einem zurückgehen, der sie erfunden hat, – woher hatte sie dieser? Fand er ein Vorbild dafür in der Natur? Dies ist die berechtigte Frage. Die Antwort kann nur verneinend lauten. Der Volksgesang ist kein Vorgefundenes, kein Naturschönes, sondern die erste Stufe wirklicher Kunst, naive Kunst. Er ist für die Tonkunst ebensowenig ein von der Natur erzeugtes Vorbild, als die mit Kohle an Wachtstuben und Schuttböden geschmierten Blumen und Soldaten natürliche Vorbilder für die Malerei sind. Beides ist menschliches Kunstproduct. Für die Kohlenfiguren lassen die Vorbilder in der Natur sich nachweisen, für den Volksgesang nicht; man kann nicht hinter ihn zurückgehen.</cell>
-               <cell xml:id="v3">Wenn daher ein Componist wirkliche Nationalmelodien benützt, so ist dies kein Naturschönes, denn man muß bis zu Einem zurückgehen, der sie erfunden hat, – woher hatte sie dieser? Fand er ein Vorbild dafür in der Natur? Dies ist die berechtigte Frage. Die Antwort kann nur verneinend lauten. Der Volksgesang ist kein Vorgefundenes, kein Naturschönes, sondern die erste Stufe wirklicher Kunst, naive Kunst. Er ist für die Tonkunst ebensowenig ein von der Natur erzeugtes Vorbild, wie die mit Kohle an Wachtstuben und Schuttböden geschmierten Blumen und Soldaten natürliche Vorbilder für die Malerei sind. Beides ist menschliches Kunstprodukt. Für die Kohlenfiguren lassen die Vorbilder in der Natur sich nachweisen, für den Volksgesang nicht; man kann nicht hinter ihn zurückgehen.</cell>
+               <cell xml:id="v3">Wenn daher ein Componist wirkliche Nationalmelodien benützt, so ist dies kein Naturschönes, denn man muß bis zu Einem zurückgehen, der sie erfunden hat, – woher hatte sie dieser? Fand er ein Vorbild dafür in der Natur? Dies ist die berechtigte Frage. Die Antwort kann nur verneinend lauten. Der Volksgesang ist kein Vorgefundenes, kein Naturschönes, sondern die erste Stufe wirklicher Kunst, naive Kunst. Er ist für die Tonkunst ebensowenig ein von der Natur erzeugtes Vorbild, wie die mit Kohle an Wachtstuben und Schuttböden geschmierten Blumen und Soldaten natürliche Vorbilder für die Malerei sind. Beides ist menschliches Kunstpro dukt. Für die Kohlenfiguren lassen die Vorbilder in der Natur sich nachweisen, für den Volksgesang nicht; man kann nicht hinter ihn zurückgehen.</cell>
                <cell xml:id="v4">Wenn daher ein Componist wirkliche Nationalmelodien benützt, so ist dies kein Naturschönes, denn man muß bis zu Einem zurückgehen, der sie erfunden hat, – woher hatte sie dieser? Fand er ein Vorbild dafür in der Natur? Dies ist die berechtigte Frage. Die Antwort kann nur verneinend lauten. Der Volksgesang ist kein Vorgefundenes, kein Naturschönes, sondern die erste Stufe wirklicher Kunst, naive Kunst. Er ist für die Tonkunst ebensowenig ein von der Natur erzeugtes Vorbild, wie die mit Kohle an Wachtstuben und Schuttböden geschmierten Blumen und Soldaten natürliche Vorbilder für die Malerei sind. Beides ist menschliches Kunstproduct. Für die Kohlenfiguren lassen die Vorbilder in der Natur sich nachweisen, für den Volksgesang nicht; man kann nicht hinter ihn zurückgehen.</cell>
                <cell xml:id="v5">Wenn daher ein Komponist wirkliche Nationalmelodien benützt, so ist dies kein Naturschönes, denn man muß bis zu einem zurückgehen, der sie erfunden hat, – woher hatte sie dieser? Fand er ein Vorbild dafür in der Natur? Dies ist die berechtigte Frage. Die Antwort kann nur verneinend lauten. Der Volksgesang ist kein Vorgefundenes, kein Naturschönes, sondern die erste Stufe wirklicher Kunst, naive Kunst. Er ist für die Tonkunst ebensowenig ein von der Natur erzeugtes Vorbild, wie die mit Kohle an Wachtstuben und Schuttböden geschmierten Blumen und Soldaten natürliche Vorbilder für die Malerei sind. Beides ist menschliches Kunstprodukt. Für die Kohlenfiguren lassen die Vorbilder in der Natur sich nachweisen, für den Volksgesang nicht; man kann nicht hinter ihn zurückgehen.</cell>
             </row>

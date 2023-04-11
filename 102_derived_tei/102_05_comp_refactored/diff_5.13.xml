@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 5.13</title>
+            <title>Concorance 5.13</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,77 +325,74 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4072a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e4072a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4229a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4229a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4622a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4493a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4622a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4493a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4410a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4410a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5018a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5018a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4934a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4934a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4968a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4968a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4968a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4968a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.12.html">§ 5.12</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4935a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_5.14.html">§ 5.14</ref>
+                     <ref type="prevLink" target="diff_5.12.html">5.12</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4935a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_5.14.html">5.14</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack Alexanderʼs des Großen, welcher durch das Saitenspiel des Timotheus zuerst wüthend gemacht, hierauf durch den Gesang des Antigenides wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus , um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen, und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ Und das war noch der „gute Erich .“ ( Albert Krantzius, Dan. lib. V., cap. 3 .)</cell>
-               <cell xml:id="v2">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack Alexanderʼs des Großen, welcher durch das Saitenspiel des Timotheus zuerst wüthend gemacht, hierauf durch den Gesang des Antigenides wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus , um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen, und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ ( Albert Krantzius, Dan. lib. V., cap. 3 . ) Und das war noch der „gute Erich .“</cell>
-               <cell xml:id="v3">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack Alexanderʼs des Großen, welcher durch das Saitenspiel des Timotheus zuerst wüthend gemacht, hierauf durch den Gesang des Antigenides wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus , um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen, und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ ( Albert Krantzius, Dan. lib. V., cap. 3 .) Und das war noch der „gute Erich .“</cell>
-               <cell xml:id="v4">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack Alexanderʼs des Großen, welcher durch das Saitenspiel des Timotheus zuerst wüthend gemacht, hierauf durch den Gesang des Antigenides wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus , um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen, und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ ( Albert Krantzius, Dan. lib. V., cap. 3 .) Und das war noch der „gute Erich “.</cell>
-               <cell xml:id="v5">Auf die Thierproductionen folgen die menschlichen Cabinetstücke. Sie sind meist im Geschmack Alexanders des Großen, welcher durch das Flötenspiel des Timotheus zuerst wüthend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus , um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ ( Albert Krantzius, Dan. lib. V., cap. 3 .) Und das war noch der „gute Erich “.</cell>
-               <cell xml:id="v6">Auf die Thierproductionen folgen die menschlichen Cabinetstücke. Sie sind meist im Geschmack Alexanders des Großen, welcher durch das Flötenspiel des Timotheus zuerst wüthend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus , um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ ( Albert Krantzius, Dan. lib. V., cap. 3 .) Und das war noch der „gute Erich “.</cell>
-               <cell xml:id="v7">Auf die Tierproduktionen folgen die menschlichen Kabinetstücke. Sie sind meist im Geschmack Alexanders des Großen, welcher durch das Flötenspiel des Timotheus zuerst wütend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus , um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüter zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ ( Albert Krantzius, Dan. lib. V., cap. 3 .) Und das war noch der „gute Erich “.</cell>
+               <cell xml:id="v1">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack Alexanderʼs des Großen, welcher durch das Saitenspiel des Timotheus zuerst wüthend gemacht, hierauf durch den Gesang des Antigenides wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus, um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen, und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ Und das war noch der „gute Erich .“ (Albert Krantzius, Dan. lib. V., cap. 3.)</cell>
+               <cell xml:id="v2">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack Alexanderʼs des Großen, welcher durch das Saitenspiel des Timotheus zuerst wüthend gemacht, hierauf durch den Gesang des Antigenides wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus, um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen, und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ (Albert Krantzius, Dan. lib. V., cap. 3.) Und das war noch der „gute Erich .“</cell>
+               <cell xml:id="v3">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack Alexanderʼs des Großen, welcher durch das Saitenspiel des Timotheus zuerst wüthend gemacht, hierauf durch den Gesang des Antigenides wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus, um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen, und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ (Albert Krantzius, Dan. lib. V., cap. 3.) Und das war noch der „gute Erich “.</cell>
+               <cell xml:id="v4">Auf die Thierproductionen folgen die menschlichen Cabinetstücke. Sie sind meist im Geschmack Alexanders des Großen, welcher durch das Flötenspiel des Timotheus zuerst wüthend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus, um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ (Albert Krantzius,Dan. lib. V., cap. 3.) Und das war noch der „gute Erich “.</cell>
+               <cell xml:id="v5">Auf die Thierproductionen folgen die menschlichen Cabinetstücke. Sie sind meist im Geschmack Alexanders des Großen, welcher durch das Flötenspiel des Timotheus zuerst wüthend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus, um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ (Albert Krantzius,Dan. lib. V., cap. 3.) Und das war noch der „gute Erich “.</cell>
+               <cell xml:id="v6">Auf die Tierproduktionen folgen die menschlichen Kabinetstücke. Sie sind meist im Geschmack Alexanders des Großen, welcher durch das Flötenspiel des Timotheus zuerst wütend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark Ericus bonus, um sich von der gepriesenen Gewalt der Musik zu überzeugen, einen berühmten Musikus spielen und zuvor alles Gewehr entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüter zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu steigern. „Selbst der König brach durch die Thür, griff zum Degen und brachte von den Umstehenden vier ums Leben.“ (Albert Krantzius, Dan. lib. V., cap. 3.) Und das war noch der „gute Erich “.</cell>
             </row>
          </table>
       </body>

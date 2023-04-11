@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 5.5.1</title>
+            <title>Concorance 5.5.1</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,49 +325,49 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.5.html">§ 5.5</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4417a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_5.6.html">§ 5.6</ref>
+                     <ref type="prevLink" target="diff_5.5.html">5.5</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4417a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_5.6.html">5.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.5.html">§ 5.5</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4334a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_5.6.html">§ 5.6</ref>
+                     <ref type="prevLink" target="diff_5.5.html">5.5</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4334a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_5.6.html">5.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.5.html">§ 5.5</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4937a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_5.6.html">§ 5.6</ref>
+                     <ref type="prevLink" target="diff_5.5.html">5.5</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4937a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.6.html">5.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.5.html">§ 5.5</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4856a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_5.6.html">§ 5.6</ref>
+                     <ref type="prevLink" target="diff_5.5.html">5.5</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4856a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_5.6.html">5.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.5.html">§ 5.5</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4888a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_5.6.html">§ 5.6</ref>
+                     <ref type="prevLink" target="diff_5.5.html">5.5</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4888a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_5.6.html">5.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.5.html">§ 5.5</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4888a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_5.6.html">§ 5.6</ref>
+                     <ref type="prevLink" target="diff_5.5.html">5.5</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4888a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_5.6.html">5.6</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.5.html">§ 5.5</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4855a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_5.6.html">§ 5.6</ref>
+                     <ref type="prevLink" target="diff_5.5.html">5.5</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4855a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_5.6.html">5.6</ref>
                   </seg>
                </cell>
             </row>
@@ -376,7 +376,7 @@
                <cell xml:id="v2">Die gerügte Art des Musikhörens ist übrigens nicht etwa identisch mit der in jeder Kunst vorkommenden Freude des naiven Publicums an dem blos sinnlichen Theil derselben, während der ideale Gehalt nur von dem gebildeten Verständniß erkannt wird. Diese unkünstlerische Auffassung eines Musikstückes zieht nicht den eigentlich sinnlichen Theil, die reiche Mannigfaltigkeit der Tonreihen an sich, sondern deren abstracte, als Gefühl empfundene Totalidee. Die höchst eigenthümliche Stellung wird dadurch ersichtlich, welche in der Musik der geistige Gehalt zu den Kategorien der Form und des Inhalts einnimmt. Man pflegt nämlich das ein Tonstück durchwehende Gefühl als den Inhalt, die Idee, den geistigen Gehalt desselben anzusehen, die künstlerisch geschaffenen, bestimmten Tonfolgen hingegen als die bloße Form, das Bild, die sinnliche Einkleidung jenes Uebersinnlichen. Allein gerade der „specifisch-musikalische“ Theil ist die Schöpfung des künstlerischen Geistes, mit welchem der anschauende Geist sich verständnißvoll vereinigt. In diesen concreten Tonbildungen liegt der geistige Gehalt der Composition, nicht in dem vagen Totaleindruck eines abstrahirten Gefühls. Die dem Gefühl, als vermeintlichem Inhalt, gegenübergestellte bloße Form (das Tongebilde) ist gerade der wahre Inhalt der Musik, ist die Musik selbst; während das erzeugte Gefühl weder Inhalt noch Form heißen kann, sondern factische Wirkung. Ebenso ist das vermeintliche Materielle, Darstellende, gerade das vom Geiste Gebildete, während das angeblich Dargestellte, die Gefühlswirkung, der Materie des Tons innewohnt und zur guten Hälfte physiologischen Gesetzen folgt.</cell>
                <cell xml:id="v3">Die gerügte Art des Musikhörens ist übrigens nicht etwa identisch mit der in jeder Kunst vorkommenden Freude des naiven Publicums an dem blos sinnlichen Theil derselben, während der ideale Gehalt nur von dem gebildeten Verständniß erkannt wird. Diese unkünstlerische Auffassung eines Musikstückes zieht nicht den eigentlich sinnlichen Theil, die reiche Mannigfaltigkeit der Tonreihen an sich, sondern deren abstracte, als bloßes Gefühl empfundene Totalidee. Die höchst eigenthümliche Stellung wird dadurch ersichtlich, welche in der Musik der geistige Gehalt zu den Kategorien der Form und des Inhalts einnimmt. Man pflegt nämlich das ein Tonstück durchwehende Gefühl als den Inhalt, die Idee, den geistigen Gehalt desselben anzusehen, die künstlerisch geschaffenen, bestimmten Tonfolgen hingegen als die bloße Form, das Bild, die sinnliche Einkleidung jenes Uebersinnlichen. Allein gerade der „specifisch-musikalische“ Theil ist die Schöpfung des künstlerischen Geistes, mit welchem der anschauende Geist sich verständnißvoll vereinigt. In diesen concreten Tonbildungen liegt der geistige Gehalt der Composition, nicht in dem vagen Totaleindruck eines abstrahirten Gefühls. Die dem Gefühl, als vermeintlichem Inhalt, gegenübergestellte bloße Form (das Tongebilde) ist gerade der wahre Inhalt der Musik, ist die Musik selbst; während das erzeugte Gefühl weder Inhalt noch Form heißen kann, sondern factische Wirkung. Ebenso ist das vermeintliche Materielle, Darstellende, gerade das vom Geiste Gebildete, während das angeblich Dargestellte, die Gefühlswirkung, der Materie des Tons innewohnt und zur guten Hälfte physiologischen Gesetzen folgt.</cell>
                <cell xml:id="v4">Die gerügte Art des Musikhörens ist übrigens nicht etwa identisch mit der in jeder Kunst vorkommenden Freude des naiven Publicums an dem bloß sinnlichen Theil derselben, während der ideale Gehalt nur von dem gebildeten Verständniß erkannt wird. Diese unkünstlerische Auffassung eines Musikstückes zieht nicht den eigentlich sinnlichen Theil, die reiche Mannigfaltigkeit der Tonreihen an sich, sondern deren abstracte, als bloßes Gefühl empfundene Totalidee. Die höchst eigenthümliche Stellung wird dadurch ersichtlich, welche in der Musik der geistige Gehalt zu den Kategorien der Form und des Inhalts einnimmt. Man pflegt nämlich das ein Tonstück durchwehende Gefühl als den Inhalt, die Idee, den geistigen Gehalt desselben anzusehen, die künstlerisch geschaffenen, bestimmten Tonfolgen hingegen als die bloße Form, das Bild, die sinnliche Einkleidung jenes Uebersinnlichen. Allein gerade der „specifisch-musikalische“ Theil ist die Schöpfung des künstlerischen Geistes, mit welchem der anschauende Geist sich verständnißvoll vereinigt. In diesen concreten Tonbildungen liegt der geistige Gehalt der Composition, nicht in dem vagen Totaleindruck eines abstrahirten Gefühls. Die dem Gefühl, als vermeintlichem Inhalt, gegenübergestellte bloße Form (das Tongebilde) ist gerade der wahre Inhalt der Musik, ist die Musik selbst; während das erzeugte Gefühl weder Inhalt noch Form heißen kann, sondern factische Wirkung. Ebenso ist das vermeintliche Materielle, Darstellende, gerade das vom Geiste Gebildete, während das angeblich Dargestellte, die Gefühlswirkung, der Materie des Tons innewohnt und zur guten Hälfte physiologischen Gesetzen folgt.</cell>
-               <cell xml:id="v5">Die gerügte Art des Musikhörens ist übrigens nicht etwa identisch mit der in jeder Kunst vorkommenden Freude des naiven Publikums an dem bloß sinnlichen Teil derselben, während der ideale Gehalt nur von dem gebildeten Verständnis erkannt wird. Diese unkünstlerische Auffassung eines Musikstückes zieht nicht den eigentlich sinnlichen Teil, die reiche Mannigfaltigkeit der Tonreihen an sich, sondern deren abstrakte, als bloßes Gefühl empfundene Totalidee. Dadurch wird die höchst eigentümliche Stellung ersichtlich, welche in der Musik der geistige Gehalt zu den Kategorien der Form und des Inhalts einnimmt. Man pflegt nämlich das ein Tonstück durchwehende Gefühl als den Inhalt, die Idee, den geistigen Gehalt desselben anzusehen, die künstlerisch geschaffenen, bestimmten Tonfolgen hingegen als die bloße Form, das Bild, die sinnliche Einkleidung jenes Übersinnlichen. Allein gerade der „spezifisch-musikalische“ Teil ist die Schöpfung des künstlerischen Geistes, mit welchem der anschauende Geist sich verständnisvoll vereinigt. In diesen konkreten Tonbildungen liegt der geistige Gehalt der Komposition, nicht in dem vagen Totaleindruck eines abstrahierten Gefühls. Die dem Gefühl, als vermeintlichem Inhalt, gegenübergestellte bloße Form (das Tongebilde) ist gerade der wahre Inhalt der Musik, ist die Musik selbst; während das erzeugte Gefühl weder Inhalt noch Form heißen kann, sondern faktische Wirkung. Ebenso ist das vermeintliche Materielle, Darstellende, gerade das vom Geiste Gebildete, während das angeblich Dargestellte, die Gefühlswirkung, der Materie des Tons innewohnt und zur guten Hälfte physiologischen Gesetzen folgt.</cell>
+               <cell xml:id="v5">Die gerügte Art des Musikhörens ist übrigens nicht etwa identisch mit der in jeder Kunst vorkommenden Freude des naiven Publikums an dem bloß sinnlichen Teil derselben, während der ideale Gehalt nur von dem gebildeten Verständnis erkannt wird. Diese unkünstlerische Auffassung eines Musikstückes zieht nicht den eigentlich sinnlichen Teil, die reiche Mannigfaltigkeit der Tonreihen an sich, sondern deren abstrakte, als bloßes Gefühl empfundene Totalidee. Dadurch wird die höchst eigentümliche Stellung ersichtlich, welche in der Musik der geistige Gehalt zu den Kategorien der Form und des Inhalts einnimmt. Man pflegt nämlich das ein Tonstück durchwehende Gefühl als den Inhalt, die Idee, den geistigen Gehalt desselben anzusehen, die künstlerisch geschaffenen, bestimmten Tonfolgen hingegen als die bloße Form, das Bild, die sinnliche Einkleidung jenes Übersinnlichen. Allein gerade der „spezifisch-musikalische“ Teil ist die Schöpfung des künstlerischen Geistes, mit welchem der anschauende Geist sich verständnisvoll vereinigt. In diesen konkreten Tonbildungen liegt der geistige Gehalt der Komposition, nicht in dem vagen Totaleindruck eines abstrahierten Gefühls. Die dem Gefühl, als vermeintlichen Inhalt, gegenübergestellte bloße Form (das Tongebilde) ist gerade der wahre Inhalt der Musik, ist die Musik selbst; während das erzeugte Gefühl weder Inhalt noch Form heißen kann, sondern faktische Wirkung. Ebenso ist das vermeintliche Materielle, Darstellende, gerade das vom Geiste Gebildete, während das angeblich Dargestellte, die Gefühlswirkung, der Materie des Tons innewohnt und zur guten Hälfte physiologischen Gesetzen folgt.</cell>
                <cell xml:id="v6">Die gerügte Art des Musikhörens ist übrigens nicht etwa identisch mit der in jeder Kunst vorkommenden Freude des naiven Publikums an dem bloß sinnlichen Teil derselben, während der ideale Gehalt nur von dem gebildeten Verständnis erkannt wird. Diese unkünstlerische Auffassung eines Musikstückes zieht nicht den eigentlich sinnlichen Teil, die reiche Mannigfaltigkeit der Tonreihen an sich, sondern deren abstrakte, als bloßes Gefühl empfundene Totalidee. Dadurch wird die höchst eigentümliche Stellung ersichtlich, welche in der Musik der geistige Gehalt zu den Kategorien der Form und des Inhalts einnimmt. Man pflegt nämlich das ein Tonstück durchwehende Gefühl als den Inhalt, die Idee, den geistigen Gehalt desselben anzusehen; die künstlerisch geschaffenen, bestimmten Tonfolgen hingegen als die bloße Form, das Bild, die sinnliche Einkleidung jenes Übersinnlichen. Allein gerade der „spezifisch-musikalische“ Teil ist die Schöpfung des künstlerischen Geistes, mit welchem der anschauende Geist sich verständnisvoll vereinigt. In diesen konkreten Tonbildungen liegt der geistige Gehalt der Komposition, nicht in dem vagen Totaleindruck eines abstrahierten Gefühls. Die dem Gefühl, als vermeintlichem Inhalt, gegenübergestellte bloße Form (das Tongebilde) ist gerade der wahre Inhalt der Musik, ist die Musik selbst; während das erzeugte Gefühl weder Inhalt noch Form heißen kann, sondern faktische Wirkung. Ebenso ist das vermeintliche Materielle, Darstellende, gerade das vom Geiste Gebildete, während das angeblich Dargestellte, die Gefühlswirkung, der Materie des Tons innewohnt und zur guten Hälfte physiologischen Gesetzen folgt.</cell>
             </row>
          </table>

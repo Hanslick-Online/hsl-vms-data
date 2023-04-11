@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 2.21</title>
+            <title>Concorance 2.21</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,46 +325,43 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.20.html">§ 2.20</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1297a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_2.22.html">§ 2.22</ref>
+                     <ref type="prevLink" target="diff_2.20.html">2.20</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e1297a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_2.22.html">2.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.20.html">§ 2.20</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1477a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_2.22.html">§ 2.22</ref>
+                     <ref type="prevLink" target="diff_2.20.html">2.20</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1477a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_2.22.html">2.22</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.20.html">2.20</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1510a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_2.22.html">2.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.20.html">§ 2.20</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1510a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_2.22.html">§ 2.22</ref>
+                     <ref type="prevLink" target="diff_2.20.html">2.20</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1526a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_2.22.html">2.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.20.html">§ 2.20</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1526a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_2.22.html">§ 2.22</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.20.html">§ 2.20</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1504a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_2.22.html">§ 2.22</ref>
+                     <ref type="prevLink" target="diff_2.20.html">2.20</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1504a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_2.22.html">2.22</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Wie mit diesem, ganz zufällig gewählten Motiv geht es mit jedem andern Instrumentalthema. Eine große Klasse von Musikfreunden hält es blos für einen charakteristischen Fehler der „klassischen“ Musik, den Affecten abhold zu sein, und giebt von vornherein zu, daß Niemand in einer der 48 Fugen und Präludien aus J. S. Bachʼs „wohltemperirtem Clavier“ ein Gefühl werde nachweisen können, das den Inhalt derselben bilde. Gut, – der Beweis wäre dadurch schon hergestellt, daß die Musik nicht Gefühle erwecken oder zum Gegenstand haben muß. Das ganze Gebiet der Figuralmusik fiele hinweg. Müssen aber große, historisch wie ästhetisch begründete Kunstgattungen ignorirt werden, um einer Theorie Haltbarkeit zu erschleichen, dann ist diese falsch. Ein Schiff muß untergehen, sobald es auch nur Ein Leck hat.</cell>
                <cell xml:id="v2">Wie mit diesem, ganz zufällig gewählten Motiv geht es mit jedem andern Instrumentalthema. Eine große Klasse von Musikfreunden hält es blos für einen charakteristischen Fehler der „classischen“ Musik, den Affecten abhold zu sein, und giebt von vornherein zu, daß Niemand in einer der 48 Fugen und Präludien aus J. S. Bachʼs „wohltemperirtem Clavier“ ein Gefühl werde nachweisen können, das den Inhalt derselben bilde. Gut, – der Beweis wäre dadurch schon hergestellt, daß die Musik nicht Gefühle erwecken oder zum Gegenstand haben muß. Das ganze Gebiet der Figuralmusik fiele hinweg. Müssen aber große, historisch wie ästhetisch begründete Kunstgattungen ignorirt werden, um einer Theorie Haltbarkeit zu erschleichen, dann ist diese falsch. Ein Schiff muß untergehen, sobald es auch nur Ein Leck hat.</cell>
-               <cell xml:id="v3">Wie mit diesem, ganz zufällig gewählten Motiv geht es mit jedem andern Instrumentalthema. Eine große Klasse von Musikfreunden hält es blos für einen charakteristischen Fehler der „classischen“ Musik, den Affecten abhold zu sein, und giebt von vornherein zu, daß Niemand in einer der 48 Fugen und Präludien aus J. S. Bachʼs „ wohltemperirtem Clavier “ ein Gefühl werde nachweisen können, das den Inhalt derselben bilde. Gut, – der Beweis wäre dadurch schon hergestellt, daß die Musik nicht Gefühle erwecken oder zum Gegenstand haben muß. Das ganze Gebiet der Figuralmusik fiele hinweg. Müssen aber große, historisch wie ästhetisch begründete Kunstgattungen ignorirt werden, um einer Theorie Haltbarkeit zu erschleichen, dann ist diese falsch. Ein Schiff muß untergehen, sobald es auch nur Ein Leck hat.</cell>
-               <cell xml:id="v4">Wie mit diesem, ganz zufällig gewählten Motiv geht es mit jedem andern Instrumentalthema. Eine große Klasse von Musikfreunden hält es blos für einen charakteristischen Fehler der „classischen“ Musik, den Affecten abhold zu sein, und giebt von vornherein zu, daß Niemand in einer der 48 Fugen und Präludien aus J. S. Bachʼs „wohltemperirtem Clavier“ ein Gefühl werde nachweisen können, das den Inhalt derselben bilde. Gut, – der Beweis wäre dadurch schon hergestellt, daß die Musik nicht Gefühle erwecken oder zum Gegenstand haben muß. Das ganze Gebiet der Figuralmusik fiele hinweg. Müssen aber große, historisch wie ästhetisch begründete Kunstgattungen ignorirt werden, um einer Theorie Haltbarkeit zu erschleichen, dann ist diese falsch. Ein Schiff muß untergehen, sobald es auch nur ein Leck hat.</cell>
-               <cell xml:id="v5">Wie mit diesem, ganz zufällig gewählten Motiv geht es mit jedem andern Instrumentalthema. Eine große Klasse von Musikfreunden hält es blos für einen charakteristischen Fehler der „classischen“ Musik, den Affecten abhold zu sein, und giebt von vornherein zu, daß Niemand in einer der 48 Fugen und Präludien aus J. S. Bachʼs „wohltemperirtem Clavier“ ein Gefühl werde nachweisen können, das den Inhalt derselben bilde. Gut, – der Beweis wäre dadurch schon hergestellt, daß die Musik nicht Gefühle erwecken oder zum Gegenstand haben muß. Das ganze Gebiet der Figuralmusik fiele hinweg. Müssen aber große, historisch wie ästhetisch begründete Kunstgattungen ignorirt werden, um einer Theorie Haltbarkeit zu erschleichen, dann ist diese falsch. Ein Schiff muß untergehen, sobald es auch nur ein Leck hat.</cell>
+               <cell xml:id="v3">Wie mit diesem, ganz zufällig gewählten Motiv geht es mit jedem andern Instrumentalthema. Eine große Klasse von Musikfreunden hält es blos für einen charakteristischen Fehler der „classischen“ Musik, den Affecten abhold zu sein, und giebt von vornherein zu, daß Niemand in einer der 48 Fugen und Präludien aus J. S. Bachʼs „wohltemperirtem Clavier“ ein Gefühl werde nachweisen können, das den Inhalt derselben bilde. Gut, – der Beweis wäre dadurch schon hergestellt, daß die Musik nicht Gefühle erwecken oder zum Gegenstand haben muß. Das ganze Gebiet der Figuralmusik fiele hinweg. Müssen aber große, historisch wie ästhetisch begründete Kunstgattungen ignorirt werden, um einer Theorie Haltbarkeit zu erschleichen, dann ist diese falsch. Ein Schiff muß untergehen, sobald es auch nur ein Leck hat.</cell>
+               <cell xml:id="v4">Wie mit diesem, ganz zufällig gewählten Motiv geht es mit jedem andern Instrumentalthema. Eine große Klasse von Musikfreunden hält es blos für einen charakteristischen Fehler der „classischen“ Musik, den Affecten abhold zu sein, und giebt von vornherein zu, daß Niemand in einer der 48 Fugen und Präludien aus J. S. Bachʼs „wohltemperirtem Clavier“ ein Gefühl werde nachweisen können, das den Inhalt derselben bilde. Gut, – der Beweis wäre dadurch schon hergestellt, daß die Musik nicht Gefühle erwecken oder zum Gegenstand haben muß. Das ganze Gebiet der Figuralmusik fiele hinweg. Müssen aber große, historisch wie ästhetisch begründete Kunstgattungen ignorirt werden, um einer Theorie Haltbarkeit zu erschleichen, dann ist diese falsch. Ein Schiff muß untergehen, sobald es auch nur ein Leck hat.</cell>
             </row>
          </table>
       </body>

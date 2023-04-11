@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 6.29</title>
+            <title>Concorance 6.29</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,78 +325,78 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5063a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5063a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5183a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5183a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5591a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e5591a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5345a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5345a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5263a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5263a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5887a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e5887a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5806a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e5806a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5855a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e5855a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5843a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e5843a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_6.28.html">§ 6.28</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5818a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_7.1.html">§ 7.1</ref>
+                     <ref type="prevLink" target="diff_6.28.html">6.28</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e5818a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_7.1.html">7.1</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmungen hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei nicht als schöne Musik, oder überhaupt als Musik vorgeführt werden, sondern nur der Eindruck zurückgerufen, welcher mit jener Naturerscheinung zusammenhängt. Allgemein bekannte Stichwörter, Citate sind es, welche uns erinnern: Es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese beschreibende Tendenz hat nie ein Componist Naturstimmen zu wirklich musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und sehr bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
                <cell xml:id="v2">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmungen hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. Allgemeine bekannte Stichwörter, Citate sind es, welche uns erinnern: Es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese beschreibende Tendenz hat nie ein Componist Naturstimmen zu wirklich musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und sehr bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
-               <cell xml:id="v3">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydn ʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und Beethoven ʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmungen hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydn’s Schöpfung – gesehen beinahe,“ schreibt Jean Paul nach einer Aufführung dieses Tonwerkes an Thieriot . Allgemeine bekannte Stichwörter, Citate sind es, welche uns erinnern: Es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese beschreibende Tendenz hat nie ein Componist Naturstimmen zu wirklich musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
+               <cell xml:id="v3">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmungen hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydn’s Schöpfung – gesehen beinahe,“ schreibt Jean Paul nach einer Aufführung dieses Tonwerkes an Thieriot . Allgemeine bekannte Stichwörter, Citate sind es, welche uns erinnern: Es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese beschreibende Tendenz hat nie ein Componist Naturstimmen zu wirklich musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
                <cell xml:id="v4">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmung hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydn’s Schöpfung – gesehen beinahe“ , schreibt Jean Paul nach einer Aufführung dieses Tonwerks an Thieriot . Allgemein bekannte Stichwörter, Citate sind es, welche uns erinnern: es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese beschreibende Tendenz hat nie ein Componist Naturstimmen zu wirklichen musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
                <cell xml:id="v5">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und in Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmung hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydn’s Schöpfung – gesehen beinahe“ , schreibt Jean Paul nach einer Aufführung dieses Tonwerks an Thieriot . Allgemein bekannte Stichwörter, Citate sind es, welche uns erinnern: es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese beschreibende Tendenz hat nie ein Componist Naturstimmen zu wirklichen musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
-               <cell xml:id="v6">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und in Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmung hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei alsdann nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydn’s Schöpfung – gesehen beinahe“ , schreibt Jean Paul nach einer Aufführung dieses Tonwerks an Thieriot . Allgemein bekannte Stichwörter, Citate sind es, welche uns erinnern: es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese bloß beschreibende Tendenz hat nie ein Componist Naturstimmen direkt zu wirklichen musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
+               <cell xml:id="v6">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuk, Nachtigall und Wachtelschlag in Spohrʼs „Weihe der Töne“ und in Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmung hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei alsdann nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydn’s Schöpfung – gesehen beinahe“ , schreibt Jean Paul nach einer Aufführung dieses Tonwerks an Thieriot . Allgemein bekannte Stichwörter, Citate sind es, welche uns erinnern: es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese bloß beschreibende Tendenz hat nie ein Componist Naturstimmen direkt zu wirklichen mu sikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
                <cell xml:id="v7">Noch einen Einwand wird man aus der musikalischen Literatur herholen, um der Musik ein Naturschönes zu vindiciren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht bloß den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens direkt nachgebildet haben: der Hahnenruf in Haydnʼs Jahreszeiten, Kuckuck, Nachtigall- und Wachtelschlag in Spohrʼs „Weihe der Töne“ und in Beethovenʼs Pastoralsymphonie. Allein wenn wir gleich diese Nachahmung hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei alsdann nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydn’s Schöpfung – gesehen beinahe“ , schreibt Jean Paul nach einer Aufführung dieses Tonwerks an Thieriot . Allgemein bekannte Stichwörter, Citate sind es, welche uns erinnern: es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese bloß beschreibende Tendenz hat nie ein Componist Naturstimmen direkt zu wirklichen musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
                <cell xml:id="v8">Noch einen Einwand wird man aus der musikalischen Litteratur herholen, um der Musik ein Naturschönes zu vindizieren. Beispiele nämlich, daß Tonsetzer aus der Natur nicht bloß den poetischen Anlaß geschöpft (wie in obigen Historien), sondern wirklich hörbare Äußerungen ihres Tonlebens direkt nachgebildet haben: der Hahnenruf in Haydns Jahreszeiten, Kuckuck, Nachtigall- und Wachtelschlag in Spohrs „Weihe der Töne“ und in Beethovens Pastoralsymphonie. Allein wenn wir gleich diese Nachahmung hören und in einem musikalischen Kunstwerk hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische. Es soll uns der Hahnenschrei alsdann nicht als schöne Musik, oder überhaupt als Musik vorgeführt, sondern nur der Eindruck zurückgerufen werden, welcher mit jener Naturerscheinung zusammenhängt. „Ich habe Haydns Schöpfung – gesehen beinahe,“ schreibt Jean Paul nach einer Aufführung dieses Tonwerks an Thieriot . Allgemein bekannte Stichwörter, Citate sind es, welche uns erinnern: es ist früher Morgen, laue Sommernacht, Frühling. Ohne diese bloß beschreibende Tendenz hat nie ein Komponist Naturstimmen direkt zu wirklichen musikalischen Zwecken verwenden können. Ein Thema können alle Naturstimmen der Erde zusammen nicht hervorbringen, eben weil sie keine Musik sind, und bedeutungsvoll erscheint es, daß die Tonkunst von der Natur nur Gebrauch machen kann, wenn sie in die Malerei pfuscht.</cell>
             </row>

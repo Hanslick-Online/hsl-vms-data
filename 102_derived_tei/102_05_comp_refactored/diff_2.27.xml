@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 2.27</title>
+            <title>Concorance 2.27</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,69 +325,57 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1700a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1657a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e1700a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1739a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1709a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2020a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1964a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e1739a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e1657a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1968a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e1709a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1965a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2020a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e1964a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e1968a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e1965a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_2.26.html">§ 2.26</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1925a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_2.28.html">§ 2.28</ref>
+                     <ref type="prevLink" target="diff_2.26.html">2.26</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e1925a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_2.28.html">2.28</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Wir setzen den Anfang der Arie, der Kürze wegen mit Clavierbegleitung, doch genau nach der italienischen Originalpartitur her: Notenbeispiel 5</cell>
-               <cell xml:id="v2">Wir setzen den Anfang der Arie, der Kürze wegen mit Clavierbegleitung, doch genau nach der italienischen Originalpartitur her: Notenbeispiel 6b</cell>
-               <cell xml:id="v3">Wir setzen den Anfang der Arie, der Kürze wegen mit Clavierbegleitung, doch genau nach der italienischen Originalpartitur her:</cell>
-               <cell xml:id="v4">Wir setzen den Anfang der Arie, der Kürze wegen mit Klavierbegleitung, doch genau nach der italienischen Originalpartitur her:</cell>
-               <cell xml:id="v5">Wir setzen den Anfang der Arie, der Kürze wegen mit Klavierbegleitung, doch genau nach der italienischen Originalpartitur her: Notenbeispiel 6aSeite [48] beginnt im Notenbeispiel nach senz’ il mio (3. Notensystem)</cell>
-               <cell xml:id="v6">Wir setzen den Anfang der Arie, der Kürze wegen mit Klavierbegleitung, doch genau nach der italienischen Originalpartitur her: Notenbeispiel 6bSeite [48] beginnt im Notenbeispiel nach senz’ il mio (3. Notensystem)</cell>
+               <cell xml:id="v1">Wir setzen den Anfang der Arie, der Kürze wegen mit Clavierbegleitung, doch genau nach der italienischen Originalpartitur her:</cell>
+               <cell xml:id="v2">Wir setzen den Anfang der Arie, der Kürze wegen mit Klavierbegleitung, doch genau nach der italienischen Originalpartitur her:</cell>
             </row>
          </table>
       </body>

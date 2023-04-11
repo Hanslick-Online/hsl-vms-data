@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 7.22</title>
+            <title>Concorance 7.22</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,77 +325,77 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5577a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e5577a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5708a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e5708a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6156a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5904a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e6156a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5810a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e5904a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6441a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e5810a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6365a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e6441a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6429a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e6365a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6410a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e6429a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e6410a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_7.21.html">§ 7.21</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6393a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_7.23.html">§ 7.23</ref>
+                     <ref type="prevLink" target="diff_7.21.html">7.21</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e6393a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_7.23.html">7.23</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Verarbeitung, so wie die Erfindung gerade dieses Themaʼs ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs , ein Ausspruch Lessingʼs , eine Statue Thorwaldsenʼs , ein Bild Overbeckʼs . Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
-               <cell xml:id="v2">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, so wie die Erfindung gerade dieses Themaʼs ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Indivi- duum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs , ein Ausspruch Lessingʼs , eine Statue Thorwaldsenʼs , ein Bild Overbeck ʼs. Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
-               <cell xml:id="v3">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, so wie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Indivi - duum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs , ein Ausspruch Lessingʼs , eine Statue Thorwaldsenʼs , ein Bild Overbeck ʼs. Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
-               <cell xml:id="v4">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, so wie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs , ein Ausspruch Lessingʼs , eine Statue Thorwaldsenʼs , ein Bild Overbeckʼs . Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
-               <cell xml:id="v5">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, sowie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischt auf eigenen Füßen, wie ein Vers Goetheʼs , ein Ausspruch Lessingʼs , eine Statue Thorwaldsenʼs , ein Bild Overbeckʼs . Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
-               <cell xml:id="v6">Nebst der Vindikation des geistigen Gehaltes muß noch eine zweite Konsequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, sowie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischt auf eigenen Füßen, wie ein Vers Goethes , ein Ausspruch Lessings , eine Statue Thorwaldsens , ein Bild Overbecks . Die selbständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
-               <cell xml:id="v7">Nebst der Vindikation des geistigen Gehaltes muß noch eine zweite Konsequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, sowie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Eine Melodie von Mozart oder Beethoven ruht so fest und unvermischt auf eigenen Füßen, wie ein Vers Goethes , ein Ausspruch Lessings , eine Statue Thorwaldsens , ein Bild Overbecks . Die selbständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
+               <cell xml:id="v1">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Verarbeitung, so wie die Erfindung gerade dieses Themaʼs ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs, ein Ausspruch Lessingʼs, eine Statue Thorwaldsenʼs, ein Bild Overbeckʼs. Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
+               <cell xml:id="v2">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, so wie die Erfindung gerade dieses Themaʼs ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs, ein Ausspruch Lessingʼs, eine Statue Thorwaldsenʼs, ein Bild Overbeckʼs. Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
+               <cell xml:id="v3">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, so wie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Indivi duum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs, ein Ausspruch Lessingʼs, eine Statue Thorwaldsenʼs, ein Bild Overbeckʼs. Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
+               <cell xml:id="v4">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, so wie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischbar auf eigenen Füßen, wie ein Vers Goetheʼs, ein Ausspruch Lessingʼs, eine Statue Thorwaldsenʼs, ein Bild Overbeckʼs. Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
+               <cell xml:id="v5">Nebst der Vindication des geistigen Gehaltes muß noch eine zweite Consequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, sowie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischt auf eigenen Füßen, wie ein Vers Goetheʼs, ein Ausspruch Lessingʼs, eine Statue Thorwaldsenʼs, ein Bild Overbeckʼs. Die selbstständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
+               <cell xml:id="v6">Nebst der Vindikation des geistigen Gehaltes muß noch eine zweite Konsequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, sowie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Ein Motiv von Mozart oder Beethoven ruht so fest und unvermischt auf eigenen Füßen, wie ein Vers Goethes, ein Ausspruch Lessings, eine Statue Thorwaldsens, ein Bild Overbecks. Die selbständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
+               <cell xml:id="v7">Nebst der Vindikation des geistigen Gehaltes muß noch eine zweite Konsequenz nachdrücklich hervorgehoben werden. Die gegenstandlose Formschönheit der Musik hindert sie nicht, ihren Schöpfungen Individualität aufprägen zu können. Die Art der künstlerischen Bearbeitung, sowie die Erfindung gerade dieses Themas ist in jedem Fall eine so einzige, daß sie niemals in einer höheren Allgemeinheit zerfließen kann, sondern als Individuum dasteht. Eine Melodie von Mozart oder Beethoven ruht so fest und unvermischt auf eigenen Füßen, wie ein Vers Goethes, ein Ausspruch Lessings, eine Statue Thorwaldsens, ein Bild Overbecks. Die selbständigen musikalischen Gedanken (Themen) haben die Sicherheit eines Citats und die Anschaulichkeit eines Gemäldes; sie sind individuell, persönlich, ewig.</cell>
             </row>
          </table>
       </body>

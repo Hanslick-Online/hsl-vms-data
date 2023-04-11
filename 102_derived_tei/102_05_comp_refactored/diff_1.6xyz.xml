@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance 3.2</title>
+            <title>Concorance 1.6</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -325,62 +325,14 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2066a1048964">VMS 1</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2226a1048964">VMS 2</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2349a1048964">VMS 3</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2375a1048964">VMS 4</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2306a1048964">VMS 5</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2779a1048964">VMS 6</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e2739a1048964">VMS 7</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e2749a1048964">VMS 8</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e2755a1048964">VMS 9</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.1.html">3.1</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e2709a1048964">VMS 10</ref>
-                     <ref type="nextLink" target="diff_3.3.html">3.3</ref>
+                     <ref type="prevLink" target="diff_1.5xyz.html">1.5</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e385a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_1.8.html">1.8</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Nun haben wir den positiven Gehalt zu jenem Umriß hinzuzubringen, indem wir die Frage beantworten, welcher Natur das Schöne einer Tondichtung sei?</cell>
-               <cell xml:id="v2">Nun haben wir den positiven Gehalt zu jenem Umriß hinzuzubringen, indem wir die Frage beantworten, welcher Natur das Schöne der Tondichtung sei.</cell>
+               <cell xml:id="v1">Die objective Anschauung ist heutzutage nicht mehr ein blos wissenschaftlicher Erwerb, sondern ziemlich allgemein ins künstlerische Bewußtsein gedrungen. Der moderne Poet oder Maler überredet sich kaum, Rechenschaft von dem Schönen seiner Kunst gelegt zu haben, wenn er untersuchte, welche „Gefühle“ dieses Landschaftsbild, jenes Lustspiel im Publikum heraufbeschwöre. Er sucht vielmehr in der eigenthümlichen Beschaffenheit des Kunstwerks selbst jene Elemente zu finden, welche es zu einem Schönen und gerade zu dieser bestimmten Art des Schönen stempeln. Die bloße Thatsache erweckten Wohlgefallens kann ihm nicht genügen: er wird der zwingenden Macht nachspüren, warum das Werk gefällt.</cell>
             </row>
          </table>
       </body>

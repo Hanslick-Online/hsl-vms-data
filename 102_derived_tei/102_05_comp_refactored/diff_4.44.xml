@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § 4.44</title>
+            <title>Concorance 4.44</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,75 +325,75 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.43.html">§ 4.43</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3753a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.43.html">4.43</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3753a1048964">VMS 1</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.43.html">§ 4.43</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3895a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.43.html">4.43</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3895a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.43.html">§ 4.43</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4286a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.40.html">§ 4.40</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4220a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.43.html">4.43</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4286a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.40.html">§ 4.40</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4137a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.40.html">§ 4.40</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4720a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.40.html">4.40</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4220a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.40.html">§ 4.40</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4640a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.40.html">4.40</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4137a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.40.html">4.40</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4720a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.40.html">§ 4.40</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4669a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.40.html">4.40</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4640a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.40.html">§ 4.40</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4675a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.40.html">4.40</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4669a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.40.html">4.40</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4675a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.40.html">§ 4.40</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4642a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_4.45.html">§ 4.45</ref>
+                     <ref type="prevLink" target="diff_4.40.html">4.40</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4642a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_4.45.html">4.45</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Aus diesen physiologischen Resultaten ergiebt sich für die Aesthetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Princip des Schönen in der Musik auf deren Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhangs nichts wissen können, also besten Falls nur darüber zu rathen oder zu phantasiren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjectiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Werth und Bedeutung nicht begründen, eben so wenig kann er von den Affecten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindicirte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Componisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Capellmeisters,“ wie Stolz, Demuth und alle Leidenschaften zu componiren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Verdrießliches, Grimmiges und Klägliches haben.“ Ein anderer Meister des vorigen Jahrhunderts, Heinchen , gibt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuch-Formel „Man nehme“ anhüben, oder mit der medicinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Ueberzeugung wie specielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
-               <cell xml:id="v2">Aus diesen physiologischen Resultaten ergiebt sich für die Aesthetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Princip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhangs nichts wissen können, also besten Falls nur darüber zu rathen oder zu phantasiren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjectiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Werth und Bedeutung nicht begründen, eben so wenig kann er von den Affecten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindicirte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Componisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Capellmeisters,“ wie Stolz, Demuth und alle Leidenschaften zu componiren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Verdrießliches, Grimmiges und Klägliches haben.“ Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuch-Formel „Man nehme“ anhüben, oder mit der medicinischen Signatur m. d. s . endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Ueberzeugung, wie specielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
+               <cell xml:id="v2">Aus diesen physiologischen Resultaten ergiebt sich für die Aesthetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Princip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhangs nichts wissen können, also besten Falls nur darüber zu rathen oder zu phantasiren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjectiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Werth und Bedeutung nicht begründen, eben so wenig kann er von den Affecten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindicirte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Componisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Capellmeisters,“ wie Stolz, Demuth und alle Leidenschaften zu componiren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Verdrießliches, Grimmiges und Klägliches haben.“ Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuch-Formel „Man nehme“ anhüben, oder mit der medicinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Ueberzeugung, wie specielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
                <cell xml:id="v3">Aus diesem Resultate ergiebt sich für die Aesthetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Princip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhangs nichts wissen können, also besten Falls nur darüber zu rathen oder zu phantasiren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjectiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Werth und Bedeutung nicht begründen, eben so wenig kann er von den Affecten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindicirte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Componisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Capellmeisters,“ wie Stolz, Demuth und alle Leidenschaften zu componiren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Verdrießliches, Grimmiges und Klägliches haben.“ Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuch-Formel „Man nehme“ anhüben, oder mit der medicinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Ueberzeugung, wie specielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
                <cell xml:id="v4">Aus diesem Resultate ergiebt sich für die Aesthetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Princip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhanges nichts wissen können, also besten Falls nur darüber zu rathen oder zu phantasiren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjectiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Werth und Bedeutung nicht begründen, eben so wenig kann er von den Affecten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindicirte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Componisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Capellmeisters,“ wie Stolz, Demuth und alle Leidenschaften zu componiren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Verdrießliches, Grimmiges und Klägliches haben.“ Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuch-Formel „Man nehme“ anhüben, oder mit der medicinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Ueberzeugung, wie specielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
-               <cell xml:id="v5">Aus diesem Resultate ergiebt sich für die Aesthetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Princip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhanges nichts wissen können, also besten Falls nur darüber zu rathen oder zu phantasiren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjectiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Werth und Bedeutung nicht begründen, ebenso wenig kann er von den Affecten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindicirte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Componisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Capellmeisters“, wie Stolz, Demuth und alle Leidenschaften zu componiren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Verdrießliches, Grimmiges und Klägliches haben“ . Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuch-Formel „Man nehme“ anhüben, oder mit der medicinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Ueberzeugung, wie specielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
+               <cell xml:id="v5">Aus diesem Resultate ergiebt sich für die Aesthetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Princip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhanges nichts wissen können, also besten Falls nur darüber zu rathen oder zu phantasiren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjectiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Werth und Bedeutung nicht begründen, ebenso wenig kann er von den Affecten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindicirte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Componisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Capellmeisters“, wie Stolz, Demuth und alle Leidenschaften zu componiren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Ver drießliches, Grimmiges und Klägliches haben“ . Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuch-Formel „Man nehme“ anhüben, oder mit der medicinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Ueberzeugung, wie specielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
                <cell xml:id="v6">Aus diesem Resultate ergiebt sich für die Ästhetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Prinzip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhanges nichts wissen können, also besten Falls nur darüber zu raten oder zu phantasieren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjektiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Wert und Bedeutung nicht begründen, ebensowenig kann er von den Affekten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindizierte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Komponisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Kapellmeisters“, wie Stolz, Demut und alle Leidenschaften zu komponieren seien, indem er z. B. sagt, die „Erfindungen“ zur Eifersucht müssen „alle was Verdrießliches, Grimmiges und Klägliches haben“ . Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuchformel „Man nehme“ anhüben, oder mit der medizinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Überzeugung, wie spezielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
                <cell xml:id="v7">Aus diesem Resultate ergiebt sich für die Ästhetik der Tonkunst die Betrachtung, daß diejenigen Theoretiker, welche das Prinzip des Schönen in der Musik auf Gefühlswirkungen bauen, wissenschaftlich verloren sind, weil sie über das Wesen dieses Zusammenhanges nichts wissen können, also besten Falls nur darüber zu raten oder zu phantasieren vermögen. Vom Standpunkte des Gefühls wird eine künstlerische oder wissenschaftliche Bestimmung der Musik niemals ausgehen können. Mit der Schilderung der subjektiven Bewegungen, welche den Kritiker bei Anhörung einer Symphonie überkommen, wird er deren Wert und Bedeutung nicht begründen, ebensowenig kann er von den Affekten ausgehend den Kunstjünger etwas lehren. Letzteres ist wichtig. Denn stünde der Zusammenhang bestimmter Gefühle mit gewissen musikalischen Ausdrucksweisen so zuverlässig da, als man geneigt ist zu glauben, und als er dastehen müßte, um die ihm vindizierte Bedeutung zu behaupten, so wäre es ein Leichtes, den angehenden Komponisten bald zur Höhe ergreifendster Kunstwirkung zu leiten. Man wollte dies auch wirklich. Mattheson lehrt im dritten Kapitel seines „vollkommenen Kapellmeisters“, wie Stolz, Demut und alle Leidenschaften zu komponieren seien, indem er z. B. sagt, die „Erfindungen zur Eifersucht müssen alle was Verdrießliches, Grimmiges und Klägliches haben“ . Ein anderer Meister des vorigen Jahrhunderts, Heinchen , giebt in seinem „Generalbaß“ acht Bogen Notenbeispiele, wie die Musik „rasende, zankende, prächtige, ängstliche oder verliebte Empfindungen“ ausdrücken solle. Es fehlt nur noch, daß derlei Vorschriften mit der Kochbuchformel „Man nehme“ anhüben, oder mit der medizinischen Signatur m. d. s. endigten. Es holt sich aus solchen Bestrebungen die lehrreichste Überzeugung, wie spezielle Kunstregeln immer zugleich zu eng und zu weit sind.</cell>
             </row>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance – § V2.4</title>
+            <title>Concorance V2.4</title>
          </titleStmt>
          <publicationStmt>
             <p>unpublished</p>
@@ -281,7 +281,7 @@
                   <item>1.3xyz</item>
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.6xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -325,61 +325,61 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e368a1048964">VMS 2 (1858)</ref>
-                     <ref type="nextLink" target="diff_V2.5.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e368a1048964">VMS 2</ref>
+                     <ref type="nextLink" target="diff_V2.5.html">V2.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e421a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e421a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e411a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e411a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e418a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e418a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e539a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e539a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e480a1048964">VMS 7 (1885)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e480a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e461a1048964">VMS 8 (1891)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e461a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e459a1048964">VMS 9 (1896)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e459a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                   <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.3.html">§ V2.3</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e430a1048964">VMS 10 (1902)</ref>
-                     <ref type="nextLink" target="diff_V2.5xyz.html">§ V2.5</ref>
+                     <ref type="prevLink" target="diff_V2.3.html">V2.3</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e430a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_V2.5xyz.html">V2.5</ref>
                   </seg>
                </cell>
             </row>
@@ -388,7 +388,7 @@
                <cell xml:id="v2">Diese Ueberzeugung bildet den Einen, den negativen Hauptsatz dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen.“ Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes;“ der Wald verbreitet schattige Kühle, allein er stellt doch nicht „das Gefühl schattiger Kühle dar.“ Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrthümer der musikalischen Aesthetik entsprungen. Etwas „darstellen“ involvirt immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besondern Act auf das andere bezogen wird.</cell>
                <cell xml:id="v3">Diese Ueberzeugung bildet den einen, den negativen Hauptsatz dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen.“ Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes;“ der Wald verbreitet schattige Kühle, allein er stellt doch nicht „das Gefühl schattiger Kühle dar.“ Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrthümer der musikalischen Aesthetik entsprungen. Etwas „darstellen“ involvirt immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Act auf das andere bezogen wird.</cell>
                <cell xml:id="v4">Diese Ueberzeugung bildet den einen, den negativen Hauptsatz dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen“. Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes“; der Wald verbreitet schattige Kühle, allein er stellt doch nicht „das Gefühl schattiger Kühle dar“. Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrthümer der musikalischen Aesthetik entsprungen. Etwas „darstellen“ involvirt immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Act auf das andere bezogen wird.</cell>
-               <cell xml:id="v5">Diese Ueberzeugung bildet den einen, den negativen Hauptsatz dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen.“ Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes“; der Wald verbreitet schattige Kühle, allein er stellt doch nicht „das Gefühl schattiger Kühle dar.“ Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrthümer der musikalischen Aesthetik entsprungen. Etwas „darstellen“ involvirt immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Act auf das andere bezogen wird.</cell>
+               <cell xml:id="v5">Diese Ueberzeugung bildet den einen, den negativen Hauptsatz dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen.“ Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes“; der Wald verbreitet schattige Kühle, allein er stellt doch nicht „das Gefühl schattiger Kühle dar.“ Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrthümer der musi kalischen Aesthetik entsprungen. Etwas „darstellen“ involvirt immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Act auf das andere bezogen wird.</cell>
                <cell xml:id="v6">Diese Ueberzeugung bildet den einen, den negativen Hauptsatz dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen“. Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes“; der Wald verbreitet schattige Kühle, allein er stellt doch nicht „das Gefühl schattiger Kühle dar.“ Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrthümer der musikalischen Aesthetik entsprungen. Etwas „darstellen“ involvirt immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Act auf das andere bezogen wird.</cell>
                <cell xml:id="v7">Diese Überzeugung bildet den Einen, den negativen Hauptsatz dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen“. Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes“; der Wald verbreitet schattige Kühle, allein er stellt doch nicht „das Gefühl schattiger Kühle dar“. Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrtümer der musikalischen Ästhetik entsprungen. Etwas „darstellen“ involviert immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Akt auf das andere bezogen wird.</cell>
             </row>
