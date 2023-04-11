@@ -944,8 +944,7 @@
                entsprungen. Etwas „darstellen“ involviert immer die Vorstellung von zwei getrennten,
                verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Akt auf
                das andere bezogen wird.</p>
-            <p n="V2.5" xml:id="d1e442a1048964">
-               <emph>Emanuel <rs type="person" ref="#hsl_person_id_714" xml:id="d1e446a1048964"
+            <p n="V2.5" xml:id="d1e442a1048964"><emph>Emanuel <rs type="person" ref="#hsl_person_id_714" xml:id="d1e446a1048964"
                      >Geibel</rs>
                </emph> hat durch ein glückliches Bild dies Verhältnis anschaulicher und erfreulicher
                ausgedrückt, als philosophische Analyse es vermochte, und zwar in den Distichen:
@@ -1117,8 +1116,7 @@
             <p n="1.14" xml:id="d1e629a1048964">Um dieses Verhältnis näher zu untersuchen, müssen
                wir vorerst die Begriffe „Gefühl“ und „Empfindung“ – gegen deren Verwechselung im
                gewöhnlichen Sprachgebrauch nichts einzuwenden ist – hier streng unterscheiden.</p>
-            <p n="1.15" xml:id="d1e632a1048964">
-               <emph>Empfindung</emph> ist das Wahrnehmen einer
+            <p n="1.15" xml:id="d1e632a1048964"><emph>Empfindung</emph> ist das Wahrnehmen einer
                bestimmten Sinnesqualität: eines Tons, einer Farbe. <emph>Gefühl</emph> das
                Bewußtwerden einer Förderung oder Hemmung unseres Seelenzustandes, also eines
                Wohlseins oder Mißbehagens. Wenn ich den Geruch oder Geschmack eines Dinges, dessen
@@ -1235,8 +1233,7 @@
                   <emph>Baukunst</emph> besteht. Ist aber je einem vernünftigen Architekten
                beigefallen, die Baukunst habe den <emph>Zweck</emph>, Gefühle zu erregen, oder es
                seien diese der <emph>Inhalt</emph> derselben?</p>
-            <p n="1.23" xml:id="d1e796a1048964">
-               <emph>Jedes</emph> wahre Kunstwerk wird sich in
+            <p n="1.23" xml:id="d1e796a1048964"><emph>Jedes</emph> wahre Kunstwerk wird sich in
                irgend eine Beziehung zu unserm Fühlen setzen, <emph>keines</emph> in eine
                ausschließliche. Man sagt also gar nichts für das ästhetische Prinzip der Musik
                Entscheidendes, wenn man sie nur ganz allgemein durch ihre Wirkung auf das Gefühl
@@ -1354,7 +1351,7 @@
                der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen
                Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige
                Citate älterer und neuerer Musikschriftsteller aus der großen Menge derer, welche
-               dafür zu Gebote stehen, hier Platz finden.</p>
+               dafür zu Gebote stehen, hier Platz finden.
             <list type="unordered">
                <item>
                   <rs type="person"
@@ -1590,7 +1587,7 @@
                      <quote>„das Wesen der Dinge in seiner unmittelbarsten Kundgebung zu
                         erfassen“</quote>
                   </cit> u. s. w. („<rs type="bibl" ref="#hsl_work_id_344" xml:id="d1e1355a1048964">Beethoven</rs>“, <date>1870</date>. S. 6 ff.).</item>
-            </list>
+            </list></p>
             <pb n="[24]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1902_0033"/>
          </div>
@@ -1611,8 +1608,7 @@
                Erscheinung. Diese bestimmte Idee, die sie verkörpernde Form, und die Einheit beider
                sind Bedingungen des Schönheitsbegriffs, von welchen keine wissenschaftliche
                Ergründung irgend einer Kunst sich mehr trennen kann.</p>
-            <p n="2.3" xml:id="d1e1396a1048964">
-               <emph>Was</emph> Inhalt eines Werks der dichtenden
+            <p n="2.3" xml:id="d1e1396a1048964"><emph>Was</emph> Inhalt eines Werks der dichtenden
                oder bildenden Kunst sei, läßt sich mit Worten ausdrücken und auf Begriffe
                zurückführen. Wir sagen: dies Bild stellt ein Blumenmädchen vor, diese Statue einen
                Gladiator, jenes Gedicht eine That <rs type="person"
@@ -1729,8 +1725,7 @@
                   <emph>Gefühl</emph> vorkommen, sowie umgekehrt <emph>Gefühle</emph> von solcher
                Mischung das Gemüt bewegen können, daß sie in keiner durch Musik darstellbaren
                   <emph>Idee</emph> ihre entsprechende Bezeichnung finden.</p>
-            <p n="2.13" xml:id="d1e1501a1048964">
-               <emph>Was</emph> kann also die Musik von den
+            <p n="2.13" xml:id="d1e1501a1048964"><emph>Was</emph> kann also die Musik von den
                Gefühlen darstellen, wenn nicht deren Inhalt?</p>
             <p n="2.14" xml:id="d1e1506a1048964">Nur das <emph>Dynamische</emph> derselben. Sie
                vermag die Bewegung eines physischen Vorganges nach den Momenten: schnell, langsam,
@@ -2842,8 +2837,7 @@
                </emph> erkennen, dies alles läßt sich auf
                rein <emph>musikalische</emph> Bestimmungen zurückführen, ohne Berufung auf das
                rätselhafte <emph>Gefühl</emph>.</p>
-            <p n="3.22" xml:id="d1e2941a1048964">
-               <emph>Warum</emph> die häufigen Quintsext-Akkorde,
+            <p n="3.22" xml:id="d1e2941a1048964"><emph>Warum</emph> die häufigen Quintsext-Akkorde,
                die engen, diatonischen Themen bei <emph>
                   <rs type="person" ref="#hsl_person_id_21" xml:id="d1e2947a1048964">Mendelssohn</rs>
                </emph>, die Chromatik und Enharmonik
@@ -5132,8 +5126,7 @@
          </div>
          <div>
             <head>VII. Die Begriffe „Inhalt“ und „Form“ in der Musik.</head>
-            <p n="7.1" xml:id="d1e5903a1048964">
-               <emph>Hat die Musik einen Inhalt</emph>?</p>
+            <p n="7.1" xml:id="d1e5903a1048964"><emph>Hat die Musik einen Inhalt</emph>?</p>
             <p n="7.2" xml:id="d1e5908a1048964">So lautet, seit man gewohnt ist, über unsere Kunst
                nachzudenken, ihre hitzigste Streitfrage. Sie wurde für und wider entschieden.
                Gewichtige Stimmen behaupten die Inhaltlosigkeit der Musik, sie gehören beinahe
@@ -5221,8 +5214,7 @@
                seiner Individualität anschlagen und benennen, der <emph>Inhalt</emph> desselben ist
                keiner, als eben die gehörten Tonformen, denn die Musik spricht nicht bloß
                   <emph>durch</emph> Töne, sie spricht auch <emph>nur</emph> Töne.</p>
-            <p n="7.6" xml:id="d1e6036a1048964"><emph>
-                  <rs type="person" ref="#hsl_person_id_686" xml:id="d1e6040a1048964">Krüger</rs>
+            <p n="7.6" xml:id="d1e6036a1048964"><emph><rs type="person" ref="#hsl_person_id_686" xml:id="d1e6040a1048964">Krüger</rs>
                </emph>, wohl der kenntnisreichste Verfechter des musikalischen „Inhalts“ gegen <rs
                   type="person" ref="#hsl_person_id_378" xml:id="d1e6044a1048964">Hegel</rs> und <rs
                   type="person" ref="#hsl_person_id_694" xml:id="d1e6047a1048964">Kahlert</rs>,
@@ -5320,9 +5312,7 @@
                    xml:id="d1e6162a1048964"
                    subtype="fictional">Orest</rs> zu schaffen hat:
                Gesang.</p>
-            <p n="7.9" xml:id="d1e6166a1048964">
-               <emph>
-                  <rs type="person" ref="#hsl_person_id_697" xml:id="d1e6170a1048964">Lessing</rs>
+            <p n="7.9" xml:id="d1e6166a1048964"><emph><rs type="person" ref="#hsl_person_id_697" xml:id="d1e6170a1048964">Lessing</rs>
                </emph> hat mit wunderbarer Klarheit
                auseinandergesetzt, was der Dichter und was der bildende Künstler, aus der Geschichte
                des <rs type="person"
@@ -5450,8 +5440,7 @@
                und Umgebungen, in die wechselndsten Erfolge und Stimmungen, – alles andere <pb n="[217]"
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1902_0226"/> wenn noch so kontrastierend, ist in Bezug darauf gedacht und
                gestaltet.</p>
-            <p n="7.17" xml:id="d1e6317a1048964">
-               <emph>Inhaltlos</emph> werden wir demnach etwa
+            <p n="7.17" xml:id="d1e6317a1048964"><emph>Inhaltlos</emph> werden wir demnach etwa
                jenes freieste Präludieren nennen, bei welchem der Spieler, mehr ausruhend, als
                schaffend, sich bloß in Akkorden, Arpeggios, Rosalien ergeht, ohne eine selbständige
                Tongestalt bestimmt hervortreten zu lassen. Solch freie Präludien werden als

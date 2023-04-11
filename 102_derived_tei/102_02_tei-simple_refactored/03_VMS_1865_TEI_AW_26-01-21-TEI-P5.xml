@@ -726,8 +726,7 @@
                Unvergängliche in der Tonkunst, auf die <emph>musikalische Schönheit</emph> hinwies,
                wie sie unsre großen Meister verkörperten und echt musikalische Erfinder auch in
                aller Zukunft pflegen werden.</p>
-            <p><emph>
-                  <rs type="place" ref="#hsl_place_id_55" xml:id="d1e501a1048964">Wien</rs>
+            <p><emph><rs type="place" ref="#hsl_place_id_55" xml:id="d1e501a1048964">Wien</rs>
                </emph>, am 6. Jan. <date>1865</date>.</p>
             <byline>Ed. H.</byline>
             <pb n="[1]"
@@ -837,8 +836,7 @@
             <p n="1.14" xml:id="d1e602a1048964">Um dieses Verhältniß näher zu untersuchen, müssen
                wir vorerst die Begriffe „Gefühl“ und „Empfindung“ (– gegen deren Verwechselung im
                gewöhnlichen Sprachgebrauch nichts einzuwenden ist –) hier streng unterscheiden.</p>
-            <p n="1.15" xml:id="d1e605a1048964">
-               <emph>Empfindung</emph> ist das Wahrnehmen einer
+            <p n="1.15" xml:id="d1e605a1048964"><emph>Empfindung</emph> ist das Wahrnehmen einer
                bestimmten Sinnesqualität: eines Tons, einer Farbe. <emph>Gefühl</emph> das
                Bewußtwerden einer Förderung oder Hemmung unsres Seelenzustandes, also eines
                Wohlseins oder Mißbehagens. Wenn ich den Geruch oder Geschmack eines Dinges, dessen
@@ -936,8 +934,7 @@
                Musik und der <emph>Baukunst</emph> besteht. Ist aber je einem vernünftigen
                Architekten beigefallen, die Baukunst habe den <emph>Zweck</emph>, Gefühle zu
                erregen, oder es seien diese der <emph>Inhalt</emph> derselben?</p>
-            <p n="1.23" xml:id="d1e742a1048964">
-               <emph>Jedes</emph> wahre Kunstwerk wird sich in
+            <p n="1.23" xml:id="d1e742a1048964"><emph>Jedes</emph> wahre Kunstwerk wird sich in
                irgend eine Beziehung zu unserm Fühlen setzen, <emph>keines</emph> in eine
                   ausschließ<pb n="[9]"
                    break="no"
@@ -1057,7 +1054,7 @@
                eigenthümlicher Ueberzeugungen, sondern vielmehr der Ausdruck einer allgemein
                gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete
                Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer
-               Musikschriftsteller hier Platz finden.</p>
+               Musikschriftsteller hier Platz finden.
             <list type="unordered">
                <item>
                   <rs type="person"
@@ -1282,7 +1279,7 @@
                            <emph>Gefühle</emph> und durch das Gefühl <emph>Vorstellungen</emph> in
                         uns erregen.“</quote>
                   </cit> (S. 174.)</item>
-            </list>
+            </list></p>
             <pb n="[16]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1865_0032"/>
          </div>
@@ -3493,9 +3490,7 @@
                pflegen.</p>
             <pb n="[92]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1865_0108"/>
-            <p n="4.42" xml:id="d1e4235a1048964">
-               <emph>
-                  <rs type="person" ref="#hsl_person_id_575" xml:id="d1e4241a1048964">Lotze</rs>
+            <p n="4.42" xml:id="d1e4235a1048964"><emph><rs type="person" ref="#hsl_person_id_575" xml:id="d1e4241a1048964">Lotze</rs>
                </emph> sagt in seiner „<rs type="bibl" ref="#hsl_work_id_392" xml:id="d1e4245a1048964">medicinischen Psychologie</rs>“
                (S. 237): <cit>
                   <quote>„Die Betrachtung der <emph>Melodien</emph> würde zu dem Geständniß führen,
@@ -4650,8 +4645,7 @@
                anschlagen und benennen, der <emph>Inhalt</emph> desselben ist keiner, als eben die
                gehörten Tonformen, denn die Musik spricht nicht blos <emph>durch</emph> Töne, sie
                spricht auch <emph>nur</emph> Töne.</p>
-            <p n="7.6" xml:id="d1e5787a1048964"><emph>
-                  <rs type="person" ref="#hsl_person_id_686" xml:id="d1e5791a1048964">Krüger</rs>
+            <p n="7.6" xml:id="d1e5787a1048964"><emph><rs type="person" ref="#hsl_person_id_686" xml:id="d1e5791a1048964">Krüger</rs>
                </emph>, der geist- und kenntnißreichste Verfechter des musikalischen „Inhalts“ gegen
                   <rs type="person" ref="#hsl_person_id_378" xml:id="d1e5795a1048964">Hegel</rs> und
                   <rs type="person" ref="#hsl_person_id_694" xml:id="d1e5798a1048964">Kahlert</rs>,
@@ -4752,8 +4746,7 @@
                    xml:id="d1e5914a1048964"
                    subtype="fictional">Orest</rs> zu schaffen hat:
                Gesang.</p>
-            <p n="7.9" xml:id="d1e5918a1048964"><emph>
-                  <rs type="person" ref="#hsl_person_id_697" xml:id="d1e5922a1048964">Lessing</rs>
+            <p n="7.9" xml:id="d1e5918a1048964"><emph><rs type="person" ref="#hsl_person_id_697" xml:id="d1e5922a1048964">Lessing</rs>
                </emph> hat mit wunderbarer Klarheit auseinandergesetzt, <pb n="[134]"
                   facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1865_0150"/> was der Dichter
                und was der bildende Künstler aus der Geschichte des <rs type="person"

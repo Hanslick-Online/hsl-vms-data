@@ -721,8 +721,7 @@
                Unvergängliche in der Tonkunst, auf die <emph>musikalische Schönheit</emph> hinwies,
                wie sie unsre großen Meister verkörperten und echt musikalische Erfinder auch in
                aller Zukunft pflegen werden.</p>
-            <p><emph>
-                  <rs type="place" ref="#hsl_place_id_55" xml:id="d1e499a1048964">Wien</rs>
+            <p><emph><rs type="place" ref="#hsl_place_id_55" xml:id="d1e499a1048964">Wien</rs>
                </emph>, im Juni <date>1876</date>.</p>
             <byline>Ed. H.</byline>
             <pb n="[1]"
@@ -931,8 +930,7 @@
                Musik und der <emph>Baukunst</emph> besteht. Ist aber je einem vernünftigen
                Architekten beigefallen, die Baukunst habe den <emph>Zweck</emph>, Gefühle zu
                erregen, oder es seien diese der <emph>Inhalt</emph> derselben?</p>
-            <p n="1.23" xml:id="d1e737a1048964">
-               <emph>Jedes</emph> wahre Kunstwerk wird sich in
+            <p n="1.23" xml:id="d1e737a1048964"><emph>Jedes</emph> wahre Kunstwerk wird sich in
                irgend eine Beziehung zu unserm Fühlen setzen, <emph>keines</emph> in eine
                   ausschließ<pb n="[9]"
                    break="no"
@@ -1043,7 +1041,7 @@
                   facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1876_0029"/> einer allgemein
                gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete
                Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer
-               Musikschriftsteller hier Platz finden.</p>
+               Musikschriftsteller hier Platz finden.
             <list type="unordered">
                <item>
                   <rs type="person"
@@ -1265,7 +1263,7 @@
                            <emph>Gefühle</emph> und durch das Gefühl <emph>Vorstellungen</emph> in
                         uns erregen.“</quote>
                   </cit> (S. 174.)</item>
-            </list>
+            </list></p>
             <pb n="[16]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1876_0032"/>
          </div>
@@ -1283,8 +1281,7 @@
                   <emph>Form</emph>, und die <emph>Einheit</emph> beider sind Bedingungen des
                Schönheitsbegriffs, von welchen keine wissenschaftliche Ergründung irgend einer Kunst
                sich mehr trennen kann.</p>
-            <p n="2.3" xml:id="d1e1257a1048964">
-               <emph>Was</emph> Inhalt eines Werks der dichtenden
+            <p n="2.3" xml:id="d1e1257a1048964"><emph>Was</emph> Inhalt eines Werks der dichtenden
                oder bildenden Kunst sei, läßt sich mit Worten ausdrücken und auf Begriffe
                zurückführen. Wir sagen: dies Bild stellt ein Blumenmädchen vor, diese Statue einen
                Gladiator, jenes Gedicht eine That <rs type="person"
@@ -4586,8 +4583,7 @@
                anschlagen und benennen, der <emph>Inhalt</emph> desselben ist keiner, als eben die
                gehörten Tonformen, denn die Musik spricht nicht blos <emph>durch</emph> Töne, sie
                spricht auch <emph>nur</emph> Töne.</p>
-            <p n="7.6" xml:id="d1e5455a1048964"><emph>
-                  <rs type="person" ref="#hsl_person_id_686" xml:id="d1e5459a1048964">Krüger</rs>
+            <p n="7.6" xml:id="d1e5455a1048964"><emph><rs type="person" ref="#hsl_person_id_686" xml:id="d1e5459a1048964">Krüger</rs>
                </emph>, der geist- und kenntnißreichste Verfechter des musikalischen „Inhalts“ gegen
                   <rs type="person" ref="#hsl_person_id_378" xml:id="d1e5463a1048964">Hegel</rs> und
                   <rs type="person" ref="#hsl_person_id_694" xml:id="d1e5466a1048964">Kahlert</rs>,
@@ -4679,8 +4675,7 @@
                    xml:id="d1e5577a1048964"
                    subtype="fictional">Orest</rs> zu schaffen hat:
                Gesang.</p>
-            <p n="7.9" xml:id="d1e5581a1048964"><emph>
-                  <rs type="person" ref="#hsl_person_id_697" xml:id="d1e5585a1048964">Lessing</rs>
+            <p n="7.9" xml:id="d1e5581a1048964"><emph><rs type="person" ref="#hsl_person_id_697" xml:id="d1e5585a1048964">Lessing</rs>
                </emph> hat mit wunderbarer Klarheit auseinandergesetzt, was der Dichter und was der
                bildende Künstler aus der Geschichte des <rs type="person" ref="#hsl_person_id_698"
                   xml:id="d1e5589a1048964" subtype="fictional">Laokoon</rs> zu machen vermag. Der

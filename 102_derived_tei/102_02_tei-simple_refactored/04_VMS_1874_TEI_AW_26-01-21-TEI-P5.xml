@@ -673,8 +673,7 @@
                   <pb n="[IX]"
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1874_0011"/> verschiedenen Dingen, deren eines erst ausdrücklich durch einen
                besonderen Act auf das andere bezogen wird.</p>
-            <p n="V2.5" xml:id="d1e422a1048964">
-               <emph>Emanuel <rs type="person" ref="#hsl_person_id_714" xml:id="d1e429a1048964"
+            <p n="V2.5" xml:id="d1e422a1048964"><emph>Emanuel <rs type="person" ref="#hsl_person_id_714" xml:id="d1e429a1048964"
                      >Geibel</rs>
                </emph> hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher
                ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon:
@@ -721,8 +720,7 @@
                Unvergängliche in der Tonkunst, auf die <emph>musikalische Schönheit</emph> hinwies,
                wie sie unsre großen Meister verkörperten und echt musikalische Erfinder auch in
                aller Zukunft pflegen werden.</p>
-            <p><emph>
-                  <rs type="place" ref="#hsl_place_id_55" xml:id="d1e497a1048964">Wien</rs>
+            <p><emph><rs type="place" ref="#hsl_place_id_55" xml:id="d1e497a1048964">Wien</rs>
                </emph>, am 11. Mai <date>1873</date>.</p>
             <byline>Ed. H.</byline>
             <pb n="[1]"
@@ -1040,7 +1038,7 @@
                   facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1874_0027"/> einer allgemein
                gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete
                Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer
-               Musikschriftsteller hier Platz finden.</p>
+               Musikschriftsteller hier Platz finden.
             <list type="unordered">
                <item>
                   <rs type="person"
@@ -1261,7 +1259,7 @@
                            <emph>Gefühle</emph> und durch das Gefühl <emph>Vorstellungen</emph> in
                         uns erregen.“</quote>
                   </cit> (S. 174.)</item>
-            </list>
+            </list></p>
             <pb n="[16]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1874_0030"/>
          </div>
@@ -1394,8 +1392,7 @@
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1874_0035"/>
                das Gemüth bewegen können, daß sie in keiner durch Musik darstellbaren
                   <emph>Idee</emph> ihre adäquate Bezeichnung finden.</p>
-            <p n="2.13" xml:id="d1e1378a1048964">
-               <emph>Was</emph> kann also die Musik von den
+            <p n="2.13" xml:id="d1e1378a1048964"><emph>Was</emph> kann also die Musik von den
                Gefühlen darstellen, wenn nicht deren Inhalt?</p>
             <p n="2.14" xml:id="d1e1383a1048964">Nur das <emph>Dynamische</emph> derselben. Sie
                vermag die Bewegung eines psychischen Vorganges nach den Momenten: schnell, langsam,
@@ -4589,8 +4586,7 @@
                anschlagen und benennen, der <emph>Inhalt</emph> desselben ist keiner, als eben die
                gehörten Tonformen, denn die Musik spricht nicht blos <emph>durch</emph> Töne, sie
                spricht auch <emph>nur</emph> Töne.</p>
-            <p n="7.6" xml:id="d1e5537a1048964"><emph>
-                  <rs type="person" ref="#hsl_person_id_686" xml:id="d1e5541a1048964">Krüger</rs>
+            <p n="7.6" xml:id="d1e5537a1048964"><emph><rs type="person" ref="#hsl_person_id_686" xml:id="d1e5541a1048964">Krüger</rs>
                </emph>, der geist- und kenntnißreichste Verfechter des musikalischen „Inhalts“ gegen 
                   <rs type="person" ref="#hsl_person_id_378" xml:id="d1e5547a1048964">Hegel</rs>
                 und <rs type="person" ref="#hsl_person_id_694" xml:id="d1e5551a1048964"
@@ -4686,8 +4682,7 @@
                    xml:id="d1e5664a1048964"
                    subtype="fictional">Orest</rs> zu schaffen hat:
                Gesang.</p>
-            <p n="7.9" xml:id="d1e5668a1048964"><emph>
-                  <rs type="person" ref="#hsl_person_id_697" xml:id="d1e5672a1048964">Lessing</rs>
+            <p n="7.9" xml:id="d1e5668a1048964"><emph><rs type="person" ref="#hsl_person_id_697" xml:id="d1e5672a1048964">Lessing</rs>
                </emph> hat mit wunderbarer Klarheit auseinandergesetzt, was der Dichter und was der
                bildende Künstler aus der Geschichte des <rs type="person" ref="#hsl_person_id_698"
                   xml:id="d1e5676a1048964" subtype="fictional">Laokoon</rs> zu machen vermag. Der
