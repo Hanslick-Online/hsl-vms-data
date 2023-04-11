@@ -882,7 +882,7 @@
             <pb n="[V]"
                 facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1891_0009"/>
             <head>Vorwort zur achten Auflage.</head>
-            <p n="V2.1xyz" xml:id="d1e365a1048964">An der vorliegenden achten Auflage dieser zuerst
+            <p n="V2.1" xml:id="d1e365a1048964">An der vorliegenden achten Auflage dieser zuerst
                im Jahre <date>1854</date> erschienenen Schrift ist nichts weiter neu, als das
                passendere Format und die geschmackvollere Ausstattung. Im Texte unterscheidet sie
                sich von der <ref type="edition" target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html">siebenten Auflage (1885)</ref> nur durch einige unwesentliche Verbesserungen. Ich
@@ -907,7 +907,7 @@
                      Eingreifen mehr verderbt als besser gemacht wird.“</quote>
                </cit>
             </p>
-            <p n="V2.2xyz" xml:id="d1e413a1048964">Wollte ich hier in Polemik eingehen, auf alle
+            <p n="V2.2" xml:id="d1e413a1048964">Wollte ich hier in Polemik eingehen, auf alle
                Kritiken antwortend, welche meine Schrift hervorgerufen hat, so würde dies Büchlein
                zu einem erschreckend starken Band anschwellen. Meine Überzeugungen sind dieselben
                geblieben, desgleichen die Positionen und schroff sich gegenüberstehenden
@@ -953,7 +953,7 @@
                entsprungen. Etwas „darstellen“ involviert immer die Vorstellung von zwei getrennten,
                verschiedenen Dingen, deren eines erst ausdrücklich durch einen besonderen Akt auf
                das andere bezogen wird.</p>
-            <p n="V2.5xyz" xml:id="d1e473a1048964">
+            <p n="V2.5z" xml:id="d1e473a1048964">
                <emph>Emanuel <rs type="person" ref="#hsl_person_id_714" xml:id="d1e477a1048964"
                      >Geibel</rs>
                </emph> hat durch ein glückliches Bild dies Verhältnis anschaulicher und erfreulicher
@@ -1245,7 +1245,7 @@
                   <emph>Baukunst</emph> besteht. Ist aber je einem vernünftigen Architekten
                beigefallen, die Baukunst habe den <emph>Zweck</emph>, Gefühle zu erregen, oder es
                seien diese der <emph>Inhalt</emph> derselben?</p>
-            <p n="1.23xyz" xml:id="d1e835a1048964">
+            <p n="1.23" xml:id="d1e835a1048964">
                <emph>Jedes</emph> wahre Kunstwerk wird sich in
                irgend eine Beziehung zu unserm Fühlen setzen, <emph>keines</emph> in eine
                ausschließliche. Man sagt also gar nichts für das ästhetische Prinzip der Musik
@@ -1266,7 +1266,7 @@
                berechtigt ihre Kritiker noch lange nicht, Gefühlsaffektion und musikalische
                Schönheit unmittelbar zu vermengen, statt sie in wissenschaftlicher Methode möglichst
                getrennt darzustellen.</p>
-            <p n="1.27xyz" xml:id="d1e851a1048964">Kann überhaupt das Gefühl keine Basis für
+            <p n="1.27" xml:id="d1e851a1048964">Kann überhaupt das Gefühl keine Basis für
                ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen
                Fühlens Wesentliches <pb n="[15]"
                    facs="https://iiif.acdh.oeaw.ac.at/images/hsl-vms/vms_1891_0031"/> zu bemerken. Wir meinen hier nicht bloß die
