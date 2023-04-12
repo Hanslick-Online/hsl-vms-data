@@ -46,7 +46,7 @@
                   templates for our digital edition. The articles or chapters, from which this
                   treatise presumably originates and which were partly published in advance (see the
                   first two entries under “<ref target="bedeutung-hanslick-engl.html?lang=en">Eduard
-                     Hanslick Schriften</ref>”), did not figure into this edition.</p>
+                     Hanslick’s Writings</ref>”), did not figure into this edition.</p>
                <p>The editions of the original treatise—transcribed and corrected by Meike
                   Wilfing-Albrecht—are reproduced as faithfully as possible, the spelling is
                   retained. Errors that were corrected by Hanslick himself within the editions—e.g.,
@@ -60,9 +60,9 @@
                   masked by using the “annotations” menu. Verse breaks are indicated by using
                   slashes /. The footnotes have been converted to endnotes with jump marks and have
                   been numbered consecutively instead of using the original asterisks * to provide a
-                  more precise attribution Up to edition 7, the headings of individual chapters were
+                  more precise attribution. Up to edition 7, the headings of individual chapters were
                   only displayed in the table of contents. For the purpose of manageable navigation,
-                  they were incorporated into the transcription of editions 1-7. </p>
+                  they were incorporated into the transcription of editions 1–7. </p>
                <p>The printed copies of <emph>Vom Musikalisch-Schönen</emph> contain several fonts,
                   the meticulous reproduction of which, however, did not seem sensible for the
                   purpose of a digital edition. The German main text is set in Fraktur script
@@ -88,12 +88,11 @@
                   Alexander Wilfing, who oversaw the entire edition process. In a first step, names,
                   works, and places were marked up as entities, each of which can be color-coded in
                   the online edition by using the “annotations” menu. In the index—where <ref
-                     target="listperson.html?lang=en"
-                     >persons</ref> (historical as well as fictional) and <ref
-                        target="listbibl.html?lang=en">works</ref>
-                  are further linked with each other—and the detailed information of annotations,
-                  the spelling of the <ref target="https://lobid.org/gnd">GND</ref> data base was
-                  used for person names (if available in each case), and that of <ref
+                     target="listperson.html?lang=en">persons</ref> (historical as well as
+                  fictional) and <ref target="listbibl.html?lang=en">works</ref> are further linked
+                  with each other—and the detailed information of annotations, the spelling of the
+                     <ref target="https://lobid.org/gnd">GND</ref> data base was used for person
+                  names (if available in each case), and that of <ref
                      target="https://www.geonames.org/">GeoNames</ref> for place names. In the case
                   of names / places, only names / places themselves and terms which are directly
                   related to names / places were marked, but not groups of people that have such
@@ -101,8 +100,8 @@
                   annotated, “Griechen” (“Greeks”), however, are not, which then also applies to
                   “Gluck” and “Piccini”, as opposed to “Gluckisten” (“Gluckists”) and “Piccinisten”
                   (“Piccinists”) (2.43). Such terms can, of course, be found via <ref
-                     target="search-engl.html?lang=en">full-text
-                     search</ref>. The logo of “Hanslick Online” was created by Olivia Reichl.</p>
+                     target="search-engl.html?lang=en">full-text search</ref>. The logo of “Hanslick
+                  Online” was designed by Olivia Reichl.</p>
             </div>
             <div type="sub">
                <head>How to Cite</head>
