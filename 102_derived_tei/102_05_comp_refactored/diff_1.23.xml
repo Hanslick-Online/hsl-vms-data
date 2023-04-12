@@ -19,11 +19,11 @@
             <item>
                <list type="selectPar">
                   <head>Select Paragraph</head>
-                  <item>V2.1xyz</item>
-                  <item>V2.2xyz</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
-                  <item>V2.5xyz</item>
+                  <item>V2.5</item>
                   <item>V2.6</item>
                   <item>V2.7</item>
                   <item>1.1</item>
@@ -47,8 +47,8 @@
                   <item>1.20</item>
                   <item>1.21</item>
                   <item>1.22</item>
-                  <item>1.23xyz</item>
-                  <item>1.27xyz</item>
+                  <item>1.23</item>
+                  <item>1.27</item>
                   <item>1.29</item>
                   <item>1.30</item>
                   <item>1.30.1</item>
@@ -276,23 +276,12 @@
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.1xyz</item>
-                  <item>1.2xyz</item>
-                  <item>1.3xyz</item>
-                  <item>1.4xyz</item>
-                  <item>1.5xyz</item>
-                  <item>1.6xyz</item>
-                  <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
                   <item>1.26</item>
-                  <item>1.27</item>
                   <item>1.28</item>
                   <item>2.21</item>
                   <item>2.22</item>
-                  <item>2.26xyz</item>
-                  <item>2.27xyz</item>
-                  <item>2.28xyz</item>
                   <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
@@ -309,9 +298,6 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
-                  <item>V2.5</item>
                   <item>1.7</item>
                   <item>4.2</item>
                   <item>1.4 &amp; 1.5</item>
@@ -350,9 +336,46 @@
                      <ref type="nextLink" target="diff_1.24.html">1.24</ref>
                   </seg>
                </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.22.html">1.22</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e920a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_1.27.html">1.27</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.22.html">1.22</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e855a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_1.27.html">1.27</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.22.html">1.22</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e835a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_1.27.html">1.27</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.22.html">1.22</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e840a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_1.27.html">1.27</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.22.html">1.22</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e796a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_1.27.html">1.27</ref>
+                  </seg>
+               </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Jedes wahre Kunstwerk wird sich in irgend eine Beziehung zu unserm Fühlen setzen, keines in eine ausschließliche. Man sagt also gar nichts für das ästhetische Princip der Musik Entscheidendes, wenn man sie durch ihre Wirkung auf das Gefühl charakterisirt.</cell>
+               <cell xml:id="v2">Jedes wahre Kunstwerk wird sich in irgend eine Beziehung zu unserm Fühlen setzen, keines in eine ausschließliche. Man sagt also gar nichts für das ästhetische Princip der Musik Entscheidendes, wenn man sie nur ganz allgemein durch ihre Wirkung auf das Gefühl charakterisirt. Ebenso wenig etwa, als man das Wesen des Wein’s ergründet, indem man sich betrinkt. Es wird einzig auf die specifische Art ankommen, wie solche Affecte durch Musik hervorgerufen werden. Statt also an der sekundären und unbestimmten Gefühlswirkung musikalischer Erscheinungen zu kleben, gilt es in das Innere der Werke zu dringen und die specifische Kraft ihres Eindrucks aus den Gesetzen ihres eigenen Organismus zu erklären. Ein Maler oder ein Poet überredet sich kaum mehr, Rechenschaft von dem Schönen seiner Kunst abgelegt zu haben, wenn er untersuchte, welche „Gefühle“ seine Landschaft oder sein Drama hervorruft: er wird der zwingenden Macht nachspüren, warum das Werk gefällt und weshalb gerade in dieser und keiner andern Weise. Daß diese Untersuchung, wie wir später sehen werden, in der Tonkunst viel schwieriger ist, als in den andern Künsten, ja daß das Erforschliche in ihr nur bis zu einer gewissen Tiefe hinabreicht, berechtigt ihre Kritiker noch lange nicht, Gefühlsaffection und musikalische Schönheit unmittelbar zu vermengen, statt sie in wissenschaftlicher Methode möglichst getrennt darzustellen.</cell>
+               <cell xml:id="v3">Jedes wahre Kunstwerk wird sich in irgend eine Beziehung zu unserm Fühlen setzen, keines in eine ausschließliche. Man sagt also gar nichts für das ästhetische Princip der Musik Entscheidendes, wenn man sie nur ganz allgemein durch ihre Wirkung auf das Gefühl charakterisirt. Ebenso wenig etwa, als man das Wesen des Weins ergründet, indem man sich betrinkt. Es wird einzig auf die specifische Art ankommen, wie solche Affecte durch Musik hervorgerufen werden. Statt also an der secundären und unbestimmten Gefühlswirkung musikalischer Erscheinungen zu kleben, gilt es in das Innere der Werke zu dringen und die specifische Kraft ihres Eindrucks aus den Gesetzen ihres eigenen Organismus zu erklären. Ein Maler oder ein Poet überredet sich kaum mehr, Rechenschaft von dem Schönen seiner Kunst abgelegt zu haben, wenn er untersuchte, welche „Gefühle“ seine Landschaft oder sein Drama hervorruft: er wird der zwingenden Macht nachspüren, warum das Werk gefällt und weshalb gerade in dieser und keiner andern Weise. Daß diese Untersuchung, wie wir später sehen werden, in der Tonkunst viel schwieriger ist als in den andern Künsten, ja daß das Erforschliche in ihr nur bis zu einer gewissen Tiefe hinabreicht, berechtigt ihre Kritiker noch lange nicht, Gefühlsaffection und musikalische Schönheit unmittelbar zu vermengen, statt sie in wissenschaftlicher Methode möglichst getrennt darzustellen.</cell>
+               <cell xml:id="v4">Jedes wahre Kunstwerk wird sich in irgend eine Beziehung zu unserm Fühlen setzen, keines in eine ausschließliche. Man sagt also gar nichts für das ästhetische Prinzip der Musik Entscheidendes, wenn man sie nur ganz allgemein durch ihre Wirkung auf das Gefühl charakterisiert. Ebenso wenig etwa, als man das Wesen des Weins ergründet, indem man sich betrinkt. Es wird einzig auf die spezifische Art ankommen, wie solche Affekte durch Musik hervorgerufen werden. Statt also an der sekundären und unbestimmten Gefühlswirkung musikalischer Erscheinungen zu kleben, gilt es in das Innere der Werke zu dringen und die spezifische Kraft ihres Eindrucks aus den Gesetzen ihres eigenen Organismus zu erklären. Ein Maler oder ein Poet überredet sich kaum mehr, Rechenschaft von dem Schönen seiner Kunst abgelegt zu haben, wenn er untersuchte, welche „Gefühle“ seine Landschaft oder sein Drama hervorruft: er wird der zwingenden Macht nachspüren, warum das Werk gefällt und weshalb gerade in dieser und keiner andern Weise. Daß diese Untersuchung, wie wir später sehen werden, in der Tonkunst viel schwieriger ist als in den anderen Künsten, ja daß das Erforschliche in ihr nur bis zu einer gewissen Tiefe hinabreicht, berechtigt ihre Kritiker noch lange nicht, Gefühlsaffektion und musikalische Schönheit unmittelbar zu vermengen, statt sie in wissenschaftlicher Methode möglichst getrennt darzustellen.</cell>
+               <cell xml:id="v5">Jedes wahre Kunstwerk wird sich in irgend eine Beziehung zu unserm Fühlen setzen, keines in eine ausschließliche. Man sagt also gar nichts für das ästhetische Prinzip der Musik Entscheidendes, wenn man sie nur ganz allgemein durch ihre Wirkung auf das Gefühl charakterisiert. Ebenso wenig etwa, als man das Wesen des Weins ergründet, indem man sich betrinkt. Es wird einzig auf die spezifische Art ankommen, wie solche Affekte durch Musik hervorgerufen werden. Statt also an der sekundären und unbestimmten Gefühlswirkung musikalischer Erscheinungen zu kleben, gilt es in das Innere der Werke zu dringen und die spezifische Kraft ihres Eindrucks aus den Gesetzen ihres eigenen Organismus zu erklären. Ein Maler oder ein Poet überredet sich kaum mehr, Rechenschaft von dem Schönen seiner Kunst abgelegt zu haben, wenn er untersuchte, welche „Gefühle“ seine Landschaft oder sein Drama hervorruft: er wird der zwingenden Macht nachspüren, warum das Werk gefällt und weshalb gerade in dieser und keiner andern Weise. Daß diese Untersuchung, wie wir später sehen werden, in der Tonkunst viel schwieriger ist als in den andern Künsten, ja daß das Erforschliche in ihr nur bis zu einer gewissen Tiefe hinabreicht, berechtigt ihre Kritiker noch lange nicht, Gefühlsaffektionen und musikalische Schönheit unmittelbar zu vermengen, statt sie in wissenschaftlicher Methode möglichst getrennt darzustellen.</cell>
             </row>
          </table>
       </body>

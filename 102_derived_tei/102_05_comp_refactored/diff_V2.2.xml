@@ -19,11 +19,11 @@
             <item>
                <list type="selectPar">
                   <head>Select Paragraph</head>
-                  <item>V2.1xyz</item>
-                  <item>V2.2xyz</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
-                  <item>V2.5xyz</item>
+                  <item>V2.5</item>
                   <item>V2.6</item>
                   <item>V2.7</item>
                   <item>1.1</item>
@@ -47,8 +47,8 @@
                   <item>1.20</item>
                   <item>1.21</item>
                   <item>1.22</item>
-                  <item>1.23xyz</item>
-                  <item>1.27xyz</item>
+                  <item>1.23</item>
+                  <item>1.27</item>
                   <item>1.29</item>
                   <item>1.30</item>
                   <item>1.30.1</item>
@@ -276,23 +276,12 @@
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.1xyz</item>
-                  <item>1.2xyz</item>
-                  <item>1.3xyz</item>
-                  <item>1.4xyz</item>
-                  <item>1.5xyz</item>
-                  <item>1.6xyz</item>
-                  <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
                   <item>1.26</item>
-                  <item>1.27</item>
                   <item>1.28</item>
                   <item>2.21</item>
                   <item>2.22</item>
-                  <item>2.26xyz</item>
-                  <item>2.27xyz</item>
-                  <item>2.28xyz</item>
                   <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
@@ -309,9 +298,6 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
-                  <item>V2.5</item>
                   <item>1.7</item>
                   <item>4.2</item>
                   <item>1.4 &amp; 1.5</item>
@@ -330,9 +316,49 @@
                      <ref type="nextLink" target="diff_V2.3.html">V2.3</ref>
                   </seg>
                </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.1.html">V2.1</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e399a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_V2.3.html">V2.3</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.1.html">V2.1</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e421a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_V2.3.html">V2.3</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.1.html">V2.1</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e413a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_V2.3.html">V2.3</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.1.html">V2.1</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e417a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_V2.3.html">V2.3</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.1.html">V2.1</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e388a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_V2.3.html">V2.3</ref>
+                  </seg>
+               </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Der vielen Mängel meiner Arbeit bin ich mir sehr lebhaft bewußt; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin äußerst schwer umarbeiten. Ueberdies hat der günstige Erfolg der ersten Auflage dargethan, daß meine Grundsätze, auch wie sie ausgesprochen waren, auf gutes Erdreich fielen.</cell>
+               <cell xml:id="v2">Wollte ich hier in Polemik eingehen, auf alle Kritiken antwortend, welche meine Schrift hervorgerufen hat, so würde dieses Büchlein zu einem erschreckend starken Band anschwellen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der schroff sich gegenüberstehenden Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage begleitet habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie Vischer , D. Fr.  Strauß , Lotze , Lazarus , M.  Hauptmann , Ambros , Otto Jahn , Ferd. Hiller , Helmholtz , in neuester Zeit H.  Ehrlich und besonders H. A.  Köstlin davon Act nahmen, mich überzeugt, daß meine Ideen, auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind. Eine merkwürdige Uebereinstimmung mit diesen Anschauungen fand ich, auf’s freudigste überrascht, in den erst vor 10 Jahren, nach dem Tode des Dichters, erschienenen kleinen Aufsätzen und Aphorismen über Musik von Grillparzer . Einige der werthvollsten dieser Aussprüche habe ich in dieser neuen Auflage zu citiren mir nicht versagen können; ausführlicher ist davon in meinem Essai: „ Grillparzer und die Musik “ gehandelt.</cell>
+               <cell xml:id="v3">Wollte ich hier in Polemik eingehen, auf alle Kritiken antwortend, welche meine Schrift hervorgerufen hat, so würde dieses Büchlein zu einem erschreckend starken Band anschwellen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der schroff sich gegenüberstehenden Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage begleitet habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Antheil, mit welchem bedeutende Fachmänner philosophischer wie musikalischer Disziplin davon Act nahmen, mich überzeugt, daß meine Ideen, auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind. Eine merkwürdige Uebereinstimmung mit diesen Anschauungen fand ich, auf’s freudigste überrascht, in den erst vor 10 Jahren, nach dem Tode des Dichters, erschienenen kleinen Aufsätzen und Aphorismen über Musik von Grillparzer . Einige der werthvollsten dieser Aussprüche habe ich in dieser neuen Auflage zu citiren mir nicht versagen können; ausführlicher davon ist in meinem Essay: „ Grillparzer und die Musik “ gehandelt.</cell>
+               <cell xml:id="v4">Wollte ich hier in Polemik eingehen, auf alle Kritiken antwortend, welche meine Schrift hervorgerufen hat, so würde dies Büchlein zu einem erschreckend starken Band anschwellen. Meine Überzeugungen sind dieselben geblieben, desgleichen die Positionen und schroff sich gegenüberstehenden Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage begleitet habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Anteil, mit welchem bedeutende Fachmänner philosophischer wie musikalischer Disziplin davon Akt nahm, mich überzeugt, daß meine Ideen, auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind. Eine merkwürdige Übereinstimmung mit diesen Anschauungen fand ich, aufs freudigste überrascht, in den erst vor zehn Jahren, nach dem Tode des Dichters, erschienenen kleinen Aufsätzen und Aphorismen über Musik von Grillparzer . Einige der wertvollsten dieser Aussprüche habe ich in dieser neuen Auflage zu citieren mir nicht versagen können; ausführlicher davon ist in meinem Essay: „Grillparzer und die Musik“ gehandelt.</cell>
+               <cell xml:id="v5">Wollte ich hier in Polemik eingehen, auf alle Kritiken antwortend, welche meine Schrift hervorgerufen hat, so würde dies Büchlein zu einem erschreckend starken Band anschwellen. Meine Überzeugungen sind dieselben geblieben, desgleichen die Positionen und schroff sich gegenüberstehenden Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage begleitet habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Anteil, mit welchem bedeutende Fachmänner philosophischer wie musikalischer Disziplin davon Akt nahm, mich überzeugt, daß meine Ideen, auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind. Eine merkwürdige Übereinstimmung mit diesen Anschauungen fand ich, aufs freudigste überrascht, in den erst nach dem Tode des Dichters, erschienenen kleinen Aufsätzen und Aphorismen über Musik von Grillparzer . Einige der wertvollsten dieser Aussprüche habe ich in dieser neuen Auflage zu citieren mir nicht versagen können; ausführlicher davon ist in meinem Essay: „Grillparzer und die Musik“ gehandelt.</cell>
+               <cell xml:id="v6">Wollte ich hier in Polemik eingehen, auf alle Kritiken antwortend, welche meine Schrift hervorgerufen hat, so würde dies Büchlein zu einem erschreckend starken Band anschwellen. Meine Überzeugungen sind dieselben geblieben, desgleichen die Positionen und schroff sich gegenüberstehenden Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage begleitet habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Anteil, mit welchem bedeutende Fachmänner philosophischer wie musikalischer Disziplin davon Akt nahmen, mich überzeugt, daß meine Ideen, auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind. Eine merkwürdige Übereinstimmung mit diesen Anschauungen fand ich, aufs freudigste überrascht, in den erst nach dem Tode des Dichters, erschienenen kleinen Aufsätzen und Aphorismen über Musik von Grillparzer . Einige der wertvollsten dieser Aussprüche habe ich in dieser neuen Auflage zu citieren mir nicht versagen können; ausführlicher davon ist in meinem Essay: „Grillparzer und die Musik“ gehandelt.</cell>
             </row>
          </table>
       </body>

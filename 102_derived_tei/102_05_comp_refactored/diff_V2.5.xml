@@ -19,11 +19,11 @@
             <item>
                <list type="selectPar">
                   <head>Select Paragraph</head>
-                  <item>V2.1xyz</item>
-                  <item>V2.2xyz</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
-                  <item>V2.5xyz</item>
+                  <item>V2.5</item>
                   <item>V2.6</item>
                   <item>V2.7</item>
                   <item>1.1</item>
@@ -47,8 +47,8 @@
                   <item>1.20</item>
                   <item>1.21</item>
                   <item>1.22</item>
-                  <item>1.23xyz</item>
-                  <item>1.27xyz</item>
+                  <item>1.23</item>
+                  <item>1.27</item>
                   <item>1.29</item>
                   <item>1.30</item>
                   <item>1.30.1</item>
@@ -276,23 +276,12 @@
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.1xyz</item>
-                  <item>1.2xyz</item>
-                  <item>1.3xyz</item>
-                  <item>1.4xyz</item>
-                  <item>1.5xyz</item>
-                  <item>1.6xyz</item>
-                  <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
                   <item>1.26</item>
-                  <item>1.27</item>
                   <item>1.28</item>
                   <item>2.21</item>
                   <item>2.22</item>
-                  <item>2.26xyz</item>
-                  <item>2.27xyz</item>
-                  <item>2.28xyz</item>
                   <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
@@ -309,9 +298,6 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
-                  <item>V2.5</item>
                   <item>1.7</item>
                   <item>4.2</item>
                   <item>1.4 &amp; 1.5</item>
@@ -330,9 +316,61 @@
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e432a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e422a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e427a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e490a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e473a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e471a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e442a1048964">VMS 10</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+               </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Nicht blos eigene wiederholte Prüfung, sondern auch zahlreiche unbefangene Kritiken haben mir die Beruhigung verschafft, daß die Stellen meiner Schrift, welche das Wahre und Positive der musikalischen Wirkungen anerkennend, jenen leichtsinnigen Vorwurf entkräften, deutlich genug vor Augen liegen.</cell>
+               <cell xml:id="v2">Emanuel Geibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn vielleicht dies schöne Sinngedicht (wie ich vermuthe) obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, so muß sich meine, von poetischen Gemüthern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
+               <cell xml:id="v3">Emanuel Geibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuthen Anlaß habe, so muß sich meine, von poetischen Gemüthern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
+               <cell xml:id="v4">Emanuel Geibel hat durch ein glückliches Bild dies Verhältniß anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in dem Distichon: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“</cell>
+               <cell xml:id="v5">Emanuel Geibel hat durch ein glückliches Bild dies Verhältnis anschaulicher und erfreulicher ausgedrückt, als philosophische Analyse es vermochte, und zwar in den Distichen: „Warum glückt es dir nie, Musik mit Worten zu schildern? Weil sie, ein rein Element, Bild und Gedanken verschmäht. Selbst das Gefühl ist nur wie ein sanft durchscheinender Flußgrund, Drauf ihr klingender Strom schwellend und sinkend entrollt.“ Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuten Anlaß habe, so muß sich meine, von poetischen Gemütern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</cell>
             </row>
          </table>
       </body>
