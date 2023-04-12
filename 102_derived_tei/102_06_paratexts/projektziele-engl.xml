@@ -37,11 +37,10 @@
                   project “<ref target="projektgeschichte-engl.html">Hanslick in Context</ref>”,
                   enables comparisons between different items of Eduard Hanslick’s writings: on the
                   one hand between the 10 editions of his central treatise <ref
-                     target="https://hanslick-online.github.io/hsl-app/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?prs=off&amp;plc=off&amp;wrk=off&amp;pbs=off&amp;fs=default&amp;ff=default&amp;img=on"
+                     target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en"
                         ><emph>Vom Musikalisch-Schönen</emph></ref> edited during Hanslick’s
-                  lifetime, on the other hand between Hanslick’s writings for the <ref
-                     target="https://hanslick-online.github.io/hsl-app/toc.html"><emph>Neue Freie
-                        Presse</emph></ref> and the 12 anthologies Hanslick constructed from these
+                  lifetime, on the other hand between Hanslick’s writings for the <emph>Neue Freie
+                        Presse</emph> and the 12 anthologies Hanslick constructed from these
                   texts (this feature is currently being developed), which are to be found in <ref
                      target="bedeutung-hanslick-engl.html">this list</ref>. In the not too distant
                   future, “Hanslick Online” will also provide an automated collation between the
@@ -107,9 +106,18 @@
                         usually takes edition 1 as its hermeneutic foundation. By comparison,
                         editions 7, 9, and 10—from which some idealist passages have been removed by
                         Hanslick—are available in English rendition, which feeds into a more
-                        formalist reading. An exhaustive comparison of between editions thus reveals
-                        not only the genesis of this book itself, but also the formation of
-                        surrounding discourses and patterns of reception.</item>
+                        formalist reading. This, as Geoffrey Payzant observes astutely, also leads
+                        to fundamental differences in German-language and English-language Hanslick
+                        research: “When we compare the secondary literature in English about Eduard
+                        Hanslick’s <emph>Vom Musikalisch-Schönen</emph> with that in German we get
+                        the impression that commentators in German are writing about one book and
+                        commentators in English about quite another” (<emph>Hanslick on the
+                           Musically Beautiful: Sixteen Lectures on the Musical Aesthetics of Eduard
+                           Hanslick</emph>, Christchurch: Cybereditions, 2002, 44.) An exhaustive
+                        comparison of between editions thus reveals not only the genesis of this
+                        book itself, but also the formation of surrounding discourses and patterns
+                        of reception, which are to be explored as part of future research
+                        projects.</item>
                   </list>
                </div>
             </div>

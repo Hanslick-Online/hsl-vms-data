@@ -53,17 +53,17 @@
                   wurden (bspw. die Änderung von „psychisch“ zu „physisch“, 2.13, ab Auflage 9)
                   werden ebenso originalgetreu wiedergegeben. Lediglich manifeste Druckfehler (bspw.
                   „Mnsik“ statt „Musik“, 5.6, in Auflage 3) wurden stillschweigend richtiggestellt.
-                  Die Absätze wurden (mit Ausnahme der Gedichte) beibehalten, von der 1. Auflage
-                  ausgehend nummeriert und die Änderungen zwischen einzelnen Auflagen mit folgenden
-                  Symbolen angezeigt: komprimiert → &amp;; segmentiert → a und b; hinzugefügt → 3.
-                  Dezimalstelle; gestrichen → Zahlenlücke. Die Seitenzahlen und Seitenumbrüche der
-                  Textvorlagen können jeweils im Menü „Annotationen“ eingeblendet oder ausgeblendet
-                  werden. Versumbrüche werden mittels Schrägstrich / dargestellt. Die Fußnoten
-                  wurden in Endnoten mit Sprungmarke umgewandelt und zum Zweck einer exakteren
-                  Zuordnung statt mit einem Asterisk *, mit fortlaufender Nummerierung
-                  ausgezeichnet. Die Überschriften der Einzelkapitel sind bis zur 7. Auflage nur im
-                  Inhaltsverzeichnis zu finden und wurden bei der Transkription von Auflage 1–7 zur
-                  leichteren Navigation eingefügt.</p>
+                  Die Absätze wurden (mit Ausnahme der Gedichte) beibehalten und die Änderungen
+                  zwischen einzelnen Auflagen mit folgenden Symbolen angezeigt: komprimiert → &amp;;
+                  segmentiert → a und b; hinzugefügt → 3. Dezimalstelle; gestrichen → Zahlenlücke.
+                  Eine verbesserte Ausführung der Kollationierung ist aktuell in Arbeit. Die
+                  Seitenzahlen und Seitenumbrüche der Textvorlagen können jeweils im Menü
+                  „Annotationen“ eingeblendet oder ausgeblendet werden. Versumbrüche werden mittels
+                  Schrägstrich / dargestellt. Die Fußnoten wurden in Endnoten mit Sprungmarke
+                  umgewandelt und zum Zweck einer exakteren Zuordnung statt mit einem Asterisk *,
+                  mit fortlaufender Nummerierung ausgezeichnet. Die Überschriften der Einzelkapitel
+                  sind bis zur 7. Auflage nur im Inhaltsverzeichnis zu finden und wurden bei der
+                  Transkription von Auflage 1–7 zur leichteren Navigation eingefügt.</p>
                <p>Die Druckvorlagen von <emph>Vom Musikalisch-Schönen</emph> beinhalten divergente
                   Schriftarten, deren minutiöse Wiedergabe uns für die digitale Edition jedoch nicht
                   sinnig schien. Der deutsche Haupttext ist durchwegs in Frakturschrift gesetzt,
@@ -91,9 +91,9 @@
                   Wilfing besorgt, der die Edition im Ganzen betreute. Als Entitäten wurden in einem
                   ersten Schritt Namen, Werke und Orte erfasst, die in der Online-Edition jeweils
                   mittels des Menüs „Annotationen“ farblich markiert werden können. Im Index – wo
-                     <ref target="https://hanslick-online.github.io/hsl-app/listperson.html"
+                  <ref target="listperson.html?lang=de"
                      >Personen</ref> (wirkliche wie fiktionale) und <ref
-                     target="https://hanslick-online.github.io/hsl-app/listbibl.html">Werke</ref>
+                        target="listbibl.html?lang=de">Werke</ref>
                   zusätzlich miteinander verknüpft sind – und der Detailansicht von Annotationen
                   wurde (sofern im Einzelfall vorhanden) bei Personennamen die Schreibweise der <ref
                      target="https://lobid.org/gnd">GND</ref> genutzt, bei Ortsnamen die von <ref
@@ -103,7 +103,7 @@
                   sind also „Griechenland“ und „griechisch“ annotiert, „Griechen“ dagegen nicht, was
                   dann auch für „Gluck“ und „Piccini“, nicht aber für „Gluckisten“ und „Piccinisten“
                   (2.43) gilt. Solche Begriffe sind über die <ref
-                     target="https://hanslick-online.github.io/hsl-app/search.html"
+                     target="search.html?lang=de"
                      >Volltextsuche</ref> aber natürlich ebenfalls auffindbar. Das Logo von
                   „Hanslick Online“ wurde von Olivia Reichl erstellt. </p>
             </div>

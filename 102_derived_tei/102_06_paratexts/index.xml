@@ -33,12 +33,12 @@
             <p>Die Website „Hanslick Online“ bereitet die Schriften von Eduard Hanslick (1825–1904)
                auf, der im neunzehnten Jahrhundert als Musikästhetiker, Musikkritiker und erster
                Professor für „Geschichte und Aesthetik der Tonkunst“ im deutschen Sprachraum wirkte.
-               Sie beinhaltet Ergebnisse mehrerer Drittmittel-Projekte, in deren Rahmen Christoph
-               Landerer und Alexander Wilfing seit dem Jahr 2014 die historischen Kontexte Hanslicks
+               Sie beinhaltet Ergebnisse mehrerer Drittmittel-Projekte, in deren Rahmen <ref
+                  target="https://orcid.org/0000-0002-7568-3737">Christoph Landerer</ref> und <ref target="https://orcid.org/0000-0002-0117-3574">Alexander Wilfing</ref> seit dem Jahr 2014 die historischen Kontexte Hanslicks
                sowie seiner Schriften ausloten.</p>
             <p>Besonderes Augenmerk liegt dabei auf den zahlreichen Adaptionen, die diese Texte
-               zu Hanslicks Lebzeiten erfuhren. „Hanslick Online“ stellt diese Texte (aktuell: <ref target="https://hanslick-online.github.io/hsl-app/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?prs=off&amp;plc=off&amp;wrk=off&amp;pbs=off&amp;fs=default&amp;ff=default&amp;img=on"><emph>Vom
-                  Musikalisch-Schönen</emph></ref> und Hanslicks Kritiken für die <ref target="https://hanslick-online.github.io/hsl-app/toc.html"><emph>Neue Freie Presse</emph></ref>) nicht nur
+               zu Hanslicks Lebzeiten erfuhren. „Hanslick Online“ stellt diese Texte (Stand 2023: <ref target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=de"><emph>Vom
+                  Musikalisch-Schönen</emph></ref> und Hanslicks Kritiken für die <emph>Neue Freie Presse</emph> [aktuell in Arbeit]) nicht nur
                bereit, sondern macht ebenso direkte Vergleiche zwischen den Varianten möglich. Damit
                füllt diese Website eine Lücke der modernen Hanslick-Forschung, die die dynamische
                Entwicklung von Hanslicks Denkweise immer stärker in den Blick nimmt.</p>
@@ -53,13 +53,12 @@
                   <ref target="veranstaltungen.html">Veranstaltungen</ref>) vollständig eingesehen
                werden.</p>
             <p>Unter dem Drop-Down-Menü „Edition“ finden sich die <ref
-                  target="https://hanslick-online.github.io/hsl-app/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?prs=off&amp;plc=off&amp;wrk=off&amp;pbs=off&amp;fs=default&amp;ff=default&amp;img=on"
+               target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=de"
                   >10 Auflagen</ref> von Hanslicks Haupttext <emph>Vom Musikalisch-Schönen</emph>
                und die Option zum Vergleich zwischen beliebig gewählten Varianten mittels
-               automatisierter Kollationierung. Bis Ende 2025 werden hier auch <ref
-                  target="https://hanslick-online.github.io/hsl-app/toc.html">Hanslicks
-                  Kritiken</ref> für die <emph>Neue Freie Presse</emph> (1864–1904) mit TEI-Markup
-               publiziert. Als Schlussstein der Projektreihe ist ein FWF-Projekt geplant, das
+               automatisierter Kollationierung. Bis Ende 2025 werden hier auch Hanslicks
+                  Kritiken für die <emph>Neue Freie Presse</emph> (1864–1904) mit TEI-Markup
+               publiziert (aktuell in Arbeit). Als Schlussstein der Projektreihe ist ein FWF-Projekt geplant, das
                Hanslicks restliche Schriften als digitale Edition bereitstellt und Zusammenhänge
                zwischen selbigen sichtbar macht.</p>
             <p>„Hanslick Online“ ist ein work in progress, das zukünftig inhaltlich wie technisch
