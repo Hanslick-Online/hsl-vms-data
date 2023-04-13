@@ -1,4 +1,5 @@
-[![Build and publish](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml/badge.svg)](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml)
+[![Build and publish](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml/badge.svg)](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml) [![DOI](https://zenodo.org/badge/564263510.svg)](https://zenodo.org/badge/latestdoi/564263510)
+
 
 # Hanslick VMS 
 
