@@ -22,19 +22,19 @@ jobs:
     - name: Install Saxon and Ant
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-        ./script.sh && pip install -r requirements.txt
+        ./scripts/sh/script.sh && pip install -r requirements.txt
     - name: Build preprocess
       run: |
-        ant -f build_preprocess.xml
+        ant -f scripts/ant/build_preprocess.xml
     - name: fetch data
       run: |
-        ./fetch_data.sh
+        ./scripts/sh/fetch_data.sh
     - name: add attributes and denormalize
       run: |
-        ./attr_denorm.sh
+        ./scripts/sh/attr_denorm.sh
     - name: Build
       run: |
-        ant -f build_arche.xml
+        ant -f scripts/ant/build_arche.xml
     - name: ingestion dependencies
       run: composer require "acdh-oeaw/arche-ingest:^1"
     - name: Fetch WF-URL
