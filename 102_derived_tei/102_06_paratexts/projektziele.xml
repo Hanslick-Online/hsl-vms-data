@@ -37,13 +37,12 @@
                      target="projektgeschichte.html">Hanslick im Kontext</ref>“ entstanden ist,
                   ermöglicht Vergleiche zwischen Eduard Hanslicks Schriften: einerseits zwischen den
                   10 Auflagen seines Traktats <ref
-                     target="https://hanslick-online.github.io/hsl-app/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?prs=off&amp;plc=off&amp;wrk=off&amp;pbs=off&amp;fs=default&amp;ff=default&amp;img=on"
+                     target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=de"
                         ><emph>Vom Musikalisch-Schönen</emph></ref>, die von ihm zeitlebens
-                  publiziert wurden, andererseits zwischen Hanslicks Aufsätzen für die <ref
-                     target="https://hanslick-online.github.io/hsl-app/toc.html"><emph>Neue Freie
-                        Presse</emph></ref> und den 12 Anthologien, die Hanslick aus diesen Texten
+                  publiziert wurden, andererseits zwischen Hanslicks Aufsätzen für die <emph>Neue Freie
+                        Presse</emph> und den 12 Anthologien, die Hanslick aus diesen Texten
                   gebaut hat (dieses Feature ist aktuell in Arbeit) und die sich hier als <ref
-                     target="bedeutung-hanslick.html">Liste</ref> finden lassen . Zukünftig soll
+                     target="bedeutung-hanslick.html">Liste</ref> finden lassen (vgl. „Eduard Hanslicks Schriften“). Zukünftig soll
                   auch die Möglichkeit von automatisierten Quervergleichen zwischen dem Traktat, den
                   Kritiken und den Anthologien bereitgestellt werden, welche im Rahmen eines neuen
                   Projekts für die Bedürfnisse dieses Textkorpus zu schaffen sein wird. Hiermit
@@ -105,12 +104,18 @@
                         Hanslick oft in die Tradition der idealistischen Kunstästhetik stellt, geht
                         dabei meist von der 1. Auflage aus. Auf Englisch liegen dagegen jedoch die
                         7., 9. und 10. Auflage vor, aus denen einige idealistisch anmutende
-                        Textpassagen getilgt wurden, was etwa eine 
-                        formalistische 
-                        Interpretation
-                        begünstigt. Ein kritischer Vergleich der Auflagen erschließt demnach nicht
-                        nur die Genese des Textes selbst, sondern ebenso die Formation ganzer
-                        Diskurse und Rezeptionsmuster.</item>
+                        Textpassagen getilgt wurden, was etwa eine formalistische Interpretation
+                        begünstigt. Dies führt dazu, wie Geoffrey Payzant korrekt bemerkt, dass etwa
+                        die deutschsprachige und englischsprachige Hanslick-Forschung fundamental
+                        differieren: „When we compare the secondary literature in English about
+                        Eduard Hanslick’s <emph>Vom Musikalisch-Schönen</emph> with that in German
+                        we get the impression that commentators in German are writing about one book
+                        and commentators in English about quite another“ (<emph>Hanslick on the
+                           Musically Beautiful: Sixteen Lectures on the Musical Aesthetics of Eduard
+                           Hanslick</emph>, Christchurch: Cybereditions, 2002, 44.) Ein kritischer
+                        Vergleich der Auflagen erschließt demnach nicht nur die Genese des Textes
+                        selbst, sondern ebenso die Formation ganzer Diskurse und Rezeptionsmuster,
+                        die zukünftig ebenfalls erschlossen werden sollen.</item>
                   </list>
                </div>
             </div>
