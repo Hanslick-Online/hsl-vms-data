@@ -57,10 +57,12 @@
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
+                    <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+                    <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+                    <acdh:hasContributor rdf:resource="https://orcid.org/0000-0003-2436-0361"/>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
                 <!-- facsimiles -->
-                <!-- 
                 <xsl:for-each select=".//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -74,10 +76,10 @@
                         <acdh:isSourceOf rdf:resource="{$id}"/>
                         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                         <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                        <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc0-1-0"/>
                         <xsl:copy-of select="$constants"/>
                     </acdh:Resource>
                 </xsl:for-each>
-                -->
             </xsl:for-each>
         </rdf:RDF>
     </xsl:template>   
