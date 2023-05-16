@@ -7,24 +7,24 @@ from PIL import Image
 
 dirs = "/mnt/acdh_resources/ARCHE/staging/Hanslick_VMS_21500/Traktat/traktat-facs-high-res"
 
-# def rename_files(dirs=dirs, date="1854", path="0001", split="--"):
-#     images = glob.glob(f"{dirs}/{path}/sub/*")
-#     for idx, f in enumerate(images):
-#         fn = f.split("/")
-#         sv_dir = fn[-3]
-#         sv_dir2 = fn[-2]
-#         sv_fn = fn[-1]
-#         print(sv_dir)
-#         os.rename(f, 
-#                   os.path.join(
-#                       dirs, 
-#                       sv_dir, 
-#                       sv_dir2, 
-#                       f"vms_{date}_{sv_fn.split(split)[-1]}"
-#                     )
-#                   )
+def rename_files(dirs=dirs, date="1854", path="0001", split="--"):
+    images = glob.glob(f"{dirs}/{path}/sub/*")
+    for idx, f in enumerate(images):
+        fn = f.split("/")
+        sv_dir = fn[-3]
+        sv_dir2 = fn[-2]
+        sv_fn = fn[-1]
+        print(sv_dir)
+        os.rename(f, 
+                  os.path.join(
+                      dirs, 
+                      sv_dir, 
+                      sv_dir2, 
+                      f"vms_{date}_{sv_fn.split(split)[-1]}"
+                    )
+                  )
 
-# rename_files(dirs=dirs, date="1891", path="0008", split="-")
+rename_files(dirs=dirs, date="1891", path="0008", split="-")
 
 def yield_img_dict(images):
     for x in images:

@@ -11,7 +11,7 @@ NS = {
 
 
 files = os.path.join("data", "traktat", "editions", "t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml")
-fNames = os.path.join("/mnt/acdh_resources/ARCHE/staging/Hanslick_VMS_21500/Traktat/traktat-facs-high-res", "0006", "0006", "out.csv")
+fNames = os.path.join("/mnt/acdh_resources/ARCHE/staging/Hanslick_VMS_21500/Traktat/traktat-facs-high-res", "0006", "*_out.csv")
 
 
 def get_df(fpath=None):
@@ -38,7 +38,7 @@ def facs_to_tei(fpath=None,fnames=None):
         surface.attrib["lrx"] = str(row["width"])
         surface.attrib["lry"] = str(row["height"])
         graphic = ET.Element("{http://www.tei-c.org/ns/1.0}graphic")
-        graphic.attrib["url"] = f"https://id.acdh.oeaw.ac.at/hanslick-vms/{row['id']}.tif"
+        graphic.attrib["url"] = f"https://api.digitale-sammlungen.de/iiif/image/v2/{row['id']}"
         surface.append(graphic)
         facs.append(surface)
     root_node.insert(1, facs)
