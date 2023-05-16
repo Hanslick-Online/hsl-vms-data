@@ -27,7 +27,7 @@
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605008"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/604024"/>
-        <acdh:hasNamingScheme xml:lang="de">XML/TEI Editionsdateien sind benannt in "t_[01-10]_VMS_[1954-1902]_TEI_AW_26-01-21-TEI-P5.xml"</acdh:hasNamingScheme>
+        <acdh:hasNamingScheme xml:lang="de">XML/TEI Editionsdateien sind benannt in "t__[01-10]_VMS_[1954-1902]_TEI_AW_26-01-21-TEI-P5.xml"</acdh:hasNamingScheme>
         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active"/>
         <acdh:hasCompleteness xml:lang="de">teilweise vollständig</acdh:hasCompleteness>
         <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-fwf"/>

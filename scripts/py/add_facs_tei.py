@@ -1,11 +1,11 @@
 import os
 import glob
 
-from scripts.py.utils import facs_to_tei
+from utils import facs_to_tei
 
 
-files = sorted(glob.glob(os.path.join("102_derived_tei", "102_02_tei-simple_refactored", "07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml")))
-facs = sorted(glob.glob(os.path.join("traktat-facs", "0007", "*_out.csv")))
+files = sorted(glob.glob(os.path.join("data", "editions", "t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml")))
+facs = sorted(glob.glob(os.path.join("/mnt/acdh_resources/ARCHE/staging/Hanslick_VMS_21500/Traktat/traktat-facs-high-res", "0010", "*_out.csv")))
 
 print(files)
 print(facs)

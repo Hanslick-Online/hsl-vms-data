@@ -53,7 +53,7 @@
                     <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                     <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                     <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"><xsl:value-of select="concat(.//tei:sourceDesc//tei:date/@when, '-01-01')"/></acdh:hasIssuedDate>
-                    <acdh:hasTitle xml:lang="de"><xsl:value-of select="concat(.//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/></acdh:hasTitle>
+                    <acdh:hasTitle xml:lang="de"><xsl:value-of select="concat(.//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/></acdh:hasTitle>
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
@@ -63,23 +63,26 @@
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
                 <!-- facsimiles -->
-                <xsl:for-each select=".//tei:facsimile/tei:surface/tei:graphic">
-                    <xsl:variable name="facsId">
-                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
-                    </xsl:variable>
-                    <xsl:variable name="facsUrl">
-                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
-                    </xsl:variable>
-                    <acdh:Resource rdf:about="{$facsUrl}">
-                        <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
-                        <acdh:hasTitle xml:lang="und"><xsl:value-of select="$facsId"/></acdh:hasTitle>
-                        <acdh:isSourceOf rdf:resource="{$id}"/>
-                        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
-                        <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
-                        <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc0-1-0"/>
-                        <xsl:copy-of select="$constants"/>
-                    </acdh:Resource>
-                </xsl:for-each>
+                <xsl:if test=".//tei:facsimile">
+                    <xsl:for-each select=".//tei:facsimile/tei:surface/tei:graphic">
+                        <xsl:variable name="facsId">
+                            <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                        </xsl:variable>
+                        <xsl:variable name="facsUrl">
+                            <xsl:value-of select="concat($TopColId, '/', $facsId, '.tif')"/>
+                        </xsl:variable>
+                        <acdh:Resource rdf:about="{$facsUrl}">
+                            <acdh:hasPid>create</acdh:hasPid>
+                            <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
+                            <acdh:hasTitle xml:lang="und"><xsl:value-of select="$facsId"/></acdh:hasTitle>
+                            <acdh:isSourceOf rdf:resource="{$id}"/>
+                            <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
+                            <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                            <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc0-1-0"/>
+                            <xsl:copy-of select="$constants"/>
+                        </acdh:Resource>
+                    </xsl:for-each>
+                </xsl:if>
             </xsl:for-each>
         </rdf:RDF>
     </xsl:template>   
