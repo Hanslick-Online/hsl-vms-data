@@ -38,23 +38,23 @@
     </acdh:TopCollection>
     <acdh:Cols>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/editions">
-            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
             <acdh:hasPid>create</acdh:hasPid>
             <acdh:hasTitle xml:lang="de">Edition: Vom Musikalisch Schönen (VMS) - Auflage 1 bis 10</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">Beschreibung der Daten</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
             <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
             <acdh:hasCompleteness xml:lang="de">vollständig</acdh:hasCompleteness>
+            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
         </acdh:Collection>
         <!-- facsimiles -->
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/facs">
-            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
             <acdh:hasPid>create</acdh:hasPid>
             <acdh:hasTitle xml:lang="de">Faksimiles: Vom Musikalisch Schönen (VMS) - Auflage 1 bis 10</acdh:hasTitle>
             <acdh:hasDescription xml:lang="de">Beschreibung der Daten</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
             <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
             <acdh:hasCompleteness xml:lang="de">vollständig</acdh:hasCompleteness>
+            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
         </acdh:Collection>
     </acdh:Cols>
     <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->

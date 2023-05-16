@@ -63,18 +63,23 @@
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
                 <!-- facsimiles -->
-                <xsl:if test=".//tei:facsimile">
+                <xsl:if test=".//tei:facsimile and @xml:id != 't__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml' and @xml:id != 't__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml'">
                     <xsl:for-each select=".//tei:facsimile/tei:surface/tei:graphic">
                         <xsl:variable name="facsId">
                             <xsl:value-of select="tokenize(@url, '/')[last()]"/>
                         </xsl:variable>
                         <xsl:variable name="facsUrl">
-                            <xsl:value-of select="concat($TopColId, '/', $facsId, '.tif')"/>
+                            <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
                         </xsl:variable>
                         <acdh:Resource rdf:about="{$facsUrl}">
                             <acdh:hasPid>create</acdh:hasPid>
                             <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
-                            <acdh:hasTitle xml:lang="und"><xsl:value-of select="$facsId"/></acdh:hasTitle>
+                            <acdh:hasTitle xml:lang="und">
+                                <xsl:value-of select="concat(
+                                    'Scan der Seite ',
+                                    replace(tokenize($facsId, '_')[last()], '.tif', ''))
+                                "/>
+                            </acdh:hasTitle>
                             <acdh:isSourceOf rdf:resource="{$id}"/>
                             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                             <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
