@@ -50,11 +50,17 @@
                 <xsl:variable name="id">
                     <xsl:value-of select="concat($TopColId, '/', @xml:id)"/>
                 </xsl:variable>
+                <xsl:variable name="facs-col">
+                    <xsl:value-of select="concat($TopColId, '/facsimiles/', 'vom-musikalisch-schoenen-', .//tei:sourceDesc//tei:edition/@n, '-auflage-', .//tei:sourceDesc//tei:date/@when)"/>
+                </xsl:variable>
+                <xsl:variable name="rc-title">
+                    <xsl:value-of select="concat(.//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/>
+                </xsl:variable>
                 <acdh:Resource rdf:about="{$id}">
                     <acdh:hasPid>create</acdh:hasPid>
                     <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                     <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                    <acdh:hasTitle xml:lang="de"><xsl:value-of select="concat(.//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/></acdh:hasTitle>
+                    <acdh:hasTitle xml:lang="de">TEI/XML: <xsl:value-of select="concat(.//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/></acdh:hasTitle>
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
@@ -63,6 +69,19 @@
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0003-2436-0361"/>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
+                <acdh:Collection>
+                    <xsl:attribute name="rdf:about">
+                        <xsl:value-of select="$facs-col"/>
+                    </xsl:attribute>
+                    <acdh:hasPid>create</acdh:hasPid>
+                    <acdh:hasTitle xml:lang="de">Faksimiles: <xsl:value-of select="$rc-title"/></acdh:hasTitle>
+                    <acdh:hasDescription xml:lang="de">Beschreibung der Daten</acdh:hasDescription>
+                    <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                    <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
+                    <acdh:hasCompleteness xml:lang="de">vollständig</acdh:hasCompleteness>
+                    <acdh:isPartOf rdf:resource="{concat($TopColId, '/facsimiles')}"/>
+                    <xsl:copy-of select="$constants"/>
+                </acdh:Collection>
                 <!-- facsimiles -->
                 <xsl:if test=".//tei:facsimile and @xml:id != 't__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml' and @xml:id != 't__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml'">
                     <xsl:for-each select=".//tei:facsimile/tei:surface/tei:graphic">
@@ -74,12 +93,13 @@
                         </xsl:variable>
                         <acdh:Resource rdf:about="{$facsUrl}">
                             <acdh:hasPid>create</acdh:hasPid>
-                            <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
+                            <acdh:isPartOf rdf:resource="{$facs-col}"/>
                             <acdh:hasTitle xml:lang="und">
                                 <xsl:value-of select="concat(
-                                    'Scan der Seite ',
-                                    replace(tokenize($facsId, '_')[last()], '.tif', ''))
-                                "/>
+                                    'Digitalisat der Seite ',
+                                    replace(tokenize($facsId, '_')[last()], '.tif', ''), ' - ',
+                                    $rc-title
+                                )"/>
                             </acdh:hasTitle>
                             <acdh:isSourceOf rdf:resource="{$id}"/>
                             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
