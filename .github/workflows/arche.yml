@@ -22,7 +22,7 @@ jobs:
     - name: Install Saxon and Ant
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-        ./scripts/sh/script.sh && pip install -r requirements.txt
+        ./scripts/sh/script.sh && pip install -r scripts/py/requirements.txt
     - name: Build preprocess
       run: |
         ant -f scripts/ant/build_preprocess.xml
