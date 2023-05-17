@@ -31,15 +31,17 @@
             <xsl:for-each select=".//node()[parent::acdh:MetaAgents]">
                 <xsl:copy-of select="."/>
             </xsl:for-each>
+
             <xsl:for-each select=".//acdh:Collection">
                 <acdh:Collection>
                     <xsl:attribute name="rdf:about"><xsl:value-of select="@rdf:about"/></xsl:attribute>
                     <xsl:copy-of select="$constants"/>
-                    <xsl:for-each select=".//node()">
+                    <xsl:for-each select=".//acdh:*">
                         <xsl:copy-of select="."/>
                     </xsl:for-each>
                 </acdh:Collection>
             </xsl:for-each>
+
             <xsl:for-each select="collection('../data/editions')//tei:TEI">
                 <!--TEIs-->
                 <xsl:variable name="partOf">
