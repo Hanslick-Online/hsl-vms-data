@@ -54,7 +54,7 @@
                     <acdh:hasPid>create</acdh:hasPid>
                     <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                     <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                    <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"><xsl:value-of select="concat(.//tei:sourceDesc//tei:date/@when, '-01-01')"/></acdh:hasIssuedDate>
+                    <acdh:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"><xsl:value-of select="concat(.//tei:sourceDesc//tei:date/@when, '-01-01')"/></acdh:hasDate>
                     <acdh:hasTitle xml:lang="de"><xsl:value-of select="concat(.//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/></acdh:hasTitle>
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
@@ -82,6 +82,7 @@
                                     replace(tokenize($facsId, '_')[last()], '.tif', ''))
                                 "/>
                             </acdh:hasTitle>
+                            <acdh:hasDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"><xsl:value-of select="concat(.//tei:sourceDesc//tei:date/@when, '-01-01')"/></acdh:hasDate>
                             <acdh:isSourceOf rdf:resource="{$id}"/>
                             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                             <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
