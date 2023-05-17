@@ -35,6 +35,7 @@
             <xsl:for-each select=".//acdh:Collection">
                 <acdh:Collection>
                     <xsl:attribute name="rdf:about"><xsl:value-of select="@rdf:about"/></xsl:attribute>
+                    <acdh:hasCreator rdf:resource="http://d-nb.info/gnd/1033827401"/>
                     <xsl:copy-of select="$constants"/>
                     <xsl:for-each select=".//acdh:*">
                         <xsl:copy-of select="."/>
@@ -60,13 +61,16 @@
                     <acdh:hasPid>create</acdh:hasPid>
                     <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                     <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                    <acdh:hasTitle xml:lang="de">TEI/XML: <xsl:value-of select="concat(.//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/></acdh:hasTitle>
+                    <acdh:hasTitle xml:lang="de">
+                        <xsl:value-of select="concat('TEI/XML: ', .//tei:titleStmt/tei:title[@type='main'], ' ', .//tei:sourceDesc//tei:edition/@n, '. Auflage', ' (', .//tei:sourceDesc//tei:date/@when, ')')"/>
+                        </acdh:hasTitle>
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                     <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
                     <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0003-2436-0361"/>
+                    <acdh:hasCreator rdf:resource="http://d-nb.info/gnd/1033827401"/>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
                 
@@ -77,7 +81,10 @@
                             <xsl:value-of select="$facs-col"/>
                         </xsl:attribute>
                         <acdh:hasPid>create</acdh:hasPid>
-                        <acdh:hasTitle xml:lang="de">Faksimiles: <xsl:value-of select="$rc-title"/></acdh:hasTitle>
+                        <acdh:hasTitle xml:lang="de">
+                            <xsl:value-of select="concat('Faksimiles: ', $rc-title)"/>
+                        </acdh:hasTitle>
+                        <acdh:hasCreator rdf:resource="http://d-nb.info/gnd/1033827401"/>
                         <acdh:hasDescription xml:lang="de">Beschreibung der Daten</acdh:hasDescription>
                         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
@@ -97,11 +104,14 @@
                             <acdh:isPartOf rdf:resource="{$facs-col}"/>
                             <acdh:hasTitle xml:lang="und">
                                 <xsl:value-of select="concat(
-                                    'Digitalisat der Seite ',
-                                    replace(tokenize($facsId, '_')[last()], '.tif', ''), ' - ',
-                                    $rc-title
+                                    'Digitalisat: ',
+                                    $rc-title,
+                                    ', Seite ' ,
+                                    replace(tokenize($facsId, '_')[last()], '.tif', ''),
+                                    '.'
                                 )"/>
                             </acdh:hasTitle>
+                            <acdh:hasCreator rdf:resource="http://d-nb.info/gnd/118545825"/>
                             <acdh:isSourceOf rdf:resource="{$id}"/>
                             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                             <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
