@@ -69,21 +69,22 @@
                     <acdh:hasContributor rdf:resource="https://orcid.org/0000-0003-2436-0361"/>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
-                <acdh:Collection>
-                    <xsl:attribute name="rdf:about">
-                        <xsl:value-of select="$facs-col"/>
-                    </xsl:attribute>
-                    <acdh:hasPid>create</acdh:hasPid>
-                    <acdh:hasTitle xml:lang="de">Faksimiles: <xsl:value-of select="$rc-title"/></acdh:hasTitle>
-                    <acdh:hasDescription xml:lang="de">Beschreibung der Daten</acdh:hasDescription>
-                    <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                    <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
-                    <acdh:hasCompleteness xml:lang="de">vollständig</acdh:hasCompleteness>
-                    <acdh:isPartOf rdf:resource="{concat($TopColId, '/facsimiles')}"/>
-                    <xsl:copy-of select="$constants"/>
-                </acdh:Collection>
+                
                 <!-- facsimiles -->
                 <xsl:if test=".//tei:facsimile and @xml:id != 't__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml' and @xml:id != 't__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml'">
+                    <acdh:Collection>
+                        <xsl:attribute name="rdf:about">
+                            <xsl:value-of select="$facs-col"/>
+                        </xsl:attribute>
+                        <acdh:hasPid>create</acdh:hasPid>
+                        <acdh:hasTitle xml:lang="de">Faksimiles: <xsl:value-of select="$rc-title"/></acdh:hasTitle>
+                        <acdh:hasDescription xml:lang="de">Beschreibung der Daten</acdh:hasDescription>
+                        <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                        <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
+                        <acdh:hasCompleteness xml:lang="de">vollständig</acdh:hasCompleteness>
+                        <acdh:isPartOf rdf:resource="{concat($TopColId, '/facsimiles')}"/>
+                        <xsl:copy-of select="$constants"/>
+                    </acdh:Collection>
                     <xsl:for-each select=".//tei:facsimile/tei:surface/tei:graphic">
                         <xsl:variable name="facsId">
                             <xsl:value-of select="tokenize(@url, '/')[last()]"/>
