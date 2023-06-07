@@ -40,45 +40,45 @@
                      Aesthetics of Music</emph>), published between 1854 and 1902 in occasionally
                   revised textual versions. Whereas editions 1 to 3 (1854–1865) were published by
                   Rudolph Weigel (Leipzig), Johann Ambrosius Barth (Leipzig) produced the treatise
-                  from edition 4 onward (1874–1902). Other sources like sketches, setting copies,
-                  proof copies, etc., are not known as of today, since Hanslick’s estate has been
-                  lost during the Second World War. The printed copies thus are the only available
-                  templates for our digital edition. The articles or chapters, from which this
-                  treatise presumably originates and which were partly published in advance (see the
+                  from edition 4 onward (1874–1902). Other sources, like sketches, setting copies,
+                  proof copies, etc., are no longer known today, since Hanslick’s estate was lost
+                  during the Second World War. The printed copies are thus the only available
+                  templates for our digital edition. The articles or chapters from which this
+                  treatise presumably originates, some of which were published in advance (see the
                   first two entries under “<ref target="bedeutung-hanslick-engl.html?lang=en">Eduard
                      Hanslick’s Writings</ref>”), did not figure into this edition.</p>
                <p>The editions of the original treatise—transcribed and corrected by Meike
-                  Wilfing-Albrecht—are reproduced as faithfully as possible, the spelling is
+                  Wilfing-Albrecht—are reproduced as faithfully as possible; the spelling is
                   retained. Errors that were corrected by Hanslick himself within the editions—e.g.,
                   the change from “psychisch” (psychic) to “physisch” (physical), 2.13, from edition
                   9 onward—are also reproduced faithfully. Only evident errata (e.g., “Mnsik”
                   instead of “Musik,” 5.6, in edition 3) have been corrected without indication.
-                  Paragraphs are maintained (except for poems) and changes between editions are
+                  Paragraphs are maintained (except for in poems), and changes between editions are
                   indicated by the following markers: contraction → &amp;; subdivision → a and b;
                   addition → 3rd decimal place; deletion → number gap. A revised collation feature
                   is currently being developed. Page numbers and breaks can either be shown or
-                  masked by using the “annotations” menu. Verse breaks are indicated by using
-                  slashes /. The footnotes have been converted to endnotes with jump marks and have
-                  been numbered consecutively instead of using the original asterisks * to provide a
-                  more precise attribution. Up to edition 7, the headings of individual chapters were
-                  only displayed in the table of contents. For the purpose of manageable navigation,
-                  they were incorporated into the transcription of editions 1–7. </p>
+                  masked via the “Annotations” menu. Verse breaks are indicated by slashes /. We
+                  have converted the footnotes to endnotes with jump marks and numbered them
+                  consecutively instead of using the original asterisks * to provide a more precise
+                  attribution. Up to edition 7, the headings of individual chapters were only
+                  displayed in the table of contents. For purposes of manageable navigation, we have
+                  incorporated them into the transcription of editions 1–7.</p>
                <p>The printed copies of <emph>Vom Musikalisch-Schönen</emph> contain several fonts,
-                  the meticulous reproduction of which, however, did not seem sensible for the
-                  purpose of a digital edition. The German main text is set in Fraktur script
-                  throughout, while Latin, French, Italian, or English passages are usually produced
-                  in Latin typeface (especially prominent in the extended original French quotation
-                  in 2.43, but also, for example, in “Dr.” on the title page). Since this difference
-                  in typeface has no semantic relevance, the present edition refrains from any
-                  respective visual demarcation. Text passages formatted in bold face, however, are
-                  reproduced according to the templates (cf. 1.31). In the original, moreover,
-                  textual emphases are marked with spaced letters, which have been turned into
-                  italics for our online edition.</p>
-               <p>The music examples shown in chapters 2.19, 2.25, 2.28 (edition 1) as well as 2.19
-                  and 2.17 (editions 2–10) have been typeset anew and arranged according to the
-                  original template by our colleague Vasiliki Papadopoulou, for which we thank her
-                  sincerely. Only the bracket breaks diverge from the original, as they are only due
-                  to the smaller printing format of the respective hard copy and thus have no
+                  the meticulous reproduction of which, however, did not seem sensible for a digital
+                  edition. The German main text is set in Fraktur script throughout, while Latin,
+                  French, Italian, or English passages are usually produced in Latin typeface
+                  (especially prominent in the extended original French quotation in 2.43, but also,
+                  for example, in “Dr.” on the title page). Since this difference in typeface has no
+                  semantic relevance, the present edition refrains from any respective visual
+                  demarcation. Text passages formatted in bold face, however, are reproduced
+                  according to the templates (cf. 1.31). In the original, moreover, textual emphases
+                  are marked with spaced letters, which have been turned into italics for our online
+                  edition.</p>
+               <p>The music examples shown in chapters 2.19, 2.25 and 2.28 (edition 1), as well as
+                  2.19 and 2.17 (editions 2–10), have been typeset anew and arranged according to
+                  the original template by our colleague Vasiliki Papadopoulou, for which we thank
+                  her sincerely. Only the bracket breaks diverge from the original, as they are only
+                  due to the smaller printing format of the respective hard copy and thus have no
                   semantic validity. Hanslick probably had the musical examples set for this
                   specific purpose, but their print templates are not known either. In the example
                   of Christoph Willibald Gluck’s “Che farò” (2.27, from edition 2 onward), the
@@ -87,28 +87,26 @@
                <p>The TEI annotation of <emph>Vom Musikalisch-Schönen</emph> was provided by
                   Alexander Wilfing, who oversaw the entire edition process. In a first step, names,
                   works, and places were marked up as entities, each of which can be color-coded in
-                  the online edition by using the “annotations” menu. In the index—where <ref
+                  the online edition via the “Annotations” menu. In the index—where <ref
                      target="listperson.html?lang=en">persons</ref> (historical as well as
                   fictional) and <ref target="listbibl.html?lang=en">works</ref> are further linked
-                  with each other—and the detailed information of annotations, the spelling of the
-                     <ref target="https://lobid.org/gnd">GND</ref> data base was used for person
-                  names (if available in each case), and that of <ref
-                     target="https://www.geonames.org/">GeoNames</ref> for place names. In the case
-                  of names / places, only names / places themselves and terms which are directly
-                  related to names / places were marked, but not groups of people that have such
-                  references. For example, “Griechenland” (“Greece”) and “griechisch” (“Greek”) are
-                  annotated, “Griechen” (“Greeks”), however, are not, which then also applies to
-                  “Gluck” and “Piccini”, as opposed to “Gluckisten” (“Gluckists”) and “Piccinisten”
-                  (“Piccinists”) (2.43). Such terms can, of course, be found via <ref
-                     target="search-engl.html?lang=en">full-text search</ref>. The logo of “Hanslick
-                  Online” was designed by Olivia Reichl.</p>
+                  with each other—and the detailed information of annotations, we used the spelling
+                  of the <ref target="https://lobid.org/gnd">GND</ref> data base for person names
+                  (if available in each case) and that of <ref target="https://www.geonames.org/"
+                     >GeoNames</ref> for place names. In the case of names and places, only names
+                  and places themselves and terms directly related to them are marked, not groups of
+                  people that have such references. For example, “Griechenland” (“Greece”) and
+                  “griechisch” (“Greek”) are annotated, “Griechen” (“Greeks”), however, are not,
+                  which then also applies to “Gluck” and “Piccini”, as opposed to “Gluckisten”
+                  (“Gluckists”) and “Piccinisten” (“Piccinists”) (2.43). Such terms can of course be
+                  found via a <ref target="search-engl.html?lang=en">full-text search</ref>. The
+                  logo of “Hanslick Online” was designed by Olivia Reichl.</p>
             </div>
             <div type="sub">
                <head>How to Cite</head>
                <p>Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
-                     Ästhetik der Tonkunst</emph>, ed by Alexander Wilfing in collaboration with
-                  Meike Wilfing-Albrecht (2023), edition number, paragraph
-                  number, hyperlink. </p>
+                     Ästhetik der Tonkunst</emph>, ed. by Alexander Wilfing in collaboration with
+                  Meike Wilfing-Albrecht (2023), edition number, paragraph number, hyperlink. </p>
             </div>
          </div>
       </body>
