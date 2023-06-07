@@ -37,42 +37,42 @@
                projects, in which <ref
                   target="https://orcid.org/0000-0002-7568-3737">Christoph Landerer</ref> and <ref target="https://orcid.org/0000-0002-0117-3574">Alexander Wilfing</ref> have been exploring the
                historical contexts of Hanslick and his works since 2014.</p>
-            <p>Particular attention is paid to the numerous adaptations these texts have went
-               through during Hanslick’s lifetime. Besides making these texts (as of now, <ref
-                  target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en"
-                     ><emph>Vom Musikalisch-Schönen</emph></ref> and Hanslick’s writings for the
-                  <emph>Neue Freie
-                     Presse</emph> [in development]) publicly available, “Hanslick Online” also 
-               facilitates
-               automated 
-               comparisons between textual variants. The website thereby fills a gap in
+            <p>Particular attention is paid to the numerous adaptations these texts have gone
+               through during Hanslick’s lifetime. Besides making these texts (so far, <ref
+                  target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en"><emph>Vom
+                     Musikalisch-Schönen</emph></ref> and Hanslick’s writings for the <ref
+                        target="toc.html"><emph>Neue
+                  Freie Presse</emph></ref>) publicly available, “Hanslick Online” also facilitates
+               automated comparisons between textual variants. The website thereby fills a gap in
                Hanslick scholarship, which is currently focusing more and more on the dynamic
                evolution and fluctuation of Hanslick’s mindset.</p>
-            <p>The drop-down menu “project” gives a brief sketch of <ref
+            <p>The “Project” drop-down menu provides a brief sketch of <ref
                   target="bedeutung-hanslick-engl.html?lang=en">Hanslick’s historical
                   relevance</ref> from the nineteenth century to the present, explains the <ref
                   target="projektziele-engl.html?lang=en">intention and purpose</ref> of the present
                website, and recounts the <ref target="projektgeschichte-engl.html?lang=en">sequence
                   of research projects</ref>, the results of which led to the preparation of
-               “Hanslick Online.” The scholarly outcome of these research projects is to be viewed
-               under the subheading “activities” (<ref target="publikationen-engl.html?lang=en"
+               “Hanslick Online.” The scholarly outcome of these research projects may be viewed
+               under the “Activities” subheading (<ref target="publikationen-engl.html?lang=en"
                   >publications</ref>, <ref target="einzelvortraege-engl.html?lang=en"
                   >presentations</ref>, and <ref target="veranstaltungen-engl.html?lang=en"
                   >events</ref>).</p>
-            <p>Under the drop-down menu “edition,” you will find the <ref
-                  target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en">10 editions</ref> of
-                  <emph>Vom Musikalisch-Schönen</emph> and the option to compare between variants of
-               your choice by means of automated collation. By the end of 2025, Hanslick’s writings
-               for the <emph>Neue Freie Presse</emph> will also be published, including TEI markup
-               (in development). As a capstone of the project series, we are currently preparing a
-               closing project commenting <emph>Vom Musikalisch-Schönen</emph> and visualizing the
-               connections between Hanslick’s writings. </p>
+            <p>Under the “Edition” drop-down menu, you will find the <ref
+                  target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en">ten editions</ref> of
+                  <emph>Vom Musikalisch-Schönen</emph> and the option to compare variants of your
+               choice by means of automated collation. By the end of 2025, Hanslick’s writings for
+               the <ref
+                  target="toc.html"><emph>Neue
+                     Freie Presse</emph></ref> will also be published, including TEI markup (in
+               progress). As the culmination of the project series, we are currently preparing a
+               closing project with annotations on <emph>Vom Musikalisch-Schönen</emph> and a
+               visualization of various textual properties. </p>
             <p>“Hanslick Online” is a work in progress, which we intend to expand in terms of
-               content and digital functions in the not too distant future. If you have any
-               propositions or suggestions for optimizing the digital edition and the website, or
-               questions regarding Hanslick, the projects, and their scholarly outcome, please
-               contact us by using the contact details provided under “<ref
-                  target="team-engl.html?lang=en">team</ref>.”</p>
+               content and digital functions in the not too distant future. If you have any ideas or
+               suggestions for optimizing the digital edition and the website, or questions
+               regarding Hanslick, the projects, and their scholarly outcome, please contact us via
+               the contact details provided under “<ref target="team-engl.html?lang=en"
+               >Team</ref>.”</p>
          </div>
       </body>
   </text>
