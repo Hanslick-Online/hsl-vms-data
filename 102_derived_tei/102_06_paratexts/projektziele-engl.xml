@@ -33,91 +33,89 @@
             <head>Project Targets of “Hanslick Online”</head>
             <byline>Alexander Wilfing</byline>
             <div type="block">
-               <p>The website “Hanslick Online”, which directly emerged from the long-term research
-                  project “<ref target="projektgeschichte-engl.html">Hanslick in Context</ref>”,
+               <p>The website “Hanslick Online,” which emerged directly from the long-term research
+                  project “<ref target="projektgeschichte-engl.html">Hanslick in Context</ref>,”
                   enables comparisons between different items of Eduard Hanslick’s writings: on the
-                  one hand between the 10 editions of his central treatise <ref
-                     target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en"
-                        ><emph>Vom Musikalisch-Schönen</emph></ref> edited during Hanslick’s
-                  lifetime, on the other hand between Hanslick’s writings for the <emph>Neue Freie
-                        Presse</emph> and the 12 anthologies Hanslick constructed from these
-                  texts (this feature is currently being developed), which are to be found in <ref
-                     target="bedeutung-hanslick-engl.html">this list</ref> (see “Eduard Hanslick’s Writings”). In the not too distant
-                  future, “Hanslick Online” will also provide an automated collation between the
-                  treatise, the reviews, and the anthologies, the preparation of which will have to
-                  be funded within the framework of a further research project adjusted towards the
-                  needs of this specific textual corpus. “Hanslick Online” thereby responds to
-                  several concrete problems of Hanslick research and thus also sets a number of
-                  goals: </p>
+                  one hand between the ten editions of his central treatise <ref
+                     target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en"><emph>Vom
+                        Musikalisch-Schönen</emph></ref> edited during his lifetime, on the other
+                  hand between his writings for the <emph>Neue Freie Presse</emph> and the 12
+                  anthologies he constructed from these texts (this feature is currently being
+                  developed), which may be found in <ref target="bedeutung-hanslick-engl.html">this
+                     list</ref> (see “Eduard Hanslick’s Writings”). In the not too distant future,
+                  “Hanslick Online” will also provide an automated collation between the treatise,
+                  the reviews, and the anthologies, the preparation of which will have to be funded
+                  within the framework of a further research project aligned with the needs of this
+                  specific textual corpus. “Hanslick Online” thereby responds to several concrete
+                  problems of Hanslick research and thus also sets a number of goals: </p>
                <div type="block">
                   <list type="bibl">
-                     <item>Since Hanslick’s estate has been lost during the Second World War, no
-                        manuscripts, drafts, or sketches of his works are known (as of today). The
-                        prints we edited and present here thus make up the primary sources of
+                     <item>Since Hanslick’s estate was lost during the Second World War, no
+                        manuscripts, drafts, or sketches of his works are known (until today). The
+                        prints we edited and present here thus make up the primary sources for
                         Hanslick research. They are now accessible to each user as a digital edition
                         with TEI markup and full-text search and should establish themselves as a
-                        standard resource of Hanslick studies and beyond.</item>
+                        standard resource for Hanslick studies and beyond.</item>
                      <item>Apart from Dietmar Strauß’s historical-critical edition of Hanslick’s
                         writings, which he managed to continue until reaching the year 1865
-                        (1993-2001), his reviews have chiefly remained familiar as part of his own
+                        (1993–2001), his reviews have chiefly remained familiar as part of his own
                         and other people’s collected volumes. With its nearly 900 original reviews,
                         “Hanslick Online” thereby provides an improved overview of the broader
                         spectrum of Hanslick’s activity as a music critic. </item>
                      <item>Hanslick revised <emph>Vom Musikalisch-Schönen</emph> many a time for
-                        biographic, political, and content-related reasons. “Hanslick Online” marks
-                        these changes visually and facilitates comparisons of paragraphs from
-                        individual or all ten edition across the board, making it easier for us to reconstruct
-                        the development of this book and to systematically contextualize the
-                        occurrent revisions. </item>
+                        biographical, political, and content-related reasons. “Hanslick Online”
+                        marks these changes visually and facilitates comparisons of paragraphs from
+                        individual or all ten editions, making it easier to reconstruct the
+                        development of this book and to systematically contextualize the various
+                        revisions. </item>
                      <item>Previous Hanslick research has frequently attempted to get to
                            <emph>the</emph> heart of Hanslick’s aesthetic conception, and in doing
                         so often blurred the tension between specific editions. “Hanslick in
                         Context,” in contrast, reflects the <emph>dynamics</emph> of Hanslick’s
-                        position(s), the variation and evolution of which between editions becomes
-                        truly tangible for the first time by means of “Hanslick Online.” </item>
-                     <item>Comparisons between his aesthetic treatise and later texts also is of
-                        importance concerning the dynamics of Hanslick’s positions. The full-text
-                        search allows for a largely complete overview of cardinal concepts as well
-                        as their function and purpose in Hanslick’s views on music, which are to be
+                        position(s), the variation and evolution of which becomes truly tangible for
+                        the first time by means of “Hanslick Online.” </item>
+                     <item>Comparisons between his aesthetic treatise and later texts is also of
+                        importance for the dynamics of Hanslick’s positions. The full-text search
+                        allows for a largely complete overview of cardinal concepts as well as their
+                        function and purpose in Hanslick’s views on music, which are to be
                         scrutinized for coherences, differences, alterations, and developments
                         beyond <emph>Vom Musikalisch-Schönen</emph>.</item>
-                     <item>Hanslick more than once used his own textual material on different
-                        occasions: for example, he adopted passages from earlier reviews in
-                           <emph>Vom Musikalisch-Schönen</emph>, and incorporated textual material
+                     <item>Hanslick more than once used his own textual material on several
+                        different occasions: for example, he adopted passages from earlier reviews
+                        in <emph>Vom Musikalisch-Schönen</emph> and incorporated textual material
                         from other books and articles in ensuing editions. As Hanslick only very
                         rarely reveals such passages as quotations, “Hanslick Online” will help in
                         detecting hitherto uncharted transfers between writings.</item>
                      <item>This point applies above all to his anthologies, which Hanslick compiled
                         from reviews, reports, and essays that had already been printed. On
-                        occasion, Hanslick even merged several reviews of any given piece into a
-                        book chapter, or moved and included specific passages of an essay he did not
+                        occasion, Hanslick even merged several reviews of the same piece into a book
+                        chapter or moved and included specific passages of an essay he did not
                         integrate. In these cases, which can hardly be detected manually, a
                         mechanical text comparison will ease respective research endeavors.</item>
                      <item>For Hanslick, moreover, his anthologies presented scholarly publications,
-                        an “aesthetic statistics” of the Viennese music scene of his era.
-                        Investigating the criteria by which he chose to select and revise certain
-                        articles for the anthologies at the expense of others, based on collation
-                        features provided by “Hanslick Online,” will thus also provide insights into
+                        an “aesthetic statistics” of the Viennese music scene of his era. An
+                        investigation of the criteria by which he chose to select and revise certain
+                        articles for the anthologies at the expense of others using the collation
+                        features provided by “Hanslick Online” will thus also provide insights into
                         Hanslick's concept of musical aesthetics and historiography.</item>
                      <item>Finally, any reading of Hanslick’s aesthetics is at least indirectly
-                        determined by the specific edition of <emph>Vom
-                        Musikalisch-Schönen</emph>used in each case. German-language Hanslick
-                        research, which often places him in the tradition of idealistic aesthetics,
-                        usually takes edition 1 as its hermeneutic foundation. By comparison,
-                        editions 7, 9, and 10—from which some idealist passages have been removed by
-                        Hanslick—are available in English rendition, which feeds into a more
-                        formalist reading. This, as Geoffrey Payzant observes astutely, also leads
-                        to fundamental differences in German-language and English-language Hanslick
-                        research: “When we compare the secondary literature in English about Eduard
-                        Hanslick’s <emph>Vom Musikalisch-Schönen</emph> with that in German we get
-                        the impression that commentators in German are writing about one book and
-                        commentators in English about quite another” (<emph>Hanslick on the
-                           Musically Beautiful: Sixteen Lectures on the Musical Aesthetics of Eduard
-                           Hanslick</emph>, Christchurch: Cybereditions, 2002, 44.) An exhaustive
-                        comparison of between editions thus reveals not only the genesis of this
-                        book itself, but also the formation of surrounding discourses and patterns
-                        of reception, which are to be explored as part of future research
-                        projects.</item>
+                        determined by the specific edition of <emph>Vom Musikalisch-Schönen</emph>
+                        used in each case. German-language Hanslick research, which often situates
+                        him in the tradition of idealistic aesthetics, usually takes edition 1 as
+                        its hermeneutic foundation. By comparison, editions 7, 9, and 10—from which
+                        Hanslick removed some idealist passages—are available in English rendition,
+                        which feeds into a more formalist reading. This, as Geoffrey Payzant
+                        observes astutely, also leads to fundamental differences in German-language
+                        and English-language Hanslick research: “When we compare the secondary
+                        literature in English about Eduard Hanslick’s <emph>Vom
+                           Musikalisch-Schönen</emph> with that in German we get the impression that
+                        commentators in German are writing about one book and commentators in
+                        English about quite another” (<emph>Hanslick on the Musically Beautiful:
+                           Sixteen Lectures on the Musical Aesthetics of Eduard Hanslick</emph>,
+                        Christchurch: Cybereditions, 2002, 44.) An exhaustive comparison of editions
+                        thus reveals not only the genesis of this book itself but also the formation
+                        of surrounding discourses and patterns of reception, which are to be
+                        explored as part of future research projects.</item>
                   </list>
                </div>
             </div>
