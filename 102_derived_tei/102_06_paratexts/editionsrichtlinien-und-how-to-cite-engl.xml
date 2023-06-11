@@ -31,9 +31,10 @@
      <body xml:lang="en-US">
          <div type="main">
             <head>Editorial Conventions and How to Cite</head>
-            <byline>Alexander Wilfing and Meike Wilfing-Albrecht</byline>
             <div type="sub">
-               <head>Editorial Conventions</head>
+               <head>Editorial Conventions (<hi rend="italic">On the Musically
+                  Beautiful</hi>)</head>
+               <byline>Alexander Wilfing and Meike Wilfing-Albrecht</byline>
                <p>This edition is based on the ten editions of Eduard Hanslick’s treatise <emph>Vom
                      Musikalisch-Schönen: Ein Beitrag zur Revision der Ästhetik der Tonkunst</emph>
                      (<emph>On the Musically Beautiful: A Contribution towards the Revision of the
@@ -74,16 +75,19 @@
                   according to the templates (cf. 1.31). In the original, moreover, textual emphases
                   are marked with spaced letters, which have been turned into italics for our online
                   edition.</p>
-               <p>The music examples shown in chapters 2.19, 2.25 and 2.28 (edition 1), as well as
-                  2.19 and 2.17 (editions 2–10), have been typeset anew and arranged according to
-                  the original template by our colleague Vasiliki Papadopoulou, for which we thank
-                  her sincerely. Only the bracket breaks diverge from the original, as they are only
-                  due to the smaller printing format of the respective hard copy and thus have no
-                  semantic validity. Hanslick probably had the musical examples set for this
-                  specific purpose, but their print templates are not known either. In the example
-                  of Christoph Willibald Gluck’s “Che farò” (2.27, from edition 2 onward), the
-                  deviations in syllable division between editions are not indicated separately.
-                  These can be checked against the respective facsimile reproduction. </p>
+               <p>Whereas the facsimiles of editions 1 and 4–10 were digitized and prepared by
+                  Alexander Wilfing and Mehmet Emir, the <ref target="https://www.digitale-sammlungen.de/de">MDZ</ref> provides premium digital copies of
+                  editions 2 and 3. The music examples shown in chapters 2.19, 2.25 and 2.28
+                  (edition 1), as well as 2.19 and 2.17 (editions 2–10), have been typeset anew and
+                  arranged according to the original template by our colleague Vasiliki
+                  Papadopoulou, for which we thank her sincerely. Only the bracket breaks diverge
+                  from the original, as they are only due to the smaller printing format of the
+                  respective hard copy and thus have no semantic validity. Hanslick probably had the
+                  musical examples set for this specific purpose, but their print templates are not
+                  known either. In the example of Christoph Willibald Gluck’s “Che farò” (2.27, from
+                  edition 2 onward), the deviations in syllable division between editions are not
+                  indicated separately. These can be checked against the respective facsimile
+                  reproduction. </p>
                <p>The TEI annotation of <emph>Vom Musikalisch-Schönen</emph> was provided by
                   Alexander Wilfing, who oversaw the entire edition process. In a first step, names,
                   works, and places were marked up as entities, each of which can be color-coded in
@@ -100,13 +104,63 @@
                   which then also applies to “Gluck” and “Piccini”, as opposed to “Gluckisten”
                   (“Gluckists”) and “Piccinisten” (“Piccinists”) (2.43). Such terms can of course be
                   found via a <ref target="search-engl.html?lang=en">full-text search</ref>. The
-                  logo of “Hanslick Online” was designed by Olivia Reichl.</p>
+                  logo of “Hanslick Online” was designed by Olivia Reichl. David Heyde proofread the
+                  English version of explanatory texts.</p>
             </div>
             <div type="sub">
-               <head>How to Cite</head>
+               <head>How to Cite (<hi rend="italic">On the Musically Beautiful</hi>)</head>
                <p>Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
                      Ästhetik der Tonkunst</emph>, ed. by Alexander Wilfing in collaboration with
                   Meike Wilfing-Albrecht (2023), edition number, paragraph number, hyperlink. </p>
+            </div>
+            <div type="sub">
+               <head>Editorial Conventions (Hanslick’s Writings for the <hi rend="italic">Neue Freie
+                     Presse</hi>)</head>
+               <byline>Alexander Wilfing</byline>
+               <p>The guidelines for the current edition of Hanslick’s writings for the <hi
+                     rend="italic">Neue Freie Presse</hi> for the most part match those specified
+                  for his aesthetic treatise. They thus will only be defined insofar as they differ
+                  from the principles explicated above. For now, the edition is based on Hanslick’s
+                  extensive feuilletons clearly marked by the initials “Ed. H.” from 1864 onward,
+                  the founding year of <hi rend="italic">Neue Freie Presse</hi>, to 1904, the year
+                  of his death. Other music-related writings contained in <hi rend="italic">Neue
+                     Freie Presse</hi> will then follow, provided Hanslick can be reasonably
+                  considered to have authored them. Alexander Wilfing compiled a register of these
+                  texts in 2011 as part of Christoph Landerer’s research project “Nietzsche’s
+                  Reception of Hanslick” via <ref target="https://anno.onb.ac.at/">ANNO</ref>. The
+                  digital copies we use are also obtained from ANNO (Austrian Newspaper Online) and
+                  transcribed, proofread, and partially annotated with the help of <ref
+                     target="https://readcoop.eu/de/transkribus/">Transkribus</ref>. Formatting and
+                  editorial finishing touches are performed via the XML editor <ref
+                     target="https://www.oxygenxml.com/">Oxygen</ref>. Information pertaining to
+                  named entities is integrated and cross-linked via a custom <ref
+                     target="https://baserow.io/">Baserow</ref> database. For purely pragmatic
+                  reasons, the editors proceed in ascending and descending order as regards
+                  chronology.</p>
+               <p>The guidelines for markup and textual layout mirror those of the treatise except
+                  for three issues: (1) Footnotes are indicated by asterisks * according to the
+                  original template, since they occur only rarely and, compared to <hi rend="italic"
+                     >On the Musically Beautiful</hi>, as part of shorter essays. (2) Ambiguous
+                  indications of works—as in the case of, for example, Schubert’s “A-Moll-Sonate”
+                  (Sonata in A minor), which Hanslick mentions on December 1, 1864, without further
+                  clarification of which piano sonata he is currently speaking (D537, D784, or
+                  D845)—are indicated by including multiple references to the options in question.
+                  (3) On occasion, named entities might include more than one title: (a) a main
+                  title, which in the case of an actual person corresponds to the standard GND
+                  spelling and in the case of fictional characters, works, and places matches the
+                  spelling of their respective native language (rendered in Latin letters); (b) an
+                  alternative title reflecting the spelling(s) and name(s) utilized by Hanslick.
+                  This way, users can successfully search the index for, for example, Niccolò
+                  Piccinni, whom Hanslick at times spells “Picinni” and “Piccini,” or Offenbachs <hi
+                     rend="italic">Les Géorgiennes</hi>, which he names “Die Georgierinnern,” “Die
+                  schönen Georgierinnen,” and “Die schönen Weiber von Georgien,” respectively.</p>            
+            </div>
+            <div type="sub">
+               <head>How to Cite (Hanslick’s Writings for the <hi rend="italic">Neue Freie
+                     Presse</hi>)</head>
+               <p>Eduard Hanslick, “Title: Subtitle,” in <emph>Neue Freie Presse</emph>, No. / Date,
+                  ed. by Alexander Wilfing in collaboration with Katharina Bamer and Anna-Maria
+                  Pfiel (2023), hyperlink. </p>
             </div>
          </div>
       </body>
