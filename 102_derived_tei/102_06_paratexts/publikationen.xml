@@ -31,13 +31,22 @@
       <body xml:lang="de-AT">
          <div type="main">
             <head>Publikationen</head>
-            <byline>31.03.2023</byline>
+            <byline>18.07.2023</byline>
             <div type="block">
                <head>Bücher / Bände</head>
                <list type="bibl">
+                  <item>2023–heute. Eduard Hanslick, <hi rend="italic">Schriften für die “Neue Freie
+                        Presse,” 1864–1904</hi>, hrsg. von Alexander Wilfing unter Mitarbeit von
+                     Katharina Bamer, Anna-Maria Pfiel und Daniel Elsner. Open Access Edition mit
+                     TEI-Markup (31 Texte, Stand 13.06.2022). <ref
+                        target="https://hanslick.acdh.oeaw.ac.at/toc.html"
+                        >https://hanslick.acdh.oeaw.ac.at/toc.html</ref>.</item>
                   <item>2023. Eduard Hanslick, <hi rend="italic">Vom Musikalisch-Schönen: Ein
                         Beitrag zur Revision der Ästhetik der Tonkunst</hi>, hrsg. von Alexander
-                     Wilfing unter Mitarbeit von Meike Wilfing-Albrecht, <ref target="https://hanslick.acdh.oeaw.ac.at/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html"
+                     Wilfing unter Mitarbeit von Meike Wilfing-Albrecht und Daniel Elsner. Open
+                     Access Edition aller 10 Auflagen, 1854–1902 mit TEI-Markup und automatisierter
+                     Kollationierung. <ref
+                        target="https://hanslick.acdh.oeaw.ac.at/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html"
                         >https://hanslick.acdh.oeaw.ac.at/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html</ref>.</item>
                   <item>2022–heute. Coelsch-Foinser, Sabine, Meike Wilfing-Albrecht und Alexander
                      Wilfing, Hgg. „Production Archives 02: Production Contexts.“ Special issue,

@@ -31,13 +31,21 @@
       <body xml:lang="en-US">
          <div type="main">
             <head>Publications</head>
-            <byline>March 31, 2023</byline>
+            <byline>July 18, 2023</byline>
             <div type="block">
                <head>Books</head>
                <list type="bibl">
+                  <item>2023–ongoing. Eduard Hanslick, <hi rend="italic">Schriften für die “Neue
+                        Freie Presse,” 1864–1904</hi>, ed. by Alexander Wilfing in collaboration
+                     with Katharina Bamer, Anna-Maria Pfiel, and Daniel Elsner. Open access edition,
+                     including TEI markup (31 items as of June 13, 2022). <ref
+                        target="https://hanslick.acdh.oeaw.ac.at/toc.html"
+                        >https://hanslick.acdh.oeaw.ac.at/toc.html</ref>.</item>
                   <item>2023. Eduard Hanslick, <hi rend="italic">Vom Musikalisch-Schönen: Ein
                         Beitrag zur Revision der Ästhetik der Tonkunst</hi>, ed. by Alexander
-                     Wilfing in collaboration with Meike Wilfing-Albrecht, <ref
+                     Wilfing in collaboration with Meike Wilfing-Albrecht and Daniel Elsner. Open
+                     access edition of all ten editions, 1854–1902, including TEI markup and
+                     automated paragraph collation <ref
                         target="https://hanslick.acdh.oeaw.ac.at/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html"
                         >https://hanslick.acdh.oeaw.ac.at/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html</ref>.</item>
                   <item>2022–ongoing. Coelsch-Foinser, Sabine, Meike Wilfing-Albrecht, and Alexander
