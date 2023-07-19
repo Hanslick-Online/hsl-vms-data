@@ -9,3 +9,4 @@ __pycache__
 /data/editions
 /data/indices
 /arche/arche.rdf
+*.ttl
