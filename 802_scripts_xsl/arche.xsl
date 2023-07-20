@@ -141,6 +141,64 @@
                     </xsl:for-each>
                 </xsl:if>
             </xsl:for-each>
+            <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/logo_font_blau.svg">
+                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen Logo</acdh:hasTitle>
+                <acdh:hasPid>create</acdh:hasPid>
+                <acdh:hasIdentifier rdf:resorce="https://id.acdh.oeaw.ac.at/main-title-logo-hanslick"/>
+                <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+                <acdh:hasContact rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+                <acdh:hasDepositor rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+                <acdh:hasMetadataCreator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+                <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
+                <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+                <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
+                <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
+                <acdh:hasFormat>image/svg</acdh:hasFormat>
+                <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
+                <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
+                <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/oreichl"/>
+            </acdh:Resource>
+            <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.odd">
+                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/editions"/>
+                <acdh:hasTitle xml:lang="de">TEI/XML Schema ODD für "Vom Musikalisch-Schönen"</acdh:hasTitle>
+                <acdh:hasDescription xml:lang="de">TEI/XML Schema ODD für "Vom Musikalisch-Schönen"</acdh:hasDescription>
+                <acdh:hasPid>create</acdh:hasPid>
+                <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+                <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+                <acdh:hasDepositor rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+                <acdh:hasMetadataCreator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+                <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
+                <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+                <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
+                <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
+                <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-19</acdh:hasCreatedStartDate>
+                <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-20</acdh:hasCreatedEndDate>
+                <acdh:isMetadataFor rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/editions"/>
+                <acdh:hasCreator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+            </acdh:Metadata>
+            <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.rng">
+                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/editions"/>
+                <acdh:hasTitle xml:lang="de">TEI/XML Schema RNG für "Vom Musikalisch-Schönen"</acdh:hasTitle>
+                <acdh:hasDescription xml:lang="de">TEI/XML Schema RNG für "Vom Musikalisch-Schönen"</acdh:hasDescription>
+                <acdh:hasPid>create</acdh:hasPid>
+                <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+                <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+                <acdh:hasDepositor rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+                <acdh:hasMetadataCreator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+                <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
+                <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
+                <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
+                <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
+                <acdh:hasCreatedStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-19</acdh:hasCreatedStartDate>
+                <acdh:hasCreatedEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-07-20</acdh:hasCreatedEndDate>
+                <acdh:isMetadataFor rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/editions"/>
+                <acdh:hasCreator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+            </acdh:Metadata>
         </rdf:RDF>
     </xsl:template>   
 </xsl:stylesheet>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../data/meta/out/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms"
      xml:id="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml"
@@ -22,7 +23,7 @@
                <persName ref="https://orcid.org/0000-0003-2436-0361" xml:id="ds">Daniel
                   Schopper</persName>
                <persName ref="https://orcid.org/0000-0002-0636-4476" xml:id="dst">Daniel
-                  Stoxreiter</persName>
+                  Elsner</persName>
             </respStmt>
             <respStmt>
                <resp>text annotation and document finalization</resp>

@@ -16,6 +16,8 @@ jobs:
       OUTPUT_DIR: arche
       DATA_DIR: data/editions
       META_DIR: data/meta
+      INDICES_DIR: data/indices
+      IMG_DIR: data/img
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v3
@@ -48,7 +50,10 @@ jobs:
       run: |
         mkdir $PWD/to_ingest
         find -path "./${DATA_DIR}/*.xml" -exec cp -prv '{}' './to_ingest' ';'
-        # find -path "./${META_DIR}/*.xml" -exec cp -prv '{}' './to_ingest' ';'
+        find -path "./${INDICES_DIR}/*.xml" -exec cp -prv '{}' './to_ingest' ';'
+        find -path "./${META_DIR}/*.odd" -exec cp -prv '{}' './to_ingest' ';'
+        find -path "./${META_DIR}/out/*.rng" -exec cp -prv '{}' './to_ingest' ';'
+        find -path "./${IMG_DIR}/*.svg" -exec cp -prv '{}' './to_ingest' ';'
     - name: cache AV database
       id: avdb
       uses: actions/cache@v3
