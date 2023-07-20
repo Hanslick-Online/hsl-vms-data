@@ -107,6 +107,7 @@
                         </acdh:hasTitle>
                         <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                         <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                        <acdh:hasDigitisingAgent rdf:resource="https://id.acdh.oeaw.ac.at/memir"/>
                         <acdh:hasDescription xml:lang="de"><xsl:value-of select="concat('Digitale Edition der 10 Auflagen (1854–1902) von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst“, der sich mit dem Wesen der Musik, dem Verhältnis von Musik und Gefühl, aber auch der psychologischen und physiologischen Verarbeitung von Musik im Hörer befasst. Die Auflage ', .//tei:sourceDesc//tei:edition/@n, ' wurde digitalisiert und als Faksimiles im TIF-Format gespeichert.')"/></acdh:hasDescription>
                         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
@@ -135,6 +136,7 @@
                             <acdh:isSourceOf rdf:resource="{$id}"/>
                             <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                             <acdh:hasDigitisingAgent rdf:resource="http://d-nb.info/gnd/1033827401"/>
+                            <acdh:hasDigitisingAgent rdf:resource="https://id.acdh.oeaw.ac.at/memir"/>
                             <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc0-1-0"/>
                             <xsl:copy-of select="$constantsImg"/>
                         </acdh:Resource>
