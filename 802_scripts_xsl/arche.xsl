@@ -162,6 +162,7 @@
                 <acdh:isTitleImageOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
                 <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                 <acdh:hasCreator rdf:resource="https://id.acdh.oeaw.ac.at/oreichl"/>
+                <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-ma7"/>
             </acdh:Resource>
             <acdh:Metadata rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.odd">
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/editions"/>
