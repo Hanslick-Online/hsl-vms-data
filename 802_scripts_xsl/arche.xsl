@@ -145,7 +145,7 @@
             </xsl:for-each>
             <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/logo_font_blau.svg">
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
-                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen Logo</acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Hanslick Online Logo</acdh:hasTitle>
                 <acdh:hasPid>create</acdh:hasPid>
                 <acdh:hasIdentifier rdf:resorce="https://id.acdh.oeaw.ac.at/main-title-logo-hanslick"/>
                 <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>

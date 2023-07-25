@@ -6,7 +6,7 @@
     </acdh:Constanst>
     <acdh:TopCollection rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms">
         <acdh:hasPid>create</acdh:hasPid>
-        <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Dynamische Aspekte des Texts und der Kontexte</acdh:hasTitle>
+        <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Ästhetik der Tonkunst</acdh:hasTitle>
         <acdh:hasDescription xml:lang="de">Digitale Edition der 10 Auflagen (1854–1902) von Eduard Hanslicks Traktat „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst“, der sich mit dem Wesen der Musik, dem Verhältnis von Musik und Gefühl, aber auch der psychologischen und physiologischen Verarbeitung von Musik im Hörer befasst. Die 10 Auflagen wurden als XML/TEI-Dateien ediert und die Möglichkeit eines automatischen Auflagenvergleichs implementiert. Sie enthalten den Traktat selbst, annotierte Entitäten (Personen, Werke, Orte) und werden durch Faksimiles im TIF-Format ergänzt.</acdh:hasDescription>
         <acdh:hasContact rdf:resource="http://d-nb.info/gnd/1033827401"/>
         <acdh:hasCreator rdf:resource="http://d-nb.info/gnd/1033827401"/>
