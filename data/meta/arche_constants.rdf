@@ -71,10 +71,10 @@
             <acdh:hasTitle xml:lang="und">Kulturabteilung MA 7</acdh:hasTitle>
             <acdh:hasEmail>post@ma07.wien.gv.at</acdh:hasEmail>
             <acdh:hasAddressLine1>Friedrich-Schmidt-Platz 5</acdh:hasAddressLine1>
-            <acdh:hasCity>Vienna</acdh:hasCity>
-            <acdh:hasCountry>Austria</acdh:hasCountry>
+            <acdh:hasCity xml:lang="en">Vienna</acdh:hasCity>
+            <acdh:hasCountry xml:lang="en">Austria</acdh:hasCountry>
             <acdh:hasPostcode>1080</acdh:hasPostcode>
-            <acdh:hasRegion>Vienna</acdh:hasRegion>
+            <acdh:hasRegion xml:lang="en">Vienna</acdh:hasRegion>
             <acdh:hasUrl>https://www.wien.gv.at/</acdh:hasUrl>
         </acdh:Organisation>
         <acdh:Person rdf:about="https://orcid.org/0000-0002-0636-4476">
