@@ -201,7 +201,7 @@
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598670-4</acdh:hasNonLinkedIdentifier>
                 <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml"/>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1874">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1874">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -224,7 +224,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1876">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1876">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -247,7 +247,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1881">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1881">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -270,7 +270,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1885">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1885">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -293,7 +293,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1891">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1891">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -316,7 +316,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1896">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1896">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -339,7 +339,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1902">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1902">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
