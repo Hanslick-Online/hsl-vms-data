@@ -150,13 +150,12 @@
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasIssuedDate>
-                <acdh:hasPages xml:lang="de">110 Seiten</acdh:hasPages>
+                <acdh:hasPages xml:lang="de">112 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Rudolph Weigel
+                    Rudolph Weigel
                 </acdh:hasPublisher>
-                <acdh:hasUrl>https://archive.org/details/VomMusikalischSchnen1tea1854</acdh:hasUrl>
-                <acdh:hasNonLinkedIdentifier>ark:/13960/t6058w582</acdh:hasNonLinkedIdentifier>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -176,8 +175,9 @@
                 <acdh:hasPages xml:lang="de">118 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Rudolph Weigel
+                    Rudolph Weigel
                 </acdh:hasPublisher>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598668</acdh:hasUrl>
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598668-3</acdh:hasNonLinkedIdentifier>
                 <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml"/>
@@ -191,8 +191,9 @@
                 <acdh:hasPages xml:lang="de">140 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Rudolph Weigel
+                    Rudolph Weigel
                 </acdh:hasPublisher>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598670</acdh:hasUrl>
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598670-4</acdh:hasNonLinkedIdentifier>
                 <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml"/>
@@ -206,9 +207,9 @@
                 <acdh:hasPages xml:lang="de">138 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Johann Ambrosius Barth
+                    Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasUrl>https://books.google.co.uk/books?id=x6y6ZcYzYpsC</acdh:hasUrl>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -228,9 +229,9 @@
                 <acdh:hasPages xml:lang="de">138 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Johann Ambrosius Barth
+                    Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasUrl>https://books.google.co.uk/books?id=xP0I3i3ALK4C</acdh:hasUrl>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -250,8 +251,9 @@
                 <acdh:hasPages xml:lang="de">198 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Johann Ambrosius Barth
+                    Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -271,8 +273,9 @@
                 <acdh:hasPages xml:lang="de">201 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Johann Ambrosius Barth
+                    Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -292,8 +295,9 @@
                 <acdh:hasPages xml:lang="de">201 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Johann Ambrosius Barth
+                    Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -313,8 +317,9 @@
                 <acdh:hasPages xml:lang="de">238 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Johann Ambrosius Barth
+                    Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -334,8 +339,9 @@
                 <acdh:hasPages xml:lang="de">232 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                 <acdh:hasPublisher xml:lang="de">
-                    Leipzig: Johann Ambrosius Barth
+                    Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
