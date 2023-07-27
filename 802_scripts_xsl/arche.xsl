@@ -112,6 +112,7 @@
                         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/completed"/>
                         <acdh:isPartOf rdf:resource="{concat($TopColId, '/facsimiles')}"/>
+                        <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc0-1-0"/>
                         <xsl:copy-of select="$constantsImg"/>
                     </acdh:Collection>
                     <xsl:for-each select=".//tei:facsimile/tei:surface/tei:graphic">
@@ -143,6 +144,208 @@
                     </xsl:for-each>
                 </xsl:if>
             </xsl:for-each>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1854">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (1. Auflage 1854)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">110 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Rudolph Weigel
+                </acdh:hasPublisher>
+                <acdh:hasUrl>https://archive.org/details/VomMusikalischSchnen1tea1854</acdh:hasUrl>
+                <acdh:hasNonLinkedIdentifier>ark:/13960/t6058w582</acdh:hasNonLinkedIdentifier>
+                <xsl:for-each select="document('../data/editions/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1858">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (2. Auflage 1858)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1858-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">118 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Rudolph Weigel
+                </acdh:hasPublisher>
+                <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598668</acdh:hasUrl>
+                <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598668-3</acdh:hasNonLinkedIdentifier>
+                <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml"/>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1865">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (3. Auflage 1865)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">140 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Rudolph Weigel
+                </acdh:hasPublisher>
+                <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598670</acdh:hasUrl>
+                <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598670-4</acdh:hasNonLinkedIdentifier>
+                <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml"/>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1874">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (4. Auflage 1874)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">138 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Johann Ambrosius Barth
+                </acdh:hasPublisher>
+                <acdh:hasUrl>https://books.google.co.uk/books?id=x6y6ZcYzYpsC</acdh:hasUrl>
+                <xsl:for-each select="document('../data/editions/t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1876">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (5. Auflage 1876)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1876-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">138 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Johann Ambrosius Barth
+                </acdh:hasPublisher>
+                <acdh:hasUrl>https://books.google.co.uk/books?id=xP0I3i3ALK4C</acdh:hasUrl>
+                <xsl:for-each select="document('../data/editions/t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1881">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (6. Auflage 1881)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">198 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Johann Ambrosius Barth
+                </acdh:hasPublisher>
+                <xsl:for-each select="document('../data/editions/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1885">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (7. Auflage 1885)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">201 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Johann Ambrosius Barth
+                </acdh:hasPublisher>
+                <xsl:for-each select="document('../data/editions/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1891">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (8. Auflage 1891)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1891-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">201 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Johann Ambrosius Barth
+                </acdh:hasPublisher>
+                <xsl:for-each select="document('../data/editions/t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1896">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (9. Auflage 1896)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1896-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">238 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Johann Ambrosius Barth
+                </acdh:hasPublisher>
+                <xsl:for-each select="document('../data/editions/t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1902">
+                <acdh:hasTitle xml:lang="de">
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (10. Auflage 1902)
+                </acdh:hasTitle>
+                <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
+                <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-01-01</acdh:hasIssuedDate>
+                <acdh:hasPages xml:lang="de">232 Seiten</acdh:hasPages>
+                <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                <acdh:hasPublisher xml:lang="de">
+                    Leipzig: Johann Ambrosius Barth
+                </acdh:hasPublisher>
+                <xsl:for-each select="document('../data/editions/t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="tokenize(@url, '/')[last()]"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
+                </xsl:for-each>
+            </acdh:Publication>
             <acdh:Resource rdf:about="https://id.acdh.oeaw.ac.at/hanslick-vms/logo_font_blau.svg">
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms"/>
                 <acdh:hasTitle xml:lang="de">Hanslick Online Logo</acdh:hasTitle>

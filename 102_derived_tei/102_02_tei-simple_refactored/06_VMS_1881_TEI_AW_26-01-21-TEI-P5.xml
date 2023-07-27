@@ -154,16 +154,16 @@
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <!--<surface ulx="0" uly="0" lrx="3040" lry="4360">
+      <surface ulx="0" uly="0" lrx="3040" lry="4360">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_Cover001.tif"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2679" lry="4079">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L001.tif"/>
-      </surface>-->
+      </surface>
       <surface ulx="0" uly="0" lrx="2679" lry="4079">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L002.tif"/>
       </surface>
-      <!--<surface ulx="0" uly="0" lrx="2679" lry="4078">
+      <surface ulx="0" uly="0" lrx="2679" lry="4078">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L003.tif"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2679" lry="4078">
@@ -171,7 +171,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2666" lry="4059">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L005.tif"/>
-      </surface>-->
+      </surface>
       <surface ulx="0" uly="0" lrx="2666" lry="4059">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L006.tif"/>
       </surface>
@@ -193,9 +193,9 @@
       <surface ulx="0" uly="0" lrx="2672" lry="4068">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L012.tif"/>
       </surface>
-      <!--<surface ulx="0" uly="0" lrx="2664" lry="4056">
+      <surface ulx="0" uly="0" lrx="2664" lry="4056">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L013.tif"/>
-      </surface>-->
+      </surface>
       <surface ulx="0" uly="0" lrx="2664" lry="4056">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_001.tif"/>
       </surface>
@@ -3256,7 +3256,7 @@
                         </emph>, der Musik-Aesthetiker vom <rs type="place" ref="#hsl_place_id_27">Hohenasperg</rs>, versicherte von <emph>
                            <rs type="person" ref="#hsl_person_id_141" xml:id="d1e3701a1048964">Jomelli</rs>
                         </emph>, es sei gar nicht denkbar, daß dieser Tondichter jemals in
-                        Vergessenheit gerathen könnte. Und was sind uns heute <rs type="person" ref="hsl_person_id_110" xml:id="d1e8743a1048964">Hasse</rs> und <rs type="person" ref="#hsl_person_id_141" xml:id="d1e3704a1048964">Jomelli</rs>?“ </quote>
+                        Vergessenheit gerathen könnte. Und was sind uns heute <rs type="person" ref="#hsl_person_id_110" xml:id="d1e8743a1048964">Hasse</rs> und <rs type="person" ref="#hsl_person_id_141" xml:id="d1e3704a1048964">Jomelli</rs>?“ </quote>
                   </cit>
                </note>
             </p>
