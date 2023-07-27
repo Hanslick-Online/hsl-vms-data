@@ -146,7 +146,7 @@
             </xsl:for-each>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1854">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (1. Auflage 1854)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasIssuedDate>
@@ -155,6 +155,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Rudolph Weigel
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>1. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
@@ -168,7 +169,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1858">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (2. Auflage 1858)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1858-01-01</acdh:hasIssuedDate>
@@ -177,6 +178,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Rudolph Weigel
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>2. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598668</acdh:hasUrl>
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598668-3</acdh:hasNonLinkedIdentifier>
@@ -184,7 +186,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1865">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (3. Auflage 1865)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-01-01</acdh:hasIssuedDate>
@@ -193,6 +195,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Rudolph Weigel
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>3. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598670</acdh:hasUrl>
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598670-4</acdh:hasNonLinkedIdentifier>
@@ -200,7 +203,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1874">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (4. Auflage 1874)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-01-01</acdh:hasIssuedDate>
@@ -209,6 +212,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>4. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
@@ -222,7 +226,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1876">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (5. Auflage 1876)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1876-01-01</acdh:hasIssuedDate>
@@ -231,6 +235,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>5. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
@@ -244,7 +249,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1881">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (6. Auflage 1881)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-01-01</acdh:hasIssuedDate>
@@ -253,6 +258,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>6. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
@@ -266,7 +272,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1885">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (7. Auflage 1885)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-01-01</acdh:hasIssuedDate>
@@ -275,6 +281,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>7. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
@@ -288,7 +295,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1891">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (8. Auflage 1891)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1891-01-01</acdh:hasIssuedDate>
@@ -297,6 +304,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>8. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
@@ -310,7 +318,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1896">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (9. Auflage 1896)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1896-01-01</acdh:hasIssuedDate>
@@ -319,6 +327,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>9. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
@@ -332,7 +341,7 @@
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1902">
                 <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst (10. Auflage 1902)
+                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-01-01</acdh:hasIssuedDate>
@@ -341,6 +350,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
+                <acdh:hasSeriesInformation>10. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity>Leipzig</acdh:hasCity>
                 <xsl:for-each select="document('../data/editions/t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
