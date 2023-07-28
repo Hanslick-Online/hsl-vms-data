@@ -287,7 +287,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">7. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
-                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-07-auflage-1886"/>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-07-auflage-1885"/>
                 <xsl:for-each select="document('../data/editions/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
