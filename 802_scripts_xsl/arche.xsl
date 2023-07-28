@@ -155,7 +155,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Rudolph Weigel
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>1. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">1. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-01-auflage-1854"/>
                 <xsl:for-each select="document('../data/editions/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
@@ -179,7 +179,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Rudolph Weigel
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>2. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">2. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598668</acdh:hasUrl>
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598668-3</acdh:hasNonLinkedIdentifier>
@@ -196,7 +196,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Rudolph Weigel
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>3. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">3. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598670</acdh:hasUrl>
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598670-4</acdh:hasNonLinkedIdentifier>
@@ -213,7 +213,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>4. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">4. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-04-auflage-1874"/>
                 <xsl:for-each select="document('../data/editions/t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
@@ -237,7 +237,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>5. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">5. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-05-auflage-1876"/>
                 <xsl:for-each select="document('../data/editions/t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
@@ -261,7 +261,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>6. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">6. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-06-auflage-1881"/>
                 <xsl:for-each select="document('../data/editions/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
@@ -285,7 +285,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>7. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">7. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-07-auflage-1886"/>
                 <xsl:for-each select="document('../data/editions/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
@@ -309,7 +309,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>8. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">8. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-08-auflage-1891"/>
                 <xsl:for-each select="document('../data/editions/t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
@@ -333,7 +333,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>9. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">9. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-09-auflage-1896"/>
                 <xsl:for-each select="document('../data/editions/t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
@@ -357,7 +357,7 @@
                 <acdh:hasPublisher xml:lang="de">
                     Johann Ambrosius Barth
                 </acdh:hasPublisher>
-                <acdh:hasSeriesInformation>10. Auflage</acdh:hasSeriesInformation>
+                <acdh:hasSeriesInformation xml:lang="de">10. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-10-auflage-1902"/>
                 <xsl:for-each select="document('../data/editions/t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
