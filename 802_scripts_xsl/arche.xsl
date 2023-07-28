@@ -145,16 +145,12 @@
                 </xsl:if>
             </xsl:for-each>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1854">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1854-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">112 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Rudolph Weigel
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Rudolph Weigel</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">1. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-01-auflage-1854"/>
@@ -169,16 +165,12 @@
                 </xsl:for-each>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1858">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1858-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">118 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Rudolph Weigel
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Rudolph Weigel</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">2. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598668</acdh:hasUrl>
@@ -186,16 +178,12 @@
                 <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml"/>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1865">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1865-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">140 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Rudolph Weigel
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Rudolph Weigel</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">3. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:hasUrl>https://www.digitale-sammlungen.de/de/view/bsb10598670</acdh:hasUrl>
@@ -203,16 +191,12 @@
                 <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml"/>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1874">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1874-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">138 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Johann Ambrosius Barth
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Johann Ambrosius Barth</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">4. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-04-auflage-1874"/>
@@ -227,16 +211,12 @@
                 </xsl:for-each>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1876">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1876-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">138 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Johann Ambrosius Barth
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Johann Ambrosius Barth</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">5. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-05-auflage-1876"/>
@@ -251,16 +231,12 @@
                 </xsl:for-each>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1881">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1881-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">198 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Johann Ambrosius Barth
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Johann Ambrosius Barth</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">6. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-06-auflage-1881"/>
@@ -275,16 +251,12 @@
                 </xsl:for-each>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1885">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1885-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">201 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Johann Ambrosius Barth
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Johann Ambrosius Barth</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">7. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-07-auflage-1885"/>
@@ -299,16 +271,12 @@
                 </xsl:for-each>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1891">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1891-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">201 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Johann Ambrosius Barth
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Johann Ambrosius Barth</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">8. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-08-auflage-1891"/>
@@ -323,16 +291,12 @@
                 </xsl:for-each>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1896">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1896-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">238 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Johann Ambrosius Barth
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Johann Ambrosius Barth</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">9. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-09-auflage-1896"/>
@@ -347,16 +311,12 @@
                 </xsl:for-each>
             </acdh:Publication>
             <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1902">
-                <acdh:hasTitle xml:lang="de">
-                    Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
-                </acdh:hasTitle>
+                <acdh:hasTitle xml:lang="de">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</acdh:hasTitle>
                 <acdh:hasAuthor rdf:resource="http://d-nb.info/gnd/118545825"/>
                 <acdh:hasIssuedDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1902-01-01</acdh:hasIssuedDate>
                 <acdh:hasPages xml:lang="de">232 Seiten</acdh:hasPages>
                 <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
-                <acdh:hasPublisher xml:lang="de">
-                    Johann Ambrosius Barth
-                </acdh:hasPublisher>
+                <acdh:hasPublisher xml:lang="de">Johann Ambrosius Barth</acdh:hasPublisher>
                 <acdh:hasSeriesInformation xml:lang="de">10. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
                 <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-10-auflage-1902"/>
