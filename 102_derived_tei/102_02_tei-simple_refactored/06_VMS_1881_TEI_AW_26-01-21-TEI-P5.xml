@@ -784,12 +784,12 @@
       <surface ulx="0" uly="0" lrx="2759" lry="4201">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_196.tif"/>
       </surface>
-      <!--<surface ulx="0" uly="0" lrx="2759" lry="4201">
+      <surface ulx="0" uly="0" lrx="2759" lry="4201">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_197.tif"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3226" lry="4360">
          <graphic url="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_198.tif"/>
-      </surface>-->
+      </surface>
    </facsimile>
    <text>
       <front>
