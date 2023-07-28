@@ -144,7 +144,7 @@
                     </xsl:for-each>
                 </xsl:if>
             </xsl:for-each>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1854">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1854">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -157,6 +157,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>1. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-01-auflage-1854"/>
                 <xsl:for-each select="document('../data/editions/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -167,7 +168,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1858">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1858">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -184,7 +185,7 @@
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598668-3</acdh:hasNonLinkedIdentifier>
                 <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml"/>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-rweigel-1865">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1865">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -201,7 +202,7 @@
                 <acdh:hasNonLinkedIdentifier>urn:nbn:de:bvb:12-bsb10598670-4</acdh:hasNonLinkedIdentifier>
                 <acdh:relation rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml"/>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1874">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1874">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -214,6 +215,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>4. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-04-auflage-1874"/>
                 <xsl:for-each select="document('../data/editions/t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -224,7 +226,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1876">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1876">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -237,6 +239,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>5. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-05-auflage-1876"/>
                 <xsl:for-each select="document('../data/editions/t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -247,7 +250,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1881">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1881">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -260,6 +263,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>6. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-06-auflage-1881"/>
                 <xsl:for-each select="document('../data/editions/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -270,7 +274,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1885">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1885">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -283,6 +287,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>7. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-07-auflage-1886"/>
                 <xsl:for-each select="document('../data/editions/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -293,7 +298,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1891">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1891">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -306,6 +311,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>8. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-08-auflage-1891"/>
                 <xsl:for-each select="document('../data/editions/t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -316,7 +322,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1896">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1896">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -329,6 +335,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>9. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-09-auflage-1896"/>
                 <xsl:for-each select="document('../data/editions/t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
@@ -339,7 +346,7 @@
                     <acdh:isSourceOf rdf:resource="{$facsUrl}"/>
                 </xsl:for-each>
             </acdh:Publication>
-            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-jabarth-1902">
+            <acdh:Publication rdf:about="https://id.acdh.oeaw.ac.at/pub-vms-ehanslick-1902">
                 <acdh:hasTitle xml:lang="de">
                     Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst
                 </acdh:hasTitle>
@@ -352,6 +359,7 @@
                 </acdh:hasPublisher>
                 <acdh:hasSeriesInformation>10. Auflage</acdh:hasSeriesInformation>
                 <acdh:hasCity xml:lang="de">Leipzig</acdh:hasCity>
+                <acdh:isSourceOf rdf:resource="https://id.acdh.oeaw.ac.at/hanslick-vms/facsimiles/vom-musikalisch-schoenen-10-auflage-1902"/>
                 <xsl:for-each select="document('../data/editions/t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml')//tei:facsimile/tei:surface/tei:graphic">
                     <xsl:variable name="facsId">
                         <xsl:value-of select="tokenize(@url, '/')[last()]"/>
