@@ -76,6 +76,21 @@
                   <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/katharina-bamer">Österreichische Akademie der Wissenschaften</ref></item>
                </list>
                <figure>
+                  <graphic url="images/Portrait_Stoxreiter.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Daniel Elsner, MA</hi>, Projektmitarbeiter (Hanslick in
+                        <emph>Neue Freie Presse</emph>, 2022–2025)</item>
+                  <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital
+                     Humanities and Cultural Heritage</item>
+                  <item>Bäckerstrasse 13, 1010 Wien</item>
+                  <item>Email: <ref type="mail" target="daniel.stoxreiter@oeaw.ac.at"
+                        >daniel.stoxreiter(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web"
+                        target="https://www.oeaw.ac.at/acdh/team/current-team/daniel-stoxreiter"
+                        >Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+               <figure>
                   <graphic url="images/Portrait_Leitner.jpg"></graphic>
                </figure>
                <list type="biography">
@@ -105,16 +120,17 @@
                   <item>Universität für Musik und Darstellende Kunst Graz / Karl-Franzens-Universität Graz</item>
                   <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
                   <item>Email: <ref type="mail" target="cornelia.picej@student.kug.ac.at">cornelia.picej(at)student.kug.ac.at</ref></item>
-               </list><figure>
-                  <graphic url="images/Portrait_Stoxreiter.jpg"></graphic>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Thell.jpg"/>
                </figure>
                <list type="biography">
-                  <item><hi rend="bold">Daniel Elsner, MA</hi>, Projektmitarbeiter (Hanslick in
-                        <emph>Neue Freie Presse</emph>, 2022–2025)</item>
-                  <item>Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage</item>
-                  <item>Bäckerstrasse 13, 1010 Wien</item>
-                  <item>Email: <ref type="mail" target="daniel.stoxreiter@oeaw.ac.at">daniel.stoxreiter(at)oeaw.ac.at</ref></item>
-                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/team/current-team/daniel-stoxreiter">Österreichische Akademie der Wissenschaften</ref></item>
+                  <item><hi rend="bold">Annika Thell</hi>, Praktikantin (Hanslick in <emph>Neue
+                        Freie Presse</emph>, 07/2023)</item>
+                  <item>Universität Wien</item>
+                  <item>Universitätsring 1, 1010 Wien</item>
+                  <item>Email: <ref type="mail" target="a11931965@unet.univie.ac.at"
+                        >a11931965(at)unet.univie.ac.at</ref></item>
                </list>
                <figure>
                   <graphic url="images/Portrait_Wilfing-Albrecht_new.jpg"></graphic>

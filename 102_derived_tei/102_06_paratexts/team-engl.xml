@@ -31,12 +31,11 @@
       <body xml:lang="en-US">
          <div type="main">
             <head>Team</head>
-            <p><hi rend="bold">Contact person</hi>: <ref type="mail"
-                  target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
+            <p><hi rend="bold">Contact person</hi>: <ref type="mail" target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
             <div type="block">
                <head>Principal Investigators</head>
                <figure>
-                  <graphic url="images/Portrait_Landerer.jpg"></graphic>
+                  <graphic url="images/Portrait_Landerer.jpg"/>
                </figure>
                <list type="biography">
                   <item><hi rend="bold">Dr. Christoph Landerer</hi>, principal investigator
@@ -49,7 +48,7 @@
                   <item>Website: <ref type="web" target="https://www.researchgate.net/profile/Christoph-Landerer">ResearchGate.net</ref></item>
                </list>
                <figure>
-                  <graphic url="images/Portrait_Wilfing.jpg"></graphic>
+                  <graphic url="images/Portrait_Wilfing.jpg"/>
                </figure>
                <list type="biography">
                   <item><hi rend="bold">Dr. Alexander Wilfing</hi>, principal investigator (Hanslick
@@ -66,7 +65,7 @@
             <div type="block">
                <head>Full Project Team</head>
                <figure>
-                  <graphic url="images/Portrait_Bamer_2.jpg"></graphic>
+                  <graphic url="images/Portrait_Bamer_2.jpg"/>
                </figure>
                <list type="biography">
                   <item><hi rend="bold">Katharina Bamer, BA</hi>, project member (Hanslick in
@@ -78,40 +77,7 @@
                   <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/katharina-bamer">Österreichische Akademie der Wissenschaften</ref></item>
                </list>
                <figure>
-                  <graphic url="images/Portrait_Leitner.jpg"></graphic>
-               </figure>
-               <list type="biography">
-                  <item><hi rend="bold">Jakob Leitner, BA BEd</hi>, contractor (Hanslick in
-                        <emph>Neue Freie Presse</emph>, 10/2022–01/2023 and 02/2023–05/2023)</item>
-                  <item>University of Music and Performing Arts, Graz / Karl Franzens University
-                     Graz</item>
-                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
-                  <item>Email: <ref type="mail" target="jakob.leitner@students.kug.ac.at">jakob.leitner(at])students.kug.ac.at</ref></item>
-               </list>
-               <figure>
-                  <graphic url="images/Portrait_Pfiel_2.jpg"></graphic>
-               </figure>
-               <list type="biography">
-                  <item><hi rend="bold">Anna-Maria Pfiel, BA</hi>, project member (Hanslick in
-                        <emph>Neue Freie Presse</emph>, 2022–2024)</item>
-                  <item>Austrian Academy of Sciences, Austrian Centre for Digital Humanities and
-                     Cultural Heritage</item>
-                  <item>Bäckerstrasse 13, 1010 Vienna</item>
-                  <item>Email: <ref type="mail" target="anna-maria.pfiel@oeaw.ac.at">anna-maria.pfiel(at)oeaw.ac.at</ref></item>
-                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/anna-maria-pfiel">Österreichische Akademie der Wissenschaften</ref></item>
-               </list>
-               <figure>
-                  <graphic url="images/Portrait_Picej.jpg"></graphic>
-               </figure>
-               <list type="biography">
-                  <item><hi rend="bold">Cornelia Picej, BA</hi>, intern student (Hanslick in
-                        <emph>Neue Freie Presse</emph>, 02/2023)</item>
-                  <item>University of Music and Performing Arts, Graz / Karl Franzens University
-                     Graz</item>
-                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
-                  <item>Email: <ref type="mail" target="cornelia.picej@student.kug.ac.at">cornelia.picej(at)student.kug.ac.at</ref></item>
-               </list><figure>
-                  <graphic url="images/Portrait_Stoxreiter.jpg"></graphic>
+                  <graphic url="images/Portrait_Stoxreiter.jpg"/>
                </figure>
                <list type="biography">
                   <item><hi rend="bold">Daniel Elsner, MA</hi>, project member (Hanslick in
@@ -123,7 +89,51 @@
                   <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/team/current-team/daniel-stoxreiter">Österreichische Akademie der Wissenschaften</ref></item>
                </list>
                <figure>
-                  <graphic url="images/Portrait_Wilfing-Albrecht_new.jpg"></graphic>
+                  <graphic url="images/Portrait_Leitner.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Jakob Leitner, BA BEd</hi>, contractor (Hanslick in
+                        <emph>Neue Freie Presse</emph>, 10/2022–01/2023 and 02/2023–05/2023)</item>
+                  <item>University of Music and Performing Arts, Graz / Karl Franzens University
+                     Graz</item>
+                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
+                  <item>Email: <ref type="mail" target="jakob.leitner@students.kug.ac.at">jakob.leitner(at])students.kug.ac.at</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Pfiel_2.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Anna-Maria Pfiel, BA</hi>, project member (Hanslick in
+                        <emph>Neue Freie Presse</emph>, 2022–2024)</item>
+                  <item>Austrian Academy of Sciences, Austrian Centre for Digital Humanities and
+                     Cultural Heritage</item>
+                  <item>Bäckerstrasse 13, 1010 Vienna</item>
+                  <item>Email: <ref type="mail" target="anna-maria.pfiel@oeaw.ac.at">anna-maria.pfiel(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/anna-maria-pfiel">Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Picej.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Cornelia Picej, BA</hi>, intern student (Hanslick in
+                        <emph>Neue Freie Presse</emph>, 02/2023)</item>
+                  <item>University of Music and Performing Arts, Graz / Karl Franzens University
+                     Graz</item>
+                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
+                  <item>Email: <ref type="mail" target="cornelia.picej@student.kug.ac.at">cornelia.picej(at)student.kug.ac.at</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Thell.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Annika Thell</hi>, intern student (Hanslick in <emph>Neue
+                        Freie Presse</emph>, 07/2023)</item>
+                  <item>University of Vienna</item>
+                  <item>Universitätsring 1, 1010 Vienna</item>
+                  <item>Email: <ref type="mail" target="a11931965@unet.univie.ac.at">a11931965(at)unet.univie.ac.at</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Wilfing-Albrecht_new.jpg"/>
                </figure>
                <list type="biography">
                   <item><hi rend="bold">Dr. Meike Wilfing-Albrecht</hi>, project member (<emph>Vom
