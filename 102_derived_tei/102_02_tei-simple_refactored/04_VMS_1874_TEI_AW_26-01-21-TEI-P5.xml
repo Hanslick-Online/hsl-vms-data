@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../data/meta/out/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms"
      xml:id="t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml"
@@ -4864,7 +4864,7 @@
                die Ouvertüre zur „<rs type="bibl" ref="#hsl_work_id_348">Leonore</rs>“
                   <emph>so</emph> anfängt, oder ein <rs type="person" ref="#hsl_person_id_21" xml:id="d1e5836a1048964">Mendelssohn</rs> die Ouvertüre zur „<rs type="bibl" ref="#hsl_work_id_357">Fingalshöhle</rs>“ <emph>so</emph>, – da muß jeder Musiker,
                ohne von der weiteren Durchführung noch eine Note zu wissen, erkennen, vor welchem
-               Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur <rs type="bibl" ref="#hsl_work_id_399">Faust</rs>-Ouvertüre von <rs type="person" ref="#hsl_person_id_63" xml:id="d1e5846a1048964">Donizetti</rs>, oder „<rs type="bibl" ref="#hsl_work_id_96">Louise Miller</rs>“ von <rs type="person" ref="#hsl_person_id_312" xml:id="d1e5851a1048964">Verdi</rs>, so bedarf es
+               Palast er steht. Klingt uns aber ein Thema entgegen, wie das zur <rs type="bibl" ref="#hsl_work_id_399">Faust</rs>-Ouvertüre von <rs type="person" ref="#hsl_person_id_63" xml:id="d1e5846a1048964">Donizetti</rs>, oder „<rs type="bibl" ref="#hsl_work_id_745">Louise Miller</rs>“ von <rs type="person" ref="#hsl_person_id_312" xml:id="d1e5851a1048964">Verdi</rs>, so bedarf es
                ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in
                der Kneipe sind. In <rs type="place" ref="#hsl_place_id_14">Deutschland</rs> legt
                Theorie und Praxis einen überwiegenden Werth auf die musikalische Durchführung

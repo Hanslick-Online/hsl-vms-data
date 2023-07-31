@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../data/meta/out/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms"
      xml:id="t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml"
@@ -5496,7 +5496,7 @@
                oder ein <rs type="person" ref="#hsl_person_id_21" xml:id="d1e6347a1048964">Mendelssohn</rs> die Ouverture zur „<rs type="bibl" ref="#hsl_work_id_357">Fingalshöhle</rs>“ so, da wird jeder Musiker, ohne von der weiteren Durchführung
                noch eine Note zu wissen, ahnen, vor welchem Palast er steht. Klingt uns aber ein
                Thema entgegen, wie das zur <rs type="bibl" ref="#hsl_work_id_399">Fausta</rs>-Ouverture von <rs type="person" ref="#hsl_person_id_63" xml:id="d1e6359a1048964">Donizetti</rs>, oder <pb n="[218]"
-                   facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1896_231.tif"/> „<rs type="bibl" ref="#hsl_work_id_96">Louise Miller</rs>“ von <rs type="person" ref="#hsl_person_id_312" xml:id="d1e6367a1048964">Verdi</rs>, so bedarf es
+                  facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1896_231.tif"/> „<rs type="bibl" ref="#hsl_work_id_745">Louise Miller</rs>“ von <rs type="person" ref="#hsl_person_id_312" xml:id="d1e6367a1048964">Verdi</rs>, so bedarf es
                ebenfalls keines weiteren Eindringens in das Innere, um uns zu überzeugen, daß wir in
                der Kneipe sind. In <rs type="place" ref="#hsl_place_id_14">Deutschland</rs> legt
                Theorie und Praxis einen überwiegenden Wert auf die musikalische Durchführung
