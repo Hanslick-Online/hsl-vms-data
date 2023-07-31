@@ -10,19 +10,19 @@ jobs:
     env:
       ANT_OPTS: -Xmx5g
       REDMINE_ID: 21500
-      # TESTRUN: HANSI4EVER
-      ARCHE_INSTANCE: arche-curation.acdh-dev
+      ARCHE_INSTANCE: arche.acdh
       PROJECT_NAME : hanslick-vms
       OUTPUT_DIR: arche
       DATA_DIR: data/editions
       META_DIR: data/meta
+      IMG_DIR: data/img
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v3
     - name: Install Saxon and Ant
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
-        ./scripts/sh/script.sh && pip install -r requirements.txt
+        ./scripts/sh/script.sh && pip install -r scripts/py/requirements.txt
     - name: Build preprocess
       run: |
         ant -f scripts/ant/build_preprocess.xml
@@ -41,14 +41,16 @@ jobs:
       run: echo "RUN_URL=$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" >> $GITHUB_ENV
     - name: ingest arche metadata topcol, col, res
       run: |
-        echo 'STEP=Upload AIP to Curation Instance (Minerva)' >> $GITHUB_ENV
+        echo 'STEP=Upload AIP to Productive Instance (Apollo)' >> $GITHUB_ENV
         vendor/bin/arche-import-metadata ${OUTPUT_DIR}/arche.rdf https://${ARCHE_INSTANCE}.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --retriesOnConflict 25
-        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to Curation Instance (Minerva)'
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to Productive Instance (Apollo)'
     - name: Copy XML Files to to_ingest 
       run: |
         mkdir $PWD/to_ingest
         find -path "./${DATA_DIR}/*.xml" -exec cp -prv '{}' './to_ingest' ';'
-        # find -path "./${META_DIR}/*.xml" -exec cp -prv '{}' './to_ingest' ';'
+        find -path "./${META_DIR}/*.odd" -exec cp -prv '{}' './to_ingest' ';'
+        find -path "./${META_DIR}/out/*.rng" -exec cp -prv '{}' './to_ingest' ';'
+        find -path "./${IMG_DIR}/*.svg" -exec cp -prv '{}' './to_ingest' ';'
     - name: cache AV database
       id: avdb
       uses: actions/cache@v3
@@ -68,7 +70,7 @@ jobs:
       run: |
         echo 'STEP=Upload Binaries' >> $GITHUB_ENV
         vendor/bin/arche-import-binary to_ingest https://id.acdh.oeaw.ac.at/${PROJECT_NAME} https://${ARCHE_INSTANCE}.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --skip not_exist
-        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to Curation Instance (Minerva)'
+        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to Productive Instance (Apollo)'
     - name: on failure
       if: ${{ failure() }}
       run: |

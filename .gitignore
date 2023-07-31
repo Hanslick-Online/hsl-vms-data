@@ -3,5 +3,10 @@
 /TEI-Stylesheets
 *.html
 /traktat-facs
+/traktat-facs-low-res
 /env
 __pycache__
+/data/editions
+/data/indices
+/arche/arche.rdf
+*.ttl

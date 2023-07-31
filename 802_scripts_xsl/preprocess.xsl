@@ -50,12 +50,12 @@
             <xsl:text>2023</xsl:text>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="//tei:facsimile/tei:surface/tei:graphic">
+    <!-- <xsl:template match="//tei:facsimile/tei:surface/tei:graphic">
         <xsl:copy>
             <xsl:attribute name="url">
                 <xsl:value-of select="concat('https://id.acdh.oeaw.ac.at/hanslick-vms/', tokenize(@url, '/')[last()])"/>
             </xsl:attribute>
         </xsl:copy>
-    </xsl:template>
+    </xsl:template> -->
     
 </xsl:stylesheet>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0"
+  xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+  xmlns:rng="http://relaxng.org/ns/structure/1.0">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>ODD Hanslick: Vom Musikalisch-Schönen</title>
+        <author ref="https://orcid.org/0000-0002-0636-4476" role="main">Daniel Elsner</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name>Austrian Centre for Digital Humanities and Cultural Heritage,
+            Österreichische Akademie der Wissenschaften</name>
+          <ref target="https://acdh.oeaw.ac.at">https://acdh.oeaw.ac.at</ref>
+        </publisher>
+        <pubPlace>Wien, Österreich</pubPlace>
+        <date>2023</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/"> Attribution 4.0
+                  International (CC BY 4.0)</licence>
+        </availability>
+        <ref type="URL"
+          target="https://github.com/Auden-Musulin-Papers/amp-data/framework/hanslick/schema/vms.odd"
+          >https://github.com/Auden-Musulin-Papers/amp-data/framework/hanslick/schema/vms.odd</ref>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+<!-- Text der ODD -->
+
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">ODD Vom Musikalisch-Schönen</titlePart>
+        </docTitle>
+        <docAuthor>Daniel Elsner</docAuthor>
+      </titlePage>
+    </front>
+    <body>
+            
+<!-- SCHEMA -->
+      
+      <div>
+        
+        <head>TEI-Modifikation</head>
+        
+        <schemaSpec ident="hsl-vms" start="TEI" xml:lang="de">
+          <moduleRef key="header" include="langUsage language teiHeader fileDesc titleStmt editionStmt publicationStmt sourceDesc profileDesc encodingDesc projectDesc appInfo application editorialDecl segmentation correction normalization hyphenation interpretation punctuation revisionDesc listChange change notesStmt edition funder availability licence idno"/>
+          <moduleRef key="core" include="milestone address addrLine graphic imprint biblScope head desc l label lg list author editor title p respStmt resp noteGrp note biblStruct item listBibl bibl monogr date pubPlace publisher ref address name emph pb q quote rs add cit"/>
+          <moduleRef key="namesdates" include="country settlement listPerson person listPlace place forename geo location orgName persName placeName surname"/>
+          <moduleRef key="tei"/>
+          <moduleRef key="textstructure" include="TEI text front body back div titlePage docTitle byline docImprint titlePart docAuthor docEdition"/>
+          <moduleRef key="transcr" include="facsimile surface"/>
+          <moduleRef key="figures" include="notatedMusic"/>
+        
+          <!-- element availability -->
+          <elementSpec ident="availability" module="header" mode="change"/>
+          
+          <!-- element fileDesc -->
+          <elementSpec ident="fileDesc" module="header" mode="change"/>
+
+          <!-- element encodingDesc -->
+          <elementSpec ident="encodingDesc" module="header" mode="change"/>
+
+          <!-- element profileDesc -->
+          <elementSpec ident="profileDesc" module="header" mode="change"/>
+
+          <!-- element revisionDesc -->
+          <elementSpec ident="revisionDesc" module="header" mode="change"/>
+          
+          <!-- element persName -->
+          <elementSpec ident="persName" module="namesdates" mode="change"/>
+          
+          <!-- element fileDesc -->
+          <elementSpec ident="placeName" module="namesdates" mode="change"/>
+  
+          <!-- element licence -->
+          <elementSpec ident="licence" module="header" mode="change">
+            <attList>
+              <attDef ident="target" mode="change" usage="req">
+                <valList mode="replace" type="closed">
+                  <valItem ident="https://creativecommons.org/licenses/by/4.0/"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element date -->
+          <elementSpec ident="date" module="core" mode="change">
+            <attList>
+              <attDef ident="notBefore" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.temporal.iso"/>
+                </datatype>
+              </attDef>
+              <attDef ident="notAfter" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.temporal.iso"/>
+                </datatype>
+              </attDef>
+              <attDef ident="when" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.temporal.iso"/>
+                </datatype>
+              </attDef>
+              <attDef ident="when-iso" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.temporal.iso"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element change -->
+          <elementSpec ident="change" module="header" mode="change">
+            <attList>
+              <attDef ident="who" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="#aw"/>
+                  <valItem ident="#dst"/>
+                  <valItem ident="#ds"/>
+                </valList>
+              </attDef>
+              <attDef ident="when" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.temporal.w3c"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element note -->
+          <elementSpec ident="note" module="core" mode="change">
+            <attList>
+              <attDef ident="type" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="mentions"/>
+                  <valItem ident="foot"/>
+                </valList>
+              </attDef>
+              <attDef ident="corresp" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.temporal.w3c"/>
+                </datatype>
+              </attDef>
+              <attDef ident="target" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.pointer"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>       
+          
+          <!-- element p -->
+          <elementSpec ident="p" module="core" mode="change">
+            <attList>
+              <attDef ident="prev" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.truthValue"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element pb -->
+          <elementSpec ident="pb" module="core" mode="change">
+            <attList>
+              <attDef ident="n" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+              <attDef ident="facs" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.pointer"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element ref -->
+          <elementSpec ident="ref" module="core" mode="change">
+            <attList>
+              <attDef ident="target" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.pointer"/>
+                </datatype>
+              </attDef>
+              <attDef ident="type" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="chapter"/>
+                  <valItem ident="edition"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element rs -->
+          <elementSpec ident="rs" module="core" mode="change">
+            <attList>
+              <attDef ident="type" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="person"/>
+                  <valItem ident="place"/>
+                  <valItem ident="bibl"/>
+                </valList>
+              </attDef>
+              <attDef ident="ref" mode="change" usage="req">
+                <datatype>
+                  <dataRef name="token" restriction="#.+"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element facsimile -->
+          <elementSpec ident="facsimile" module="transcr" mode="change"/>
+          
+          <!-- element surface -->
+          <elementSpec ident="surface" module="transcr" mode="change">
+            <attList>
+              <attDef ident="ulx" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+              <attDef ident="uly" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+              <attDef ident="lrx" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+              <attDef ident="lry" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element graphic -->
+          <elementSpec ident="graphic" module="core" mode="change">
+            <attList>
+              <attDef ident="url" mode="change" usage="req">
+                <datatype>
+                  <dataRef key="teidata.pointer"/>
+                </datatype>
+              </attDef>
+              <attDef ident="width" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+              <attDef ident="height" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.enumerated"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+        </schemaSpec>
+      </div>
+        
+    </body>
+      
+  </text>
+    
+</TEI>
