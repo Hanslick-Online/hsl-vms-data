@@ -121,7 +121,7 @@
             <acdh:hasTitle xml:lang="und">Meike Wilfing-Albrecht</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Wilfing-Albrecht</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Meike</acdh:hasFirstName>
-            <acdh:hasPersonalTitle xml:lang="und">Dr.</acdh:hasPersonalTitle>
+            <acdh:hasPersonalTitle xml:lang="und">Dr. | BA BA MA</acdh:hasPersonalTitle>
             <acdh:hasEmail>Meike.Wilfing-Albrecht@oeaw.ac.at</acdh:hasEmail>
             <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
             <acdh:hasIdentifier rdf:resorce="https://id.acdh.oeaw.ac.at/mwilfingalbrecht"/>
