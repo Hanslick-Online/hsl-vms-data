@@ -63,7 +63,7 @@
                </list>
             </div>
             <div type="block">
-               <head>Full Project Team</head>
+               <head>Project Team Members</head>
                <figure>
                   <graphic url="images/Portrait_Bamer_2.jpg"/>
                </figure>
@@ -112,27 +112,6 @@
                   <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/anna-maria-pfiel">Österreichische Akademie der Wissenschaften</ref></item>
                </list>
                <figure>
-                  <graphic url="images/Portrait_Picej.jpg"/>
-               </figure>
-               <list type="biography">
-                  <item><hi rend="bold">Cornelia Picej, BA</hi>, intern student (Hanslick in
-                        <emph>Neue Freie Presse</emph>, 02/2023)</item>
-                  <item>University of Music and Performing Arts, Graz / Karl Franzens University
-                     Graz</item>
-                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
-                  <item>Email: <ref type="mail" target="cornelia.picej@student.kug.ac.at">cornelia.picej(at)student.kug.ac.at</ref></item>
-               </list>
-               <figure>
-                  <graphic url="images/Portrait_Thell.jpg"/>
-               </figure>
-               <list type="biography">
-                  <item><hi rend="bold">Annika Thell</hi>, intern student (Hanslick in <emph>Neue
-                        Freie Presse</emph>, 07/2023)</item>
-                  <item>University of Vienna</item>
-                  <item>Universitätsring 1, 1010 Vienna</item>
-                  <item>Email: <ref type="mail" target="a11931965@unet.univie.ac.at">a11931965(at)unet.univie.ac.at</ref></item>
-               </list>
-               <figure>
                   <graphic url="images/Portrait_Wilfing-Albrecht_new.jpg"/>
                </figure>
                <list type="biography">
@@ -144,6 +123,30 @@
                   <item>Bäckerstrasse 13, 1010 Vienna</item>
                   <item>Email: <ref type="mail" target="meike.wilfing-albrecht@oeaw.ac.at">meike.wilfing-albrecht(at)oeaw.ac.at</ref></item>
                   <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/musikwissenschaft/mitarbeiterinnen-mitarbeiter/meike-wilfing-albrecht">Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+            </div>
+            <div type="block">
+               <head>Project Interns</head>
+               <figure>
+                  <graphic url="images/Portrait_Picej.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Cornelia Picej, BA</hi>, intern student (Hanslick in
+                     <emph>Neue Freie Presse</emph>, 02/2023)</item>
+                  <item>University of Music and Performing Arts, Graz / Karl Franzens University
+                     Graz</item>
+                  <item>Leonhardstraße 15, 8010 Graz / Mozartgasse 3, 8010 Graz</item>
+                  <item>Email: <ref type="mail" target="cornelia.picej@student.kug.ac.at">cornelia.picej(at)student.kug.ac.at</ref></item>
+               </list>
+               <figure>
+                  <graphic url="images/Portrait_Thell.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Annika Thell</hi>, intern student (Hanslick in <emph>Neue
+                     Freie Presse</emph>, 07/2023)</item>
+                  <item>University of Vienna</item>
+                  <item>Universitätsring 1, 1010 Vienna</item>
+                  <item>Email: <ref type="mail" target="a11931965@unet.univie.ac.at">a11931965(at)unet.univie.ac.at</ref></item>
                </list>
             </div>
          </div>
