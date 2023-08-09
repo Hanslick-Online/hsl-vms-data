@@ -128,6 +128,20 @@
             <div type="block">
                <head>Project Interns</head>
                <figure>
+                  <graphic url="images/Portrait_Luis_Andres.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Mercedes de Luis Andres, BA MA</hi>, intern student
+                     (Hanslick in <emph>Neue Freie Presse</emph>, 07/2023)</item>
+                  <item>Austrian Academy of Sciences / University of Klagenfurt, Institute for
+                     Comparative Media and Communications Studies</item>
+                  <item>Bäckerstraße 13, 1010 Vienna</item>
+                  <item>Email: <ref type="mail" target="mercedes.deluisandres@oeaw.ac.at">mercedes.deluisandres(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web"
+                        target="https://www.oeaw.ac.at/cmc/the-institute/staff/mercedes-de-luis-andres"
+                        >Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+               <figure>
                   <graphic url="images/Portrait_Picej.jpg"/>
                </figure>
                <list type="biography">
