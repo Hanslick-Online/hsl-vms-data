@@ -31,14 +31,14 @@
       <body xml:lang="de-AT">
          <div type="main">
             <head>Publikationen</head>
-            <byline>18.07.2023</byline>
+            <byline>26.09.2023</byline>
             <div type="block">
                <head>Bücher / Bände</head>
                <list type="bibl">
                   <item>2023–heute. Eduard Hanslick, <hi rend="italic">Schriften für die “Neue Freie
                         Presse,” 1864–1904</hi>, hrsg. von Alexander Wilfing unter Mitarbeit von
                      Katharina Bamer, Anna-Maria Pfiel und Daniel Elsner. Open Access Edition mit
-                     TEI-Markup (31 Texte, Stand 13.06.2022). <ref
+                     TEI-Markup (102 Texte, Stand 21.09.2023). <ref
                         target="https://hanslick.acdh.oeaw.ac.at/toc.html"
                         >https://hanslick.acdh.oeaw.ac.at/toc.html</ref>.</item>
                   <item>2023. Eduard Hanslick, <hi rend="italic">Vom Musikalisch-Schönen: Ein
@@ -168,24 +168,64 @@
                <div type="block">
                   <head>Bücher</head>
                   <list type="bibl">
-                  <item>Landerer, Christoph, Lee Rothfarb und Alexander Wilfing, Hgg. <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>. New York: Routledge.</item>
+                  <item>Lee Rothfarb, Alexander Wilfing und Christoph Landerer, Hgg. <emph>The
+                           Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical
+                           Perspectives</emph>. New York: Routledge.</item>
                   </list>
                </div>
                <div type="block">
                   <head>Kapitel</head>
                   <list type="bibl">
-                  <item>Appelqvist, Hanne. „Hanslick on the Purposiveness of Musical Form.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Bonds, Mark Evan. „Robert Zimmermann’s 1854 Review of <emph>Vom Musikalisch-Schönen</emph>: A Translation and Commentary.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Gracyk, Theodore. „Hanslick’s Theory of Musical Imagination.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Grey, Thomas. „Challenges to the ‚Musically Beautiful‘: Music Drama and the ‚Psychological Turn‘ in Later Nineteenth-Century Aesthetics.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Landerer, Christoph. „Hanslick’s Concepts: A Cognitive Panorama.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Landerer, Christoph und Alexander Wilfing. „Genesis and Development of <emph>On the Musically Beautiful</emph>: A Dynamic Picture.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Landerer, Christoph und Nick Zangwill. „Music and Emotion in Hanslick: A Theoretical and Conceptual Approach.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Pryer, Anthony. „A Problematic Legacy: Hanslick’s <emph>Vom Musikalisch-Schönen</emph> and the Status of Performance as Supplementary to Beauty.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Rothfarb, Lee. „Taking Hanslick at His Music-Theoretical Word.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
-                  <item>Wilfing, Alexander. „Hanslick’s Concept(s) of Beauty in Relation to History.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
+                  <item>Appelqvist, Hanne. „Hanslick on the Purposiveness of Musical Form.“ In
+                           <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and
+                           Critical Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing
+                        und Christoph Landerer. New York: Routledge.</item>
+                  <item>Bonds, Mark Evan. „Robert Zimmermann’s 1854 Review of <emph>Vom
+                           Musikalisch-Schönen</emph>: A Translation and Commentary.“ In <emph>The
+                           Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical
+                           Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing und
+                        Christoph Landerer. New York: Routledge.</item>
+                  <item>Gracyk, Theodore. „Hanslick’s Theory of Musical Imagination.“ In <emph>The
+                           Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical
+                           Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing und
+                        Christoph Landerer. New York: Routledge.</item>
+                  <item>Grey, Thomas. „Challenges to the ‚Musically Beautiful‘: Music Drama and the
+                        ‚Psychological Turn‘ in Later Nineteenth-Century Aesthetics.“ In <emph>The
+                           Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical
+                           Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing und
+                        Christoph Landerer. New York: Routledge.</item>
+                  <item>Landerer, Christoph. „Hanslick’s Concepts: A Cognitive Panorama.“ In
+                           <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and
+                           Critical Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing
+                        und Christoph Landerer. New York: Routledge.</item>
+                  <item>Landerer, Christoph und Alexander Wilfing. „Genesis and Development of
+                           <emph>On the Musically Beautiful</emph>: A Dynamic Picture.“ In <emph>The
+                           Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical
+                           Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing und
+                        Christoph Landerer. New York: Routledge.</item>
+                  <item>Landerer, Christoph und Nick Zangwill. „Music and Emotion in Hanslick: A
+                        Theoretical and Conceptual Approach.“ In <emph>The Aesthetic Legacy of
+                           Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg.
+                        von Lee Rothfarb, Alexander Wilfing und Christoph Landerer. New York:
+                        Routledge.</item>
+                  <item>Pryer, Anthony. „A Problematic Legacy: Hanslick’s <emph>Vom
+                           Musikalisch-Schönen</emph> and the Status of Performance as Supplementary
+                        to Beauty.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings
+                           and Critical Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander
+                        Wilfing und Christoph Landerer. New York: Routledge.</item>
+                  <item>Rothfarb, Lee. „Taking Hanslick at His Music-Theoretical Word.“ In <emph>The
+                           Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical
+                           Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing und
+                        Christoph Landerer. New York: Routledge.</item>
+                  <item>Wilfing, Alexander. „Hanslick’s Concept(s) of Beauty in Relation to
+                        History.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings
+                           and Critical Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander
+                        Wilfing und Christoph Landerer. New York: Routledge.</item>
                   <item>Wilfing, Alexander. „Richard Wagner and 19th-Century Music Criticism.“ In <emph>Wagner in Context</emph>, hrsg. von David Trippett. Cambridge: Cambridge University Press.</item>
-                  <item>Zbikowski, Lawrence. „Hanslick’s Emotional Legacy.“ In <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>, hrsg. von Christoph Landerer, Lee Rothfarb und Alexander Wilfing. New York: Routledge.</item>
+                  <item>Zbikowski, Lawrence. „Hanslick’s Emotional Legacy.“ In <emph>The Aesthetic
+                           Legacy of Eduard Hanslick: Close Readings and Critical
+                           Perspectives</emph>, hrsg. von Lee Rothfarb, Alexander Wilfing und
+                        Christoph Landerer. New York: Routledge.</item>
                </list>
                </div>
             </div>
