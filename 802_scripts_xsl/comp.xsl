@@ -41,10 +41,10 @@
                     <teiHeader>
                         <fileDesc>
                             <titleStmt>
-                                <title>Concorance <xsl:value-of select="replace(current-grouping-key(), 'xyz', '')"/></title>
+                                <title>Konkordanz <xsl:value-of select="replace(current-grouping-key(), 'xyz', '')"/></title>
                             </titleStmt>
                             <publicationStmt>
-                                <p>unpublished</p>
+                                <p>nicht veröffentlicht</p>
                             </publicationStmt>
                             <sourceDesc>
                                 <p>born digital</p>
@@ -58,7 +58,7 @@
                                    
                                     <item>
                                         <list type="selectPar">
-                                            <head>Select Paragraph</head>
+                                            <head>Paragraph auswählen</head>
                                             <xsl:for-each select="distinct-values(collection($collection)//tei:p/@n[. != ''])">
                                                 <item><xsl:value-of select="."/></item>
                                             </xsl:for-each>
