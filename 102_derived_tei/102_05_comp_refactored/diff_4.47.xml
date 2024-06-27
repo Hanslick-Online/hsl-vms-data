@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance 4.47</title>
+            <title>Konkordanz 4.47</title>
          </titleStmt>
          <publicationStmt>
-            <p>unpublished</p>
+            <p>nicht veröffentlicht</p>
          </publicationStmt>
          <sourceDesc>
             <p>born digital</p>
@@ -18,7 +18,7 @@
          <list type="navigation">
             <item>
                <list type="selectPar">
-                  <head>Select Paragraph</head>
+                  <head>Paragraph auswählen</head>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.3</item>
@@ -312,71 +312,71 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3853a1048964">VMS 1</ref>
+                     <ref target="hanslick-vms#d1e3853a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_5.1.html">5.1</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e4004a1048964">VMS 2</ref>
-                     <ref type="nextLink" target="diff_5.1.html">5.1</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4395a1048964">VMS 3</ref>
+                     <ref target="hanslick-vms#d1e4004a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_5.1.html">5.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4309a1048964">VMS 4</ref>
+                     <ref target="hanslick-vms#d1e4395a1048964">VMS 3</ref>
+                     <ref type="nextLink" target="diff_5.1.html">5.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.46.html">4.46</ref>
+                     <ref target="hanslick-vms#d1e4309a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_5.1a.html">5.1a</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4226a1048964">VMS 5</ref>
+                     <ref target="hanslick-vms#d1e4226a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_5.1a.html">5.1a</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4812a1048964">VMS 6</ref>
+                     <ref target="hanslick-vms#d1e4812a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_5.1a.html">5.1a</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4731a1048964">VMS 7</ref>
+                     <ref target="hanslick-vms#d1e4731a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_5.1a.html">5.1a</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4766a1048964">VMS 8</ref>
+                     <ref target="hanslick-vms#d1e4766a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_5.1a.html">5.1a</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4768a1048964">VMS 9</ref>
+                     <ref target="hanslick-vms#d1e4768a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_5.1a.html">5.1a</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.46.html">4.46</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4735a1048964">VMS 10</ref>
+                     <ref target="hanslick-vms#d1e4735a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_5.1a.html">5.1a</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Je stärker aber eine Kunstwirkung körperlich überwältigend, also pathologisch auftritt, desto geringer ist ihr ästhetischer Antheil; ein Satz, der sich freilich nicht umkehren läßt. Es muß darum in der musikalischen Hervorbringung und Auffassung ein anderes Element hervorgehoben werden, welches das unvermischt Aesthetische dieser Kunst repräsentirt, und als Gegenbild zu der specifisch-musikalischen Gefühlserregung sich den allgemeinen Schönheitsbedingungen der übrigen Künste annähert. Dies ist die reine Anschauung. Ihre besondere Erscheinungsform in der Tonkunst, so wie die vielgestaltigen Verhältnisse, welche sie in der Wirklichkeit zum Gefühlsleben eingeht, wollen wir im folgenden Abschnitt betrachten. –</cell>
-               <cell xml:id="v2">Je stärker aber eine Kunstwirkung körperlich überwältigend, also pathologisch auftritt, desto geringer ist ihr ästhetischer Antheil; ein Satz, der sich nicht umkehren läßt. Es muß darum in der musikalischen Hervorbringung und Auffassung ein anderes Element hervorgehoben werden, welches das unvermischt Aesthetische dieser Kunst repräsentirt, und als Gegenbild zu der specifisch-musikalischen Gefühlserregung sich den allgemeinen Schönheitsbedingungen der übrigen Künste annähert. Dies ist die reine Anschauung. Ihre besondere Erscheinungsform in der Tonkunst, so wie die vielgestaltigen Verhältnisse, welche sie in der Wirklichkeit zum Gefühlsleben eingeht, wollen wir im folgenden Abschnitt betrachten. –</cell>
+               <cell xml:id="v2">Je stärker aber eine Kunstwirkung körperlich überwältigend, also pathologisch auftritt, desto geringer ist ihr ästhe tischer Antheil; ein Satz, der sich nicht umkehren läßt. Es muß darum in der musikalischen Hervorbringung und Auffassung ein anderes Element hervorgehoben werden, welches das unvermischt Aesthetische dieser Kunst repräsentirt, und als Gegenbild zu der specifisch-musikalischen Gefühlserregung sich den allgemeinen Schönheitsbedingungen der übrigen Künste annähert. Dies ist die reine Anschauung. Ihre besondere Erscheinungsform in der Tonkunst, so wie die vielgestaltigen Verhältnisse, welche sie in der Wirklichkeit zum Gefühlsleben eingeht, wollen wir im folgenden Abschnitt betrachten. –</cell>
                <cell xml:id="v3">Je stärker aber eine Kunstwirkung körperlich überwältigend, also pathologisch auftritt, desto geringer ist ihr ästhetischer Antheil; ein Satz der sich freilich nicht umkehren läßt. Es muß darum in der musikalischen Hervorbringung und Auffassung ein anderes Element hervorgehoben werden, welches das unvermischt Aesthetische dieser Kunst repräsentirt und als Gegenbild zu der specifisch-musikalischen Gefühlserregung sich den allgemeinen Schönheitsbedingungen der übrigen Künste annähert. Dies ist die reine Anschauung. Ihre besondere Erscheinungsform in der Tonkunst, so wie die vielgestaltigen Verhältnisse, welche sie in der Wirklichkeit zum Gefühlsleben eingeht, wollen wir im folgenden Abschnitt betrachten. –</cell>
                <cell xml:id="v4">Je stärker aber eine Kunstwirkung körperlich überwältigend, also pathologisch auftritt, desto geringer ist ihr ästhetischer Antheil; ein Satz, der sich freilich nicht umkehren läßt. Es muß darum in der musikalischen Hervorbringung und Auffassung ein anderes Element hervorgehoben werden, welches das unvermischt Aesthetische dieser Kunst repräsentirt und als Gegenbild zu der specifisch-musikalischen Gefühlserregung sich den allgemeinen Schönheitsbedingungen der übrigen Künste annähert. Dies ist die reine Anschauung. Ihre besondere Erscheinungsform in der Tonkunst, so wie die vielgestaltigen Verhältnisse, welche sie in der Wirklichkeit zum Gefühlsleben eingeht, wollen wir im folgenden Abschnitt betrachten.</cell>
                <cell xml:id="v5">Je stärker aber eine Kunstwirkung körperlich überwältigend, also pathologisch auftritt, desto geringer ist ihr ästhetischer Antheil; ein Satz, der sich freilich nicht umkehren läßt. Es muß darum in der musikalischen Hervorbringung und Auffassung ein anderes Element hervorgehoben werden, welches das unvermischt Aesthetische dieser Kunst repräsentirt und als Gegenbild zu der specifisch musikalischen Gefühlserregung sich den allgemeinen Schönheitsbedingungen der übrigen Künste annähert. Dies ist die reine Anschauung. Ihre besondere Erscheinungsform in der Tonkunst, so wie die vielgestaltigen Verhältnisse, welche sie in der Wirklichkeit zum Gefühlsleben eingeht, wollen wir im folgenden Abschnitt betrachten.</cell>

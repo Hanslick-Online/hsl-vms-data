@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance 3.31</title>
+            <title>Konkordanz 3.31</title>
          </titleStmt>
          <publicationStmt>
-            <p>unpublished</p>
+            <p>nicht veröffentlicht</p>
          </publicationStmt>
          <sourceDesc>
             <p>born digital</p>
@@ -18,7 +18,7 @@
          <list type="navigation">
             <item>
                <list type="selectPar">
-                  <head>Select Paragraph</head>
+                  <head>Paragraph auswählen</head>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.3</item>
@@ -312,46 +312,46 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2492a1048964">VMS 1</ref>
+                     <ref target="hanslick-vms#d1e2492a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e2655a1048964">VMS 2</ref>
+                     <ref target="hanslick-vms#d1e2655a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e2787a1048964">VMS 3</ref>
-                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e2794a1048964">VMS 4</ref>
-                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2725a1048964">VMS 5</ref>
-                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3242a1048964">VMS 6</ref>
-                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3189a1048964">VMS 7</ref>
+                     <ref target="hanslick-vms#d1e2787a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.30.html">3.30</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3207a1048964">VMS 8</ref>
+                     <ref target="hanslick-vms#d1e2794a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="hanslick-vms#d1e2725a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="hanslick-vms#d1e3242a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="hanslick-vms#d1e3189a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_3.32.html">3.32</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.30.html">3.30</ref>
+                     <ref target="hanslick-vms#d1e3207a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_3.32.html">3.32</ref>
                   </seg>
                </cell>

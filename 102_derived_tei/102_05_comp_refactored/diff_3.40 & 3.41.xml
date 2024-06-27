@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance 3.40 &amp; 3.41</title>
+            <title>Konkordanz 3.40 &amp; 3.41</title>
          </titleStmt>
          <publicationStmt>
-            <p>unpublished</p>
+            <p>nicht veröffentlicht</p>
          </publicationStmt>
          <sourceDesc>
             <p>born digital</p>
@@ -18,7 +18,7 @@
          <list type="navigation">
             <item>
                <list type="selectPar">
-                  <head>Select Paragraph</head>
+                  <head>Paragraph auswählen</head>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.3</item>
@@ -312,53 +312,53 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3224a1048964">VMS 4</ref>
+                     <ref target="hanslick-vms#d1e3224a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_3.42 &amp; 3.43.html">3.42 &amp; 3.43</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3152a1048964">VMS 5</ref>
+                     <ref target="hanslick-vms#d1e3152a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_3.42 &amp; 3.43.html">3.42 &amp; 3.43</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3730a1048964">VMS 6</ref>
+                     <ref target="hanslick-vms#d1e3730a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_3.42 &amp; 3.43.html">3.42 &amp; 3.43</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3670a1048964">VMS 7</ref>
+                     <ref target="hanslick-vms#d1e3670a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_3.42 &amp; 3.43.html">3.42 &amp; 3.43</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3702a1048964">VMS 9</ref>
+                     <ref target="hanslick-vms#d1e3702a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_3.42 &amp; 3.43.html">3.42 &amp; 3.43</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3690a1048964">VMS 8</ref>
+                     <ref target="hanslick-vms#d1e3690a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_3.42 &amp; 3.43.html">3.42 &amp; 3.43</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3658a1048964">VMS 10</ref>
+                     <ref target="hanslick-vms#d1e3658a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_3.42 &amp; 3.43.html">3.42 &amp; 3.43</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, der ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt blos den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozartschen Symphonie zu berechnen?“  so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächstfolgenden, oder die Längen der einzelnen Perioden gegen einander? Was eine Musik zur Tondichtung macht, und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen, oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden. Nur eine wirklich positive, schaffende Kraft muß man ihr nicht einräumen wollen, wie dies manche Musiker, diese Conservativen der Aesthetik, gern möchten. Es ist mit der Mathematik ähnlich, wie mit der Erzeugung der Gefühle im Zuhörer, – sie findet bei allen Künsten statt, aber großer Lärm darüber ist blos bei der Musik.</cell>
+               <cell xml:id="v1">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, der ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt blos den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozart schen Symphonie zu berechnen?“  so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächstfolgenden, oder die Längen der einzelnen Perioden gegen einander? Was eine Musik zur Tondichtung macht, und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen, oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden. Nur eine wirklich positive, schaffende Kraft muß man ihr nicht einräumen wollen, wie dies manche Musiker, diese Conservativen der Aesthetik, gern möchten. Es ist mit der Mathematik ähnlich, wie mit der Erzeugung der Gefühle im Zuhörer, – sie findet bei allen Künsten statt, aber großer Lärm darüber ist blos bei der Musik.</cell>
                <cell xml:id="v2">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, der ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt blos den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozart ʼschen Symphonie zu berechnen?“ so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächstfolgenden, oder die Längen der einzelnen Perioden gegen einander? Was eine Musik zur Tondichtung macht, und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen, oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden. Nur eine wirklich positive, schaffende Kraft muß man ihr nicht einräumen wollen, wie dies manche Musiker, diese Conservativen der Aesthetik, gern möchten. Es ist mit der Mathematik ähnlich, wie mit der Erzeugung der Gefühle im Zuhörer, – sie findet bei allen Künsten statt, aber großer Lärm darüber ist blos bei der Musik.</cell>
                <cell xml:id="v3">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, der ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt blos den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozart ʼschen Symphonie zu berechnen?“ so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächst folgenden, oder die Längen der einzelnen Perioden gegen einander? Was eine Musik zur Tondichtung macht, und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden. Nur eine wirklich positive, schaffende Kraft muß man ihr nicht einräumen wollen, wie dies manche Musiker, diese Conservativen der Aesthetik, gern möchten. Es ist mit der Mathematik ähnlich, wie mit der Erzeugung der Gefühle im Zuhörer, – sie findet bei allen Künsten statt, aber großer Lärm darüber ist blos bei der Musik.</cell>
                <cell xml:id="v4">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, der ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt bloß den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozart ʼschen Symphonie zu berechnen?“ , so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächstfolgenden, oder die Längen der einzelnen Perioden gegen einander? Was eine Musik zur Tondichtung macht und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden. Nur eine wirklich positive, schaffende Kraft muß man ihr nicht einräumen wollen, wie dies manche Musiker, diese Conservativen der Aesthetik, gern möchten. Es ist mit der Mathematik ähnlich, wie mit der Erzeugung der Gefühle im Zuhörer, – sie findet bei allen Künsten statt, aber großer Lärm darüber ist bloß bei der Musik.</cell>

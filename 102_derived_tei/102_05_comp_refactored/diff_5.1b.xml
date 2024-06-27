@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance 5.1b</title>
+            <title>Konkordanz 5.1b</title>
          </titleStmt>
          <publicationStmt>
-            <p>unpublished</p>
+            <p>nicht veröffentlicht</p>
          </publicationStmt>
          <sourceDesc>
             <p>born digital</p>
@@ -18,7 +18,7 @@
          <list type="navigation">
             <item>
                <list type="selectPar">
-                  <head>Select Paragraph</head>
+                  <head>Paragraph auswählen</head>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.3</item>
@@ -312,43 +312,43 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e4342a1048964">VMS 4</ref>
+                     <ref target="hanslick-vms#d1e4342a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_5.2.html">5.2</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e4259a1048964">VMS 5</ref>
-                     <ref type="nextLink" target="diff_5.2.html">5.2</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4849a1048964">VMS 6</ref>
-                     <ref type="nextLink" target="diff_5.2.html">5.2</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4768a1048964">VMS 7</ref>
+                     <ref target="hanslick-vms#d1e4259a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_5.2.html">5.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4813a1048964">VMS 8</ref>
+                     <ref target="hanslick-vms#d1e4849a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.2.html">5.2</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
+                     <ref target="hanslick-vms#d1e4768a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_5.2.html">5.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4815a1048964">VMS 9</ref>
+                     <ref target="hanslick-vms#d1e4813a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_5.2.html">5.2</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
+                     <ref target="hanslick-vms#d1e4815a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_5.2.html">5.2</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.1a.html">5.1a</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4782a1048964">VMS 10</ref>
+                     <ref target="hanslick-vms#d1e4782a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_5.2.html">5.2</ref>
                   </seg>
                </cell>

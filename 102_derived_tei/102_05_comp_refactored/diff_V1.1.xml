@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance V1.1</title>
+            <title>Konkordanz V1.1</title>
          </titleStmt>
          <publicationStmt>
-            <p>unpublished</p>
+            <p>nicht veröffentlicht</p>
          </publicationStmt>
          <sourceDesc>
             <p>born digital</p>
@@ -18,7 +18,7 @@
          <list type="navigation">
             <item>
                <list type="selectPar">
-                  <head>Select Paragraph</head>
+                  <head>Paragraph auswählen</head>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.3</item>
@@ -311,12 +311,12 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e320a1048964">VMS 1</ref>
+                     <ref target="hanslick-vms#d1e320a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_V1.2.html">V1.2</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.7.html">V2.7</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e467a1048964">VMS 2</ref>
+                     <ref target="hanslick-vms#d1e467a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_V1.2.html">V1.2</ref>
                   </seg>
                </cell>

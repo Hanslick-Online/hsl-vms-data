@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance 3.46</title>
+            <title>Konkordanz 3.46</title>
          </titleStmt>
          <publicationStmt>
-            <p>unpublished</p>
+            <p>nicht veröffentlicht</p>
          </publicationStmt>
          <sourceDesc>
             <p>born digital</p>
@@ -18,7 +18,7 @@
          <list type="navigation">
             <item>
                <list type="selectPar">
-                  <head>Select Paragraph</head>
+                  <head>Paragraph auswählen</head>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.3</item>
@@ -312,73 +312,73 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e2942a1048964">VMS 1</ref>
+                     <ref target="hanslick-vms#d1e2942a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_4.1.html">4.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3095a1048964">VMS 2</ref>
+                     <ref target="hanslick-vms#d1e3095a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_4.1.html">4.1</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e3470a1048964">VMS 3</ref>
-                     <ref type="nextLink" target="diff_4.1.html">4.1</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3425a1048964">VMS 4</ref>
-                     <ref type="nextLink" target="diff_4.1.html">4.1</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3350a1048964">VMS 5</ref>
+                     <ref target="hanslick-vms#d1e3470a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_4.1.html">4.1</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e3940a1048964">VMS 6</ref>
+                     <ref target="hanslick-vms#d1e3425a1048964">VMS 4</ref>
+                     <ref type="nextLink" target="diff_4.1.html">4.1</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.45.html">3.45</ref>
+                     <ref target="hanslick-vms#d1e3350a1048964">VMS 5</ref>
+                     <ref type="nextLink" target="diff_4.1.html">4.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.45.html">3.45</ref>
+                     <ref target="hanslick-vms#d1e3940a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_4.1 &amp; 4.2.html">4.1 &amp; 4.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e3874a1048964">VMS 7</ref>
+                     <ref target="hanslick-vms#d1e3874a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_4.1 &amp; 4.2.html">4.1 &amp; 4.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e3898a1048964">VMS 8</ref>
+                     <ref target="hanslick-vms#d1e3898a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_4.1 &amp; 4.2.html">4.1 &amp; 4.2</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e3906a1048964">VMS 9</ref>
+                     <ref target="hanslick-vms#d1e3906a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_4.1 &amp; 4.2.html">4.1 &amp; 4.2</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.45.html">3.45</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e3874a1048964">VMS 10</ref>
+                     <ref target="hanslick-vms#d1e3874a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_4.1 &amp; 4.2.html">4.1 &amp; 4.2</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Das vergessen auch unsere Sänger, welche in Momenten größten Affectes Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht alsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit Rousseau und Rameau gethan, in neuerer Zeit von den Jüngern R. Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sie selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
-               <cell xml:id="v2">Das vergessen auch unsere Sänger, welche in Momenten größten Affectes Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht alsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Theil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R. Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß, wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
-               <cell xml:id="v3">Das vergessen auch unsere Sänger, welche in Momenten größten Affectes Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht allsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Theil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R. Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß, wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
+               <cell xml:id="v1">Das vergessen auch unsere Sänger, welche in Momenten größten Affectes Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht alsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit Rousseau und Rameau gethan, in neuerer Zeit von den Jüngern R.  Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sie selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
+               <cell xml:id="v2">Das vergessen auch unsere Sänger, welche in Momenten größten Affectes Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht alsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Theil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R.  Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß, wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
+               <cell xml:id="v3">Das vergessen auch unsere Sänger, welche in Momenten größten Affectes Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht allsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Theil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R.  Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß, wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
                <cell xml:id="v4">Das vergessen auch unsere Sänger, welche in Momenten größten Affects Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht allsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Theil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R.  Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschieden heit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß, wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
                <cell xml:id="v5">Das vergessen auch unsere Sänger, welche in Momenten größten Affects Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Uebergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht allsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwicklungs- und Constructionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Theil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R.  Wagnerʼs versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Aesthetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Princip festzuhalten, daß, wo es sich um Specifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
-               <cell xml:id="v6">Das vergessen auch unsere Sänger, welche in Momenten größten Affekts Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Übergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht allsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwickelungs- und Konstruktionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Teil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R. Wagners versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Ästhetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Prinzip festzuhalten, daß, wo es sich um Spezifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
+               <cell xml:id="v6">Das vergessen auch unsere Sänger, welche in Momenten größten Affekts Worte, ja Sätze sprechend herausstoßen und damit die höchste Steigerung der Musik gegeben zu haben glauben. Sie übersehen, daß der Übergang vom Singen zum Sprechen stets ein Sinken ist, so wie der höchste normale Sprechton noch immer tiefer klingt als selbst die tieferen Gesangstöne desselben Organes. Ebenso schlimm als diese praktischen Folgen, ja noch schlimmer, weil nicht allsogleich durch das Experiment geschlagen, sind die Theorien, welche der Musik die Entwickelungs- und Konstruktionsgesetze der Sprache aufdringen wollen, wie es in älterer Zeit zum Teil von Rousseau und Rameau , in neuerer Zeit von den Jüngern R.  Wagners versucht wird. Es wird dabei das wahrhafte Herz der Musik, die in sich selbst befriedigte Formschönheit, durchstoßen und dem Phantom der „Bedeutung“ nachgejagt. Eine Ästhetik der Tonkunst müßte es daher zu ihren wichtigsten Aufgaben zählen, die Grundverschiedenheit zwischen dem Wesen der Musik und dem der Sprache unerbittlich darzulegen, und in allen Folgerungen das Prinzip festzuhalten, daß, wo es sich um Spezifisch-Musikalisches handelt, die Analogien mit der Sprache jede Anwendung verlieren.</cell>
             </row>
          </table>
       </body>

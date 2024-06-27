@@ -3,10 +3,10 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Concorance 1.30.1</title>
+            <title>Konkordanz 1.30.1</title>
          </titleStmt>
          <publicationStmt>
-            <p>unpublished</p>
+            <p>nicht veröffentlicht</p>
          </publicationStmt>
          <sourceDesc>
             <p>born digital</p>
@@ -18,7 +18,7 @@
          <list type="navigation">
             <item>
                <list type="selectPar">
-                  <head>Select Paragraph</head>
+                  <head>Paragraph auswählen</head>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.3</item>
@@ -312,35 +312,35 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.30.html">1.30</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e1044a1048964">VMS 6</ref>
+                     <ref target="hanslick-vms#d1e1044a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.30.html">1.30</ref>
-                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e975a1048964">VMS 7</ref>
+                     <ref target="hanslick-vms#d1e975a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.30.html">1.30</ref>
-                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e956a1048964">VMS 8</ref>
+                     <ref target="hanslick-vms#d1e956a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.30.html">1.30</ref>
-                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e961a1048964">VMS 9</ref>
+                     <ref target="hanslick-vms#d1e961a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.30.html">1.30</ref>
-                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e919a1048964">VMS 10</ref>
+                     <ref target="hanslick-vms#d1e919a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_1.31.html">1.31</ref>
                   </seg>
                </cell>
