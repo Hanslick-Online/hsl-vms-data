@@ -636,7 +636,7 @@
             </docTitle>
             <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard Hanslick, </docAuthor>
+               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, </docAuthor>
             </byline>
             <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
                Universität. </byline>
@@ -760,7 +760,7 @@
                <emph>
                   <rs type="place" ref="#hsl_place_id_55" xml:id="d1e497a1048964">Wien</rs>
                </emph>, am 11. Mai <date>1873</date>.</p>
-            <byline>Ed. H.</byline>
+            <byline>Ed. <rs type="person" ref="#hsl_person_id_1">H.</rs></byline>
             <pb n="[1]" facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1874_012.tif"/>
          </div>
          <div>
@@ -2015,7 +2015,7 @@
                Lebensprincip derselben. Sie hatten keine Ahnung, daß von der Entscheidung dieses
                Verhältnisses die ganze Existenz der Oper abhänge. Merkwürdig ist, wie ganz nahe
                insbesondere <rs type="person" ref="#hsl_person_id_99" xml:id="d1e2214a1048964">Gluck</rs>ʼs Gegner einigemal dem Punkte sind, von dem aus der Irrthum des
-               dramatischen Princips vollkommen erschaut und besiegt werden mag. So sagt <rs type="person" ref="#hsl_person_id_407" xml:id="d1e2219a1048964">de la Harpe</rs>
+               dramatischen Princips vollkommen erschaut und besiegt werden mag. So sagt de la <rs type="person" ref="#hsl_person_id_407" xml:id="d1e2219a1048964">Harpe</rs>
                im <rs type="bibl" ref="#hsl_work_id_354" xml:id="d1e2227a1048964">Journal de
                   Politique et de Litérature</rs> vom 5. October <date>1777</date>: <cit>
                   <quote>„On objecte, quiʼil nʼest pas naturel, de chanter un air de cette nature
@@ -4487,8 +4487,7 @@
                    ref="#hsl_person_id_692"
                    xml:id="d1e5322a1048964"
                    subtype="fictional">Tell</rs>“
-               oder „<rs type="person" ref="#hsl_person_id_693" xml:id="d1e5325a1048964">Jeanne</rs>
-               dʼArc“ überschrieben sein könnte. Das <emph>Drama</emph>
+               oder „Jeanne <rs type="person" ref="#hsl_person_id_693" xml:id="d1e5325a1048964">dʼArc</rs>“ überschrieben sein könnte. Das <emph>Drama</emph>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5331a1048964">Egmont</rs>, das
                   <emph>Bild</emph>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5336a1048964">Egmont</rs>

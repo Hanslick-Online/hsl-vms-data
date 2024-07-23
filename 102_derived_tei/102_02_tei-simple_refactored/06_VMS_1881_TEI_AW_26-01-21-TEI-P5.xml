@@ -815,7 +815,7 @@
             </docTitle>
             <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard Hanslick </docAuthor>, </byline>
+               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>, </byline>
             <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
                Universität. </byline>
             <docEdition>Sechste vermehrte und verbesserte Auflage.</docEdition>
@@ -913,7 +913,7 @@
                   <rs type="bibl" ref="#hsl_work_id_421" xml:id="d1e509a1048964">Grillparzer und die
                      Musik</rs>
                </emph>“ gehandelt. <note place="foot" xml:id="d1e516a1048964" n="3">„<rs type="bibl" ref="#hsl_work_id_422" xml:id="d1e521a1048964">Musikalische Stationen</rs>“ von
-                  Ed. Hanslick. <rs type="place" ref="#hsl_place_id_9">Berlin</rs> bei G. Hoffmann
+                  Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <rs type="place" ref="#hsl_place_id_9">Berlin</rs> bei G. Hoffmann
                      <date>1878</date>. S. 331 ff.</note>
             </p>
             <p n="V2.3" xml:id="d1e532a1048964">Leidenschaftliche Gegner haben mir mitunter eine
@@ -994,7 +994,7 @@
                <emph>
                   <rs type="place" ref="#hsl_place_id_55" xml:id="d1e624a1048964">Wien</rs>
                </emph> im Juli <date>1881</date>. </p>
-            <byline>Ed. H.</byline>
+            <byline>Ed. <rs type="person" ref="#hsl_person_id_1">H.</rs></byline>
             <pb n="[1]" facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_001.tif"/>
          </div>
          <div>
@@ -1575,13 +1575,13 @@
                          ref="#hsl_person_id_319"
                          rendition="#bold"
                          xml:id="d1e1445a1048964">Rich. Wagner</rs>: „<rs type="bibl" ref="#hsl_work_id_342" xml:id="d1e1448a1048964">das Kunstwerk der
-                        Zukunft</rs>,“<date>1850</date>. Gesamm. Schr. III, 99 und ähnlich sonst): <cit>
+                            Zukunft</rs>,“<date>1850</date>. <rs type="bibl" ref="#hsl_work_id_3376">Gesamm. Schr. III</rs>, 99 und ähnlich sonst): <cit>
                         <quote>„Das Organ des <emph>Herzens</emph> ist der Ton, seine künstlerisch
                            bewußte Sprache die Tonkunst“</quote>
                      </cit>. In den späteren Schriften freilich werden <rs type="person" ref="#hsl_person_id_319" xml:id="d1e1458a1048964">Wagner</rs>’s Definitionen
                      noch nebelhafter; da ist ihm Musik gleich <cit>
                         <quote>„Kunst des Ausdrucks“</quote>
-                     </cit> überhaupt (in „<rs type="bibl" ref="#hsl_work_id_343" xml:id="d1e1467a1048964">Oper und Drama</rs>“, ges. Schriften III, 343), die
+                     </cit> überhaupt (in „<rs type="bibl" ref="#hsl_work_id_343" xml:id="d1e1467a1048964">Oper und Drama</rs>“, <rs type="bibl" ref="#hsl_work_id_3376">ges. Schriften III</rs>, 343), die
                      ihm als <cit>
                         <quote>„Idee der Welt“</quote>
                      </cit> befähigt scheint, <cit>
@@ -2019,7 +2019,7 @@
                    subtype="fictional">Orpheus</rs>:<cit>
                   <quote>
                      <lg>
-                        <l>„J’ai perdu mon Euridice, </l>
+                        <l>„J’ai perdu mon <rs type="person" ref="#hsl_person_id_5086">Euridice</rs>, </l>
                         <l> Rien n’égale mon malheur“</l>
                      </lg>
                   </quote>
@@ -2396,8 +2396,7 @@
                daß von der Entscheidung dieses Verhältnisses die ganze Existenz der Oper abhänge.
                Merkwürdig ist, wie ganz nahe insbesondere <rs type="person" ref="#hsl_person_id_99" xml:id="d1e2519a1048964">Gluck</rs>ʼs Gegner einigemal dem Punkte sind, von dem
                aus der Irrthum des dramatischen Princips vollkommen erschaut und besiegt werden mag.
-               So sagt <rs type="person" ref="#hsl_person_id_407" xml:id="d1e2524a1048964">de la
-                  Harpe</rs> im <rs type="bibl" ref="#hsl_work_id_354" xml:id="d1e2529a1048964">Journal de Politique et de Littérature</rs> vom 5. October <date>1777</date>:<cit>
+               So sagt de la <rs type="person" ref="#hsl_person_id_407" xml:id="d1e2524a1048964">Harpe</rs> im <rs type="bibl" ref="#hsl_work_id_354" xml:id="d1e2529a1048964">Journal de Politique et de Littérature</rs> vom 5. October <date>1777</date>:<cit>
                   <quote>„On objecte, quiʼil nʼest pas naturel, de chanter un air de cette nature
                      dans une situation passionée, que cʼest un moyen dʼarrêter la scène et de nuir
                      à lʼeffet. Je trouve ces objections absolument illusoires. Dʼabord dès quʼon
@@ -3248,7 +3247,7 @@
                         auch den Muth der Anerkennung für das Neue, untergräbt die Production. Dem
                         schönen Unsterblichkeitsglauben müssen wir entsagen, – hat doch jede Zeit
                         mit demselben getäuschten Vertrauen die Unvergänglichkeit <emph>ihrer</emph>
-                        besten Opern proklamirt. Noch Adam <rs type="person" ref="#hsl_person_id_124" xml:id="d1e3689a1048964">Hiller</rs> in <rs type="place" ref="#hsl_place_id_32" xml:id="d1e3692a1048964">Leipzig</rs>
+                        besten Opern proklamirt. Noch Adam <rs type="person" ref="#hsl_person_id_125" xml:id="d1e3689a1048964">Hiller</rs> in <rs type="place" ref="#hsl_place_id_32" xml:id="d1e3692a1048964">Leipzig</rs>
                         behauptete, daß wenn jemals die Opern <emph>
                            <rs type="person" ref="#hsl_person_id_110" xml:id="d1e3695a1048964">Hasse</rs>’s</emph> nicht mehr entzücken sollten, die allgemeine
                         Barbarei hereinbrechen müßte. Noch <emph>
@@ -5059,8 +5058,7 @@
                    ref="#hsl_person_id_692"
                    xml:id="d1e5862a1048964"
                    subtype="fictional">Tell</rs>“
-               oder „<rs type="person" ref="#hsl_person_id_693" xml:id="d1e5865a1048964">Jeanne</rs>
-               dʼArc“ überschrieben sein könnte. Das <emph>Drama</emph>
+               oder „Jeanne <rs type="person" ref="#hsl_person_id_693" xml:id="d1e5865a1048964">dʼArc</rs>“ überschrieben sein könnte. Das <emph>Drama</emph>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5870a1048964">Egmont</rs>, das
                   <emph>Bild</emph>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5876a1048964">Egmont</rs>

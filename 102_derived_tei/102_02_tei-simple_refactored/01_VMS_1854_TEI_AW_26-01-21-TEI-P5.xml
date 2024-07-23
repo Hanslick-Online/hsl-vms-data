@@ -522,7 +522,7 @@
             </docTitle>
             <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard Hanslick </docAuthor>. </byline>
+               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>. </byline>
             <docImprint>
                <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, </docImprint>
             <docImprint>
@@ -562,7 +562,7 @@
             <p>
                <rs type="place" ref="#hsl_place_id_55" xml:id="d1e342a1048964">Wien</rs>, den
                11. September <date>1854</date>.</p>
-            <byline>Dr. Eduard Hanslick.</byline>
+            <byline>Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>.</byline>
          </div>
          <div>
             <pb facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1854_008.tif" n="[1]"/>
@@ -1465,8 +1465,7 @@
             <p n="2.30" xml:id="d1e1510a1048964">Was hier an Einzelnem gezeigt wurde, erweist sich
                ebenso an größerem und größtem Umfang. Man hat ganzen Gesangstücken oft andere Texte
                unterlegt. Wenn man <rs type="person" ref="#hsl_person_id_182" xml:id="d1e1512a1048964">Meyerbeer</rs>ʼs „<rs type="bibl" ref="#hsl_work_id_105">Hugenotten</rs>“ mit Veränderung des Schauplatzes, der Zeit, der Personen, der
-               Begebenheiten und der Worte als „Ghibellinen in <rs type="place" ref="#hsl_place_id_76">
-                  <rs type="place" ref="#hsl_place_id_76">Pisa</rs>
+               Begebenheiten und der Worte als „Ghibellinen in <rs type="place" ref="#hsl_place_id_76">Pisa
                </rs>“ aufführt, so stört ohne Zweifel die ungeschickte Mache, die
                   <emph>dramatische</emph> Lahmheit einer solchen Umarbeitung, allein der rein
                   <emph>musikalische Ausdruck</emph> wird nicht im Mindesten beleidigt. Und doch
@@ -1721,7 +1720,7 @@
                </emph> auf <rs type="person" ref="#hsl_person_id_99" xml:id="d1e1887a1048964">Gluck</rs>ʼs Seite, <emph>
                   <rs type="person" ref="#hsl_person_id_173" xml:id="d1e1893a1048964">Marmontel</rs>
                </emph> und <emph>
-                  <rs type="person" ref="#hsl_person_id_407" xml:id="d1e1899a1048964">La Harpe</rs>
+                  La <rs type="person" ref="#hsl_person_id_407" xml:id="d1e1899a1048964">Harpe</rs>
                </emph> wider ihn, gingen zwar wiederholt über die Kritik <rs type="person" ref="#hsl_person_id_99" xml:id="d1e1903a1048964">Gluck</rs>ʼs hinaus zu einer
                principiellen Beleuchtung des <emph>dramatischen</emph> Princips in der Oper und
                seines Verhältnisses zum <emph>musikalischen</emph>, allein sie behandelten dieses
@@ -1729,7 +1728,7 @@
                Lebensprincip derselben. Sie hatten keine Ahnung, daß von der Entscheidung dieses
                Verhältnisses die ganze Existenz der Oper abhänge. Merkwürdig ist, wie ganz nahe
                insbesondere <rs type="person" ref="#hsl_person_id_99" xml:id="d1e1910a1048964">Gluck</rs>ʼs Gegner einigemal dem Punkte sind, von dem aus der Irrthum des
-               dramatischen Princips vollkommen erschaut und besiegt werden mag. So sagt <rs type="person" ref="#hsl_person_id_407" xml:id="d1e1914a1048964">de la Harpe</rs>
+               dramatischen Princips vollkommen erschaut und besiegt werden mag. So sagt de la <rs type="person" ref="#hsl_person_id_407" xml:id="d1e1914a1048964">Harpe</rs>
                im <rs type="bibl" ref="#hsl_work_id_354" xml:id="d1e1923a1048964">Journal de
                   Politique et de Litérature</rs> vom 5. October <date>1777</date>: <cit>
                   <quote>„On objecte, quiʼil nʼest pas naturel, de chanter un air de cette nature
@@ -1755,7 +1754,7 @@
                          subtype="fictional">Alceste</rs> est sur le théâtre pour chanter, si je retrouve sa douleur et
                      son amour dans un air bien melodieux, je jouirai de son chant en mʼintéréssant
                      à son infortune.“</quote>
-               </cit> Sollte man glauben, daß <rs type="person" ref="#hsl_person_id_407" xml:id="d1e1964a1048964">La Harpe</rs> selbst nicht erkannte, wie prächtig er da
+               </cit> Sollte man glauben, daß La <rs type="person" ref="#hsl_person_id_407" xml:id="d1e1964a1048964">Harpe</rs> selbst nicht erkannte, wie prächtig er da
                auf festem Boden stand? Denn bald darauf läßt er sich beikommen, das Duo zwischen <rs type="person"
                    ref="#hsl_person_id_431"
                    xml:id="d1e1968a1048964"
@@ -1792,7 +1791,7 @@
                    n="[31]"
                    break="no"/>lung erfahren, daß wir gern darauf hinweisen können. Für unsren
                Zusammenhang ist nur scharf hervorzuheben, daß der Hauptgrundsatz <emph>
-                  <rs type="person" ref="#hsl_person_id_319" xml:id="d1e2031a1048964">Wagner</rs>ʼs&gt;</emph>, wie er ihn im ersten Band von „<rs type="bibl" ref="#hsl_work_id_343" xml:id="d1e2034a1048964">Oper und Drama</rs>“ ausspricht: <cit>
+                  <rs type="person" ref="#hsl_person_id_319" xml:id="d1e2031a1048964">Wagner</rs>ʼs</emph>, wie er ihn im ersten Band von „<rs type="bibl" ref="#hsl_work_id_343" xml:id="d1e2034a1048964">Oper und Drama</rs>“ ausspricht: <cit>
                   <quote>„Der Irrthum der Oper als Kunstgenre besteht darin, daß ein Mittel (die
                      Musik) zum Zweck, der Zweck (das Drama) aber zum Mittel gemacht wird,“</quote>
                </cit> – gänzlich auf falschem Boden steht. Denn eine Oper, in der die Musik immer
@@ -2401,7 +2400,7 @@
                   <quote>„Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle
                      Schönheiten einer <emph>
                         <rs type="person" ref="#hsl_person_id_189" xml:id="d1e2752a1048964">Mozart</rs>
-                     </emph>schen Symphonie zu berechnen?“</quote>
+                     </emph>’schen Symphonie zu berechnen?“</quote>
                </cit>
                <note place="foot" xml:id="d1e2758a1048964" n="7">„<rs type="bibl" ref="#hsl_work_id_360" xml:id="d1e2760a1048964">Geist in der Natur</rs>,“
                   3. Band, deutsch von <rs type="person" ref="#hsl_person_id_413">Kannegießer</rs>.
@@ -4133,7 +4132,7 @@
                   „<rs type="bibl" ref="#hsl_work_id_21">Egmont</rs>“ allenfalls „Wilhelm <rs type="person"
                    ref="#hsl_person_id_692"
                    xml:id="d1e5039a1048964"
-                   subtype="fictional">Tell</rs>“ oder „<rs type="person" ref="#hsl_person_id_693" xml:id="d1e5043a1048964">Jeanne</rs> dʼArc“ überschrieben sein könnte. Das
+                   subtype="fictional">Tell</rs>“ oder „Jeanne <rs type="person" ref="#hsl_person_id_693" xml:id="d1e5043a1048964">dʼArc</rs>“ überschrieben sein könnte. Das
                   <emph>Drama</emph>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5048a1048964">Egmont</rs>, das
                   <emph>Bild</emph>

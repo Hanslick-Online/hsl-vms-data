@@ -600,7 +600,7 @@
             </docTitle>
             <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard Hanslick </docAuthor>. </byline>
+               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>. </byline>
             <docEdition>Zweite verbesserte Auflage.</docEdition>
             <docImprint>
                <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, </docImprint>
@@ -703,7 +703,7 @@
                <emph>
                   <rs type="place" ref="#hsl_place_id_55" xml:id="d1e451a1048964">Wien</rs>
                </emph>, den 9. November <date>1857</date>.</p>
-            <byline>Dr. Ed. H.</byline>
+            <byline>Dr. Ed. <rs type="person" ref="#hsl_person_id_1">H.</rs></byline>
             <pb n="[XI]"
                 facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598668_00015"/>
          </div>
@@ -1926,7 +1926,7 @@
                Lebensprincip derselben. Sie hatten keine Ahnung, daß von der Entscheidung dieses
                Verhältnisses die ganze Existenz der Oper abhänge. Merkwürdig ist, wie ganz nahe
                insbesondere <rs type="person" ref="#hsl_person_id_99" xml:id="d1e2075a1048964">Gluck</rs>ʼs Gegner einigemal dem Punkte sind, von dem aus der Irrthum des
-               dramatischen Princips vollkommen erschaut und besiegt werden mag. So sagt <rs type="person" ref="#hsl_person_id_407" xml:id="d1e2080a1048964">de la Harpe</rs>
+               dramatischen Princips vollkommen erschaut und besiegt werden mag. So sagt de la <rs type="person" ref="#hsl_person_id_407" xml:id="d1e2080a1048964">Harpe</rs>
                im <rs type="bibl" ref="#hsl_work_id_354" xml:id="d1e2084a1048964">Journal de
                   Politique et de Litérature</rs> vom 5. October <date>1777</date>: <cit>
                   <quote>„On objecte, quiʼil nʼest pas naturel, de chanter un air de cette nature
@@ -4346,7 +4346,7 @@
                   „<rs type="bibl" ref="#hsl_work_id_21">Egmont</rs>“ allenfalls „Wilhelm <rs type="person"
                    ref="#hsl_person_id_692"
                    xml:id="d1e5159a1048964"
-                   subtype="fictional">Tell</rs>“ oder „<rs type="person" ref="#hsl_person_id_693" xml:id="d1e5162a1048964">Jeanne</rs> dʼArc“ überschrieben sein könnte. Das
+                   subtype="fictional">Tell</rs>“ oder „Jeanne <rs type="person" ref="#hsl_person_id_693" xml:id="d1e5162a1048964">dʼArc</rs>“ überschrieben sein könnte. Das
                   <emph>Drama</emph>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5168a1048964">Egmont</rs>, das
                   <emph>Bild</emph>

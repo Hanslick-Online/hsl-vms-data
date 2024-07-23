@@ -875,7 +875,7 @@
             </docTitle>
             <byline>von</byline>
             <byline>
-               <docAuthor> Dr. Eduard Hanslick </docAuthor>
+               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>
             </byline>
             <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
                Universität. </byline>
@@ -940,7 +940,7 @@
                   <rs type="bibl" ref="#hsl_work_id_421" xml:id="d1e409a1048964">Grillparzer und die
                      Musik</rs>
                </emph>“ gehandelt. <note place="foot" xml:id="d1e415a1048964" n="2">„<rs type="bibl" ref="#hsl_work_id_422" xml:id="d1e420a1048964">Musikalische Stationen</rs>“ von
-                  Ed. Hanslick. <rs type="place" ref="#hsl_place_id_9">Berlin</rs>, Verein
+                  Ed. <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>. <rs type="place" ref="#hsl_place_id_9">Berlin</rs>, Verein
                   f. dt. Litt. <date>1885</date>. 5. Aufl.</note>
             </p>
             <p n="V2.3" xml:id="d1e425a1048964">Leidenschaftliche Gegner haben mir mitunter eine
@@ -1017,7 +1017,7 @@
                Unvergängliche in der Tonkunst, auf die <emph>musikalische Schönheit</emph> hinwies,
                wie sie unsere großen Meister verkörperten und echt musikalische Erfinder auch in
                aller Zukunft pflegen werden.</p>
-            <byline>Ed. H.</byline>
+            <byline>Ed. <rs type="person" ref="#hsl_person_id_1">H.</rs></byline>
             <pb n="[1]" facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1902_010.tif"/>
          </div>
          <div>
@@ -1595,13 +1595,13 @@
                          ref="#hsl_person_id_319"
                          rendition="#bold"
                          xml:id="d1e1317a1048964">Rich. Wagner</rs>, „<rs type="bibl" ref="#hsl_work_id_342" xml:id="d1e1320a1048964">Das Kunstwerk der
-                        Zukunft</rs>“ (<date>1850</date>. Gesamm. Schr. III, 99 und ähnlich sonst): <cit>
+                            Zukunft</rs>“ (<date>1850</date>. <rs type="bibl" ref="#hsl_work_id_3376">Gesamm. Schr. III</rs>, 99 und ähnlich sonst): <cit>
                         <quote>„Das Organ des <emph>Herzens</emph> ist der <emph>Ton</emph>, seine
                            künstlerisch bewußte Sprache die Tonkunst.“</quote>
                      </cit> In den späteren Schriften freilich werden <rs type="person" ref="#hsl_person_id_319" xml:id="d1e1333a1048964">Wagner</rs>s Definitionen
                      noch nebelhafter; da ist ihm Musik gleich <cit>
                         <quote>„Kunst des Ausdrucks“</quote>
-                     </cit> überhaupt (in „<rs type="bibl" ref="#hsl_work_id_343" xml:id="d1e1342a1048964">Oper und Drama</rs>“, Ges. Schriften III, 343), die
+                     </cit> überhaupt (in „<rs type="bibl" ref="#hsl_work_id_343" xml:id="d1e1342a1048964">Oper und Drama</rs>“, <rs type="bibl" ref="#hsl_work_id_3376">Ges. Schriften III</rs>, 343), die
                      ihm als <cit>
                         <quote>„Idee der Welt“</quote>
                      </cit> befähigt scheint, <cit>
@@ -2039,7 +2039,7 @@
                    subtype="fictional">Orpheus</rs>: <cit>
                   <quote>
                      <lg>
-                        <l>„J’ai perdu mon Euridice, </l>
+                        <l>„J’ai perdu mon <rs type="person" ref="#hsl_person_id_5086">Euridice</rs>, </l>
                         <l> Rien n’égale mon malheur“</l>
                      </lg>
                   </quote>
@@ -2052,7 +2052,7 @@
                <cit>
                   <quote>
                      <lg>
-                        <l>„J’ai trouvé mon Euridice, </l>
+                        <l>„J’ai trouvé mon <rs type="person" ref="#hsl_person_id_5086">Euridice</rs>, </l>
                         <l> Rien n’égale mon bonheur.“</l>
                      </lg>
                   </quote>
@@ -2386,7 +2386,7 @@
                   Augenblick zurücktreten; sie wirkt ferner durch den Sinn des Gehörs in einer, wie
                   es scheint, noch nicht aufgeklärten Weise unmittelbar auf die Phantasie und das
                   Gefühl mit einer erregenden Kraft ein, welche ebenfalls die der Poesie momentan
-                  überflügelt (O. <rs type="person" ref="#hsl_person_id_135">Jahn</rs> „<rs type="person" ref="#hsl_person_id_135" xml:id="d1e2366a1048964">Mozart</rs>“,
+                  überflügelt (O. <rs type="person" ref="#hsl_person_id_135">Jahn</rs> „<rs type="bibl" ref="#hsl_work_id_485" xml:id="d1e2366a1048964">Mozart</rs>“,
                   III. 91).</note>
             </p>
             <pb n="[64]"
@@ -3268,7 +3268,7 @@
                         auch den Mut der Anerkennung für das Neue, untergräbt die Produktion. Dem
                         schönen Unsterblichkeitsglauben müssen wir entsagen, – hat doch jede Zeit
                         mit demselben getäuschten Vertrauen die Unvergänglichkeit <emph>ihrer</emph>
-                        besten Opern proklamiert. Noch Adam <rs type="person" ref="#hsl_person_id_124" xml:id="d1e3612a1048964">Hiller</rs> in <rs type="place" ref="#hsl_place_id_32" xml:id="d1e3616a1048964">Leipzig</rs>
+                        besten Opern proklamiert. Noch Adam <rs type="person" ref="#hsl_person_id_125" xml:id="d1e3612a1048964">Hiller</rs> in <rs type="place" ref="#hsl_place_id_32" xml:id="d1e3616a1048964">Leipzig</rs>
                         behauptete, daß wenn jemals die Opern <emph>
                            <rs type="person" ref="#hsl_person_id_110" xml:id="d1e3619a1048964">Hasse</rs>s</emph> nicht mehr entzücken sollten, die allgemeine
                         Barbarei hereinbrechen müßte. Noch <emph>
@@ -5062,7 +5062,7 @@
                ebenfalls „Wilhelm <rs type="person"
                    ref="#hsl_person_id_692"
                    xml:id="d1e5795a1048964"
-                   subtype="fictional">Tell</rs>“ oder „<rs type="person" ref="#hsl_person_id_693" xml:id="d1e5798a1048964">Jeanne</rs> dʼArc“ überschrieben
+                   subtype="fictional">Tell</rs>“ oder „Jeanne <rs type="person" ref="#hsl_person_id_693" xml:id="d1e5798a1048964">dʼArc</rs>“ überschrieben
                sein könnte. Das <emph>Drama</emph>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5804a1048964">Egmont</rs>, das
                   <emph>Bild</emph>
