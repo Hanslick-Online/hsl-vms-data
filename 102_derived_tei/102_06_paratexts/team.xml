@@ -152,6 +152,17 @@
             <div type="block">
                <head>Praktikant*innen</head>
                <figure>
+                  <graphic url="images/Portrait_Bertel.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Hanna Bertel, BA</hi>, Praktikantin (Hanslick in <emph>Neue
+                        Freie Presse</emph>, 08/2024)</item>
+                  <item>Universität Wien / Alban Berg Stiftung</item>
+                  <item>Universitätsring 1, 1010 Wien / Trauttmansdorffgasse 27, 1130 Wien</item>
+                  <item>Email: <ref type="mail" target="hanna.bertel@aon.at"
+                        >hanna.bergel(at)aon.at</ref></item>
+               </list>
+               <figure>
                   <graphic url="images/Portrait_Luis_Andres.jpg"/>
                </figure>
                <list type="biography">
