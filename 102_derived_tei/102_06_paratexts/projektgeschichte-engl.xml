@@ -39,9 +39,9 @@
                   since 2014 as part of several individual projects located at the <ref
                      target="https://www.oeaw.ac.at/en/">Austrian Academy of Sciences</ref>,
                   initially hosted by the <ref
-                     target="https://www.oeaw.ac.at/acdh/musikwissenschaft/die-abteilung/geschichte-der-vorgaengerinstitutionen"
+                     target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft/geschichte-der-vorgaengerinstitutionen"
                      >Institute of History of Art and Musicology</ref> (2014–2019) and, as of 2020,
-                  by the <ref target="https://www.oeaw.ac.at/acdh/musikwissenschaft">Austrian Centre
+                  by the <ref target="https://www.oeaw.ac.at/acdh/research/musicology">Austrian Centre
                      for Digital Humanities and Cultural Heritage, Department of Musicology</ref>
                   (ACDH-CD). Our research focuses on Hanslick’s historically significant treatise
                      <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der
@@ -73,7 +73,7 @@
                   aesthetics as well as his impact on various disciplinary discourses, ranging from
                   musicology and music philosophy to music psychology, literary theory, art history,
                   and musical criticism. Moreover, he directed the project <ref
-                     target="https://www.oeaw.ac.at/acdh/projects/completed-projects/hanslick-adler-and-the-creation-of-an-academic-discipline"
+                     target="https://www.oeaw.ac.at/acdh/research/musicology/research/project-archive/hanslick-adler-and-musicology"
                      >Creating an Academic Discipline: Eduard Hanslick, Guido Adler, and the
                      Establishment of Musicological Methodology in 19th-Century Vienna</ref> (Erwin
                   Schrödinger Fellowship <ref
@@ -86,12 +86,12 @@
                   investigated Hanslick’s professorship, and has recently been analyzing Hanslick’s
                   critical writings. “Hanslick in Context,” which explores the historical background
                   of Hanslick’s activities as an aesthetic theorist, music critic, and musicologist,
-                  consists—as of 2023—of the following individual research projects, for which
+                  consists—as of 2024—of the following individual research projects, for which
                   Landerer and Wilfing have received support from various funding bodies: </p>
                   <figure>
                      <graphic url="images/Projektgeschichte_Hanslick_Kongress_new.jpg"></graphic>
                      <head>Program of the <ref
-                        target="https://www.oeaw.ac.at/de/acdh/musikwissenschaft/news/eduard-hanslick-im-kontext-2"
+                        target="https://www.oeaw.ac.at/de/acdh/detail/news/eduard-hanslick-im-kontext-3"
                         >conference “Hanslick im Kontext,”</ref> photograph by Franz Pflügl; by
                      courtesy of the University of Vienna</head>
                      <!--<figDesc>...</figDesc>-->
@@ -262,8 +262,8 @@
                   interpretation of Hanslick’s concepts and methods.</p>
             </div>
             <div type="inline">
-               <p>The project “Eduard Hanslick's Criticism Between Aesthetics, Journalism, and
-                  Scholarship” now shifts the focus of our ongoing research to Hanslick's critical
+               <p>The project “Eduard Hanslick’s Criticism Between Aesthetics, Journalism, and
+                  Scholarship” now shifts the focus of our ongoing research to Hanslick’s critical
                   writings, while retaining our attention to questions of textual analysis. While
                   scholarship has so far focused chiefly on analyzing and interpreting Hanslick’s
                   aesthetics and situating his theoretical reasoning in the context of his age, the
@@ -301,6 +301,29 @@
                      of <ref target="https://onb.digital/result/10F2ECCA">Österreichische
                         Nationalbibliothek</ref></head>
                </figure>
+            </div>
+            <div type="inline">
+               <figure>
+                  <graphic url="html/images/VMS_Kritiken.jpg"></graphic>
+                  <head>Franz Brendel, review of <emph>Vom Musikalisch-Schönen</emph>, <ref
+                        target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=93"
+                           ><emph>Neue Zeitschrift für Musik</emph>, February 16, 1855</ref></head>
+               </figure>
+               <p>The project „The Critic under Scrutiny: The Reviews of Eduard Hanslick’s <emph>Vom
+                     Musikalisch-Schönen</emph> (1854–1857)“ takes a closer look at the development
+                  of <emph>Vom Musikalisch-Schönen</emph> by examining reviews of the initial
+                  edition as a catalyst for changes in Hanslick’s argument. Alongside the more
+                  widely known reviews by Robert Zimmermann and Hermann Lotze, 26 reviews appeared
+                  between the end of 1854 and the end of 1857, when the second edition of Hanslick’s
+                  treatise was published. The project team will process these reviews as annotated
+                  XML/TEI files and make them available as a distinct textual corpus. Beyond this
+                  edition, we will also analyze the extent to which Hanslick explicitly addressed or
+                  implicitly responded to criticism, and whether he borrowed passages from these
+                  reviews in ensuing editions. This project on the earliest reviews of <emph>Vom
+                     Musikalisch-Schönen</emph> thus not only enriches our understanding of
+                  Hanslick’s reception and the aesthetic and musical debates of the nineteenth
+                  century; it moreover contributes to the reconstruction of the emergence and
+                  development of a text that remains central to music philosophy today. </p>
             </div>
          </div>
       </body>

@@ -39,9 +39,9 @@
                   seit 2014 im Rahmen von mehreren einzelnen Projekten an der <ref
                      target="https://www.oeaw.ac.at/">Österreichischen Akademie der
                      Wissenschaften</ref> durchführen, ursprünglich am <ref
-                     target="https://www.oeaw.ac.at/acdh/musikwissenschaft/die-abteilung/geschichte-der-vorgaengerinstitutionen"
+                        target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft/geschichte-der-vorgaengerinstitutionen"
                      >Institut für kunst- und musikhistorische Forschungen</ref> (2014–2019), seit
-                  2020 am <ref target="https://www.oeaw.ac.at/acdh/musikwissenschaft">Austrian
+                  2020 am <ref target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft">Austrian
                      Centre for Digital Humanities and Cultural Heritage, Department of
                      Musicology</ref> (ACDH-CH). Im Zentrum unserer Forschung stehen hierbei
                   Hanslicks geschichtlich bedeutender Ästhetiktraktat <emph>Vom Musikalisch-Schönen:
@@ -71,7 +71,7 @@
                   Wirkung auf diverseste disziplinäre Diskurse von der Musikwissenschaft und
                   Musikphilosophie bis zur Musikpsychologie, Literaturtheorie, Kunstgeschichte und
                   Musikkritik. Von 2021 bis 2023 leitete er zudem das Projekt <ref
-                     target="https://www.oeaw.ac.at/acdh/musikwissenschaft/forschung/projektarchiv/hanslick-adler-und-die-schaffung-einer-akademischen-disziplin"
+                     target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft/forschung/projektarchiv/hanslick-adler-und-die-musikwissenschaft"
                      >Creating an Academic Discipline: Eduard Hanslick, Guido Adler, and the
                      Establishment of Musicological Methodology in 19th-Century Vienna</ref>
                   (Erwin-Schrödinger-Fellowship des FWF, <ref
@@ -84,12 +84,12 @@
                   Professur widmete, und analysiert neuerdings verstärkt Hanslicks kritische
                   Schriften. „Hanslick im Kontext“, das die historischen Hintergründe von Hanslicks
                   Tätigkeit als Musikästhetiker, Musikrezensent und Musikwissenschaftler zum Thema
-                  hat, besteht – Stand 2023 – aus den folgenden zeitlich befristeten Projekten, die
+                  hat, besteht – Stand 2024 – aus den folgenden zeitlich befristeten Projekten, die
                   Landerer und Wilfing bei verschiedenen Fördergebern eingeworben haben:</p>
                   <figure>
                      <graphic url="images/Projektgeschichte_Hanslick_Kongress_new.jpg"></graphic>
                      <head>Programm der <ref
-                        target="https://www.oeaw.ac.at/de/acdh/musikwissenschaft/news/eduard-hanslick-im-kontext-2"
+                        target="https://www.oeaw.ac.at/de/acdh/detail/news/eduard-hanslick-im-kontext-3"
                         >Tagung „Hanslick im Kontext“</ref>, Foto von Franz Pflügl; mit Genehmigung
                      der Universität Wien</head>
                      <!--<figDesc>...</figDesc>-->
@@ -127,7 +127,7 @@
                         target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft/forschung/komponistinnen-editionen/hanslick-in-der-kritik"
                         >Der Kritiker in der Kritik: Die Kritiken zu Eduard Hanslicks <emph>Vom
                            Musikalisch-Schönen</emph> (1854–1857)</ref> (Einzelprojekt, gefördert
-                     von der Stadr Wien, Leitung Alexander Wilfing)</item>
+                     von der Stadt Wien, Leitung Alexander Wilfing)</item>
                </list>
             </div>
             <div type="inline">
@@ -280,14 +280,38 @@
                   Vergleiche, Metaphern, etc.) ausgeweitet, was das Projekt für die Analyse von
                   kulturellen, politischen und allgemeinen historischen Kontexte öffnet, welche in
                   einem Folgeprojekt ins Zentrum der Arbeiten rücken sollen. Die textliche Analyse
-                  basiert hierbei auf der digitalen Edition von <emph>Vom Musikalisch-Schönen
-                  </emph> (2023) und der Transkription und TEI-Annotation von Hanslicks Schriften
-                  für die <emph>Neue Freie Presse</emph> (1864–1904) sowie seiner 12 Anthologien,
-                  welche in einem laufenden Verfahren online gestellt werden. </p>
+                  basiert hierbei auf der digitalen Edition von <emph>Vom Musikalisch-Schönen</emph>
+                  (2023) und der Transkription und TEI-Annotation von Hanslicks Schriften für die
+                     <emph>Neue Freie Presse</emph> (1864–1904) sowie seiner 12 Anthologien, welche
+                  in einem laufenden Verfahren online gestellt werden. </p>
                <figure>
                   <graphic url="images/Projektgeschichte_Hanslick_Karikatur.jpg"></graphic>
                   <head>Eduard Hanslick und Richard Wagner, Schattenbild von Otto Böhler; mit Genehmigung der <ref target="https://onb.digital/result/10F2ECCA">Österreichischen Nationalbibliothek</ref></head>
                </figure>
+            </div>
+            <div type="inline">
+               <figure>
+                  <graphic url="html/images/VMS_Kritiken.jpg"></graphic>
+                  <head>Franz Brendel, Kritik von <emph>Vom Musikalisch-Schönen</emph>, <ref
+                        target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=93"
+                           ><emph>Neue Zeitschrift für Musik</emph>, 16.02.1855</ref></head>
+               </figure>
+               <p>Das Projekt „Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks <hi
+                     rend="italic">Vom Musikalisch-Schönen</hi> (1854–1857)“, gefördert von der
+                  Stadt Wien, vertieft den Blick auf die Entwicklung von <emph>Vom
+                     Musikalisch-Schönen</emph>, indem Rezensionen der 1. Auflage als Movens für
+                  Änderungen an Hanslicks Argument analysiert werden. Neben bekannteren Rezensionen
+                  von Robert Zimmermann und Hermann Lotze erschienen zwischen Ende 1854 und Ende
+                  1857, als die zweiten Auflage des Traktats vorlag, 26 Kritiken, die das
+                  Projektteam als annotierte XML/TEI-Texte ediert und als autonomen Textkorpus
+                  publizieren wird. Darüber hinaus werden wir analysieren, inwiefern Hanslick die
+                  Kritikpunkte ausdrücklich aufgegriffen, unterschwellig auf sie reagiert, oder auch
+                  textliche Anleihen in späteren Auflagen gemacht hat. Dieses Projekt zu frühen
+                  Kritiken von <emph>Vom Musikalisch-Schönen</emph> ist somit nicht nur als Beitrag
+                  zur Rezeption Hanslicks und zur vertieften Kenntnis der musikalischen sowie
+                  ästhetischen Diskussion des 19. Jahrhunderts aufzufassen, sondern trägt ebenso zur
+                  Rekonstruktion der Entstehung und Entwicklung eines weiterhin zentralen Texts der
+                  Musikphilosophie bei.</p>
             </div>
          </div>
       </body>
