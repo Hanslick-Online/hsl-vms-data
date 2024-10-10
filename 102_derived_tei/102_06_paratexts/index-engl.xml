@@ -38,14 +38,14 @@
                   target="https://orcid.org/0000-0002-7568-3737">Christoph Landerer</ref> and <ref target="https://orcid.org/0000-0002-0117-3574">Alexander Wilfing</ref> have been exploring the
                historical contexts of Hanslick and his works since 2014.</p>
             <p>Particular attention is paid to the numerous adaptations these texts have gone
-               through during Hanslick’s lifetime. Besides making these texts (so far, <ref
+               through during Hanslick’s lifetime. Besides making these texts (so far, 1. <ref
                   target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en"><emph>Vom
-                     Musikalisch-Schönen</emph></ref>, Hanslick’s writings for the <ref
-                  target="toc.html"><emph>Neue Freie Presse</emph></ref>, and reviews of the initial
-               edition of <emph>Vom Musikalisch-Schönen</emph>) publicly available, “Hanslick Online” also
-               facilitates automated comparisons between textual variants. The website thereby fills
-               a gap in Hanslick scholarship, which is currently focusing more and more on the
-               dynamic evolution and fluctuation of Hanslick’s mindset.</p>
+                     Musikalisch-Schönen</emph></ref>, 2. Hanslick’s writings for the <ref
+                  target="toc.html"><emph>Neue Freie Presse</emph></ref>, and 3. reviews of the
+               initial edition of <emph>Vom Musikalisch-Schönen</emph>) publicly available,
+               “Hanslick Online” also facilitates automated comparisons between textual variants.
+               The website thereby fills a gap in Hanslick scholarship, which is currently focusing
+               more and more on the dynamic evolution and fluctuation of Hanslick’s mindset.</p>
             <p>The “Project” drop-down menu provides a brief sketch of <ref
                   target="bedeutung-hanslick-engl.html?lang=en">Hanslick’s historical
                   relevance</ref> from the nineteenth century to the present, explains the <ref
@@ -58,10 +58,10 @@
                   >presentations</ref>, and <ref target="veranstaltungen-engl.html?lang=en"
                   >events</ref>).</p>
             <p>Under the “Edition” drop-down menu, you will find the <ref
-                  target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en">ten editions</ref> of
-                  <emph>Vom Musikalisch-Schönen</emph> and the option to compare variants of your
-               choice by means of automated collation. By the end of 2025, Hanslick’s writings for
-               the <ref target="toc.html"><emph>Neue Freie Presse</emph></ref> and the reviews of
+                  target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html?lang=en">ten editions of
+                     <emph>Vom Musikalisch-Schönen</emph></ref> and the option to compare variants
+               by means of automated collation. By the end of 2025, Hanslick’s writings for the <ref
+                  target="toc.html"><emph>Neue Freie Presse</emph></ref> and the reviews of
                   <emph>Vom Musikalisch-Schönen</emph> will also be published, including TEI markup
                (in progress). As the culmination of the project series, a closing project has been
                granted in late 2024 that will fund both a commentary of <emph>Vom
