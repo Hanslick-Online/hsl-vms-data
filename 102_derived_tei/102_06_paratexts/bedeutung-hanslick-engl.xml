@@ -331,9 +331,9 @@
                   </list>
                </div>
                <div>
-                  <head>Translations of <emph>Vom Musikalisch-Schönen</emph></head>
                   <div type="block">
-                     <list type="bibl">
+                     <head>Translations of <emph>Vom Musikalisch-Schönen</emph></head>
+                        <div type="block"><list type="bibl">
                         <item>Albanian: <emph>Për të bukurën muzikore</emph>, transl. by Bekim
                            Ramadani, Tetovo: Universiteti Shtetëror i Tetovës, Fakulteti i muzikës,
                            2014.</item>
@@ -416,6 +416,7 @@
                   </div>
                </div> 
             </div>
+         </div>
          </div>
       </body>
   </text>
