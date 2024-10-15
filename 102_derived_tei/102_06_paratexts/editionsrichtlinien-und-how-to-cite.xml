@@ -17,7 +17,7 @@
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2023">2023</date>
+            <date when="2023">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
@@ -31,22 +31,49 @@
      <body xml:lang="de-AT">
          <div type="main">
             <head>Editionsrichtlinien und Zitiervorschlag</head>
+            <p>Stand Ende 2024 umfasst die Website „Hanslick Online“ drei distinkte textliche
+               Korpara zu Eduard Hanslick:<list>
+                  <item>die Edition der 10 Auflagen von Hanslicks Ästhetik-Traktat <emph>Vom
+                        Musikalisch-Schönen</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von
+                     Meike Wilfing-Albrecht und Daniel Elsner (2023),</item>
+                  <item>die Edition von Hanslicks Schriften für die <hi rend="italic">Neue Freie
+                        Presse</hi>, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina
+                     Bamer, Daniel Elsner und Anna-Maria Pfiel (2023–2025) und</item>
+                  <item>die Edition der Kritiken zur ersten Auflage von <emph>Vom
+                        Musikalisch-Schönen</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von
+                     Daniel Elsner und Anna-Maria Pfiel (2024–2025).</item>
+               </list></p>
+            <p>Die Editionen wurden / werden von Alexander Wilfing geleitet und von Daniel Elsner
+               technisch umgesetzt. Das Logo von „Hanslick Online“ wurde von Olivia Reichl erstellt
+               und die englischen Begleittexte im Jahr 2023 von David Heyde lektoriert. Die
+               Zitiervorschläge für das jeweilige Textkorpus lauten wie folgt:<list>
+                  <item>Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
+                        Ästhetik der Tonkunst</emph>, hrsg. von Alexander Wilfing unter Mitarbeit
+                     von Meike Wilfing-Albrecht und Daniel Elsner (2023), Auflagenzahl,
+                     Absatznummer, Hyperlink.</item>
+                  <item>Eduard Hanslick, „Titel. Untertitel“, in <emph>Neue Freie Presse</emph>, Nr.
+                     / Datum, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina Bamer,
+                     Anna-Maria Pfiel und Daniel Elsner (2023–2025), Hyperlink.</item>
+                  <item>Autorname, „Titel. Unteritel“, in <emph>Zeitschrift</emph>, Nr. / Datum,
+                     hrsg. von Alexander Wilfing unter Mitarbeit von Anna-Maria Pfiel und Daniel
+                     Elsner (2024–2025), Hyperlink.</item>
+               </list></p>
             <div type="sub">
                <head>Editionsrichtlinien (<hi rend="italic">Vom Musikalisch-Schönen</hi>)</head>
                <byline>Alexander Wilfing und Meike Wilfing-Albrecht, 2023</byline>
-               <p>Die Grundlage dieser Edition bilden die 10 Auflagen von Eduard Hanslicks Traktat
-                     <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Ästhetik der
-                     Tonkunst</emph>, die zwischen 1854 und 1902 in fallweise geänderter Textfassung
-                  publiziert wurden. Die Auflagen 1 bis 3 (1854–1865) erschienen bei Rudolph Weigel
-                  (Leipzig), ab Auflage 4 (1874–1902) gab Johann Ambrosius Barth (Leipzig) den
-                  Traktat heraus. Weitere Quellen wie Skizzen, Druckvorlagen, Korrektur-Exemplare
-                  o.Ä. sind Stand heute nicht bekannt, da Hanslicks Nachlass im Zweiten Weltkrieg
-                  verlustig gegangen ist. Somit stellen die Druckexemplare die jeweils einzigen
-                  Vorlagen für die gegenwärtige digitale Edition dar. Die zum Teil schon vorab
-                  veröffentlichten Kapitel bzw. Artikel, aus denen dieser Traktat vermutlich
-                  entwickelt wurde (siehe die ersten beiden Einträge unter „<ref
-                     target="bedeutung-hanslick.html?lang=de">Eduard Hanslick Schriften</ref>“) fanden
-                  keinen Eingang in unsere Edition.</p>
+               <p>Die Grundlage dieser Edition bilden die 10 Auflagen von Eduard Hanslicks
+                  Ästhetik-Traktat <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
+                     Ästhetik der Tonkunst</emph>, die zwischen 1854 und 1902 in fallweise
+                  geänderter Textfassung publiziert wurden. Die Auflagen 1 bis 3 (1854–1865)
+                  erschienen bei Rudolph Weigel (Leipzig), ab Auflage 4 (1874–1902) gab Johann
+                  Ambrosius Barth (Leipzig) den Traktat heraus. Weitere Quellen wie Skizzen,
+                  Druckvorlagen, Korrektur-Exemplare o.Ä. sind Stand heute nicht bekannt, da
+                  Hanslicks Nachlass im Zweiten Weltkrieg verlustig gegangen ist. Somit stellen die
+                  Druckexemplare die jeweils einzigen Vorlagen für die digitale Edition dar. Die zum
+                  Teil schon vorab veröffentlichten Kapitel bzw. Artikel, aus denen dieser Traktat
+                  vermutlich entwickelt wurde (siehe die ersten beiden Einträge unter „<ref target="bedeutung-hanslick.html?lang=de">Eduard Hanslick Schriften</ref>“)
+                  fanden keinen Eingang in unsere Edition (sie werden in einem neuen Projekt ediert
+                  und bereitgestellt).</p>
                   <p>Die Traktat-Auflagen, übertragen und korrigiert von Meike Wilfing-Albrecht,
                   werden weitestgehend originalgetreu wiedergegeben, die Rechtschreibung wird
                   beibehalten. Fehler, die innerhalb der Auflagen von Hanslick selbst korrigiert
@@ -82,22 +109,128 @@
                      >MDZ</ref> vor. Die in den Kapiteln 2.19, 2.25, 2.28 (Auflage 1) bzw. 2.19 und
                   2.17 (Auflage 2–10) abgebildeten Notenbeispiele wurden von unserer Kollegin
                   Vasiliki Papadopoulou neu gesetzt und gemäß dem Originaltext eingerichtet, wofür
-                  wir ihr herzlich danken wollen. Einzig die Akkoladen-Umbrüche decken sich nicht
-                  mit der Vorlage, da sie der kleineren Dimension der jeweiligen Ausgabe geschuldet
-                  sind und demzufolge keinen semantischen Aussagewert haben. Hanslick hat die
-                  Notenbeispiele wahrscheinlich eigens setzen lassen, die Vorlagen hierfür sind
-                  jedoch ebenfalls unbekannt. Beim Beispiel von Christoph Willibald Glucks „Che
-                  farò“ (2.27, ab Auflage 2) werden die Abweichungen bei der Silbenteilung zwischen
-                  den einzelnen Auflagen nicht extra angemerkt. Diese können anhand des jeweiligen
-                  Digitalisats individuell nachgeprüft werden.</p>
+                  wir uns herzlich bedanken. Einzig die Akkoladen-Umbrüche decken sich nicht mit der
+                  Vorlage, da sie der kleineren Dimension der jeweiligen Ausgabe geschuldet sind und
+                  demzufolge keinen semantischen Aussagewert haben. Hanslick hat die Notenbeispiele
+                  wahrscheinlich eigens setzen lassen, die Vorlagen hierfür sind jedoch ebenfalls
+                  unbekannt. Beim Beispiel von Christoph Willibald Glucks „Che farò“ (2.27, ab
+                  Auflage 2) werden die Abweichungen bei der Silbenteilung zwischen den einzelnen
+                  Auflagen nicht extra angemerkt. Diese können anhand des jeweiligen Digitalisats
+                  individuell nachgeprüft werden. </p>
+            </div>
+            <div type="sub">
+               <head>Editionsrichtlinien (Hanslicks Schriften für die <hi rend="italic">Neue Freie
+                     Presse</hi> und die Rezensionen von <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi>)</head>
+               <byline>Alexander Wilfing, 2024</byline>
+               <p>Die Regeln der Edition von Hanslicks Schriften für die <hi rend="italic">Neue
+                     Freie Presse</hi> und der Rezensionen der ersten Auflage von <emph>Vom
+                     Musikalisch-Schönen</emph> entsprechen größtenteils den Regeln für seinen
+                  Traktat. Somit werden selbige nur insofern benannt, als sie sich von den
+                  vorstehenden Richtlinien unterscheiden. Fußnoten werden gemäß dem Original mit
+                  einem Asterisk * kenntlich gemacht, da sie im Vergleich zu <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi> nur selten und im Rahmen relativ kurzer Aufsätze
+                  vorkommen.</p>
+               <p>Textliche Grundlage der Kritiken-Edition bilden vorerst primär die von Hanslick
+                  mit „Ed. H.“ eindeutig signierten Feuilletons „unter dem Strich“ von 1864, dem
+                  Gründungsjahr der <hi rend="italic">Neuen Freien Presse</hi>, bis 1904, dem
+                  Todesjahr Hanslicks. Diese Texte (ca. 900 Stück) finden sich meist in je 3 Spalten
+                  auf den ersten 2–3 Seiten einer Zeitungsausgabe. Andere Schriften der <hi
+                     rend="italic">Neuen Freien Presse</hi> mit Musik-Bezug sollen folgen, sofern
+                  Hanslick als Autor in Frage kommt. Eine Liste der Texte hat Alexander Wilfing
+                  schon 2011 für Christoph Landerers Projekt „Nietzsche’s Reception of Hanslick“
+                  mittels <ref target="https://anno.onb.ac.at/">ANNO</ref> erstellt und später
+                  deutlich ergänzt. Die benutzten Digitalisate, die den Kritiken als Faksimile
+                  beigegeben werden, stammen ebenfalls aus ANNO (Austrian Newspaper Online). Aus
+                  pragmatischen Beweggründen gehen die Mitarbeiter*innen dieser Edition in
+                  chronologisch aufsteigender und absteigender Reihenfolge vor. </p>
+               <p>Wilfing hat auch die 26 Rezensionen von <emph>Vom Musikalisch-Schönen</emph>
+                  mithilfe diverser Repositorien (ANNO, <ref
+                     target="https://www.deutsche-digitale-bibliothek.de/newspaper">DZP</ref>, <ref
+                     target="https://www.jstor.org/">JSTOR</ref>, etc.) und dem Anhang von Mark Evan
+                  Bonds <emph>Absolute Music: The History of an Idea</emph> (Oxford: Oxford
+                  University Press, 2014), S. 301–307 identifiziert. Hierbei handelt es sich um
+                  Besprechungen, die von Ende 1854 bis Ende 1857 erschienen, als als laut dem <hi
+                     rend="italic">Börsenblatt für den Deutschen Buchhandel</hi> (14.12.1857, S. 2)
+                  die zweite Auflage des Ästhetik-Traktats vorlag. Die Länge dieser Texte reicht von
+                  1-seitigen bis hin zu substantiellen mehrteiligen Rezensionen, wie etwa jene von
+                  Emil Kuh (<hi rend="italic">Der Humorist</hi>, 18/305, S. 1219; 18/306, S. 1223;
+                  18/309, S. 1235), Franz Brendel (<hi rend="italic">Neue Zeitschrift für
+                  Musik</hi>, 42/8, S. 77–82; 42/9, S. 89–91; 42/10, S. 97–100) und Ludwig Bischoff
+                     (<hi rend="italic">Niederrheinische Musik-Zeitung</hi>, 3/7, S. 49–53; 3/8, S.
+                  57–60; 3/9, S. 65–66; 3/10, S. 73–75). </p>            
+            </div>
+            <div type="sub">
+               <head>Erhebung, Selektion und Darstellung  von Daten</head>
+               <byline>Alexander Wilfing, 2024</byline>
                <p>Die TEI-Annotation von <emph>Vom Musikalisch-Schönen</emph> wurde durch Alexander
-                  Wilfing besorgt, der die Edition im Ganzen betreute. Als Entitäten wurden in einem
-                  ersten Schritt Namen, Werke und Orte erfasst, die in der Online-Edition jeweils
-                  mittels des Menüs „Annotationen“ farblich markiert werden können. Im Index – wo
-                     <ref target="listperson.html?lang=de">Personen</ref> (wirkliche wie fiktionale)
-                  und <ref target="listbibl.html?lang=de">Werke</ref> zusätzlich miteinander
-                  verknüpft sind – und der Detailansicht von Annotationen wurde (sofern im
-                  Einzelfall vorhanden) bei Personennamen die Schreibweise der <ref
+                  Wilfing besorgt, der die Edition im Ganzen betreute. Bei der Edition der Schriften
+                  für die <hi rend="italic">Neue Freie Presse</hi> standen ihm Katharina Bamer und
+                  Anna-Maria Pfiel zur Seite. Letztere übernahm ebenfalls die Übertragung und
+                  Annotation der Rezensionen der ersten Auflage von <emph>Vom
+                     Musikalisch-Schönen</emph>. Wähernd die XML/TEI-Dateien der 10 Auflagen von
+                  Hanslicks Ästhetik-Traktat auf Basis von Word-Files erstellt wurden, nutzte das
+                  Projektteam <ref target="https://readcoop.eu/de/transkribus/">Transkribus</ref>
+                  für die Übertragung, Lektorierung und Annotation der anderen Korpora. Die
+                  Formatierung und editorische Feinarbeit erfolgt mittels des XML-Editors <ref
+                     target="https://www.oxygenxml.com/">Oxygen</ref>, während „named entities“ über
+                  eine <ref target="https://baserow.io/">Baserow</ref>-Datenbank integriert und
+                  vernetzt werden. Die digitale Edition ist auf Basis des am ACDH-CH entwickelten
+                  Frameworks „DSE Static Cookiecutter“ implementiert, einem “static-site” Generator
+                  für XML/TEI-kodierte digitale Editionen.</p>
+               <p>Angesichts der großen Anzahl von Texten, die ein Korpus von weit über 2.000.000
+                  Worten ergeben, ist das Annotationsschema in einem ersten Schritt auf (wirkliche
+                  wie fiktionale) Personen, Werke (Musik, Texte, Bilder) und geographische Orte
+                  eingeschränkt, wobei weitere Arten von „named entities“ (Gebäude, Gruppen,
+                  Ereignisse, etc.) später folgen können. Nutzer*innen können die Anzeige einzelner
+                  oder auch sämtlicher Entitäten mit dem Menü „Annotationen“ ein- und ausschalten.
+                  Bei Aktivierung erscheinen die Annotate als Icons, deren farbliche Zuteilung man
+                  dem bezüglichen Menü entnehmen kann. Mit einem Klick auf ein Icon werden zentrale
+                  Daten zur „named entity“ angezeigt, wobei sämtliche erhältliche Daten erst über
+                  „Weitere Details“ abrufbar sind. Diese Detail-Seiten können sowohl direkt mittels
+                  edierter Texte als auch über die Personen-, Werks- und Ortsregister angesteuert
+                  werden und bieten neben Daten auch eine Aufstellung zur Erwähnung der gewählten
+                  Entitäten in Hanslicks Schriften.</p>
+               <p>Folgende Datensätze werden derzeit erhoben:<list>
+                     <item>Bei Orten werden sowohl der heutige Name gemäß Landessprache(n) wie auch
+                        die von Hanslick gewählte Benennung verzeichnet. Als Normdaten-Identifikator
+                        wird auch die URI laut <ref target="https://www.geonames.org/"
+                           >GeoNames</ref> gelistet. Die restlichen Datensätze (<ref
+                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>,
+                           <ref target="https://lobid.org/gnd">GND</ref>, geografische Koordinaten,
+                        etc.) werden mittels einer von Daniel Elsner eingerichteten GitHub-Action
+                        automatisch hinzugefügt.</item>
+                     <item>Bei fiktionalen Personen werden sowohl originale wie von Hanslick
+                        genutzte Namen gelistet und die Figur mit dem bezüglichen Werkeintrag
+                        verlinkt. Hierbei erfolgen jedoch niemals Mehrfach-Verlinkungen: So gibt es
+                        etwa 6 Entitäten mit dem Namen „Faust“ aus den Werken von Berlioz, Boito,
+                        Goethe, Gounod, Spohr und Schumann; dieses Vorgehen erlaubt eine größere
+                        Transparenz zur statistischen Auswertung von „named entities“. Bei
+                        Gottheiten und Sagenfiguren, die unabhängig von bestimmten Werken genannt
+                        werden, werden ggfs. erhältliche Normdaten (<ref
+                           target="https://lobid.org/gnd">GND</ref> und <ref
+                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>)
+                        gelistet.</item>
+                     <item>Bei wirklichen Personen</item>
+                     <item>Bei Werken</item>
+                  </list></p>
+               <p>(2) Mehrdeutige Werkangaben – z.B. bei Schuberts „A-Moll-Sonate“, die Hanslick am
+                  01.12.1864 erwähnt und bei der nicht klar wird, ob er D537, D784 oder D845 meint –
+                  werden mittels mehrerer verlinkter Entitäten angezeigt (siehe unten), die auf die
+                  fraglichen Optionen verweisen, wobei bis max. (3) Erwähnte Entitäten werden von
+                  Fall zu Fall mit mehreren Namen vermerkt: (a) dem Haupttitel, der bei den Namen
+                  einer realen Person der Schreibweise der GND und bei Figuren, Werken und Orten der
+                  originalen Schreibweise nach Landessprache entspricht (sofern diese mit
+                  lateinischen Buchstaben darzustellen ist); (b) dem Alternativtitel, d.h. der von
+                  Hanslick gewählten Schreibweise(n) und Bezeichnung(en). Dies ermöglicht, dass über
+                  den Index z.B. Niccolò Piccinni, den Hanslick wahlweise „Picinni“ und „Piccini“
+                  schreibt, oder auch Offenbachs <hi rend="italic">Les Géorgiennes</hi>, die bei
+                  Hanslick als „Die Georgierinnern“, „Die schönen Georgierinnen“ und „Die schönen
+                  Weiber von Georgien“ firmieren, gefunden werden können.</p>
+               <p>Im Index – wo <ref target="listperson.html?lang=de">Personen</ref> (wirkliche wie
+                  fiktionale) und <ref target="listbibl.html?lang=de">Werke</ref> zusätzlich
+                  miteinander verknüpft sind – und der Detailansicht von Annotationen wurde (sofern
+                  im Einzelfall vorhanden) bei Personennamen die Schreibweise der <ref
                      target="https://lobid.org/gnd">GND</ref> genutzt, bei Ortsnamen die von <ref
                      target="https://www.geonames.org/">GeoNames</ref>. Im Falle von Namen / Orten
                   wurden zudem nur Namen / Orte selbst sowie Begriffe mit direktem Namens- und
@@ -105,62 +238,7 @@
                   sind also „Griechenland“ und „griechisch“ annotiert, „Griechen“ dagegen nicht, was
                   dann auch für „Gluck“ und „Piccini“, nicht aber für „Gluckisten“ und „Piccinisten“
                   (2.43) gilt. Solche Begriffe sind über die <ref target="search.html?lang=de"
-                     >Volltextsuche</ref> aber natürlich ebenfalls auffindbar. Das Logo von
-                  „Hanslick Online“ wurde von Olivia Reichl erstellt und die englischen Begleittexte
-                  von David Heyde lektoriert. </p>
-            </div>
-            <div type="sub">
-               <head>Zitiervorschlag (<hi rend="italic">Vom Musikalisch-Schönen</hi>)</head>
-               <p>Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
-                     Ästhetik der Tonkunst</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von
-                  Meike Wilfing-Albrecht (2023), Auflagenzahl, Absatznummer,
-                  Hyperlink. </p>
-            </div>
-            <div type="sub">
-               <head>Editionsrichtlinien (Hanslicks Schriften für die <hi rend="italic">Neue Freie Presse</hi>)</head>
-               <byline>Alexander Wilfing, 2023</byline>
-               <p>Die Regeln der Edition von Hanslicks Schriften für die <hi rend="italic">Neue
-                     Freie Presse</hi> entsprechen größtenteils den Regeln für seinen Traktat. Somit
-                  werden selbige nur insofern benannt, als sie sich von den vorstehenden Richtlinien
-                  unterscheiden. Textliche Grundlage dieser Edition bilden vorerst die von Hanslick
-                  mit „Ed. H.“ eindeutig signierten Feuilletons von 1864, dem Gründungsjahr der <hi
-                     rend="italic">Neuen Freien Presse</hi>, bis 1904, dem Todesjahr Hanslicks.
-                  Andere Schriften der <hi rend="italic">Neuen Freien Presse</hi> mit Musik-Bezug
-                  sollen folgen, sofern Hanslick als Autor in Frage kommt. Eine Liste der Texte hat
-                  Alexander Wilfing schon 2011 für Christoph Landerers Projekt „Nietzsche’s
-                  Reception of Hanslick“ mittels <ref target="https://anno.onb.ac.at/">ANNO</ref>
-                  erstellt. Die benutzten Digitalisate werden ebenso von ANNO (Austrian Newspaper
-                  Online) bezogen und mit Hilfe von <ref
-                     target="https://readcoop.eu/de/transkribus/">Transkribus</ref> übertragen,
-                  korrigiert und teilweise annotiert. Die Formatierung und editorische Feinarbeit
-                  erfolgt mittels des XML-Editors <ref target="https://www.oxygenxml.com/"
-                     >Oxygen</ref>, während Entitäten über eine <ref target="https://baserow.io/"
-                     >Baserow</ref>-Datenbank integriert und vernetzt werden. Aus pragmatischen
-                  Beweggründen gehen die Mitarbeiter*innen dieser Edition in chronologisch
-                  aufsteigender und absteigender Reihenfolge vor.</p>
-               <p>Die Richtlinien zur Auszeichnung und Textgestaltung korrespondieren bis auf 3
-                  Punkte mit jenen des Traktats: (1) Fußnoten werden gemäß dem Original mit einem
-                  Asterisk * kenntlich gemacht, da sie im Vergleich zu <hi rend="italic">Vom
-                     Musikalisch-Schönen</hi> nur selten und im Rahmen relativ kurzer Aufsätze
-                  vorkommen. (2) Mehrdeutige Werkangaben – z.B. bei Schuberts „A-Moll-Sonate“, die
-                  Hanslick am 01.12.1864 erwähnt und bei der nicht klar wird, ob er D537, D784 oder
-                  D845 meint – werden mittels mehrerer Links angezeigt, die auf die fraglichen
-                  Optionen verweisen. (3) Erwähnte Entitäten werden von Fall zu Fall mit mehreren
-                  Namen vermerkt: (a) dem Haupttitel, der bei den Namen einer realen Person der
-                  Schreibweise der GND und bei Figuren, Werken und Orten der originalen Schreibweise
-                  nach Landessprache entspricht (sofern diese mit lateinischen Buchstaben
-                  darzustellen ist); (b) dem Alternativtitel, d.h. der von Hanslick gewählten
-                  Schreibweise(n) und Bezeichnung(en). Dies ermöglicht, dass über den Index z.B.
-                  Niccolò Piccinni, den Hanslick wahlweise „Picinni“ und „Piccini“ schreibt, oder
-                  auch Offenbachs <hi rend="italic">Les Géorgiennes</hi>, die bei Hanslick als „Die
-                  Georgierinnern“, „Die schönen Georgierinnen“ und „Die schönen Weiber von Georgien“
-                  firmieren, gefunden werden können.</p>            
-            </div>
-            <div type="sub">
-               <head>Zitiervorschlag (Hanslicks Schriften für die <hi rend="italic">Neue Freie Presse</hi>)</head>
-               <p>Eduard Hanslick, „Titel. Untertitel“, in <emph>Neue Freie Presse</emph>, Nr. /
-                  Datum, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina Bamer und
-                  Anna-Maria Pfiel (2023), Hyperlink. </p>
+                     >Volltextsuche</ref> aber natürlich ebenfalls auffindbar. </p>
             </div>
          </div>
       </body>
