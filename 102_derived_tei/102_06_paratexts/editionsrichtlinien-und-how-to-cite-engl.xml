@@ -198,10 +198,10 @@
                         remaining datasets (<ref
                            target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>,
                            <ref target="https://lobid.org/gnd">GND</ref>, geographical coordinates,
-                        etc.) are added automatically using a GitHub action set up by Daniel Elsner.
-                        All names of people, works, and places are transliterated into Latin script,
-                        and a “Überprüft” (“checked”) tag indicates whether the data has been
-                        double-checked.</item>
+                        etc.) are automatically queried and added through a pipeline from the
+                        GeoNames and Wikidata API, designed by Daniel Elsner. All names of people,
+                        works, and places are transliterated into Latin script, and a “Überprüft”
+                        (“checked”) tag indicates whether the data has been double-checked.</item>
                      <item>For fictional characters, both their original names and those used by
                         Hanslick are listed, and all figures are linked to the relevant work entry.
                         We however avoid multiple links: for example, there are six separate
@@ -228,8 +228,8 @@
                            target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>
                         and links to <ref target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
                            target="https://www.biographien.ac.at/oebl">ÖBL</ref>, and <ref
-                           target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>) are added automatically
-                        using a GitHub action.</item>
+                           target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>) are automatically
+                        queried and added through a pipeline from the Wikidata API.</item>
                      <item>For works, we follow a similar method, giving both the original headings
                         and those used by Hanslick. Works are linked to their creator(s) and figures
                         named by Hanslick; parts of works are further linked to the main work.

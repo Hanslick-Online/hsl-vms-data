@@ -201,11 +201,11 @@
                            >GeoNames</ref> gelistet. Die restlichen Datensätze (<ref
                            target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>,
                            <ref target="https://lobid.org/gnd">GND</ref>, geografische Koordinaten,
-                        etc.) werden mittels einer von Daniel Elsner eingerichteten GitHub-Action
-                        automatisch hinzugefügt. Für sämtliche Datensätze gilt, dass Namen gemäß
-                        Landessprache(n) in lateinische Buchstaben transliteriert werden und ein tag
-                        „Überprüft“ ausweist, ob Daten schon unter dem Vier-Augen-Prinzip
-                        kontrolliert werden konnten.</item>
+                        etc.) werden mittels einer von Daniel Elsner eingerichteten Pipeline
+                        automatisch von der Geonames und Wikidata API abgefragt und hinzugefügt. Für
+                        sämtliche Datensätze gilt, dass Namen gemäß Landessprache(n) in lateinische
+                        Buchstaben transliteriert werden und ein tag „Überprüft“ ausweist, ob Daten
+                        schon unter dem Vier-Augen-Prinzip kontrolliert werden konnten.</item>
                      <item>Bei fiktionalen Personen werden sowohl originale wie von Hanslick
                         genutzte Namen gelistet und die Figur mit dem bezüglichen Werkeintrag
                         verbunden. Hierbei erfolgen jedoch niemals Mehrfach-Verlinkungen: So gibt es
@@ -233,7 +233,7 @@
                         sowie Links zu <ref target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
                            target="https://www.biographien.ac.at/oebl">ÖBL</ref> und <ref
                            target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>) werden mittels einer
-                        GitHub-Action automatisch hinzugefügt.</item>
+                        Pipeline automatisch von der Wikidata API abgefragt und hinzugefügt.</item>
                      <item>Bei Werken folgen wir dem gleichen Prinzip und nennen sowohl originale
                         wie von Hanslick gebrauchte Werktitel. Werke werden zudem mit
                         ihrer/ihrem/ihren Schöpfer*innen und von Hanslick genannten Figuren sowie
