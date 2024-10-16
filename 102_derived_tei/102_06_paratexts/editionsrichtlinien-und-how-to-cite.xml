@@ -127,7 +127,7 @@
                      Freie Presse</hi> und der Rezensionen der 1. Auflage von <emph>Vom
                      Musikalisch-Schönen</emph> entsprechen größtenteils den Regeln für seinen
                   Traktat. Somit werden selbige nur insofern benannt, als sie sich von den
-                  vorstehenden Richtlinien unterscheiden. Fußnoten werden gemäß dem Original mit
+                  vorstehenden Richtlinien unterscheiden. So werden Fußnoten gemäß dem Original mit
                   einem Asterisk * kenntlich gemacht, da sie im Vergleich zu <hi rend="italic">Vom
                      Musikalisch-Schönen</hi> nur selten und im Rahmen relativ kurzer Aufsätze
                   vorkommen.</p>
@@ -141,16 +141,17 @@
                   schon 2011 für Christoph Landerers Projekt „Nietzsche’s Reception of Hanslick“
                   mittels <ref target="https://anno.onb.ac.at/">ANNO</ref> erstellt und später
                   deutlich ergänzt. Die benutzten Digitalisate, die den Kritiken als Faksimile
-                  beigegeben werden, stammen ebenfalls aus ANNO (Austrian Newspaper Online). Aus
-                  pragmatischen Beweggründen gehen die Mitarbeiter*innen dieser Edition in
-                  chronologisch aufsteigender und absteigender Reihenfolge vor. </p>
+                  beigegeben werden, stammen ebenfalls aus <ref target="https://anno.onb.ac.at/"
+                     >ANNO</ref> (Austrian Newspaper Online). Aus pragmatischen Beweggründen gehen
+                  die Mitarbeiter*innen dieser Edition in chronologisch aufsteigender und
+                  absteigender Reihenfolge vor. </p>
                <p>Wilfing hat auch die 26 Rezensionen von <emph>Vom Musikalisch-Schönen</emph>
-                  mithilfe diverser Repositorien (ANNO, <ref
-                     target="https://www.deutsche-digitale-bibliothek.de/newspaper">DZP</ref>, <ref
-                     target="https://www.jstor.org/">JSTOR</ref>, etc.) und dem Anhang von Mark Evan
-                  Bonds <emph>Absolute Music: The History of an Idea</emph> (Oxford: Oxford
+                  mithilfe diverser Repositorien (<ref target="https://anno.onb.ac.at/">ANNO</ref>,
+                     <ref target="https://www.deutsche-digitale-bibliothek.de/newspaper">DZP</ref>,
+                     <ref target="https://www.jstor.org/">JSTOR</ref>, etc.) und dem Anhang von Mark
+                  Evan Bonds <emph>Absolute Music: The History of an Idea</emph> (Oxford: Oxford
                   University Press, 2014), S. 301–307 identifiziert. Hierbei handelt es sich um
-                  Besprechungen, die von Ende 1854 bis Ende 1857 erschienen, als als laut dem <hi
+                  Besprechungen, die von Ende 1854 bis Ende 1857 erschienen, als laut dem <hi
                      rend="italic">Börsenblatt für den Deutschen Buchhandel</hi> (14.12.1857, S. 2)
                   die 2. Auflage des Ästhetik-Traktats vorlag. Die Länge dieser Texte reicht von
                   1-seitigen bis hin zu substantiellen mehrteiligen Rezensionen, wie etwa jene von
@@ -176,8 +177,10 @@
                      target="https://www.oxygenxml.com/">Oxygen</ref>, während „named entities“ über
                   eine <ref target="https://baserow.io/">Baserow</ref>-Datenbank erfasst, vernetzt
                   und integriert werden. Die digitale Edition ist auf Basis des am ACDH-CH
-                  entwickelten Frameworks „DSE Static Cookiecutter“ implementiert, einem
-                  “static-site” Generator für XML/TEI-kodierte digitale Editionen.</p>
+                  entwickelten Frameworks „<ref
+                     target="https://www.oeaw.ac.at/de/acdh/forschung/dh-forschung-infrastruktur/ressourcen/software-services/dse-static-cookiecutter"
+                     >DSE Static Cookiecutter</ref>“ implementiert, einem “static-site” Generator
+                  für XML/TEI-kodierte digitale Editionen.</p>
                <p>Angesichts der großen Anzahl von Texten, die ein Korpus von ungefähr 2.000.000
                   Worten ergeben, ist das Annotationsschema in einem ersten Schritt auf (wirkliche
                   wie fiktionale) Personen, Werke (Musik, Texte, Bilder) und geographische Orte
@@ -188,13 +191,13 @@
                   dem bezüglichen Menü entnehmen kann. Mit einem Klick auf ein Icon werden zentrale
                   Daten zur „named entity“ angezeigt, wobei sämtliche erhältliche Daten erst über
                   „Weitere Details“ abrufbar sind. Diese Detail-Seiten können sowohl direkt mittels
-                  edierter Texte als auch über die Personen-, Werks- und Ortsregister angesteuert
-                  werden und bieten neben Daten auch eine Aufstellung zur Erwähnung der gewählten
-                  Entitäten in Hanslicks Schriften.</p>
-               <p>Folgende Datensätze werden derzeit erhoben:<list>
+                  der Icons als auch über die Personen-, Werks- und Ortsregister angesteuert werden
+                  und bieten neben Daten auch eine Aufstellung zur Erwähnung der gewählten Entitäten
+                  in Hanslicks Schriften.</p>
+               <p>Folgende Datensätze werden derzeit erstellt:<list>
                      <item>Bei Orten werden sowohl der heutige Name gemäß Landessprache(n) wie auch
                         die von Hanslick gewählte Benennung verzeichnet. Als Normdaten-Identifikator
-                        wird auch die URI laut <ref target="https://www.geonames.org/"
+                        wird auch die URI nach <ref target="https://www.geonames.org/"
                            >GeoNames</ref> gelistet. Die restlichen Datensätze (<ref
                            target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>,
                            <ref target="https://lobid.org/gnd">GND</ref>, geografische Koordinaten,
@@ -233,7 +236,7 @@
                         GitHub-Action automatisch hinzugefügt.</item>
                      <item>Bei Werken folgen wir dem gleichen Prinzip und nennen sowohl originale
                         wie von Hanslick gebrauchte Werktitel. Werke werden zudem mit
-                        ihrer/ihrem/ihren Schöpfer*innen und von Hanslick genannten Figuren und
+                        ihrer/ihrem/ihren Schöpfer*innen und von Hanslick genannten Figuren sowie
                         Werkteile mit dem Hauptwerk verknüpft. Dabei werden jedoch immer nur
                         autonome Werkteile (z.B. ein Lied aus einem Zyklus) separat erfasst, nicht
                         Sätze einer Sonate (hier wird immer die Sonate als Ganzes verlinkt).
@@ -241,25 +244,25 @@
                            target="https://lobid.org/gnd">GND</ref>-Nummern und der Verweis auf
                         kostenfrei erhältliche Digitalisate (<ref
                            target="https://imslp.org/wiki/Main_Page">IMSLP</ref>, <ref
-                              target="https://www.digitale-sammlungen.de/">MDZ</ref>, <ref
-                                 target="https://www.deutschestextarchiv.de/">DTA</ref>, <ref
-                                    target="archive.org">archive.org</ref> oder, wenn
-                        nicht anderweitig verfügbar, <ref
-                           target="https://books.google.de/">Google Books</ref>).</item>
+                           target="https://www.digitale-sammlungen.de/">MDZ</ref>, <ref
+                           target="https://www.deutschestextarchiv.de/">DTA</ref>, <ref
+                           target="archive.org">archive.org</ref> oder, wenn nicht anderweitig
+                        verfügbar, <ref target="https://books.google.de/">Google
+                        Books</ref>).</item>
                   </list></p>
                <p>Das Primärziel des Kritiken-Projekts ist die digitale Edition von Hanslicks
                   Schriften für die <hi rend="italic">Neue Freie Presse</hi>, die zur inhaltlichen
                   Auswertung bestimmter <ref
                      target="https://hanslick.acdh.oeaw.ac.at/projektziele.html">Fragen</ref> dienen
-                  sollen. Aus diesem Grund musste  die Arbeit, die zur Identifikation jeder Person
+                  sollen. Aus diesem Grund musste die Arbeit, die zur Identifikation jeder Person
                   und jedes Werkes nötig würde, teilweise beschränkt werden. Wenn eine „named
                   entity“ mit den verfügbaren Ressourcen nicht eindeutig ermittelt werden konnte,
                   wird dies mit dem Zusatz „unklarer Bezug“ angezeigt. Mehrdeutige Werkangaben –
                   z.B. bei Schuberts „A-Moll-Sonate“, die Hanslick am 01.12.1864 erwähnt und bei der
                   nicht klar wird, ob er D537, D784 oder D845 meint – werden mittels mehrerer
                   verlinkter Entitäten angezeigt, die auf die fraglichen Optionen verweisen, wobei
-                  wir bis max. 5 separate Entitäten angeben. Hinweise auf Fehler und Lücken sind
-                  jederzeit herzlich willkommen!</p>
+                  wir bis max. 5 separate Entitäten angeben. Hinweise auf bez. Fehler und Lücken
+                  sind jederzeit herzlich willkommen!</p>
                <p>Die Einbeziehung verschiedener Schreibweisen von Namen und Werken ermöglicht, dass
                   über den Index z.B. Niccolò Piccinni, den Hanslick wahlweise „Picinni“ und
                   „Piccini“ schreibt, oder auch Offenbachs <hi rend="italic">Les Géorgiennes</hi>,

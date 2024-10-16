@@ -37,13 +37,13 @@
                         Musikalisch-Schönen</emph>, ed. by Alexander Wilfing in collaboration with
                      Meike Wilfing-Albrecht and Daniel Elsner (2023),</item>
                   <item>an edition of Hanslick’s writings for the <hi rend="italic">Neue Freie
-                        Presse</hi>, ed. by Alexander Wilfing in collaboration of Katharina Bamer,
+                        Presse</hi>, ed. by Alexander Wilfing in collaboration with Katharina Bamer,
                      Daniel Elsner, and Anna-Maria Pfiel (2023–2025), and</item>
                   <item>an edition of reviews of the initial edition of <emph>Vom
                         Musikalisch-Schönen</emph>, ed. by Alexander Wilfing in collaboration with
                      Daniel Elsner and Anna-Maria Pfiel (2024–2025).</item>
                </list></p>
-            <p>The Editions were / are led by Alexander Wilfing, with Daniel Elsner overseeing their
+            <p>The editions were / are led by Alexander Wilfing, with Daniel Elsner overseeing their
                technical realization. The logo of “Hanslick Online” was designed by Olivia Reichl.
                David Heyde proofread the English version of explanatory texts in 2023. The
                recommended format of citation for each text corpus is as follows:<list>
@@ -73,8 +73,8 @@
                   available templates for our digital edition. The articles or chapters from which
                   this treatise presumably originates, some of which were published in advance (see
                   the first two entries under “<ref target="bedeutung-hanslick-engl.html?lang=en"
-                     >Eduard Hanslick’s Writings</ref>”), did not figure into this edition (they
-                  will be provided as part of a newly granted research project).</p>
+                     >Eduard Hanslick’s Writings</ref>”), did not figure into this edition. (They
+                  will be provided as part of a newly granted research project.)</p>
                <p>The editions of the original treatise—transcribed and corrected by Meike
                   Wilfing-Albrecht—are reproduced as faithfully as possible; the spelling is
                   retained. Errors that were corrected by Hanslick himself within the editions—e.g.,
@@ -126,11 +126,11 @@
                      >Neue Freie Presse</hi> and the reviews of the initial edition of <emph>Vom
                      Musikalisch-Schönen</emph> for the most part match those specified for his
                   aesthetic treatise. They thus will only be defined insofar as they differ from the
-                  principles explicated above. Footnotes are indicated by asterisks * according to
-                  the original template, since they occur only rarely and, compared to <hi
-                     rend="italic">Vom Musikalisch-Schönen</hi>, as part of shorter essays. </p>
+                  principles explicated above. Footnotes, for example, are indicated by asterisks *
+                  according to the original template, since they occur only rarely and, compared to
+                     <hi rend="italic">Vom Musikalisch-Schönen</hi>, as part of shorter essays. </p>
                <p>For now, the edition is based chiefly on Hanslick’s extensive feuilletons “below
-                  the line,” clearly marked by the initials “Ed. H.” from 1864 onward, the founding
+                  the line,” clearly marked by the initials “Ed. H.,” from 1864 onward, the founding
                   year of <hi rend="italic">Neue Freie Presse</hi>, to 1904, the year of his death.
                   These texts (about 900 items) typically appear in 3 columns on the first 2–3 pages
                   of an issue. Other music-related writings contained in <hi rend="italic">Neue
@@ -139,16 +139,17 @@
                   of these texts in 2011 as part of Christoph Landerer’s research project
                   “Nietzsche’s Reception of Hanslick” via <ref target="https://anno.onb.ac.at/"
                      >ANNO</ref>, which he later expanded significantly. The digital copies we
-                  provide in addition to the TEI/XML text are also obtained from ANNO (Austrian
-                  Newspaper Online). For purely pragmatic reasons, the editors proceed in ascending
-                  and descending order as regards chronology.</p>
+                  provide in addition to the TEI/XML text are also obtained from <ref
+                     target="https://anno.onb.ac.at/">ANNO</ref> (Austrian Newspaper Online). For
+                  purely pragmatic reasons, the editors proceed in ascending and descending order as
+                  regards chronology.</p>
                <p>Wilfing also identified the 26 reviews of <emph>Vom Musikalisch-Schönen</emph>
-                  through various repositories (ANNO, <ref
-                     target="https://www.deutsche-digitale-bibliothek.de/newspaper">DZP</ref>, <ref
-                     target="https://www.jstor.org/">JSTOR</ref>, etc.) and the appendix of Mark
-                  Evan Bonds’s <emph>Absolute Music: The History of an Idea</emph> (Oxford: Oxford
-                  University Press, 2014), 301–307. There reviews were published between 1854 and
-                  the end of 1857, when the second edition of Hanslick’s aesthetic treatise was
+                  through various repositories (<ref target="https://anno.onb.ac.at/">ANNO</ref>,
+                     <ref target="https://www.deutsche-digitale-bibliothek.de/newspaper">DZP</ref>,
+                     <ref target="https://www.jstor.org/">JSTOR</ref>, etc.) and the appendix of
+                  Mark Evan Bonds’s <emph>Absolute Music: The History of an Idea</emph> (Oxford:
+                  Oxford University Press, 2014), 301–307. These reviews were published between 1854
+                  and the end of 1857, when the second edition of Hanslick’s aesthetic treatise was
                   released, judging by an advertisement in the <hi rend="italic">Börsenblatt für den
                      Deutschen Buchhandel</hi> (December 14, 1857, 2). The length of these texts
                   varies from brief, single-page reviews to extensive multi-part critiques, such as
@@ -161,57 +162,87 @@
             <div type="sub">
                <head>Collection, Selection, and Presentation of Data</head>
                <byline>Alexander Wilfing, 2024</byline>
-               <p>The TEI annotation of *Vom Musikalisch-Schönen* was carried out by Alexander
-                  Wilfing, who oversaw the entire edition. For the *Neue Freie Presse* writings, he
-                  was assisted by Katharina Bamer and Anna-Maria Pfiel, the latter also being
-                  responsible for transcribing and annotating reviews from the first edition of *Vom
-                  Musikalisch-Schönen*. While the XML/TEI files for the ten editions of Hanslick’s
-                  aesthetic treatise were generated from Word documents, the project team utilized
-                  Transkribus for the transcription, editing, and annotation of the other corpora.
-                  Formatting and final editorial work were completed using the Oxygen XML editor,
-                  while "named entities" were captured, linked, and integrated through a Baserow
-                  database. The digital edition was implemented using the "DSE Static Cookiecutter"
-                  framework developed by ACDH-CH, a static-site generator for XML/TEI-encoded
-                  digital editions.</p>
-               <p>Due to the large volume of texts—comprising approximately 2,000,000 words—the
-                  initial annotation schema focused on (real and fictional) people, works (music,
-                  texts, images), and geographical locations. Additional categories of "named
-                  entities," such as buildings, groups, and events, may be added in later phases.
-                  Users can toggle the display of individual or all entities via the "Annotations"
-                  menu. When activated, the annotations appear as icons, with colors that correspond
-                  to the types of entities listed in the menu. Clicking on an icon displays
-                  essential information about the entity, while more detailed data can be accessed
-                  via the "Further Details" link. These detailed pages can be reached either
-                  directly from the edited texts or through the indexes of persons, works, and
-                  places, offering both data and a summary of mentions of each entity in Hanslick’s
+               <p>The TEI annotation of <emph>Vom Musikalisch-Schönen</emph> was provided by
+                  Alexander Wilfing, who oversaw the entire edition process. For the edition of
+                  Hanslick’s writings for the <emph>Neue Freie Presse</emph>, Wilfing was assisted
+                  by Katharina Bamer and Anna-Maria Pfiel, the latter also being responsible for
+                  transcribing and annotating the reviews of the initial edition of <emph>Vom
+                     Musikalisch-Schönen</emph>. While the XML/TEI files for the ten editions of
+                  Hanslick’s aesthetic treatise were generated from Word files, the project members
+                  transcribes, proofread, and annotation the other texts with the help of <ref
+                     target="https://www.transkribus.org/en">Transkribus</ref>. Formatting and
+                  editorial finishing touches were carried out via the XML editor <ref
+                     target="https://www.oxygenxml.com/">Oxygen</ref>. Information pertaining to
+                  named entities is collected, interlinked, and referenced via a custom <ref
+                     target="https://baserow.io/">Baserow</ref> database. The digital edition is
+                  built on the “<ref
+                     target="https://www.oeaw.ac.at/acdh/research/dh-research-infrastructure/resources/software-services/dse-static-cookiecutter">DSE Static Cookiecutter</ref>” framework developed by ACDH-CH, a
+                  static-site generator for XML/TEI-encoded digital editions.</p>
+               <p>Given the sizable volume of texts—amounting to circa 2,000,000 words—the
+                  annotation is initially limited to (historical and fictional) people, works
+                  (music, texts, images), and places. Additional categories of named entities, such
+                  as buildings, groups, and events, may be added in coming project phases. Users can
+                  toggle the display of all or individual entity categories via the “Annotations”
+                  menu. When activated, the annotations are displayed as icons, with colors that
+                  correspond to the entity types listed in said menu. Clicking on an icon presents
+                  essential information about the entity, while more detailed data is available via
+                  the “Weitere Details” link. These detail view pages can be reached either directly
+                  from the icons or through the indexes of persons, places, and works, offering both
+                  data and a summary of mentions of the selected entities in Hanslick’s
                   writings.</p>
-               <p>Currently, the following datasets are being compiled:</p>
-               <p>For locations, both the current name in the local language(s) and the name used by
-                  Hanslick are recorded. Standard data identifiers such as the GeoNames URI are
-                  included. Additional datasets (Wikidata, GND, geographical coordinates, etc.) are
-                  automatically added through a GitHub action set up by Daniel Elsner. All names are
-                  transliterated into Latin script, and a "Checked" tag indicates whether the data
-                  has been verified following the four-eyes principle.</p>
-               <p>For fictional characters, both the original names and those used by Hanslick are
-                  listed, and each figure is linked to the relevant work entry. Multiple linkages
-                  are avoided—for example, there are six separate entities named "Faust" from works
-                  by Berlioz, Boito, Goethe, Gounod, Spohr, and Schumann—allowing for greater
-                  transparency in the statistical evaluation of "named entities." For deities and
-                  mythological figures mentioned independently of specific works, available
-                  authority data (GND and Wikidata) is included.</p>
-               <p>For real persons, we record the spelling according to GND along with Hanslick’s
-                  variations. We also manually capture life dates, up to three professions or roles,
-                  and significant activities. Birthdates and biographical details (where available)
-                  are drawn from widely used encyclopedias such as the ÖML, ÖBL, PMB, MGG, Grove,
-                  and the Lexicon of the Sophie Drinker Institute. Additional datasets (Wikidata and
-                  links to ÖML, ÖBL, and PMB) are added automatically via a GitHub action.</p>
-               <p>For works, we follow the same method, listing both the original and Hanslick’s
-                  variations of titles. Works are linked to their creators, as well as to the
-                  figures and sections referenced by Hanslick. Autonomous sections (e.g., a song
-                  from a cycle) are recorded separately, but movements from a sonata are linked to
-                  the entire sonata. Additional datasets include GND numbers and links to freely
-                  accessible digital copies (IMSLP, MDZ, DTA, archive.org, or Google Books if no
-                  other source is available).</p>
+               <p>The following datasets are currently being created:<list>
+                     <item>For locations, both the local language name(s) and the name used by
+                        Hanslick are recorded. Standard data identifiers such as the URI of <ref
+                           target="https://www.geonames.org/">GeoNames</ref> are included. The
+                        remaining datasets (<ref
+                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>,
+                           <ref target="https://lobid.org/gnd">GND</ref>, geographical coordinates,
+                        etc.) are added automatically using a GitHub action set up by Daniel Elsner.
+                        All names of people, works, and places are transliterated into Latin script,
+                        and a “Überprüft” (“checked”) tag indicates whether the data has been
+                        double-checked.</item>
+                     <item>For fictional characters, both their original names and those used by
+                        Hanslick are listed, and all figures are linked to the relevant work entry.
+                        We however avoid multiple links: for example, there are six separate
+                        entities named “Faust” from works by Berlioz, Boito, Goethe, Gounod, Spohr,
+                        and Schumann. This principle allows for greater transparency in the
+                        statistical evaluation of mentions of named entities. For deities and
+                        mythological characters mentioned independently of works, available standard
+                        identifiers (<ref target="https://lobid.org/gnd">GND</ref> and <ref
+                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>)
+                        are included where available.</item>
+                     <item>For historical characters, we record the spelling according to <ref
+                           target="https://lobid.org/gnd">GND</ref> and include Hanslick’s variants.
+                        In addition, life data and a maximum of three occupations, functions, or
+                        activities are entered manually. Birthdates and professional descriptions
+                        are drawn (where available) from widely used encyclopedias such as <ref
+                           target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
+                           target="https://www.biographien.ac.at/oebl">ÖBL</ref>, <ref
+                           target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>, <ref
+                           target="https://www.mgg-online.com/">MGG</ref>, <ref
+                           target="https://www.oxfordmusiconline.com/grovemusic">Grove</ref>, and
+                        the lexicon of the <ref
+                           target="https://www.sophie-drinker-institut.de/lexikon">Sophie Drinker
+                           Institute</ref>. The remaining datasets (<ref
+                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>
+                        and links to <ref target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
+                           target="https://www.biographien.ac.at/oebl">ÖBL</ref>, and <ref
+                           target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>) are added automatically
+                        using a GitHub action.</item>
+                     <item>For works, we follow a similar method, giving both the original headings
+                        and those used by Hanslick. Works are linked to their creator(s) and figures
+                        named by Hanslick; parts of works are further linked to the main work.
+                        However, only autonomous parts of works (e.g., a song from a cycle) are
+                        recorded separately; movements from a violin sonata and the like are linked
+                        to the entire sonata. Additional datasets include <ref
+                           target="https://lobid.org/gnd">GND</ref> numbers and links to open access
+                        digital copies (<ref target="https://imslp.org/wiki/Main_Page">IMSLP</ref>,
+                           <ref target="https://www.digitale-sammlungen.de/">MDZ</ref>, <ref
+                           target="https://www.deutschestextarchiv.de/">DTA</ref>, <ref
+                           target="archive.org">archive.org</ref>, or <ref
+                           target="https://books.google.de/">Google Books</ref>, if no other source
+                        is available). </item>
+                  </list></p>
                <p>The main goal of the *Criticism Project* is to produce a digital edition of
                   Hanslick’s writings for the *Neue Freie Presse* to facilitate the analysis of
                   specific topics. Due to resource constraints, the identification of every
@@ -232,14 +263,8 @@
                   Such terms are discoverable through full-text search. Further categories of "named
                   entities" (buildings, groups, events, etc.) are planned, pending additional
                   funding.</p>
-               <p>The TEI annotation of <emph>Vom Musikalisch-Schönen</emph> was provided by
-                  Alexander Wilfing, who oversaw the entire edition process. </p>
-               <p>and transcribed, proofread, and partially annotated with the help of <ref
-                     target="https://readcoop.eu/de/transkribus/">Transkribus</ref>. Formatting and
-                  editorial finishing touches are performed via the XML editor <ref
-                     target="https://www.oxygenxml.com/">Oxygen</ref>. Information pertaining to
-                  named entities is integrated and cross-linked via a custom <ref
-                     target="https://baserow.io/">Baserow</ref> database. </p>
+               <p/>
+               <p/>
                <p>In a first step, names, works, and places were marked up as entities, each of
                   which can be color-coded in the online edition via the “Annotations” menu. In the
                   index—where <ref target="listperson.html?lang=en">persons</ref> (historical as
