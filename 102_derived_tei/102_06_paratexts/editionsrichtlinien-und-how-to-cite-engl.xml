@@ -176,8 +176,9 @@
                   named entities is collected, interlinked, and referenced via a custom <ref
                      target="https://baserow.io/">Baserow</ref> database. The digital edition is
                   built on the “<ref
-                     target="https://www.oeaw.ac.at/acdh/research/dh-research-infrastructure/resources/software-services/dse-static-cookiecutter">DSE Static Cookiecutter</ref>” framework developed by ACDH-CH, a
-                  static-site generator for XML/TEI-encoded digital editions.</p>
+                     target="https://www.oeaw.ac.at/acdh/research/dh-research-infrastructure/resources/software-services/dse-static-cookiecutter"
+                     >DSE Static Cookiecutter</ref>” framework developed by ACDH-CH, a static-site
+                  generator for XML/TEI-encoded digital editions.</p>
                <p>Given the sizable volume of texts—amounting to circa 2,000,000 words—the
                   annotation is initially limited to (historical and fictional) people, works
                   (music, texts, images), and places. Additional categories of named entities, such
@@ -243,58 +244,30 @@
                            target="https://books.google.de/">Google Books</ref>, if no other source
                         is available). </item>
                   </list></p>
-               <p>The main goal of the *Criticism Project* is to produce a digital edition of
-                  Hanslick’s writings for the *Neue Freie Presse* to facilitate the analysis of
-                  specific topics. Due to resource constraints, the identification of every
-                  individual and work is limited. If a "named entity" cannot be definitively
-                  identified, it is marked with the note "unclear reference." Ambiguous work
-                  references—such as Schubert’s "A minor sonata," mentioned by Hanslick on December
-                  1, 1864, where it is unclear whether he refers to D537, D784, or D845—are
-                  displayed through multiple linked entities, up to a maximum of five. Feedback on
-                  errors and gaps is always welcome.</p>
-               <p>The inclusion of variant spellings for names and works ensures that, for example,
-                  Niccolò Piccinni—whom Hanslick refers to as "Picinni" or "Piccini"—and Offenbach’s
-                  *Les Géorgiennes*—which Hanslick calls "Die Georgierinnern," "Die schönen
-                  Georgierinnen," or "Die schönen Weiber von Georgien"—can be found via the index.
-                  For names and locations, only the names themselves or terms with a direct
-                  reference to them are annotated, not groups associated with them. For instance,
-                  "Griechenland" and "griechisch" are annotated, but "Greeks" are not, just as
-                  "Gluck" and "Piccini" are annotated, but not "Gluckists" or "Piccinists" (2.43).
-                  Such terms are discoverable through full-text search. Further categories of "named
-                  entities" (buildings, groups, events, etc.) are planned, pending additional
-                  funding.</p>
-               <p/>
-               <p/>
-               <p>In a first step, names, works, and places were marked up as entities, each of
-                  which can be color-coded in the online edition via the “Annotations” menu. In the
-                  index—where <ref target="listperson.html?lang=en">persons</ref> (historical as
-                  well as fictional) and <ref target="listbibl.html?lang=en">works</ref> are further
-                  linked with each other—and the detailed information of annotations, we used the
-                  spelling of the <ref target="https://lobid.org/gnd">GND</ref> data base for person
-                  names (if available in each case) and that of <ref
-                     target="https://www.geonames.org/">GeoNames</ref> for place names. In the case
+               <p>The main goal of the review project is to produce a digital edition of Hanslick’s
+                  writings for the <emph>Neue Freie Presse</emph> to address specific <ref
+                     target="https://hanslick.acdh.oeaw.ac.at/projektziele-engl.html?lang=en"
+                     >research questions</ref>. Due to resource constraints, the efforts to identify
+                  every person and work had to be limited. If a named entity cannot be definitively
+                  identified, it is marked with the note “unklarer Bezug” (unclear reference).
+                  Ambiguous indications of works—as in the case of, for example, Schubert’s
+                  “A-Moll-Sonate” (Sonata in A minor), which Hanslick mentions on December 1, 1864,
+                  without further clarification of which piano sonata he is currently speaking
+                  (D537, D784, or D845)—are indicated through multiple linked entities, up to a
+                  maximum of five links. Feedback on errors and data gaps is always welcome!</p>
+               <p>The listing of spelling variants for names and works ensures that a user can, for
+                  example, successfully search the index for Niccolò Piccinni, whom Hanslick at
+                  times spells “Picinni” and “Piccini,” or Offenbachs <hi rend="italic">Les
+                     Géorgiennes</hi>, which he names “Die Georgierinnern,” “Die schönen
+                  Georgierinnen,” and “Die schönen Weiber von Georgien,” respectively. In the case
                   of names and places, only names and places themselves and terms directly related
                   to them are marked, not groups of people that have such references. For example,
-                  “Griechenland” (“Greece”) and “griechisch” (“Greek”) are annotated, “Griechen”
-                  (“Greeks”), however, are not, which then also applies to “Gluck” and “Piccini”, as
-                  opposed to “Gluckisten” (“Gluckists”) and “Piccinisten” (“Piccinists”) (2.43).
-                  Such terms can of course be found via a <ref target="search-engl.html?lang=en"
-                     >full-text search</ref>.</p>
-               <p>The guidelines for markup and textual layout mirror those of the treatise except
-                  for three issues: (1) (2) Ambiguous indications of works—as in the case of, for
-                  example, Schubert’s “A-Moll-Sonate” (Sonata in A minor), which Hanslick mentions
-                  on December 1, 1864, without further clarification of which piano sonata he is
-                  currently speaking (D537, D784, or D845)—are indicated by including multiple
-                  references to the options in question. (3) On occasion, named entities might
-                  include more than one title: (a) a main title, which in the case of an actual
-                  person corresponds to the standard GND spelling and in the case of fictional
-                  characters, works, and places matches the spelling of their respective native
-                  language (rendered in Latin letters); (b) an alternative title reflecting the
-                  spelling(s) and name(s) utilized by Hanslick. This way, users can successfully
-                  search the index for, for example, Niccolò Piccinni, whom Hanslick at times spells
-                  “Picinni” and “Piccini,” or Offenbachs <hi rend="italic">Les Géorgiennes</hi>,
-                  which he names “Die Georgierinnern,” “Die schönen Georgierinnen,” and “Die schönen
-                  Weiber von Georgien,” respectively.</p>
+                  “Griechenland” and “griechisch” are annotated, “Griechen,” however, are not, which
+                  then also applies to “Gluck” and “Piccini”, as opposed to “Gluckisten” and
+                  “Piccinisten” (2.43). Such terms can of course be found via a <ref
+                     target="search-engl.html?lang=en">full-text search</ref>. Additional categories
+                  of named entities (buildings, groups, events, etc.) are planned, pending
+                  additional funding.</p>
             </div>
          </div>
       </body>
