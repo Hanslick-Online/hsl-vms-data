@@ -39,7 +39,7 @@
                   <item>die Edition von Hanslicks Schriften für die <hi rend="italic">Neue Freie
                         Presse</hi>, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina
                      Bamer, Daniel Elsner und Anna-Maria Pfiel (2023–2025) und</item>
-                  <item>die Edition der Kritiken zur ersten Auflage von <emph>Vom
+                  <item>die Edition der Kritiken zur 1. Auflage von <emph>Vom
                         Musikalisch-Schönen</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von
                      Daniel Elsner und Anna-Maria Pfiel (2024–2025).</item>
                </list></p>
@@ -124,7 +124,7 @@
                      Musikalisch-Schönen</hi>)</head>
                <byline>Alexander Wilfing, 2024</byline>
                <p>Die Regeln der Edition von Hanslicks Schriften für die <hi rend="italic">Neue
-                     Freie Presse</hi> und der Rezensionen der ersten Auflage von <emph>Vom
+                     Freie Presse</hi> und der Rezensionen der 1. Auflage von <emph>Vom
                      Musikalisch-Schönen</emph> entsprechen größtenteils den Regeln für seinen
                   Traktat. Somit werden selbige nur insofern benannt, als sie sich von den
                   vorstehenden Richtlinien unterscheiden. Fußnoten werden gemäß dem Original mit
@@ -152,7 +152,7 @@
                   University Press, 2014), S. 301–307 identifiziert. Hierbei handelt es sich um
                   Besprechungen, die von Ende 1854 bis Ende 1857 erschienen, als als laut dem <hi
                      rend="italic">Börsenblatt für den Deutschen Buchhandel</hi> (14.12.1857, S. 2)
-                  die zweite Auflage des Ästhetik-Traktats vorlag. Die Länge dieser Texte reicht von
+                  die 2. Auflage des Ästhetik-Traktats vorlag. Die Länge dieser Texte reicht von
                   1-seitigen bis hin zu substantiellen mehrteiligen Rezensionen, wie etwa jene von
                   Emil Kuh (<hi rend="italic">Der Humorist</hi>, 18/305, S. 1219; 18/306, S. 1223;
                   18/309, S. 1235), Franz Brendel (<hi rend="italic">Neue Zeitschrift für
@@ -167,18 +167,18 @@
                   Wilfing besorgt, der die Edition im Ganzen betreute. Bei der Edition der Schriften
                   für die <hi rend="italic">Neue Freie Presse</hi> standen ihm Katharina Bamer und
                   Anna-Maria Pfiel zur Seite. Letztere übernahm ebenfalls die Übertragung und
-                  Annotation der Rezensionen der ersten Auflage von <emph>Vom
-                     Musikalisch-Schönen</emph>. Wähernd die XML/TEI-Dateien der 10 Auflagen von
+                  Annotation der Rezensionen der 1. Auflage von <emph>Vom
+                  Musikalisch-Schönen</emph>. Wähernd die XML/TEI-Dateien der 10 Auflagen von
                   Hanslicks Ästhetik-Traktat auf Basis von Word-Files erstellt wurden, nutzte das
                   Projektteam <ref target="https://readcoop.eu/de/transkribus/">Transkribus</ref>
                   für die Übertragung, Lektorierung und Annotation der anderen Korpora. Die
                   Formatierung und editorische Feinarbeit erfolgt mittels des XML-Editors <ref
                      target="https://www.oxygenxml.com/">Oxygen</ref>, während „named entities“ über
-                  eine <ref target="https://baserow.io/">Baserow</ref>-Datenbank integriert und
-                  vernetzt werden. Die digitale Edition ist auf Basis des am ACDH-CH entwickelten
-                  Frameworks „DSE Static Cookiecutter“ implementiert, einem “static-site” Generator
-                  für XML/TEI-kodierte digitale Editionen.</p>
-               <p>Angesichts der großen Anzahl von Texten, die ein Korpus von weit über 2.000.000
+                  eine <ref target="https://baserow.io/">Baserow</ref>-Datenbank erfasst, vernetzt
+                  und integriert werden. Die digitale Edition ist auf Basis des am ACDH-CH
+                  entwickelten Frameworks „DSE Static Cookiecutter“ implementiert, einem
+                  “static-site” Generator für XML/TEI-kodierte digitale Editionen.</p>
+               <p>Angesichts der großen Anzahl von Texten, die ein Korpus von ungefähr 2.000.000
                   Worten ergeben, ist das Annotationsschema in einem ersten Schritt auf (wirkliche
                   wie fiktionale) Personen, Werke (Musik, Texte, Bilder) und geographische Orte
                   eingeschränkt, wobei weitere Arten von „named entities“ (Gebäude, Gruppen,
@@ -199,46 +199,80 @@
                            target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>,
                            <ref target="https://lobid.org/gnd">GND</ref>, geografische Koordinaten,
                         etc.) werden mittels einer von Daniel Elsner eingerichteten GitHub-Action
-                        automatisch hinzugefügt.</item>
+                        automatisch hinzugefügt. Für sämtliche Datensätze gilt, dass Namen gemäß
+                        Landessprache(n) in lateinische Buchstaben transliteriert werden und ein tag
+                        „Überprüft“ ausweist, ob Daten schon unter dem Vier-Augen-Prinzip
+                        kontrolliert werden konnten.</item>
                      <item>Bei fiktionalen Personen werden sowohl originale wie von Hanslick
                         genutzte Namen gelistet und die Figur mit dem bezüglichen Werkeintrag
-                        verlinkt. Hierbei erfolgen jedoch niemals Mehrfach-Verlinkungen: So gibt es
-                        etwa 6 Entitäten mit dem Namen „Faust“ aus den Werken von Berlioz, Boito,
+                        verbunden. Hierbei erfolgen jedoch niemals Mehrfach-Verlinkungen: So gibt es
+                        etwa 6 Entitäten mit dem Namen „Faust“ aus Werken von Berlioz, Boito,
                         Goethe, Gounod, Spohr und Schumann; dieses Vorgehen erlaubt eine größere
-                        Transparenz zur statistischen Auswertung von „named entities“. Bei
-                        Gottheiten und Sagenfiguren, die unabhängig von bestimmten Werken genannt
-                        werden, werden ggfs. erhältliche Normdaten (<ref
+                        Transparenz zur statistischen Auswertung der Nennungen von „named entities“.
+                        Bei Gottheiten und Sagenfiguren, die unabhängig von bestimmten Werken
+                        genannt werden, werden ggfs. erhältliche Normdaten (<ref
                            target="https://lobid.org/gnd">GND</ref> und <ref
                            target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>)
-                        gelistet.</item>
-                     <item>Bei wirklichen Personen</item>
-                     <item>Bei Werken</item>
+                        eingebunden.</item>
+                     <item>Bei wirklichen Personen integrieren wir die Schreibweise laut <ref
+                           target="https://lobid.org/gnd">GND</ref> und Hanslicks Varianten. Zudem
+                        erfolgt eine manuelle Erfassung von Lebensdaten und die Nennung von max.
+                        drei Berufen bzw. Funktionen und Tätigkeiten. Geburtsdaten und Beschreibung
+                        entnehmen wir (sofern im Einzelfall vorhanden) geläufigen Enzyklopädien wie
+                           <ref target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
+                           target="https://www.biographien.ac.at/oebl">ÖBL</ref>, <ref
+                           target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>, <ref
+                           target="https://www.mgg-online.com/">MGG</ref>, <ref
+                           target="https://www.oxfordmusiconline.com/grovemusic">Grove</ref> und dem
+                        Lexikon des <ref target="https://www.sophie-drinker-institut.de/lexikon"
+                           >Sophie Drinker Instituts</ref>. Die restlichen Datensätze (<ref
+                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>
+                        sowie Links zu <ref target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
+                           target="https://www.biographien.ac.at/oebl">ÖBL</ref> und <ref
+                           target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>) werden mittels einer
+                        GitHub-Action automatisch hinzugefügt.</item>
+                     <item>Bei Werken folgen wir dem gleichen Prinzip und nennen sowohl originale
+                        wie von Hanslick gebrauchte Werktitel. Werke werden zudem mit
+                        ihrer/ihrem/ihren Schöpfer*innen und von Hanslick genannten Figuren und
+                        Werkteile mit dem Hauptwerk verknüpft. Dabei werden jedoch immer nur
+                        autonome Werkteile (z.B. ein Lied aus einem Zyklus) separat erfasst, nicht
+                        Sätze einer Sonate (hier wird immer die Sonate als Ganzes verlinkt).
+                        Zusätzliche Datensätze umfassen die Nennung von <ref
+                           target="https://lobid.org/gnd">GND</ref>-Nummern und der Verweis auf
+                        kostenfrei erhältliche Digitalisate (<ref
+                           target="https://imslp.org/wiki/Main_Page">IMSLP</ref>, <ref
+                              target="https://www.digitale-sammlungen.de/">MDZ</ref>, <ref
+                                 target="https://www.deutschestextarchiv.de/">DTA</ref>, <ref
+                                    target="archive.org">archive.org</ref> oder, wenn
+                        nicht anderweitig verfügbar, <ref
+                           target="https://books.google.de/">Google Books</ref>).</item>
                   </list></p>
-               <p>(2) Mehrdeutige Werkangaben – z.B. bei Schuberts „A-Moll-Sonate“, die Hanslick am
-                  01.12.1864 erwähnt und bei der nicht klar wird, ob er D537, D784 oder D845 meint –
-                  werden mittels mehrerer verlinkter Entitäten angezeigt (siehe unten), die auf die
-                  fraglichen Optionen verweisen, wobei bis max. (3) Erwähnte Entitäten werden von
-                  Fall zu Fall mit mehreren Namen vermerkt: (a) dem Haupttitel, der bei den Namen
-                  einer realen Person der Schreibweise der GND und bei Figuren, Werken und Orten der
-                  originalen Schreibweise nach Landessprache entspricht (sofern diese mit
-                  lateinischen Buchstaben darzustellen ist); (b) dem Alternativtitel, d.h. der von
-                  Hanslick gewählten Schreibweise(n) und Bezeichnung(en). Dies ermöglicht, dass über
-                  den Index z.B. Niccolò Piccinni, den Hanslick wahlweise „Picinni“ und „Piccini“
-                  schreibt, oder auch Offenbachs <hi rend="italic">Les Géorgiennes</hi>, die bei
-                  Hanslick als „Die Georgierinnern“, „Die schönen Georgierinnen“ und „Die schönen
-                  Weiber von Georgien“ firmieren, gefunden werden können.</p>
-               <p>Im Index – wo <ref target="listperson.html?lang=de">Personen</ref> (wirkliche wie
-                  fiktionale) und <ref target="listbibl.html?lang=de">Werke</ref> zusätzlich
-                  miteinander verknüpft sind – und der Detailansicht von Annotationen wurde (sofern
-                  im Einzelfall vorhanden) bei Personennamen die Schreibweise der <ref
-                     target="https://lobid.org/gnd">GND</ref> genutzt, bei Ortsnamen die von <ref
-                     target="https://www.geonames.org/">GeoNames</ref>. Im Falle von Namen / Orten
-                  wurden zudem nur Namen / Orte selbst sowie Begriffe mit direktem Namens- und
-                  Ortsbezug annotiert, nicht jedoch Gruppen, die derartige Bezüge aufweisen. Bspw.
-                  sind also „Griechenland“ und „griechisch“ annotiert, „Griechen“ dagegen nicht, was
-                  dann auch für „Gluck“ und „Piccini“, nicht aber für „Gluckisten“ und „Piccinisten“
-                  (2.43) gilt. Solche Begriffe sind über die <ref target="search.html?lang=de"
-                     >Volltextsuche</ref> aber natürlich ebenfalls auffindbar. </p>
+               <p>Das Primärziel des Kritiken-Projekts ist die digitale Edition von Hanslicks
+                  Schriften für die <hi rend="italic">Neue Freie Presse</hi>, die zur inhaltlichen
+                  Auswertung bestimmter <ref
+                     target="https://hanslick.acdh.oeaw.ac.at/projektziele.html">Fragen</ref> dienen
+                  sollen. Aus diesem Grund musste  die Arbeit, die zur Identifikation jeder Person
+                  und jedes Werkes nötig würde, teilweise beschränkt werden. Wenn eine „named
+                  entity“ mit den verfügbaren Ressourcen nicht eindeutig ermittelt werden konnte,
+                  wird dies mit dem Zusatz „unklarer Bezug“ angezeigt. Mehrdeutige Werkangaben –
+                  z.B. bei Schuberts „A-Moll-Sonate“, die Hanslick am 01.12.1864 erwähnt und bei der
+                  nicht klar wird, ob er D537, D784 oder D845 meint – werden mittels mehrerer
+                  verlinkter Entitäten angezeigt, die auf die fraglichen Optionen verweisen, wobei
+                  wir bis max. 5 separate Entitäten angeben. Hinweise auf Fehler und Lücken sind
+                  jederzeit herzlich willkommen!</p>
+               <p>Die Einbeziehung verschiedener Schreibweisen von Namen und Werken ermöglicht, dass
+                  über den Index z.B. Niccolò Piccinni, den Hanslick wahlweise „Picinni“ und
+                  „Piccini“ schreibt, oder auch Offenbachs <hi rend="italic">Les Géorgiennes</hi>,
+                  die bei Hanslick als „Die Georgierinnern“, „Die schönen Georgierinnen“ und „Die
+                  schönen Weiber von Georgien“ firmieren, gefunden werden können. Im Falle von Namen
+                  / Orten wurden zudem nur Namen / Orte selbst sowie Begriffe mit direktem Namens-
+                  und Ortsbezug annotiert, nicht jedoch Gruppen, die derartige Bezüge aufweisen.
+                  Bspw. sind also „Griechenland“ und „griechisch“ annotiert, „Griechen“ dagegen
+                  nicht, was dann auch für „Gluck“ und „Piccini“, nicht aber für „Gluckisten“ und
+                  „Piccinisten“ (2.43) gilt. Solche Begriffe sind über die <ref
+                     target="search.html?lang=de">Volltextsuche</ref> auffindbar. Zusätzliche
+                  Kategorien von „named entities“ (Gebäude, Gruppen, Ereignisse, etc.) sollen
+                  folgen, wenn eine entsprechende Finanzierung gewährleistet ist.</p>
             </div>
          </div>
       </body>
