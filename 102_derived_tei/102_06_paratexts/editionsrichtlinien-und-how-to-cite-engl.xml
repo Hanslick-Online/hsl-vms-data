@@ -53,10 +53,12 @@
                      number, hyperlink.</item>
                   <item>Eduard Hanslick, “Title: Subtitle,” in <emph>Neue Freie Presse</emph>, No. /
                      Date, ed. by Alexander Wilfing in collaboration with Katharina Bamer,
-                     Anna-Maria Pfiel, and Daniel Elsner (2023–2025), hyperlink.</item>
+                     Anna-Maria Pfiel, and Daniel Elsner (2023–2025), line number, hyperlink (switch
+                     on line breaks display, pbs=on).</item>
                   <item>Author, „Title: Subtitle“, in <emph>Journal</emph>, No. / Date, ed. by
-                     Alexander Wilfing in collaboration with Anna-Maria Pfiel and Daniel Elsner
-                     (2024–2025), Hyperlink.</item>
+                     Alexander Wilfing in collaboration with Anna-Maria Pfiel, Daniel Elsner, and
+                     Fernando Sanz-Lázaro (2024–2025), line number, hyperlink (switch on line breaks
+                     display, pbs=on).</item>
                </list></p>
             <div type="sub">
                <head>Editorial Conventions (<hi rend="italic">Vom Musikalisch-Schönen</hi>)</head>
@@ -151,13 +153,33 @@
                   Oxford University Press, 2014), 301–307. These reviews were published between 1854
                   and the end of 1857, when the second edition of Hanslick’s aesthetic treatise was
                   released, judging by an advertisement in the <hi rend="italic">Börsenblatt für den
-                     Deutschen Buchhandel</hi> (December 14, 1857, 2). The length of these texts
-                  varies from brief, single-page reviews to extensive multi-part critiques, such as
-                  those by Emil Kuh (<hi rend="italic">Der Humorist</hi>, 18, no. 305, 1219; 18, no.
-                  306, 1223; 18, no. 309, 1235), Franz Brendel (<hi rend="italic">Neue Zeitschrift
-                     für Musik</hi>, 42, no. 8, 77–82; 42, no. 9, 89–91; 42, no. 10, 97–100), and
-                  Ludwig Bischoff (<hi rend="italic">Niederrheinische Musik-Zeitung</hi>, 3, no. 7,
-                  49–53; 3, no. 8, 57–60; 3, no. 9, 65–66; 3, no. 10, 73–75).</p>
+                     Deutschen Buchhandel</hi> (<ref
+                     target="https://www.deutsche-digitale-bibliothek.de/newspaper/item/IYPCBIM75MOMBIQ7YVTYZENGAB74A77G?issuepage=2"
+                     >December 14, 1857</ref>). The length of these texts varies from brief,
+                  single-page reviews to extensive multi-part critiques, such as those by Emil Kuh
+                     (<hi rend="italic">Der Humorist</hi>, <ref
+                     target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541125"
+                     >November 25</ref>, <ref
+                     target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541126"
+                     >November 26</ref>, and <ref
+                     target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541129"
+                     >November 29, 1854</ref>), Franz Brendel (<emph>Neue Zeitschrift für
+                     Musik</emph>, <ref
+                     target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=93"
+                     >February 16</ref>, <ref
+                     target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=105"
+                     >February 23</ref>, and <ref
+                     target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=113">March
+                     2, 1855</ref>), and Ludwig Bischoff (<hi rend="italic">Niederrheinische
+                     Musik-Zeitung</hi>, <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=59"
+                     >February 17</ref>, <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=67"
+                     >February 24</ref>, <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=75">March
+                     3</ref>, and <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=83">March
+                     10, 1855</ref>).</p>
             </div>
             <div type="sub">
                <head>Collection, Selection, and Presentation of Data</head>
@@ -229,18 +251,21 @@
                         and links to <ref target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
                            target="https://www.biographien.ac.at/oebl">ÖBL</ref>, and <ref
                            target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>) are automatically
-                        queried and added through a pipeline from the Wikidata API.</item>
+                        queried and added through a pipeline from the Wikidata API. The project
+                        members cannot guarantee the correctness of automatically integrated
+                        datasets.</item>
                      <item>For works, we follow a similar method, giving both the original headings
                         and those used by Hanslick. Works are linked to their creator(s) and figures
                         named by Hanslick; parts of works are further linked to the main work.
                         However, only autonomous parts of works (e.g., a song from a cycle) are
                         recorded separately; movements from a violin sonata and the like are linked
-                        to the entire sonata. Additional datasets include <ref
-                           target="https://lobid.org/gnd">GND</ref> numbers and links to open access
-                        digital copies (<ref target="https://imslp.org/wiki/Main_Page">IMSLP</ref>,
-                           <ref target="https://www.digitale-sammlungen.de/">MDZ</ref>, <ref
-                           target="https://www.deutschestextarchiv.de/">DTA</ref>, <ref
-                           target="archive.org">archive.org</ref>, or <ref
+                        to the entire sonata. For song cycles, up to three poets are listed
+                        separately; otherwise, we merely credit the composer. Additional datasets
+                        include <ref target="https://lobid.org/gnd">GND</ref> numbers and links to
+                        open access digital copies (<ref target="https://imslp.org/wiki/Main_Page"
+                           >IMSLP</ref>, <ref target="https://www.digitale-sammlungen.de/"
+                        >MDZ</ref>, <ref target="https://www.deutschestextarchiv.de/">DTA</ref>,
+                           <ref target="archive.org">archive.org</ref>, or <ref
                            target="https://books.google.de/">Google Books</ref>, if no other source
                         is available). </item>
                   </list></p>
@@ -257,7 +282,7 @@
                   maximum of five links. Feedback on errors and data gaps is always welcome!</p>
                <p>The listing of spelling variants for names and works ensures that a user can, for
                   example, successfully search the index for Niccolò Piccinni, whom Hanslick at
-                  times spells “Picinni” and “Piccini,” or Offenbachs <hi rend="italic">Les
+                  times spells “Picinni” and “Piccini,” or Offenbach’s <hi rend="italic">Les
                      Géorgiennes</hi>, which he names “Die Georgierinnern,” “Die schönen
                   Georgierinnen,” and “Die schönen Weiber von Georgien,” respectively. In the case
                   of names and places, only names and places themselves and terms directly related

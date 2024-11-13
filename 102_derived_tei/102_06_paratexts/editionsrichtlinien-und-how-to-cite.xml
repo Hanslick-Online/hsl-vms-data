@@ -32,7 +32,7 @@
          <div type="main">
             <head>Editionsrichtlinien und Zitiervorschlag</head>
             <p>Stand Ende 2024 umfasst die Website „Hanslick Online“ drei distinkte textliche
-               Korpara zu Eduard Hanslick:<list>
+               Korpora zu Eduard Hanslick:<list>
                   <item>die Edition der 10 Auflagen von Hanslicks Ästhetik-Traktat <emph>Vom
                         Musikalisch-Schönen</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von
                      Meike Wilfing-Albrecht und Daniel Elsner (2023),</item>
@@ -53,10 +53,12 @@
                      Absatznummer, Hyperlink.</item>
                   <item>Eduard Hanslick, „Titel. Untertitel“, in <emph>Neue Freie Presse</emph>, Nr.
                      / Datum, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina Bamer,
-                     Anna-Maria Pfiel und Daniel Elsner (2023–2025), Hyperlink.</item>
-                  <item>Autorname, „Titel. Unteritel“, in <emph>Zeitschrift</emph>, Nr. / Datum,
-                     hrsg. von Alexander Wilfing unter Mitarbeit von Anna-Maria Pfiel und Daniel
-                     Elsner (2024–2025), Hyperlink.</item>
+                     Anna-Maria Pfiel und Daniel Elsner (2023–2025), Zeilenzahl, Hyperlink (Umbrüche
+                     aktivieren, pbs=on).</item>
+                  <item>Autorname, „Titel. Untertitel“, in <emph>Zeitschrift</emph>, Nr. / Datum,
+                     hrsg. von Alexander Wilfing unter Mitarbeit von Anna-Maria Pfiel, Daniel Elsner
+                     und Fernando Sanz-Lázaro (2024–2025), Zeilenzahl, Hyperlink (Umbrüche
+                     aktivieren, pbs=on).</item>
                </list></p>
             <div type="sub">
                <head>Editionsrichtlinien (<hi rend="italic">Vom Musikalisch-Schönen</hi>)</head>
@@ -152,14 +154,32 @@
                   Evan Bonds <emph>Absolute Music: The History of an Idea</emph> (Oxford: Oxford
                   University Press, 2014), S. 301–307 identifiziert. Hierbei handelt es sich um
                   Besprechungen, die von Ende 1854 bis Ende 1857 erschienen, als laut dem <hi
-                     rend="italic">Börsenblatt für den Deutschen Buchhandel</hi> (14.12.1857, S. 2)
-                  die 2. Auflage des Ästhetik-Traktats vorlag. Die Länge dieser Texte reicht von
-                  1-seitigen bis hin zu substantiellen mehrteiligen Rezensionen, wie etwa jene von
-                  Emil Kuh (<hi rend="italic">Der Humorist</hi>, 18/305, S. 1219; 18/306, S. 1223;
-                  18/309, S. 1235), Franz Brendel (<hi rend="italic">Neue Zeitschrift für
-                  Musik</hi>, 42/8, S. 77–82; 42/9, S. 89–91; 42/10, S. 97–100) und Ludwig Bischoff
-                     (<hi rend="italic">Niederrheinische Musik-Zeitung</hi>, 3/7, S. 49–53; 3/8, S.
-                  57–60; 3/9, S. 65–66; 3/10, S. 73–75). </p>            
+                     rend="italic">Börsenblatt für den Deutschen Buchhandel</hi> (<ref
+                     target="https://www.deutsche-digitale-bibliothek.de/newspaper/item/IYPCBIM75MOMBIQ7YVTYZENGAB74A77G?issuepage=2"
+                     >14.12.1857</ref>) die 2. Auflage des Ästhetik-Traktats vorlag. Die Länge
+                  dieser Texte reicht von 1-seitigen bis hin zu substantiellen mehrteiligen
+                  Rezensionen, wie etwa jene von Emil Kuh (<hi rend="italic">Der Humorist</hi>, <ref
+                     target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541125"
+                     >25.11.</ref>, <ref
+                     target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541126"
+                     >26.11.</ref> und <ref
+                     target="https://anno.onb.ac.at/cgi-content/anno?aid=hum&amp;datum=18541129"
+                     >29.11.1854</ref>), Franz Brendel (<emph>Neue Zeitschrift für Musik</emph>,
+                     <ref target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=93"
+                     >16.02.</ref>, <ref
+                     target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=105"
+                     >23.02.</ref> und <ref
+                     target="https://www.digitale-sammlungen.de/de/view/bsb10527933?page=113"
+                     >02.03.1855</ref>) und Ludwig Bischoff (<emph>Niederrheinische
+                     Musik-Zeitung</emph>, <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=59"
+                     >17.02.</ref>, <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=67"
+                     >24.02.</ref>, <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=75"
+                     >03.03.</ref> und <ref
+                     target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=83"
+                     >10.03.1855</ref>).</p>            
             </div>
             <div type="sub">
                <head>Erhebung, Selektion und Darstellung  von Daten</head>
@@ -169,7 +189,7 @@
                   für die <hi rend="italic">Neue Freie Presse</hi> standen ihm Katharina Bamer und
                   Anna-Maria Pfiel zur Seite. Letztere übernahm ebenfalls die Übertragung und
                   Annotation der Rezensionen der 1. Auflage von <emph>Vom
-                  Musikalisch-Schönen</emph>. Wähernd die XML/TEI-Dateien der 10 Auflagen von
+                  Musikalisch-Schönen</emph>. Während die XML/TEI-Dateien der 10 Auflagen von
                   Hanslicks Ästhetik-Traktat auf Basis von Word-Files erstellt wurden, nutzte das
                   Projektteam <ref target="https://readcoop.eu/de/transkribus/">Transkribus</ref>
                   für die Übertragung, Lektorierung und Annotation der anderen Korpora. Die
@@ -233,16 +253,19 @@
                         sowie Links zu <ref target="https://www.musiklexikon.ac.at/">ÖML</ref>, <ref
                            target="https://www.biographien.ac.at/oebl">ÖBL</ref> und <ref
                            target="https://pmb.acdh.oeaw.ac.at/">PMB</ref>) werden mittels einer
-                        Pipeline automatisch von der Wikidata API abgefragt und hinzugefügt.</item>
+                        Pipeline automatisch von der Wikidata API abgefragt und hinzugefügt. Das
+                        Projektteam kann für die automatisch integrierten Daten keinerlei Garantie
+                        auf Korrektheit übernehmen.</item>
                      <item>Bei Werken folgen wir dem gleichen Prinzip und nennen sowohl originale
                         wie von Hanslick gebrauchte Werktitel. Werke werden zudem mit
                         ihrer/ihrem/ihren Schöpfer*innen und von Hanslick genannten Figuren sowie
                         Werkteile mit dem Hauptwerk verknüpft. Dabei werden jedoch immer nur
                         autonome Werkteile (z.B. ein Lied aus einem Zyklus) separat erfasst, nicht
-                        Sätze einer Sonate (hier wird immer die Sonate als Ganzes verlinkt).
-                        Zusätzliche Datensätze umfassen die Nennung von <ref
-                           target="https://lobid.org/gnd">GND</ref>-Nummern und der Verweis auf
-                        kostenfrei erhältliche Digitalisate (<ref
+                        Sätze einer Sonate (hier wird immer die Sonate als Ganzes verlinkt). Bei
+                        Liederzyklen werden bis max. 3 Textdichter*innen individuell angegeben,
+                        sonst nur der Komponist des Werkes selbst. Zusätzliche Datensätze umfassen
+                        die Nennung von <ref target="https://lobid.org/gnd">GND</ref>-Nummern und
+                        der Verweis auf kostenfrei erhältliche Digitalisate (<ref
                            target="https://imslp.org/wiki/Main_Page">IMSLP</ref>, <ref
                            target="https://www.digitale-sammlungen.de/">MDZ</ref>, <ref
                            target="https://www.deutschestextarchiv.de/">DTA</ref>, <ref
