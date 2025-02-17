@@ -35,7 +35,7 @@
                Korpora zu Eduard Hanslick:<list>
                   <item>die Edition der 10 Auflagen von Hanslicks Ästhetik-Traktat <emph>Vom
                         Musikalisch-Schönen</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von
-                     Meike Wilfing-Albrecht und Daniel Elsner (2023),</item>
+                     Daniel Elsner und Meike Wilfing-Albrecht (2023),</item>
                   <item>die Edition von Hanslicks Schriften für die <hi rend="italic">Neue Freie
                         Presse</hi>, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina
                      Bamer, Daniel Elsner, Anna-Maria Pfiel und Fernando Sanz-Lázaro (2023–2025)
@@ -45,19 +45,20 @@
                      Daniel Elsner, Anna-Maria Pfiel und Fernando Sanz-Lázaro (2024–2025).</item>
                </list></p>
             <p>Die Editionen wurden / werden von Alexander Wilfing geleitet und von Daniel Elsner
-               technisch umgesetzt. Das Logo von „Hanslick Online“ wurde von Olivia Reichl erstellt
-               und die englischen Begleittexte im Jahr 2023 von David Heyde lektoriert. Die
-               Zitiervorschläge für das jeweilige Textkorpus lauten wie folgt:<list>
+               und (seit 2025) Fernando Sanz-Lázaro technisch umgesetzt. Das Logo von „Hanslick
+               Online“ wurde von Olivia Reichl erstellt und die englischen Begleittexte im Jahr 2023
+               von David Heyde lektoriert. Die Zitiervorschläge für das jeweilige Textkorpus lauten
+               wie folgt:<list>
                   <item>Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
                         Ästhetik der Tonkunst</emph>, hrsg. von Alexander Wilfing unter Mitarbeit
-                     von Meike Wilfing-Albrecht und Daniel Elsner (2023), Auflagenzahl,
+                     von Daniel Elsner und Meike Wilfing-Albrecht (2023), Auflagenzahl,
                      Absatznummer, Hyperlink.</item>
                   <item>Eduard Hanslick, „Titel. Untertitel“, in <emph>Neue Freie Presse</emph>, Nr.
                      / Datum, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina Bamer,
-                     Anna-Maria Pfiel und Daniel Elsner (2023–2025), Zeilenzahl, Hyperlink (Umbrüche
-                     aktivieren, pbs=on).</item>
+                     Daniel Elsner, Anna-Maria Pfiel und Fernando Sanz-Lázaro (2023–2025),
+                     Zeilenzahl, Hyperlink (Umbrüche aktivieren, pbs=on).</item>
                   <item>Autorname, „Titel. Untertitel“, in <emph>Zeitschrift</emph>, Nr. / Datum,
-                     hrsg. von Alexander Wilfing unter Mitarbeit von Anna-Maria Pfiel, Daniel Elsner
+                     hrsg. von Alexander Wilfing unter Mitarbeit von Daniel Elsner, Anna-Maria Pfiel
                      und Fernando Sanz-Lázaro (2024–2025), Zeilenzahl, Hyperlink (Umbrüche
                      aktivieren, pbs=on).</item>
                </list></p>
@@ -135,8 +136,8 @@
                   einem Asterisk * kenntlich gemacht, da sie im Vergleich zu <hi rend="italic">Vom
                      Musikalisch-Schönen</hi> nur selten und im Rahmen relativ kurzer Aufsätze
                   vorkommen.</p>
-               <p>Textliche Grundlage der Kritiken-Edition bilden vorerst primär die von Hanslick
-                  mit „Ed. H.“ eindeutig signierten Feuilletons „unter dem Strich“ von 1864, dem
+               <p>Textliche Grundlage der Kritiken-Edition bilden primär die von Hanslick mit „Ed.
+                  H.“ eindeutig signierten Feuilletons „unter dem Strich“ von 1864, dem
                   Gründungsjahr der <hi rend="italic">Neuen Freien Presse</hi>, bis 1904, dem
                   Todesjahr Hanslicks. Diese Texte (ca. 900 Stück) finden sich meist in je 3 Spalten
                   auf den ersten 2–3 Seiten einer Zeitungsausgabe. Andere Schriften der <hi
@@ -188,10 +189,10 @@
                <byline>Alexander Wilfing, 2024</byline>
                <p>Die TEI-Annotation von <emph>Vom Musikalisch-Schönen</emph> wurde durch Alexander
                   Wilfing besorgt, der die Edition im Ganzen betreute. Bei der Edition der Schriften
-                  für die <hi rend="italic">Neue Freie Presse</hi> standen ihm Katharina Bamer und
-                  Anna-Maria Pfiel zur Seite. Letztere übernahm ebenfalls die Übertragung und
-                  Annotation der Rezensionen der 1. Auflage von <emph>Vom
-                  Musikalisch-Schönen</emph>. Während die XML/TEI-Dateien der 10 Auflagen von
+                  für die <hi rend="italic">Neue Freie Presse</hi> standen ihm von 2022 bis 2024
+                  Katharina Bamer und Anna-Maria Pfiel zur Seite. Letztere übernahm ebenfalls die
+                  Übertragung und Annotation der Rezensionen der 1. Auflage von <emph>Vom
+                     Musikalisch-Schönen</emph>. Während die XML/TEI-Dateien der 10 Auflagen von
                   Hanslicks Ästhetik-Traktat auf Basis von Word-Files erstellt wurden, nutzte das
                   Projektteam <ref target="https://readcoop.eu/de/transkribus/">Transkribus</ref>
                   für die Übertragung, Lektorierung und Annotation der anderen Korpora. Die
@@ -220,14 +221,15 @@
                      <item>Bei Orten werden sowohl der heutige Name gemäß Landessprache(n) wie auch
                         die von Hanslick gewählte Benennung verzeichnet. Als Normdaten-Identifikator
                         wird auch die URI nach <ref target="https://www.geonames.org/"
-                           >GeoNames</ref> gelistet. Die restlichen Datensätze (<ref
-                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>,
-                           <ref target="https://lobid.org/gnd">GND</ref>, geografische Koordinaten,
-                        etc.) werden mittels einer von Daniel Elsner eingerichteten Pipeline
-                        automatisch von der Geonames und Wikidata API abgefragt und hinzugefügt. Für
-                        sämtliche Datensätze gilt, dass Namen gemäß Landessprache(n) in lateinische
-                        Buchstaben transliteriert werden und ein tag „Überprüft“ ausweist, ob Daten
-                        schon unter dem Vier-Augen-Prinzip kontrolliert werden konnten.</item>
+                           >GeoNames</ref> und <ref
+                           target="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</ref>
+                        gelistet. Die restlichen Datensätze (<ref target="https://lobid.org/gnd"
+                           >GND</ref>, Klassifizierung, geografische Koordinaten, etc.) werden
+                        mittels einer von Daniel Elsner eingerichteten Pipeline automatisch von der
+                        Geonames und Wikidata API abgefragt und hinzugefügt. Für sämtliche
+                        Datensätze gilt, dass Namen gemäß Landessprache(n) in lateinische Buchstaben
+                        transliteriert werden und ein tag „Überprüft“ ausweist, ob Daten schon unter
+                        dem Vier-Augen-Prinzip kontrolliert werden konnten.</item>
                      <item>Bei fiktionalen Personen werden sowohl originale wie von Hanslick
                         genutzte Namen gelistet und die Figur mit dem bezüglichen Werkeintrag
                         verbunden. Hierbei erfolgen jedoch niemals Mehrfach-Verlinkungen: So gibt es
@@ -263,11 +265,12 @@
                         ihrer/ihrem/ihren Schöpfer*innen und von Hanslick genannten Figuren sowie
                         Werkteile mit dem Hauptwerk verknüpft. Dabei werden jedoch immer nur
                         autonome Werkteile (z.B. ein Lied aus einem Zyklus) separat erfasst, nicht
-                        Sätze einer Sonate (hier wird immer die Sonate als Ganzes verlinkt). Bei
-                        Liederzyklen werden bis max. 3 Textdichter*innen individuell angegeben,
-                        sonst nur der Komponist des Werkes selbst. Zusätzliche Datensätze umfassen
-                        die Nennung von <ref target="https://lobid.org/gnd">GND</ref>-Nummern und
-                        der Verweis auf kostenfrei erhältliche Digitalisate (<ref
+                        Sätze einer Sonate (hier wird, wenn zur Identifikation fallweise notwendig,
+                        die Sonate als Ganzes verlinkt). Bei Liederzyklen werden bis max. 3
+                        Textdichter*innen individuell angegeben, sonst nur der Komponist des Werkes
+                        selbst. Zusätzliche Datensätze umfassen die Nennung von <ref
+                           target="https://lobid.org/gnd">GND</ref>-Nummern und der Verweis auf
+                        kostenfrei erhältliche Digitalisate (<ref
                            target="https://imslp.org/wiki/Main_Page">IMSLP</ref>, <ref
                            target="https://www.digitale-sammlungen.de/">MDZ</ref>, <ref
                            target="https://www.deutschestextarchiv.de/">DTA</ref>, <ref
