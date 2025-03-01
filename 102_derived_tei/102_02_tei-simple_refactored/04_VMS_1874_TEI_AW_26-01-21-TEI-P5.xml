@@ -614,42 +614,28 @@
    <text>
       <front>
          <titlePage>
-            <pb n="[VI]"
-                facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1874_002.tif"/>
+            <pb n="[VI]" facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1874_002.tif"/>
             <docTitle>
                <titlePart type="main">
-                  <title>Vom</title>
+                  Vom <lb/> Musikalisch-Schönen.
                </titlePart>
                <titlePart type="sub">
-                  <title>Musikalisch-Schönen.</title>
-               </titlePart>
-               <titlePart type="sub"/>
-               <titlePart type="sub">
-                  <title>Ein Beitrag</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>zur</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>Revision der Aesthetik der Tonkunst.</title>
+                  Ein Beitrag <lb/> zur <lb/> Revision der Aesthetik der Tonkunst.
                </titlePart>
             </docTitle>
-            <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs>, </docAuthor>
+               Von <lb/> <docAuthor ref="#hsl_person_id_1">Dr. Eduard Hanslick</docAuthor>,
             </byline>
-            <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
-               Universität. </byline>
+            <byline> 
+               Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität.
+            </byline>
             <docEdition>Vierte verbesserte Auflage.</docEdition>
             <docImprint>
-               <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, <date>1874</date>. </docImprint>
-            <docImprint> Johann Ambrosius <rs type="person" ref="#hsl_person_id_706" xml:id="d1e316a1048964">Barth</rs>. </docImprint>
+               <pubPlace ref="#hsl_place_id_32">Leipzig</pubPlace>, <date>1874</date><lb/>
+               <publisher ref="#hsl_person_id_706">Johann Ambrosius Barth</publisher>. <lb/>
+            </docImprint>
             <milestone unit="section"/>
-            <byline> Seinem Freunde </byline>
-            <byline> Prof. Dr. Adam <rs type="person" ref="#hsl_person_id_707" xml:id="d1e327a1048964">Wolf</rs>, </byline>
-            <byline> wirklichen Mitglied der k. k. Akademie der Wissenschaften, </byline>
-            <byline> treu anhänglich </byline>
-            <byline> der Verfasser. </byline>
+            <byline> Seinem Freunde <lb/> Prof. Dr. Adam <rs type="person" ref="#hsl_person_id_707" xml:id="d1e327a1048964">Wolf</rs>, <lb/> wirklichen Mitglied der k. k. Akademie der Wissenschaften, <lb/> treu anhänglich <lb/> der Verfasser. </byline>
             <milestone unit="section"/>
          </titlePage>
          <div type="toc"/>

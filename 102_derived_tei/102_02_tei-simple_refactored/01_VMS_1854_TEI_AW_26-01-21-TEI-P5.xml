@@ -504,32 +504,20 @@
             <pb facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1854_002.tif" n="[F]"/>
             <docTitle>
                <titlePart type="main">
-                  <title>Vom</title>
+                  Vom <lb/> Musikalisch-Schönen.
                </titlePart>
                <titlePart type="sub">
-                  <title>Musikalisch-Schönen.</title>
-               </titlePart>
-               <titlePart type="sub"/>
-               <titlePart type="sub">
-                  <title>Ein Beitrag</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>zur</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>Revision der Aesthetik der Tonkunst.</title>
+                  Ein Beitrag zur Revision <lb/> der Aesthetik der Tonkunst.
                </titlePart>
             </docTitle>
-            <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>. </byline>
+               Von <docAuthor ref="#hsl_person_id_1">Dr. Eduard Hanslick</docAuthor>.
+            </byline>
             <docImprint>
-               <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, </docImprint>
-            <docImprint>
-               <rs type="person" ref="#hsl_person_id_377" xml:id="d1e296a1048964">Rudolph
-                  Weigel</rs>. </docImprint>
-            <docImprint>
-               <date>1854</date>. </docImprint>
+               <pubPlace ref="#hsl_place_id_32">Leipzig</pubPlace>, <lb/>
+               <publisher ref="#hsl_person_id_377">Rudolph Weigel</publisher>. <lb/>
+               <date>1854</date>.
+            </docImprint>
             <milestone unit="section"/>
          </titlePage>
          <div type="toc"/>

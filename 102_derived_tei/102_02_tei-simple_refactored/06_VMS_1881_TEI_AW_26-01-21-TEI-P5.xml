@@ -794,41 +794,29 @@
    <text>
       <front>
          <titlePage>
-            <pb n="[F]"
-                facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L002.tif"/>
+            <pb n="[F]" facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_L002.tif"/>
             <docTitle>
                <titlePart type="main">
-                  <title>Vom</title>
+                  Vom <lb/> Musikalisch-Schönen.
                </titlePart>
                <titlePart type="sub">
-                  <title>Musikalisch-Schönen.</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>Ein Beitrag</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>zur</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>Revision der Aesthetik der Tonkunst.</title>
+                  Ein Beitrag <lb/> zur <lb/> Revision der Aesthetik der Tonkunst.
                </titlePart>
             </docTitle>
-            <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>, </byline>
-            <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
-               Universität. </byline>
+               Von <lb/> <docAuthor ref="#hsl_person_id_1">Dr. Eduard Hanslick</docAuthor>,
+            </byline>
+            <byline> 
+               Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität.
+            </byline>
             <docEdition>Sechste vermehrte und verbesserte Auflage.</docEdition>
             <docImprint>
-               <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>
+               <pubPlace ref="#hsl_place_id_32">Leipzig</pubPlace> <lb/>
+               <publisher ref="#hsl_person_id_706">Johann Ambrosius Barth</publisher>. <lb/>
+               <date>1881</date>.
             </docImprint>
-            <docImprint> Johann Ambrosius <rs type="person" ref="#hsl_person_id_706" xml:id="d1e309a1048964">Barth</rs>. </docImprint>
-            <docImprint>
-               <date>1881</date>. </docImprint>
             <milestone unit="section"/>
-            <byline> Herrn Gustav <rs type="person" ref="#hsl_person_id_715" xml:id="d1e323a1048964">Doempke</rs>
-            </byline>
-            <byline> in <rs type="place" ref="#hsl_place_id_86">Königsberg</rs>. </byline>
+            <byline> Herrn Gustav <rs type="person" ref="#hsl_person_id_715" xml:id="d1e323a1048964">Doempke</rs> <lb/> in <rs type="place" ref="#hsl_place_id_86">Königsberg</rs>. </byline>
             <milestone unit="section"/>
          </titlePage>
          <div type="toc"/>

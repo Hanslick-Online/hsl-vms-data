@@ -638,42 +638,29 @@
    <text>
       <front>
          <titlePage>
+            <pb n="[VI]" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598670_00007"/>
             <docTitle>
-               <pb n="[VI]"
-                   facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb10598670_00007"/>
                <titlePart type="main">
-                  <title>Vom</title>
+                  Vom <lb/> Musikalisch-Schönen.
                </titlePart>
                <titlePart type="sub">
-                  <title>Musikalisch-Schönen.</title>
-               </titlePart>
-               <titlePart type="sub"/>
-               <titlePart type="sub">
-                  <title>Ein Beitrag</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>zur</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>Revision der Aesthetik der Tonkunst.</title>
+                  Ein Beitrag <lb/> zur <lb/> Revision der Aesthetik der Tonkunst.
                </titlePart>
             </docTitle>
-            <byline>Von</byline>
             <byline>
-               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>
+               Von <lb/> <docAuthor ref="#hsl_person_id_1">Dr. Eduard Hanslick</docAuthor>
             </byline>
-            <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
-               Universität. </byline>
+            <byline> 
+               Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität.
+            </byline>
             <docEdition>Dritte verbesserte Auflage.</docEdition>
             <docImprint>
-               <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>, </docImprint>
-            <docImprint> Rudolph <rs type="person" ref="#hsl_person_id_377" xml:id="d1e311a1048964">Weigel</rs>. </docImprint>
-            <docImprint>
-               <date>1865</date>. </docImprint>
+               <pubPlace ref="#hsl_place_id_32">Leipzig</pubPlace>, <lb/>
+               <publisher ref="#hsl_person_id_377">Rudolph Weigel</publisher>. <lb/>
+               <date>1865</date>.
+            </docImprint>
             <milestone unit="section"/>
-            <byline> Meinem Freunde und Collegen </byline>
-            <byline> Robert <rs type="person" ref="#ehsl_person_id_705" xml:id="d1e327a1048964">Zimmermann</rs>, </byline>
-            <byline> ord. Professor der Philosophie an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität. </byline>
+            <byline> Meinem Freunde und Collegen <lb/> Robert <rs type="person" ref="#ehsl_person_id_705" xml:id="d1e327a1048964">Zimmermann</rs>, <lb/> ord. Professor der Philosophie an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität. </byline>
             <milestone unit="section"/>
          </titlePage>
          <div type="toc"/>

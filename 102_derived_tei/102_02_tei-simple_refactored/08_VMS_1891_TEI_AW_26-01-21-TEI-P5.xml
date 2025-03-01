@@ -881,48 +881,29 @@
    <text>
       <front>
          <titlePage>
-            <pb n="[IV]"
-                facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1891_L001.tif"/>
+            <pb n="[IV]" facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1891_L001.tif"/>
             <docTitle>
                <titlePart type="main">
-                  <title>Vom</title>
+                  Vom <lb/> Musikalisch-Schönen.
                </titlePart>
                <titlePart type="sub">
-                  <title>Musikalisch-Schönen.</title>
-               </titlePart>
-               <titlePart type="sub"/>
-               <titlePart type="sub">
-                  <title>Ein Beitrag</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>zur</title>
-               </titlePart>
-               <titlePart type="sub">
-                  <title>Revision der Ästhetik der Tonkunst</title>
+                  Ein Beitrag <lb/> zur <lb/> Revision der Ästhetik der Tonkunst
                </titlePart>
             </docTitle>
-            <byline>von</byline>
             <byline>
-               <docAuthor> Dr. Eduard <rs type="person" ref="#hsl_person_id_1">Hanslick</rs> </docAuthor>
+               Von <lb/> <docAuthor ref="#hsl_person_id_1">Dr. Eduard Hanslick</docAuthor>
             </byline>
-            <byline> Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er
-               Universität. </byline>
+            <byline> 
+               Professor an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität.
+            </byline>
             <docEdition>Achte vermehrte und verbesserte Auflage</docEdition>
             <docImprint>
-               <rs type="place" ref="#hsl_place_id_32">Leipzig</rs>
-            </docImprint>
-            <docImprint> Johann Ambrosius <rs type="person" ref="#hsl_person_id_706" xml:id="d1e312a1048964">Barth</rs>
-            </docImprint>
-            <docImprint>
-               <date>1891</date>
+               <pubPlace ref="#hsl_place_id_32">Leipzig</pubPlace> <lb/>
+               <publisher ref="#hsl_person_id_706">Johann Ambrosius Barth</publisher> <lb/>
+               <date>1891</date>.
             </docImprint>
             <milestone unit="section"/>
-            <byline> Seinem Freunde </byline>
-            <byline> Robert <rs type="person" ref="#hsl_person_id_705" xml:id="d1e329a1048964">Zimmermann</rs>
-            </byline>
-            <byline> Professor der Philosophie an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität </byline>
-            <byline> treu anhänglich </byline>
-            <byline> der Verfasser </byline>
+            <byline> Seinem Freunde <lb/> Robert <rs type="person" ref="#hsl_person_id_705" xml:id="d1e329a1048964">Zimmermann</rs> <lb/> Professor der Philosophie an der <rs type="place" ref="#hsl_place_id_55">Wien</rs>er Universität <lb/> treu anhänglich <lb/> der Verfasser </byline>
             <milestone unit="section"/>
          </titlePage>
          <div type="toc"/>
