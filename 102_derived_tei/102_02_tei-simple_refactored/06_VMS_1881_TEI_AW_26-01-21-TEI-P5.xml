@@ -1371,8 +1371,7 @@
                               <emph>Empfindungen</emph> und <emph>Leidenschaften</emph>
                            äußern.“</quote>
                      </cit> (<rs type="bibl" ref="#hsl_work_id_323" xml:id="d1e1132a1048964">Ueber
-                        die Theorie der Musik</rs>.<rs type="place" ref="#hsl_place_id_72">Göttingen</rs>
-                     <date>1777</date>. S. 26.)</item>
+                        die Theorie der Musik</rs>.<rs type="place" ref="#hsl_place_id_72">Göttingen</rs><space quantity="1" unit="char"/><date>1777</date>. S. 26.)</item>
                   <item>
                      <rs type="person"
                          ref="#hsl_person_id_386"
@@ -1438,8 +1437,7 @@
                      <rs type="person"
                          ref="#hsl_person_id_392"
                          rendition="#bold"
-                         xml:id="d1e1232a1048964">Pierer’s</rs>
-                     <rs type="bibl" ref="#hsl_work_id_329" xml:id="d1e1238a1048964">Universallexikon</rs> (2. Auflage): <cit>
+                         xml:id="d1e1232a1048964">Pierer’s</rs><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_329" xml:id="d1e1238a1048964">Universallexikon</rs> (2. Auflage): <cit>
                         <quote>„<emph>Musik</emph> ist die Kunst, durch schöne Töne Empfindungen und
                            Seelenzustände auszudrücken. Sie steht höher als die
                               <emph>Dichtkunst</emph>, welche nur (!) mit dem Verstande erkennbare
@@ -1451,8 +1449,7 @@
                      <rs type="person"
                          ref="#hsl_person_id_393"
                          rendition="#bold"
-                         xml:id="d1e1254a1048964">G. Schilling’s</rs>
-                     <rs type="bibl" ref="#hsl_work_id_330" xml:id="d1e1260a1048964">Universallexikon der Tonkunst</rs> bringt unter dem Artikel „Musik“ die
+                         xml:id="d1e1254a1048964">G. Schilling’s</rs><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_330" xml:id="d1e1260a1048964">Universallexikon der Tonkunst</rs> bringt unter dem Artikel „Musik“ die
                      gleiche Erklärung.</item>
                </list>
                <pb n="[20]"
@@ -1493,8 +1490,7 @@
                               <emph>Gefühlsvermögen</emph> beschäftigen der Saiten harmonische
                            Töne.“</quote>
                      </cit> (<rs type="bibl" ref="#hsl_work_id_334" xml:id="d1e1326a1048964">Analyse
-                        des Schönen der Musik</rs>.<rs type="place" ref="#hsl_place_id_55">Wien</rs>
-                     <date>1830</date>. S. 62.)</item>
+                        des Schönen der Musik</rs>.<rs type="place" ref="#hsl_place_id_55">Wien</rs><space quantity="1" unit="char"/><date>1830</date>. S. 62.)</item>
                   <item>
                      <rs type="person"
                          ref="#hsl_person_id_398"
@@ -1523,8 +1519,7 @@
                            melodische Töne (!) erklingen nicht dem Verstande, welcher Empfindungen
                            ja nur beschreibt und zergliedert, … sie sprechen zu dem
                               <emph>Gemüth</emph>“ </quote>
-                     </cit> etc. (<rs type="bibl" ref="#hsl_work_id_338" xml:id="d1e1384a1048964">Aphorismen über Musik</rs>.<rs type="place" ref="#hsl_place_id_32">Leipzig</rs>
-                     <date>1847</date>. S. 329.)</item>
+                         </cit> etc. (<rs type="bibl" ref="#hsl_work_id_338" xml:id="d1e1384a1048964">Aphorismen über Musik</rs>.<rs type="place" ref="#hsl_place_id_32">Leipzig</rs><space quantity="1" unit="char"/><date>1847</date>. S. 329.)</item>
                   <item>
                      <rs type="person"
                          ref="#hsl_person_id_401"
@@ -2052,8 +2047,7 @@
                Mache einer solchen Umarbeitung, allein der rein musikalische Ausdruck wird nicht im
                Mindesten beleidigt. Und doch soll das religiöse Gefühl, der Glaubensfanatismus
                geradezu die Springfeder der „<rs type="bibl" ref="#hsl_work_id_105">Hugenotten</rs>“
-               bilden, welche in den „Ghibellinen“ ganz entfällt. Der <rs type="bibl" ref="#hsl_work_id_349">Choral</rs>
-               <rs type="person" ref="#hsl_person_id_169" xml:id="d1e2057a1048964">Luther</rs>ʼs
+               bilden, welche in den „Ghibellinen“ ganz entfällt. Der <rs type="bibl" ref="#hsl_work_id_349">Choral</rs><space quantity="1" unit="char"/><rs type="person" ref="#hsl_person_id_169" xml:id="d1e2057a1048964">Luther</rs>ʼs
                darf hier nicht eingewendet werden; er ist ein <emph>Citat</emph>. Als Musik paßt er
                zu jeder Confession. – Hat der Leser nie das fugirte Allegro aus der Ouvertüre zur
                   „<rs type="bibl" ref="#hsl_work_id_350">Zauberflöte</rs>“ als Vocalquartett sich
@@ -2205,11 +2199,11 @@
                   </cit> lehrt er in seinem „<rs type="bibl" ref="#hsl_work_id_321" xml:id="d1e2274a1048964">Vollkommenen Capellmeister</rs>“ (S. 230 ff.): <cit>
                      <quote>„Die Leidenschaft, welche in einer Courrante vorgetragen werden soll,
                         ist die Hoffnung.“</quote>
-                  </cit>
+                  </cit><space quantity="1" unit="char"/>
                   <cit>
                      <quote>„Die Sarabande hat keine andere Leidenschaft auszudrücken, als die
                            <emph>Ehrfurcht</emph>.“ </quote>
-                  </cit>
+                  </cit><space quantity="1" unit="char"/>
                   <cit>
                      <quote>„Im Concerto grosso führt die <emph>Wollust</emph> das
                         Regiment.“</quote>
@@ -3403,8 +3397,7 @@
                   </emph> demaskirte. Hiegegen nennt der geistreiche Dr. <emph>
                      <rs type="person" ref="#hsl_person_id_414" xml:id="d1e3887a1048964">Becher</rs>
                   </emph>, der hier als Repräsentant einer ganzen Klasse erscheinen möge, in einer
-                     <date>1843</date> gedruckten Abhandlung über die <rs type="bibl" ref="#hsl_work_id_272">neunte Symphonie</rs> den <emph>vierten Satz</emph>
-                  <cit>
+                  <date>1843</date> gedruckten Abhandlung über die <rs type="bibl" ref="#hsl_work_id_272">neunte Symphonie</rs> den <emph>vierten Satz</emph><space quantity="1" unit="char"/><cit>
                      <quote>„den mit jedem andern bestehenden Tonwerke an Eigenthümlichkeit der
                         Gestaltung wie an Großartigkeit der Composition und kühnstem Aufschwung der
                         einzelnen Gedanken völlig incommensurablen Ausfluß von <rs type="person" ref="#hsl_person_id_25" xml:id="d1e3902a1048964">Beethoven</rs>ʼs
@@ -3537,8 +3530,7 @@
                   <quote>„ein leutseliger, zärtlicher Charakter mache uns geschickt, langsame Sätze
                      zu Meisterstücken zu bilden“</quote>
                </cit>.<note place="foot" xml:id="d1e4083a1048964" n="28">„<rs type="bibl" ref="#hsl_work_id_379" xml:id="d1e4088a1048964">Neue Wahrnehmungen zur Aufnahme
-                     der Musik</rs>.“<rs type="place" ref="#hsl_place_id_9">Berlin</rs>
-                  <date>1784</date>. S. 102.</note>
+                  der Musik</rs>.“<rs type="place" ref="#hsl_place_id_9">Berlin</rs><space quantity="1" unit="char"/><date>1784</date>. S. 102.</note>
             </p>
             <pb n="[108]"
                 facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_108.tif"/>
@@ -3978,8 +3970,7 @@
                   wissenschaftlich ausgemachte Thatsache. <emph>
                      <rs type="person" ref="#hsl_person_id_573" xml:id="d1e4629a1048964">Harleß</rs>
                   </emph> (in R. <emph>
-                     <rs type="person" ref="#hsl_person_id_571">Wagner</rs>’s</emph>
-                  <rs type="bibl" ref="#hsl_work_id_391" xml:id="d1e4632a1048964">Handwörterbuch der
+                     <rs type="person" ref="#hsl_person_id_571">Wagner</rs>’s</emph><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_391" xml:id="d1e4632a1048964">Handwörterbuch der
                      Physiologie</rs>, Artikel „Hören“) vindicirt der bloßen
                      <emph>Wahrnehmung</emph> des <emph>Rhythmus</emph>, ohne allen Gehörseindruck,
                   denselben Trieb zu Bewegungen wie der rhythmischen Musik, was uns der Erfahrung zu
@@ -4324,7 +4315,7 @@
                des <emph>
                   <rs type="person" ref="#hsl_person_id_582" xml:id="d1e5025a1048964">Timotheus</rs>
                </emph> zuerst wüthend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ
-               der minder bekannte König von <rs type="place" ref="#hsl_place_id_12">Dänemark</rs> <rs type="person" ref="#hsl_person_id_584" xml:id="d1e5031a1048964">Ericus bonus</rs>, um sich von der gepriesenen Gewalt der
+               der minder bekannte König von <rs type="place" ref="#hsl_place_id_12">Dänemark</rs><space quantity="1" unit="char"/><rs type="person" ref="#hsl_person_id_584" xml:id="d1e5031a1048964">Ericus bonus</rs>, um sich von der gepriesenen Gewalt der
                Musik zu überzeugen, einen berühmten Musikus spielen und zuvor alles Gewehr
                entfernen. Der Künstler versetzte durch die Wahl seiner Modulationen alle Gemüther
                zuerst in Traurigkeit, dann in Frohsinn. Letzteren wußte er bis zur Raserei zu
@@ -4551,8 +4542,7 @@
                       ref="#hsl_person_id_117"
                       xml:id="d1e5263a1048964"
                       subtype="fictional">Heinrich</rs>
-               </emph> der <emph>Vierte</emph> bei <rs type="person" ref="#hsl_person_id_287">Shakespeare</rs>
-               <rs type="bibl" ref="#hsl_work_id_180" xml:id="d1e5267a1048964">(II. Theil. IV. 4.)</rs> sich sterbend Musik machen <pb n="[155]"
+            </emph> der <emph>Vierte</emph> bei <rs type="person" ref="#hsl_person_id_287">Shakespeare</rs><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_180" xml:id="d1e5267a1048964">(II. Theil. IV. 4.)</rs> sich sterbend Musik machen <pb n="[155]"
                    facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1881_155.tif"/> läßt, so
                geschieht es wahrlich nicht, um die vorgetragene Composition anzuhören, sondern um
                träumend in deren gegenstandlosem Element sich zu wiegen. Ebenso wenig werden <emph>
@@ -4871,8 +4861,7 @@
                   <quote>„geistige Beseelung“</quote>
                </cit>,<cit>
                   <quote>„den Ausdruck inneren Lebens, innerer Empfindung“</quote>
-               </cit>,<cit>
-                  <quote>„die Kraft der Selbstthätigkeit, wodurch unmittelbar ein Inneres zur
+               </cit>, <cit><quote>„die Kraft der Selbstthätigkeit, wodurch unmittelbar ein Inneres zur
                      Aussprache gelangt.“</quote>
                </cit> Nach diesem Princip müßte der Vogelsang Musik genannt werden, die mechanische
                Spieluhr hingegen nicht; während gerade das Entgegengesetzte wahr ist.</p>
@@ -5046,10 +5035,9 @@
                    ref="#hsl_person_id_692"
                    xml:id="d1e5862a1048964"
                    subtype="fictional">Tell</rs>“
-               oder „Jeanne <rs type="person" ref="#hsl_person_id_693" xml:id="d1e5865a1048964">dʼArc</rs>“ überschrieben sein könnte. Das <emph>Drama</emph>
+               oder „Jeanne <rs type="person" ref="#hsl_person_id_693" xml:id="d1e5865a1048964">dʼArc</rs>“ überschrieben sein könnte. Das <emph>Drama</emph><space quantity="1" unit="char"/>
                <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5870a1048964">Egmont</rs>, das
-                  <emph>Bild</emph>
-               <rs type="person" ref="#hsl_person_id_690" xml:id="d1e5876a1048964">Egmont</rs>
+               <emph>Bild</emph><space quantity="1" unit="char"/><rs type="person" ref="#hsl_person_id_690" xml:id="d1e5876a1048964">Egmont</rs>
                lassen höchstens die Verwechslung zu, daß dies ein anderes Individuum in den gleichen
                Verhältnissen, nicht aber, daß es ganz andere Verhältnisse sind.</p>
             <pb n="[178]"
@@ -5061,13 +5049,11 @@
                daß Tonsetzer aus der Natur nicht blos den poetischen Anlaß geschöpft (wie in obigen
                Historien), sondern wirklich hörbare Aeußerungen ihres Tonlebens nachgebildet haben:
                der Hahnenruf in <emph>
-                  <rs type="person" ref="#hsl_person_id_114" xml:id="d1e5889a1048964">Haydn</rs>ʼs</emph>
-               <rs type="bibl" ref="#hsl_work_id_244">Jahreszeiten</rs>, Kuckuk, Nachtigall und
+                  <rs type="person" ref="#hsl_person_id_114" xml:id="d1e5889a1048964">Haydn</rs>ʼs</emph><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_244">Jahreszeiten</rs>, Kuckuk, Nachtigall und
                Wachtelschlag in <emph>
                   <rs type="person" ref="#hsl_person_id_293" xml:id="d1e5894a1048964">Spohr</rs>ʼs</emph> „<rs type="bibl" ref="#hsl_work_id_407">Weihe der Töne</rs>“
                und in <emph>
-                  <rs type="person" ref="#hsl_person_id_25" xml:id="d1e5899a1048964">Beethoven</rs>ʼs</emph>
-               <rs type="bibl" ref="#hsl_work_id_408">Pastoralsymphonie</rs>. Allein wenn wir gleich
+                  <rs type="person" ref="#hsl_person_id_25" xml:id="d1e5899a1048964">Beethoven</rs>ʼs</emph><space quantity="1" unit="char"/><rs type="bibl" ref="#hsl_work_id_408">Pastoralsymphonie</rs>. Allein wenn wir gleich
                diese Nachahmung <emph>hören</emph> und in einem <emph>musikalischen</emph> Kunstwerk
                hören, so haben sie doch darin keine musikalische Bedeutung, sondern eine poetische.
                Es soll uns der Hahnenschrei alsdann nicht als <emph>schöne</emph> Musik, oder
