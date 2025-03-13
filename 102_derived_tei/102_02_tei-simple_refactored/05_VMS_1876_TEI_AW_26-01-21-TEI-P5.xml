@@ -2,9 +2,9 @@
 <?xml-model href="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms"
-     xml:id="t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml"
-     prev="https://id.acdh.oeaw.ac.at/hanslick-vms/t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml"
-     next="https://id.acdh.oeaw.ac.at/hanslick-vms/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml">
+     xml:id="VMS_Auflage_05_1876.xml"
+     prev="https://id.acdh.oeaw.ac.at/hanslick-vms/VMS_Auflage_04_1874.xml"
+     next="https://id.acdh.oeaw.ac.at/hanslick-vms/VMS_Auflage_06_1881.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -646,12 +646,12 @@
                 facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1876_006.tif"/>
             <head>Vorwort zur fünften Auflage.</head>
             <p n="V2.1 &amp; V2.2" xml:id="d1e357a1048964">Die vorliegende fünfte Auflage
-               unterscheidet sich von der <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten (1865)</ref> und der <ref type="edition" target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html">vierten
+               unterscheidet sich von der <ref type="edition" target="VMS_Auflage_03_1865.xml.html">dritten (1865)</ref> und der <ref type="edition" target="VMS_Auflage_04_1874.xml.html">vierten
                   (1874)</ref> durch keinerlei wesentliche Veränderung, sondern lediglich durch
                einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen
                sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich
                gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch
-               die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten
+               die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der <ref type="edition" target="VMS_Auflage_03_1865.xml.html">dritten
                   Auflage</ref> begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses
                Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen,
                welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich
@@ -725,7 +725,7 @@
                Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese
                Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei
                Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als
-               ich die <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite
+               ich die <ref type="edition" target="VMS_Auflage_02_1858.xml.html">zweite
                   Auflage</ref> veranstaltete, waren eben <emph>
                   <rs type="person" ref="#hsl_person_id_164" xml:id="d1e470a1048964">Liszt</rs>ʼs</emph> Programm-Symphonien hinzugekommen, welche vollständiger, als
                es bisher gelungen ist, die selbst<pb n="[X]"
