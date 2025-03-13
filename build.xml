@@ -1,0 +1,52 @@
+<project name="TransformationProject" default="all" basedir=".">
+    <!-- Define properties for directories and XSLT files -->
+    <property name="input.dir" value="102_derived_tei/102_01_tei-full"/>
+    <property name="tei.simple.dir" value="102_derived_tei/102_02_tei-simple"/>
+    <property name="comp.dir" value="102_derived_tei/102_05_comp"/>
+    <property name="indexes.dir" value="102_derived_tei/102_04_indexes"/>
+    <property name="xslt.dir" value="802_scripts_xsl"/>
+    <property name="simplifyStyles.xsl" value="${xslt.dir}/simplifyStyles.xsl"/>
+    <property name="upconvert.xsl" value="${xslt.dir}/upconvert.xsl"/>
+    <property name="comp.xsl" value="${xslt.dir}/comp.xsl"/>
+    <property name="index_persons.xsl" value="${xslt.dir}/index_persons.xsl"/>
+    <property name="index_orgnames.xsl" value="${xslt.dir}/index_orgnames.xsl"/>
+    <property name="index_placenames.xsl" value="${xslt.dir}/index_placenames.xsl"/>
+
+    <!-- Define the Saxon classpath -->
+    <path id="saxon.classpath">
+        <pathelement location="saxon/saxon9he.jar"/>
+    </path>
+
+    <!-- Target to run the simplify & upconvert transformation -->
+    <target name="simplify_upconvert">
+        <mkdir dir="${tei.simple.dir}"/>
+        <xslt basedir="${input.dir}" destdir="${tei.simple.dir}" style="${simplifyStyles.xsl}" includes="**/*.xml" classpathref="saxon.classpath"/>
+        <xslt basedir="${tei.simple.dir}" destdir="${tei.simple.dir}" style="${upconvert.xsl}" includes="**/*.xml" classpathref="saxon.classpath"/>
+    </target>
+
+    <!-- Target to run the comp transformation -->
+    <target name="comp">
+        <mkdir dir="${comp.dir}"/>
+        <xslt basedir="${tei.simple.dir}" destdir="${comp.dir}" style="${comp.xsl}" includes="**/*.xml" classpathref="saxon.classpath"/>
+    </target>
+
+    <!-- Target to run the index transformations -->
+    <target name="index_persons">
+        <mkdir dir="${indexes.dir}"/>
+        <xslt basedir="${tei.simple.dir}" destdir="${indexes.dir}" style="${index_persons.xsl}" includes="**/*.xml" classpathref="saxon.classpath"/>
+    </target>
+
+    <target name="index_orgnames">
+        <xslt basedir="${tei.simple.dir}" destdir="${indexes.dir}" style="${index_orgnames.xsl}" includes="**/*.xml" classpathref="saxon.classpath"/>
+    </target>
+
+    <target name="index_placenames">
+        <xslt basedir="${tei.simple.dir}" destdir="${indexes.dir}" style="${index_placenames.xsl}" includes="**/*.xml" classpathref="saxon.classpath"/>
+    </target>
+
+    <!-- Target to run all index transformations -->
+    <target name="indexes" depends="index_persons, index_orgnames, index_placenames"/>
+
+    <!-- Target to run all transformations -->
+    <target name="all" depends="simplify_upconvert, comp, indexes"/>
+</project>
