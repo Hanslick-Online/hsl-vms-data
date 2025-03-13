@@ -11,7 +11,6 @@ for path in ${tmp_dir}/*; do
 	n=`echo "$orig_file"|cut -d _ -f 1`
 	y=`echo "$orig_file"|cut -d _ -f 3`
 	dest_file="VMS_Auflage_${n}_${y}.xml"
-	sed -i "s/t__$orig_file/$dest_file/g" ${tmp_dir}/*
 	cp  ${path}  "${tmp_dir}/${dest_file}"
 done
 cp ${tmp_dir}/VMS* ${dest_dir}
