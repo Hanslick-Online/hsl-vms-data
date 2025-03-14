@@ -2,9 +2,9 @@
 <?xml-model href="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms"
-     xml:id="VMS_Auflage_07_1885.xml"
-     prev="https://id.acdh.oeaw.ac.at/hanslick-vms/VMS_Auflage_06_1881.xml"
-     next="https://id.acdh.oeaw.ac.at/hanslick-vms/VMS_Auflage_08_1891.xml">
+     xml:id="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml"
+     prev="https://id.acdh.oeaw.ac.at/hanslick-vms/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml"
+     next="https://id.acdh.oeaw.ac.at/hanslick-vms/t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -830,8 +830,8 @@
                 facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1885_L007.tif"/>
             <head>Vorwort zur siebenten Auflage.</head>
             <p n="V2.1" xml:id="d1e365a1048964">Die vorliegende siebente Auflage dieser zuerst im
-                  J. <date>1854</date> erschienenen Schrift unterscheidet sich von der <ref type="edition" target="VMS_Auflage_05_1876.xml.html">fünften
-                  (1876)</ref> und <ref type="edition" target="VMS_Auflage_06_1881.xml.html">sechsten (1881)</ref> nicht durch
+                  J. <date>1854</date> erschienenen Schrift unterscheidet sich von der <ref type="edition" target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html">fünften
+                  (1876)</ref> und <ref type="edition" target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html">sechsten (1881)</ref> nicht durch
                wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde
                Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der
                treffliche <emph>Fr. Th. <rs type="person" ref="#hsl_person_id_379" xml:id="d1e389a1048964">Vischer</rs>
@@ -868,7 +868,7 @@
                   </cit> angelangt, sie dermaßen wieder einschränkt, wendet und interpretiert, daß
                   er gerade zu den mir entgegengesetzten Resultaten gelangt.</note> Der Leser wird
                mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich
-               das Erscheinen der <ref type="edition" target="VMS_Auflage_03_1865.xml.html">dritten Auflage</ref> begleitet
+               das Erscheinen der <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten Auflage</ref> begleitet
                habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat
                das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich
                hocherfreuende Antheil, <pb n="[IX]"
@@ -948,7 +948,7 @@
                Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei
                Stimme und mußten wohl <pb n="[XII]"
                    facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1885_001.tif"/> Leute von
-               meinem Glaubensbekenntniß zur Reaction reizen. Als ich die <ref type="edition" target="VMS_Auflage_02_1858.xml.html">zweite Auflage</ref>
+               meinem Glaubensbekenntniß zur Reaction reizen. Als ich die <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite Auflage</ref>
                veranstaltete, waren eben <emph>
                   <rs type="person" ref="#hsl_person_id_164" xml:id="d1e534a1048964">Liszt</rs>ʼs</emph> Programm-Symphonien hinzugekommen, welche vollständiger, als
                es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese
