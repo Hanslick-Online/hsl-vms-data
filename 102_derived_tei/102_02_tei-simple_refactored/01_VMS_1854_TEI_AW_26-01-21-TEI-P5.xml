@@ -2,8 +2,8 @@
 <?xml-model href="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms"
-     xml:id="VMS_Auflage_01_1854.xml"
-     next="https://id.acdh.oeaw.ac.at/hanslick-vms/VMS_Auflage_02_1858.xml">
+     xml:id="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml"
+     next="https://id.acdh.oeaw.ac.at/hanslick-vms/t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>

@@ -326,48 +326,48 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_03_1865.xml#d1e432a1048964">VMS 3</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e432a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_04_1874.xml#d1e422a1048964">VMS 4</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e422a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_05_1876.xml#d1e427a1048964">VMS 5</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e427a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_06_1881.xml#d1e551a1048964">VMS 6</ref>
-                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_07_1885.xml#d1e490a1048964">VMS 7</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e551a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_08_1891.xml#d1e473a1048964">VMS 8</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e490a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e473a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_09_1896.xml#d1e471a1048964">VMS 9</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e471a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.4.html">V2.4</ref>
-                     <ref target="VMS_Auflage_10_1902.xml#d1e442a1048964">VMS 10</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e442a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_V2.6.html">V2.6</ref>
                   </seg>
                </cell>
