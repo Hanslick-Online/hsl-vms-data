@@ -2,9 +2,9 @@
 <?xml-model href="https://id.acdh.oeaw.ac.at/hanslick-vms/vms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xml:base="https://id.acdh.oeaw.ac.at/hanslick-vms"
-     xml:id="t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml"
-     prev="https://id.acdh.oeaw.ac.at/hanslick-vms/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml"
-     next="https://id.acdh.oeaw.ac.at/hanslick-vms/t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml">
+     xml:id="VMS_Auflage_08_1891.xml"
+     prev="https://id.acdh.oeaw.ac.at/hanslick-vms/VMS_Auflage_07_1885.xml"
+     next="https://id.acdh.oeaw.ac.at/hanslick-vms/VMS_Auflage_09_1896.xml">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -916,7 +916,7 @@
             <p n="V2.1" xml:id="d1e365a1048964">An der vorliegenden achten Auflage dieser zuerst im
                Jahre <date>1854</date> erschienenen Schrift ist nichts weiter neu, als das
                passendere Format und die geschmackvollere Ausstattung. Im Texte unterscheidet sie
-               sich von der <ref type="edition" target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html">siebenten Auflage (1885)</ref> nur durch einige unwesentliche Verbesserungen. Ich
+               sich von der <ref type="edition" target="VMS_Auflage_07_1885.xml.html">siebenten Auflage (1885)</ref> nur durch einige unwesentliche Verbesserungen. Ich
                möchte diese neue Auflage am liebsten mit denselben Worten einleiten, welche der
                treffliche <emph>Fr. Th.  <rs type="person" ref="#hsl_person_id_379" xml:id="d1e382a1048964">Vischer</rs>
                </emph> soeben dem Wiederabdruck einer älteren Abhandlung („<rs type="bibl" ref="#hsl_work_id_412" xml:id="d1e386a1048964">der Traum</rs>“) vorausschickt.
@@ -942,7 +942,7 @@
                zu einem erschreckend starken Band anschwellen. Meine Überzeugungen sind dieselben
                geblieben, desgleichen die Positionen und schroff sich gegenüberstehenden
                Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung
-               einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten Auflage</ref> begleitet
+               einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der <ref type="edition" target="VMS_Auflage_03_1865.xml.html">dritten Auflage</ref> begleitet
                habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat
                das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich
                hocherfreuende Anteil, mit welchem bedeutende Fachmänner philosophischer wie
@@ -1019,7 +1019,7 @@
                Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten <pb n="[X]"
                    facs="https://id.acdh.oeaw.ac.at/hanslick-vms/vms_1891_L009.tif"/> bei
                Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als
-               ich die <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite
+               ich die <ref type="edition" target="VMS_Auflage_02_1858.xml.html">zweite
                   Auflage</ref> veranstaltete, waren eben <emph>
                   <rs type="person" ref="#hsl_person_id_164" xml:id="d1e517a1048964">Liszt</rs>s</emph> Programm-Symphonien hinzugekommen, welche vollständiger, als
                es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese
