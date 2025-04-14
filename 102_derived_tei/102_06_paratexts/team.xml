@@ -17,7 +17,7 @@
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2023">2024</date>
+            <date when="2023">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
@@ -31,8 +31,8 @@
       <body xml:lang="de-AT">
          <div type="main">
             <head>Team</head>
-            <p><hi rend="bold">Kontaktperson und Gesamtleitung</hi>: <ref type="mail"
-                  target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></p>
+            <p><hi rend="bold">Kontaktperson und Gesamtleitung</hi>: <hi rend="#bold"><ref type="mail"
+                  target="alexander.wilfing@oeaw.ac.at">Alexander Wilfing</ref></hi></p>
             <div type="block">
                <head>Projektleitung</head>
                <figure>
