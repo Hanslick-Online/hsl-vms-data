@@ -92,7 +92,7 @@
             <acdh:hasUrl>https://www.oeaw.ac.at/acdh/team/current-team/daniel-elsner</acdh:hasUrl>
             <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         </acdh:Person>
-        <acdh:Person rdf:about="https://orcid.org/0000-0003-2436-0361">
+       <acdh:Person rdf:about="https://orcid.org/0000-0003-2436-0361">
             <acdh:hasTitle xml:lang="und">Daniel Schopper</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Schopper</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Daniel</acdh:hasFirstName>
@@ -135,6 +135,25 @@
             <acdh:hasCountry xml:lang="de">Österreich</acdh:hasCountry>
             <acdh:hasCountry xml:lang="en">Austria</acdh:hasCountry>
             <acdh:hasUrl>https://www.oeaw.ac.at/acdh/team/current-team/meike-wilfing-albrecht</acdh:hasUrl>
+        </acdh:Person>
+         <acdh:Person rdf:about="https://d-nb.info/gnd/1297553608">
+            <acdh:hasTitle xml:lang="und">Fernando Sanz-Lázaro</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Sanz-Lázaro</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Fernando</acdh:hasFirstName>
+            <acdh:hasPersonalTitle xml:lang="und">Dr.</acdh:hasPersonalTitle>
+            <acdh:hasEmail>alexander.wilfing@oeaw.ac.at</acdh:hasEmail>
+            <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+            <acdh:hasIdentifier rdf:resorce="https://id.acdh.oeaw.ac.at/fsanzlazaro"/>
+            <acdh:hasAddressLine1>Bäckerstraße 13</acdh:hasAddressLine1>
+            <acdh:hasAddressLine2>c/o ACDH-CH</acdh:hasAddressLine2>
+            <acdh:hasPostcode>1010</acdh:hasPostcode>
+            <acdh:hasCity xml:lang="de">Wien</acdh:hasCity>
+            <acdh:hasCity xml:lang="en">Vienna</acdh:hasCity>
+            <acdh:hasRegion xml:lang="de">Wien</acdh:hasRegion>
+            <acdh:hasRegion xml:lang="en">Vienna</acdh:hasRegion>
+            <acdh:hasCountry xml:lang="de">Österreich</acdh:hasCountry>
+            <acdh:hasCountry xml:lang="en">Austria</acdh:hasCountry>
+            <acdh:hasUrl>https://www.oeaw.ac.at/acdh/institute/team/staff-members/fernando-sanz-lazaro</acdh:hasUrl>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/118545825">
             <acdh:hasTitle xml:lang="und">Eduard Hanslick</acdh:hasTitle>
