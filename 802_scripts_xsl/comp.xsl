@@ -18,11 +18,13 @@
     <xsl:template match="tei:p[@n != '']" mode="pre">
         <xsl:variable name="prev" select="preceding::tei:p[@n != ''][1]/@n"/>
         <xsl:variable name="next" select="following::tei:p[@n != ''][1]/@n"/>
+        <xsl:variable name="file" select="replace(root()//tei:TEI/@xml:id, '\.xml$', '.html')"/>
         <xsl:copy>
             <xsl:attribute name="source" select="root(.)//tei:sourceDesc//tei:edition/concat('VMS ',replace(@n,'^0+',''))"/>
             <xsl:attribute name="prev" select="$prev"/>
             <xsl:attribute name="next" select="$next"/>
-            <xsl:attribute name="file" select="tokenize(base-uri(.),'/')[last()]"/>
+            <!-- <xsl:attribute name="file" select="tokenize(base-uri(.),'/')[last()]"/> -->
+            <xsl:attribute name="file" select="$file" />
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates select="node()" mode="#current"/>
         </xsl:copy>
