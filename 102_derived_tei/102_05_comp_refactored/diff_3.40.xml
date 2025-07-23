@@ -19,8 +19,7 @@
             <item>
                <list type="selectPar">
                   <head>Paragraph auswählen</head>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
+                  <item>V2.1 &amp; V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
                   <item>V2.5</item>
@@ -32,6 +31,7 @@
                   <item>1.4</item>
                   <item>1.5</item>
                   <item>1.6</item>
+                  <item>1.7</item>
                   <item>1.8</item>
                   <item>1.9</item>
                   <item>1.10</item>
@@ -48,10 +48,13 @@
                   <item>1.21</item>
                   <item>1.22</item>
                   <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
                   <item>1.27</item>
+                  <item>1.28</item>
                   <item>1.29</item>
                   <item>1.30</item>
-                  <item>1.30.1</item>
                   <item>1.31</item>
                   <item>2.1</item>
                   <item>2.2</item>
@@ -74,7 +77,8 @@
                   <item>2.18</item>
                   <item>2.19</item>
                   <item>2.20</item>
-                  <item>2.21 &amp; 2.22</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.23</item>
                   <item>2.24</item>
                   <item>2.25</item>
@@ -97,7 +101,6 @@
                   <item>2.42</item>
                   <item>2.43</item>
                   <item>2.44</item>
-                  <item>2.44.1</item>
                   <item>2.45</item>
                   <item>2.46</item>
                   <item>2.47</item>
@@ -145,7 +148,8 @@
                   <item>3.44</item>
                   <item>3.45</item>
                   <item>3.46</item>
-                  <item>4.1 &amp; 4.2</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
                   <item>4.3</item>
                   <item>4.4</item>
                   <item>4.5</item>
@@ -271,24 +275,24 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.30.1</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.44.1</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>4.1 &amp; 4.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
-                  <item>4.1</item>
-                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -298,12 +302,8 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.7</item>
-                  <item>4.2</item>
-                  <item>1.4 &amp; 1.5</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
-                  <item>V2.1 &amp; V2.2</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
                </list>
             </item>
          </list>
@@ -312,25 +312,25 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="hanslick-vms#d1e2735a1048964">VMS 1</ref>
+                     <ref target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html#d1e2735a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_3.41.html">3.41</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="hanslick-vms#d1e2897a1048964">VMS 2</ref>
+                     <ref target="t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html#d1e2897a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_3.41.html">3.41</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.39.html">3.39</ref>
-                     <ref target="hanslick-vms#d1e3258a1048964">VMS 3</ref>
+                     <ref target="t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html#d1e3258a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_3.41.html">3.41</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, das ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt blos den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozart schen Symphonie zu berechnen?“ so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächstfolgenden, oder die Längen der einzelnen Perioden gegen einander, oder was sonst? Was eine Musik zur Tondichtung macht, und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen, oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden.</cell>
+               <cell xml:id="v1">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, das ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt blos den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozart ’schen Symphonie zu berechnen?“ so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächstfolgenden, oder die Längen der einzelnen Perioden gegen einander, oder was sonst? Was eine Musik zur Tondichtung macht, und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen, oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden.</cell>
                <cell xml:id="v2">Wenn für die Erforschung des physikalischen Theils der Tonkunst die Mathematik einen unentbehrlichen Schlüssel liefert, so möge im fertigen Tonwerk hingegen ihre Bedeutung nicht überschätzt werden. In einer Tondichtung, sei sie die schönste oder die schlechteste, ist gar nichts mathematisch berechnet. Schöpfungen der Phantasie sind keine Rechenexempel. Alle Monochord-Experimente, Klangfiguren, Intervallproportionen u. dgl. gehören nicht hierher, der ästhetische Bereich fängt erst an, wo jene Elementarverhältnisse in ihrer Bedeutung aufgehört haben. Die Mathematik regelt blos den elementaren Stoff zu geistfähiger Behandlung und spielt verborgen in den einfachsten Verhältnissen, aber der musikalische Gedanke kommt ohne sie ans Licht. Wenn Oerstedt fragt: „Sollte wohl die Lebenszeit mehrerer Mathematiker hinreichen, alle Schönheiten einer Mozart schen Symphonie zu berechnen?“ so bekenne ich, daß ich das nicht verstehe. Was soll denn oder kann berechnet werden? Etwa das Schwingungsverhältniß jedes Tones zum nächstfolgenden, oder die Längen der einzelnen Perioden gegen einander, oder was sonst? Was eine Musik zur Tondichtung macht, und sie aus der Reihe physikalischer Experimente hebt, ist ein Freies, Geistiges, daher unberechenbar. Am musikalischen Kunstwerk hat die Mathematik einen ebenso kleinen, oder ebenso großen Antheil, wie an den Hervorbringungen der übrigen Künste. Denn Mathematik muß am Ende auch die Hand des Malers und Bildhauers führen, Mathematik webt im Gleichmaß der Vers- und Strophenlängen, Mathematik im Bau des Architekten, in den Figuren des Tänzers. In jeder genauen Kenntniß muß die Anwendung der Mathematik, als Vernunftthätigkeit, eine Stelle finden.</cell>
             </row>
          </table>

@@ -19,8 +19,7 @@
             <item>
                <list type="selectPar">
                   <head>Paragraph auswählen</head>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
+                  <item>V2.1 &amp; V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
                   <item>V2.5</item>
@@ -32,6 +31,7 @@
                   <item>1.4</item>
                   <item>1.5</item>
                   <item>1.6</item>
+                  <item>1.7</item>
                   <item>1.8</item>
                   <item>1.9</item>
                   <item>1.10</item>
@@ -48,10 +48,13 @@
                   <item>1.21</item>
                   <item>1.22</item>
                   <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
                   <item>1.27</item>
+                  <item>1.28</item>
                   <item>1.29</item>
                   <item>1.30</item>
-                  <item>1.30.1</item>
                   <item>1.31</item>
                   <item>2.1</item>
                   <item>2.2</item>
@@ -74,7 +77,8 @@
                   <item>2.18</item>
                   <item>2.19</item>
                   <item>2.20</item>
-                  <item>2.21 &amp; 2.22</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.23</item>
                   <item>2.24</item>
                   <item>2.25</item>
@@ -97,7 +101,6 @@
                   <item>2.42</item>
                   <item>2.43</item>
                   <item>2.44</item>
-                  <item>2.44.1</item>
                   <item>2.45</item>
                   <item>2.46</item>
                   <item>2.47</item>
@@ -145,7 +148,8 @@
                   <item>3.44</item>
                   <item>3.45</item>
                   <item>3.46</item>
-                  <item>4.1 &amp; 4.2</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
                   <item>4.3</item>
                   <item>4.4</item>
                   <item>4.5</item>
@@ -271,24 +275,24 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.30.1</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.44.1</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>4.1 &amp; 4.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
-                  <item>4.1</item>
-                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -298,12 +302,8 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.7</item>
-                  <item>4.2</item>
-                  <item>1.4 &amp; 1.5</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
-                  <item>V2.1 &amp; V2.2</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
                </list>
             </item>
          </list>
@@ -311,46 +311,46 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref target="hanslick-vms#d1e348a1048964">VMS 2</ref>
+                     <ref target="t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html#d1e348a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_V2.2.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="hanslick-vms#d1e345a1048964">VMS 6</ref>
+                     <ref target="t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html#d1e345a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_V2.2.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="hanslick-vms#d1e365a1048964">VMS 7</ref>
+                     <ref target="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html#d1e365a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_V2.2.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="hanslick-vms#d1e365a1048964">VMS 8</ref>
+                     <ref target="t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.html#d1e365a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_V2.2.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="hanslick-vms#d1e361a1048964">VMS 9</ref>
+                     <ref target="t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.html#d1e361a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_V2.2.html">V2.2</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="hanslick-vms#d1e334a1048964">VMS 10</ref>
+                     <ref target="t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.html#d1e334a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_V2.2.html">V2.2</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Die neue Auflage hat an dem Wesentlichen dieser Schrift nichts geändert. Die Hinzufügung mancher erläuternder, die Abänderung einiger mißverständlicher Sätze war das Einzige, was ich an dem Büchlein vornehmen konnte, sollte es nicht eben ein ganz anderes werden.</cell>
-               <cell xml:id="v2">Die vorliegende sechste Auflage dieser zuerst im J. 1854 erschienenen Schrift unterscheidet sich von der fünften (1876) nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th. Vischer so eben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat zu schützen. Auch verbessernden Ueber arbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhülfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
+               <cell xml:id="v2">Die vorliegende sechste Auflage dieser zuerst im J. 1854 erschienenen Schrift unterscheidet sich von der fünften (1876) nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th. Vischer so eben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat zu schützen. Auch verbessernden Ueberarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhülfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
                <cell xml:id="v3">Die vorliegende siebente Auflage dieser zuerst im J. 1854 erschienenen Schrift unterscheidet sich von der fünften (1876) und sechsten (1881) nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th. Vischer so eben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme“, sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Ueberarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhülfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
-               <cell xml:id="v4">An der vorliegenden achten Auflage dieser zuerst im Jahre 1854 erschienenen Schrift ist nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Im Texte unterscheidet sie sich von der siebenten Auflage (1885) nur durch einige unwesentliche Verbesserungen. Ich möchte diese neue Auflage am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th.  Vischer soeben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
+               <cell xml:id="v4">An der vorliegenden achten Auflage dieser zuerst im Jahre 1854 erschienenen Schrift ist nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Im Texte unterscheidet sie sich von der siebenten Auflage (1885) nur durch einige unwesentliche Verbesserungen. Ich möchte diese neue Auflage am liebsten mit denselben Worten einleiten, welche der treffliche Fr. Th. Vischer soeben dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickt. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
                <cell xml:id="v5">An der achten Auflage (1891) dieser zuerst im Jahre 1854 erschienenen Schrift war nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Dasselbe gilt von der hier vorliegenden neunten Auflage. Auch dieser darf ich die Worte anpassen, welche Fr. Th. Vischer dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickte. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
                <cell xml:id="v6">An der achten Auflage (1891) dieser zuerst im Jahre 1854 erschienenen Schrift war nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Dasselbe gilt von der hier vorliegenden neuen Auflage. Auch dieser darf ich die Worte anpassen, welche Fr. Th. Vischer dem Wiederabdruck einer älteren Abhandlung („der Traum“) vorausschickte. „Ich nehme,“ sagt Vischer, „diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</cell>
             </row>

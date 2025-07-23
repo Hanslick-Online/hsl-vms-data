@@ -19,8 +19,7 @@
             <item>
                <list type="selectPar">
                   <head>Paragraph auswählen</head>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
+                  <item>V2.1 &amp; V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
                   <item>V2.5</item>
@@ -32,6 +31,7 @@
                   <item>1.4</item>
                   <item>1.5</item>
                   <item>1.6</item>
+                  <item>1.7</item>
                   <item>1.8</item>
                   <item>1.9</item>
                   <item>1.10</item>
@@ -48,10 +48,13 @@
                   <item>1.21</item>
                   <item>1.22</item>
                   <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
                   <item>1.27</item>
+                  <item>1.28</item>
                   <item>1.29</item>
                   <item>1.30</item>
-                  <item>1.30.1</item>
                   <item>1.31</item>
                   <item>2.1</item>
                   <item>2.2</item>
@@ -74,7 +77,8 @@
                   <item>2.18</item>
                   <item>2.19</item>
                   <item>2.20</item>
-                  <item>2.21 &amp; 2.22</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.23</item>
                   <item>2.24</item>
                   <item>2.25</item>
@@ -97,7 +101,6 @@
                   <item>2.42</item>
                   <item>2.43</item>
                   <item>2.44</item>
-                  <item>2.44.1</item>
                   <item>2.45</item>
                   <item>2.46</item>
                   <item>2.47</item>
@@ -145,7 +148,8 @@
                   <item>3.44</item>
                   <item>3.45</item>
                   <item>3.46</item>
-                  <item>4.1 &amp; 4.2</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
                   <item>4.3</item>
                   <item>4.4</item>
                   <item>4.5</item>
@@ -271,24 +275,24 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.30.1</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.44.1</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>4.1 &amp; 4.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
-                  <item>4.1</item>
-                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -298,12 +302,8 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.7</item>
-                  <item>4.2</item>
-                  <item>1.4 &amp; 1.5</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
-                  <item>V2.1 &amp; V2.2</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
                </list>
             </item>
          </list>
@@ -312,62 +312,60 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e4211a1048964">VMS 1</ref>
+                     <ref target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html#d1e4211a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e4370a1048964">VMS 2</ref>
+                     <ref target="t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html#d1e4370a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e4758a1048964">VMS 3</ref>
+                     <ref target="t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html#d1e4758a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e4614a1048964">VMS 4</ref>
-                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e4531a1048964">VMS 5</ref>
+                     <ref target="t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html#d1e4614a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e5137a1048964">VMS 6</ref>
+                     <ref target="t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html#d1e4531a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e5053a1048964">VMS 7</ref>
+                     <ref target="t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html#d1e5137a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_5.22.html">5.22</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_5.20.html">5.20</ref>
+                     <ref target="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html#d1e5053a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e5089a1048964">VMS 8</ref>
+                     <ref target="t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.html#d1e5089a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e5089a1048964">VMS 9</ref>
+                     <ref target="t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.html#d1e5089a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_5.20.html">5.20</ref>
-                     <ref target="hanslick-vms#d1e5056a1048964">VMS 10</ref>
+                     <ref target="t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.html#d1e5056a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_5.22.html">5.22</ref>
                   </seg>
                </cell>
@@ -377,8 +375,7 @@
                <cell xml:id="v2">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voran zu eilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volks, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
                <cell xml:id="v3">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voran zu eilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
                <cell xml:id="v4">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voranzueilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
-               <cell xml:id="v5">Der wichtigste Factor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten über sehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Componisten fortwährend zu folgen und voranzueilen, sich in seinen Vermuthungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellectuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Compositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durch dringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und contrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
-               <cell xml:id="v6">Der wichtigste Faktor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Komponisten fortwährend zu folgen und voranzueilen, sich in seinen Vermutungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellektuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Kompositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und kontrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
+               <cell xml:id="v5">Der wichtigste Faktor in dem Seelenvorgang, welcher das Auffassen eines Tonwerks begleitet und zum Genusse macht, wird am häufigsten übersehen. Es ist die geistige Befriedigung, die der Hörer darin findet, den Absichten des Komponisten fortwährend zu folgen und voranzueilen, sich in seinen Vermutungen hier bestätigt, dort angenehm getäuscht zu finden. Es versteht sich, daß dieses intellektuelle Hinüber- und Herüberströmen, dieses fortwährende Geben und Empfangen, unbewußt und blitzschnell vor sich geht. Nur solche Musik wird vollen künstlerischen Genuß bieten, welche dies geistige Nachfolgen, welches ganz eigentlich ein Nachdenken der Phantasie genannt werden könnte, hervorruft und lohnt. Ohne geistige Thätigkeit giebt es überhaupt keinen ästhetischen Genuß. Der Musik aber ist diese Form von Geistesthätigkeit darum vorzüglich eigen, weil ihre Werke nicht unverrückbar und mit Einem Schlag dastehen, sondern sich successiv am Hörer abspinnen, daher sie von diesem kein, ein beliebiges Verweilen und Unterbrechen zulassendes Betrachten, sondern ein in schärfster Wachsamkeit unermüdliches Begleiten fordern. Diese Begleitung kann bei verwickelten Kompositionen sich bis zur geistigen Arbeit steigern. Wie viele einzelne Individuen, so können auch manche Nationen sich ihr nur sehr schwer unterziehen. Die singende Alleinherrschaft der Oberstimme bei den Italienern hat einen Hauptgrund in der geistigen Bequemlichkeit dieses Volkes, welchem das ausdauernde Durchdringen unerreichbar ist, womit der Nordländer einem künstlichen Gewebe von harmonischen und kontrapunktischen Verschlingungen zu folgen liebt. Dafür wird Hörern, deren geistige Thätigkeit gering ist, der Genuß leichter, und solche Musikbolde können Massen von Musik verzehren, vor welchen der künstlerische Geist zurückbebt.</cell>
             </row>
          </table>
       </body>

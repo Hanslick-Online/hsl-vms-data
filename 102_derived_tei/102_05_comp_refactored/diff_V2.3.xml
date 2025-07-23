@@ -19,8 +19,7 @@
             <item>
                <list type="selectPar">
                   <head>Paragraph auswählen</head>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
+                  <item>V2.1 &amp; V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
                   <item>V2.5</item>
@@ -32,6 +31,7 @@
                   <item>1.4</item>
                   <item>1.5</item>
                   <item>1.6</item>
+                  <item>1.7</item>
                   <item>1.8</item>
                   <item>1.9</item>
                   <item>1.10</item>
@@ -48,10 +48,13 @@
                   <item>1.21</item>
                   <item>1.22</item>
                   <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
                   <item>1.27</item>
+                  <item>1.28</item>
                   <item>1.29</item>
                   <item>1.30</item>
-                  <item>1.30.1</item>
                   <item>1.31</item>
                   <item>2.1</item>
                   <item>2.2</item>
@@ -74,7 +77,8 @@
                   <item>2.18</item>
                   <item>2.19</item>
                   <item>2.20</item>
-                  <item>2.21 &amp; 2.22</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.23</item>
                   <item>2.24</item>
                   <item>2.25</item>
@@ -97,7 +101,6 @@
                   <item>2.42</item>
                   <item>2.43</item>
                   <item>2.44</item>
-                  <item>2.44.1</item>
                   <item>2.45</item>
                   <item>2.46</item>
                   <item>2.47</item>
@@ -145,7 +148,8 @@
                   <item>3.44</item>
                   <item>3.45</item>
                   <item>3.46</item>
-                  <item>4.1 &amp; 4.2</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
                   <item>4.3</item>
                   <item>4.4</item>
                   <item>4.5</item>
@@ -271,24 +275,24 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.30.1</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.44.1</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>4.1 &amp; 4.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
-                  <item>4.1</item>
-                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -298,12 +302,8 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.7</item>
-                  <item>4.2</item>
-                  <item>1.4 &amp; 1.5</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
-                  <item>V2.1 &amp; V2.2</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
                </list>
             </item>
          </list>
@@ -312,57 +312,55 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.2.html">V2.2</ref>
-                     <ref target="hanslick-vms#d1e361a1048964">VMS 2</ref>
+                     <ref target="t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html#d1e361a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.1 &amp; V2.2.html">V2.1 &amp; V2.2</ref>
-                     <ref target="hanslick-vms#d1e416a1048964">VMS 3</ref>
+                     <ref target="t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html#d1e416a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.1 &amp; V2.2.html">V2.1 &amp; V2.2</ref>
-                     <ref target="hanslick-vms#d1e406a1048964">VMS 4</ref>
+                     <ref target="t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html#d1e406a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.1 &amp; V2.2.html">V2.1 &amp; V2.2</ref>
-                     <ref target="hanslick-vms#d1e413a1048964">VMS 5</ref>
+                     <ref target="t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html#d1e413a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.2.html">V2.2</ref>
-                     <ref target="hanslick-vms#d1e532a1048964">VMS 6</ref>
+                     <ref target="t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html#d1e532a1048964">VMS 6</ref>
+                     <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_V2.2.html">V2.2</ref>
+                     <ref target="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html#d1e473a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.2.html">V2.2</ref>
-                     <ref target="hanslick-vms#d1e473a1048964">VMS 7</ref>
-                     <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_V2.2.html">V2.2</ref>
-                     <ref target="hanslick-vms#d1e456a1048964">VMS 8</ref>
+                     <ref target="t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.html#d1e456a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.2.html">V2.2</ref>
-                     <ref target="hanslick-vms#d1e454a1048964">VMS 9</ref>
+                     <ref target="t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.html#d1e454a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.2.html">V2.2</ref>
-                     <ref target="hanslick-vms#d1e425a1048964">VMS 10</ref>
+                     <ref target="t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.html#d1e425a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_V2.4.html">V2.4</ref>
                   </seg>
                </cell>
@@ -372,8 +370,7 @@
                <cell xml:id="v2">Leidenschaftliche Gegner haben mir mitunter eine vollständige „Polemik“ gegen Alles, was Gefühl heißt, aufgedichtet, während jeder unbefangene und aufmerksame Leser doch unschwer erkennt, daß ich nur gegen die falsche Einmischung der Gefühle in die Wissenschaft protestire, also gegen jene ästhetischen Schwärmer kämpfe, die mit der Prätension, den Musiker zu belehren, nur ihre klingenden Opiumträume auslegen. Ich theile vollkommen die Ansicht, daß der letzte Werth des Schönen immer auf unmittelbarer Evidenz des Gefühls beruhen wird. Aber ebenso fest halte ich an der Ueberzeugung, daß man aus all den üblichen Appellationen an das Gefühl nicht ein einziges musikalisches Gesetz ableiten kann.</cell>
                <cell xml:id="v3">Leidenschaftliche Gegner haben mir mitunter eine vollständige „Polemik“ gegen Alles, was Gefühl heißt, aufgedichtet, während jeder unbefangene und aufmerksame Leser doch unschwer erkennt, daß ich nur gegen die falsche Einmischung der Gefühle in die Wissenschaft protestire, also gegen jene ästhetischen Schwärmer kämpfe, die mit der Prätension, den Musiker zu belehren, nur ihre klingenden Opiumträume auslegen. Ich theile vollkommen die Ansicht, daß der letzte Werth des Schönen immer auf unmittelbarer Evidenz des Gefühls beruhen wird. Aber ebenso fest halte ich an der Ueberzeugung, daß man aus all’ den üblichen Appellationen an das Gefühl nicht ein einziges musikalisches Gesetz ableiten kann.</cell>
                <cell xml:id="v4">Leidenschaftliche Gegner haben mir mitunter eine vollständige Polemik gegen Alles, was Gefühl heißt, aufgedichtet, während jeder unbefangene und aufmerksame Leser doch unschwer erkennt, daß ich nur gegen die falsche Einmischung der Gefühle in die Wissenschaft protestire, also gegen jene ästhetischen Schwärmer kämpfe, die mit der Prätension, den Musiker zu belehren, nur ihre klingenden Opiumträume auslegen. Ich theile vollkommen die Ansicht, daß der letzte Werth des Schönen immer auf unmittelbarer Evidenz des Gefühls beruhen wird. Aber ebenso fest halte ich an der Ueberzeugung, daß man aus all’ den üblichen Appellationen an das Gefühl nicht ein einziges musikalisches Gesetz ableiten kann.</cell>
-               <cell xml:id="v5">Leidenschaftliche Gegner haben mir mitunter eine vollständige Polemik gegen Alles, was Gefühl heißt, aufgedichtet, während jeder unbefangene und aufmerksame Leser doch unschwer erkennt, daß ich nur gegen die falsche Einmischung der Gefühle in die Wissenschaft protestire, also gegen jene ästhetischen Schwärmer kämpfe, die mit der Prätension, den Musiker zu belehren, nur ihre klingenden Opiumträume auslegen. Ich theile vollkommen die Ansicht, daß der letzte Werth des Schönen immer auf unmittelbarer Evidenz des Gefühls be ruhen wird. Aber ebenso fest halte ich an der Ueberzeugung, daß man aus all’ den üblichen Appellationen an das Gefühl nicht ein einziges musikalisches Gesetz ableiten kann.</cell>
-               <cell xml:id="v6">Leidenschaftliche Gegner haben mir mitunter eine vollständige Polemik gegen alles, was Gefühl heißt, aufgedichtet, während jeder unbefangene und aufmerksame Leser doch unschwer erkennt, daß ich nur gegen die falsche Einmischung der Gefühle in die Wissenschaft protestiere, also gegen jene ästhetischen Schwärmer kämpfe, die mit der Prätension, den Musiker zu belehren, nur ihre klingenden Opiumträume auslegen. Ich teile vollkommen die Ansicht, daß der letzte Wert des Schönen immer auf unmittelbarer Evidenz des Gefühls beruhen wird. Aber ebenso fest halte ich an der Überzeugung, daß man aus all den üblichen Appellationen an das Gefühl nicht ein einziges musikalisches Gesetz ableiten kann.</cell>
+               <cell xml:id="v5">Leidenschaftliche Gegner haben mir mitunter eine vollständige Polemik gegen alles, was Gefühl heißt, aufgedichtet, während jeder unbefangene und aufmerksame Leser doch unschwer erkennt, daß ich nur gegen die falsche Einmischung der Gefühle in die Wissenschaft protestiere, also gegen jene ästhetischen Schwärmer kämpfe, die mit der Prätension, den Musiker zu belehren, nur ihre klingenden Opiumträume auslegen. Ich teile vollkommen die Ansicht, daß der letzte Wert des Schönen immer auf unmittelbarer Evidenz des Gefühls beruhen wird. Aber ebenso fest halte ich an der Überzeugung, daß man aus all den üblichen Appellationen an das Gefühl nicht ein einziges musikalisches Gesetz ableiten kann.</cell>
             </row>
          </table>
       </body>

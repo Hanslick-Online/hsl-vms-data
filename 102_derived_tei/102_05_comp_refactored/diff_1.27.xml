@@ -19,8 +19,7 @@
             <item>
                <list type="selectPar">
                   <head>Paragraph auswählen</head>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
+                  <item>V2.1 &amp; V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
                   <item>V2.5</item>
@@ -32,6 +31,7 @@
                   <item>1.4</item>
                   <item>1.5</item>
                   <item>1.6</item>
+                  <item>1.7</item>
                   <item>1.8</item>
                   <item>1.9</item>
                   <item>1.10</item>
@@ -48,10 +48,13 @@
                   <item>1.21</item>
                   <item>1.22</item>
                   <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
                   <item>1.27</item>
+                  <item>1.28</item>
                   <item>1.29</item>
                   <item>1.30</item>
-                  <item>1.30.1</item>
                   <item>1.31</item>
                   <item>2.1</item>
                   <item>2.2</item>
@@ -74,7 +77,8 @@
                   <item>2.18</item>
                   <item>2.19</item>
                   <item>2.20</item>
-                  <item>2.21 &amp; 2.22</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.23</item>
                   <item>2.24</item>
                   <item>2.25</item>
@@ -97,7 +101,6 @@
                   <item>2.42</item>
                   <item>2.43</item>
                   <item>2.44</item>
-                  <item>2.44.1</item>
                   <item>2.45</item>
                   <item>2.46</item>
                   <item>2.47</item>
@@ -145,7 +148,8 @@
                   <item>3.44</item>
                   <item>3.45</item>
                   <item>3.46</item>
-                  <item>4.1 &amp; 4.2</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
                   <item>4.3</item>
                   <item>4.4</item>
                   <item>4.5</item>
@@ -271,24 +275,24 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.30.1</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.44.1</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>4.1 &amp; 4.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
-                  <item>4.1</item>
-                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -298,12 +302,8 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.7</item>
-                  <item>4.2</item>
-                  <item>1.4 &amp; 1.5</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
-                  <item>V2.1 &amp; V2.2</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
                </list>
             </item>
          </list>
@@ -312,62 +312,62 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.26.html">1.26</ref>
-                     <ref target="hanslick-vms#d1e625a1048964">VMS 1</ref>
+                     <ref target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html#d1e625a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_1.28.html">1.28</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.26.html">1.26</ref>
-                     <ref target="hanslick-vms#d1e784a1048964">VMS 2</ref>
+                     <ref target="t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html#d1e784a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_1.28.html">1.28</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.26.html">1.26</ref>
-                     <ref target="hanslick-vms#d1e799a1048964">VMS 3</ref>
+                     <ref target="t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html#d1e799a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_1.28.html">1.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.26.html">1.26</ref>
-                     <ref target="hanslick-vms#d1e797a1048964">VMS 4</ref>
+                     <ref target="t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html#d1e797a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_1.28.html">1.28</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.26.html">1.26</ref>
-                     <ref target="hanslick-vms#d1e795a1048964">VMS 5</ref>
+                     <ref target="t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html#d1e795a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_1.28.html">1.28</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.23.html">1.23</ref>
-                     <ref target="hanslick-vms#d1e939a1048964">VMS 6</ref>
+                     <ref target="t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html#d1e939a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_1.29.html">1.29</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.23.html">1.23</ref>
-                     <ref target="hanslick-vms#d1e871a1048964">VMS 7</ref>
+                     <ref target="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html#d1e871a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_1.29.html">1.29</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.23.html">1.23</ref>
-                     <ref target="hanslick-vms#d1e856a1048964">VMS 9</ref>
+                     <ref target="t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.html#d1e851a1048964">VMS 8</ref>
+                     <ref type="nextLink" target="diff_1.29.html">1.29</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.23.html">1.23</ref>
+                     <ref target="t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.html#d1e814a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_1.29.html">1.29</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_1.23.html">1.23</ref>
-                     <ref target="hanslick-vms#d1e851a1048964">VMS 8</ref>
-                     <ref type="nextLink" target="diff_1.29.html">1.29</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_1.23.html">1.23</ref>
-                     <ref target="hanslick-vms#d1e814a1048964">VMS 10</ref>
+                     <ref target="t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.html#d1e856a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_1.29.html">1.29</ref>
                   </seg>
                </cell>
@@ -376,9 +376,9 @@
                <cell xml:id="v1">Selbst dort, wo wir den wirklich vorhandenen Eindruck betrachten, entdecken wir in ihm oft statt des Nothwendigen Conventionelles. Nicht blos in Form und Sitte, auch am Denken und Fühlen bildet sich im Lauf der Zeiten vieles Uebereinstimmende, Ueberkommene, das uns im Wesen der Dinge selbst zu stecken scheint, welche dennoch kaum mehr davon wissen, als die Buchstabenzeichen von der Bedeutung, die sie eben nur für uns haben. Dies ist besonders bei Musikgattungen der Fall, welche bestimmten äußeren Zwecken dienen, als Kirchen-, Kriegs-, Theatercompositionen. In den letzteren findet man eine wahre Terminologie für die verschiedensten Gefühle, eine Terminologie, die den Componisten und Hörern eines Zeitalters so geläufig wird, daß sie im einzelnen Falle nicht den mindesten Zweifel darüber haben. Spätere Zeiten bekommen ihn aber. Ja, wir begreifen oft kaum, wie unsre Großeltern diese Tonreihe für einen adäquaten Ausdruck gerade dieses Affectes ansehen konnten.</cell>
                <cell xml:id="v2">Selbst dort, wo wir den wirklich vorhandenen Eindruck betrachten, entdecken wir in ihm oft statt des Nothwendigen Conventionelles. Nicht blos in Form und Sitte, auch im Denken und Fühlen bildet sich im Lauf der Zeiten vieles Uebereinstimmende, Ueberkommene, das uns im Wesen der Dinge selbst zu stecken scheint, welche dennoch kaum mehr davon wissen, als die Buchstabenzeichen von der Bedeutung, die sie eben nur für uns haben. Dies ist besonders bei Musikgattungen der Fall, welche bestimmten äußeren Zwecken dienen, als Kirchen-, Kriegs-, Theatercompositionen. In den letzteren findet man eine wahre Terminologie für die verschiedensten Gefühle, eine Terminologie, die den Componisten und Hörern eines Zeitalters so geläufig wird, daß sie im einzelnen Falle nicht den mindesten Zweifel darüber haben. Spätere Zeiten bekommen ihn aber. Ja, wir begreifen oft kaum, wie unsre Großeltern diese Tonreihe für einen adäquaten Ausdruck gerade dieses Affectes ansehen konnten.</cell>
                <cell xml:id="v3">Kann überhaupt das Gefühl keine Basis für ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen Fühlens Wesentliches zu bemerken. Wir meinen hier nicht bloß die conventionelle Befangenheit, die es ermöglicht, daß unser Fühlen und Vorstellen oft durch Texte, Ueberschriften und andere bloß accidentielle Ideenassociationen, besonders in Kirchen-, Kriegs- und Theatercompositionen eine Richtung erhält, welche wir fälschlich dem Charakter der Musik an sich zuzuschreiben geneigt sind. Vielmehr ist überhaupt der Zusammenhang eines Tonstückes mit der dadurch hervorgerufenen Gefühlsbewegung kein unbedingt causaler, sondern es wechselt diese Stimmung mit dem wechselnden Standpunkt unserer musikalischen Erfahrungen und Eindrücke. Wir begreifen heute oft kaum, wie unsere Großeltern diese Tonreihe für einen adäquaten Ausdruck gerade dieses Affekts ansehen konnten. Dafür ist z. B. die außerordentliche Verschiedenheit ein Beweis, mit der viele Mozartsche, Beethovensche und Webersche Compositionen zur Zeit ihrer Neuheit im Gegensatz zu heute auf die Herzen der Hörer wirkten. Wie viele Werke von Mozart erklärte man zu ihrer Zeit für das leidenschaftlichste, feurigste und kühnste, was überhaupt an musikalischen Stimmungsbildern möglich schien. Der Behaglichkeit und dem reinen Wohlsein, welches aus Haydns Symphonien ausströme, stellte man die Ausbrüche heftiger Leidenschaft, ernstester Kämpfe, bitterer, schneidender Schmerzen in Mozarts Musik gegenüber. Zwanzig bis dreißig Jahre später entschied man genau so zwischen Beethoven und Mozart. Die Stelle Mozarts als Repräsentanten der heftigen, hinreißenden Leidenschaft nahm Beethoven ein, und Mozart war zu der olympischen Classicität Haydns avancirt. Aehnliche Wandlungen seiner Anschauung erfährt jeder aufmerksame Musiker im Laufe eines längeren Lebens an sich selbst. Durch diese Verschiedenheit der Gefühlswirkung ist jedoch die musikalische Schätzung vieler einst so aufregend wirkender Werke, der ästhetische Genuß, den ihre Originalität und Schönheit uns heute noch bereitet, an und für sich nicht alterirt. Der Zusammenhang musikalischer Werke mit gewissen Stimmungen besteht also nicht immer, überall, nothwendig, als ein absolut Zwingendes, er ist vielmehr unvergleichlich wandelbarer als in jeder andern Kunst.</cell>
-               <cell xml:id="v4">Kann überhaupt das Gefühl keine Basis für ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen Fühlens Wesentliches zu bemerken. Wir meinen hier nicht bloß die conventionelle Befangenheit, die es ermöglicht, daß unser Fühlen und Vorstellen oft durch Texte, Ueberschriften und andere bloß accidentielle Ideenassociationen, besonders in Kirchen-, Kriegs- und Theatercompositionen eine Richtung erhält, welche wir fälschlich dem Charakter der Musik an sich zuzuschreiben geneigt sind. Vielmehr ist überhaupt der Zusammenhang eines Tonstückes mit der dadurch hervorgerufenen Gefühlsbewegung kein unbedingt causaler, sondern es wechselt diese Stimmung mit dem wechselnden Standpunkt unserer musikalischen Erfahrungen und Eindrücke. Wir begreifen heute oft kaum, wie unsere Großeltern diese Tonreihe für einen adäquaten Ausdruck gerade dieses Affects ansehen konnten. Dafür ist z. B. die außerordentliche Verschiedenheit ein Beweis, mit der viele Mozartʼsche, Beethovenʼsche und Weberʼsche Compositionen zur Zeit ihrer Neuheit im Gegensatz zu heute auf die Herzen der Hörer wirkten. Wie viele Werke von Mozart erklärte man zu ihrer Zeit für das leidenschaftlichste, feurigste und kühnste, was überhaupt an musikalischen Stimmungsbildern möglich schien. Der Behaglichkeit und dem reinen Wohlsein, welches aus Haydnʼs Symphonien ausströme, stellte man die Ausbrüche heftiger Leidenschaft, ernstester Kämpfe, bitterer, schneidender Schmerzen in Mozartʼs Musik gegenüber. Zwanzig bis dreißig Jahre später entschied man genau so zwischen Beethoven und Mozart. Die Stelle Mozartʼs als Repräsentanten der heftigen, hinreißenden Leidenschaft nahm Beethoven ein, und Mozart war zu der olympischen Classicität Haydnʼs avancirt. Aehn liche Wandlungen seiner Anschauung erfährt jeder aufmerksame Musiker im Laufe eines längeren Lebens an sich selbst. Durch diese Verschiedenheit der Gefühlswirkung ist jedoch die musikalische Schätzung vieler einst so aufregend wirkender Werke, der ästhetische Genuß, den ihre Originalität und Schönheit uns heute noch bereitet, an und für sich nicht alterirt. Der Zusammenhang musikalischer Werke mit gewissen Stimmungen besteht also nicht immer, überall, nothwendig, als ein absolut Zwingendes, er ist vielmehr unvergleichlich wandelbarer als in jeder andern Kunst.</cell>
-               <cell xml:id="v5">Kann überhaupt das Gefühl keine Basis für ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen Fühlens Wesentliches zu bemerken. Wir meinen hier nicht bloß die konventionelle Befangenheit, die es ermöglicht, das unser Fühlen und Vorstellen oft durch Texte, Überschriften und andere bloß gelegentliche Gedankenverbindungen, besonders in Kirchen- Kriegs-, und Theaterkompositionen eine Richtung erhält, welche wir fälschlich dem Charakter der Musik an sich zuzuschreiben geneigt sind. Vielmehr ist überhaupt der Zusammenhang eines Tonstückes mit der dadurch hervorgerufenen Gefühlsbewegung kein unbedingt kausaler, sondern es wechselt diese Stimmung mit dem wechselnden Standpunkt unserer musikalischen Erfahrungen und Eindrücke. Wir begreifen heute oft kaum, wie unsere Großeltern diese Tonreihe für einen entsprechenden Ausdruck gerade dieses Affekts ansehen konnten. Dafür ist z. B. die außerordentliche Verschiedenheit ein Beweis, mit der viele Mozartsche, Beethovensche und Webersche Kompositionen zur Zeit ihrer Neuheit im Gegensatz zu heute auf die Herzen der Hörer wirkten. Wie viele Werke von Mozart erklärte man zu ihrer Zeit für das leidenschaftlichste, feurigste und kühnste, was überhaupt an musikalischen Stimmungsbildern möglich schien. Der Behaglichkeit und dem reinen Wohlsein, welches aus Haydns Symphonieen ausströme, stellte man die Ausbrüche heftiger Leidenschaft, ernstester Kämpfe, bitterer, schneidender Schmerzen in Mozarts Musik gegenüber. Zwanzig bis dreißig Jahre später entschied man genau so zwischen Beethoven und Mozart. Die Stelle Mozarts als Repräsentanten der heftigen, hinreißenden Leidenschaft nahm Beethoven ein, und Mozart war zu der olympischen Klassicität Haydns avanciert. Ähnliche Wandlungen seiner Anschauung erfährt jeder aufmerksame Musiker im Laufe eines längeren Lebens an sich selbst. Durch diese Verschiedenheit der Gefühlswirkung ist jedoch die musikalische Schätzung vieler einst so aufregend wirkender Werke, der ästhetische Genuß, den ihre Originalität und Schönheit uns heute noch bereitet, an und für sich nicht alteriert. Der Zusammenhang musikalischer Werke mit gewissen Stimmungen besteht also nicht immer, überall, notwendig, als ein absolut Zwingendes, er ist vielmehr unvergleichlich wandelbarer als in jeder andern Kunst.</cell>
-               <cell xml:id="v6">Kann überhaupt das Gefühl keine Basis für ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen Fühlens Wesentliches zu bemerken. Wir meinen hier nicht bloß die konventionelle Befangenheit, die es ermöglicht, daß unser Fühlen und Vorstellen oft durch Texte, Überschriften und andere bloß gelegentliche Gedankenverbindungen, besonders in Kirchen-, Kriegs- und Theaterkompositionen eine Richtung erhält, welche wir fälschlich dem Charakter der Musik an sich zuzuschreiben geneigt sind. Vielmehr ist überhaupt der Zusammenhang eines Tonstückes mit der dadurch hervorgerufenen Gefühlsbewegung kein unbedingt kausaler, sondern es wechselt diese Stimmung mit dem wechselnden Standpunkt unserer musikalischen Erfahrungen und Eindrücke. Wir begreifen heute oft kaum, wie unsere Großeltern diese Tonreihe für einen entsprechenden Ausdruck gerade dieses Affekts ansehen konnten. Dafür ist z. B. die außerordentliche Verschiedenheit ein Beweis, mit der viele Mozartsche, Beethovensche und Webersche Kompositionen zur Zeit ihrer Neuheit im Gegensatz zu heute auf die Herzen der Hörer wirkten. Wie viele Werke von Mozart erklärte man zu ihrer Zeit für das leidenschaftlichste, feurigste und kühnste, was überhaupt an musikalischen Stimmungsbildern möglich schien. Der Behaglichkeit und dem reinen Wohlsein, welches aus Haydns Symphonieen ausströme, stellte man die Ausbrüche heftiger Leidenschaft, ernstester Kämpfe, bitterer, schneidender Schmerzen in Mozarts Musik gegenüber. Zwanzig bis dreißig Jahre später entschied man genau so zwischen Beethoven und Mozart. Die Stelle Mozarts als Repräsentanten der heftigen, hinreißenden Leidenschaft nahm Beethoven ein, und Mozart war zu der olympischen Klassicität Haydns avanciert. Ähnliche Wandlungen seiner Anschauung erfährt jeder aufmerksame Musiker im Laufe eines längeren Lebens an sich selbst. Durch diese Verschiedenheit der Gefühlswirkung ist jedoch die musikalische Schätzung vieler einst so aufregend wirkender Werke, der ästhetische Genuß, den ihre Originalität und Schönheit uns heute noch bereitet, an und für sich nicht alteriert. Der Zusammenhang musikalischer Werke mit gewissen Stimmungen besteht also nicht immer, überall, notwendig, als ein absolut Zwingendes, er ist vielmehr unvergleichlich wandelbarer als in jeder andern Kunst.</cell>
+               <cell xml:id="v4">Kann überhaupt das Gefühl keine Basis für ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen Fühlens Wesentliches zu bemerken. Wir meinen hier nicht bloß die conventionelle Befangenheit, die es ermöglicht, daß unser Fühlen und Vorstellen oft durch Texte, Ueberschriften und andere bloß accidentielle Ideenassociationen, besonders in Kirchen-, Kriegs- und Theatercompositionen eine Richtung erhält, welche wir fälschlich dem Charakter der Musik an sich zuzuschreiben geneigt sind. Vielmehr ist überhaupt der Zusammenhang eines Tonstückes mit der dadurch hervorgerufenen Gefühlsbewegung kein unbedingt causaler, sondern es wechselt diese Stimmung mit dem wechselnden Standpunkt unserer musikalischen Erfahrungen und Eindrücke. Wir begreifen heute oft kaum, wie unsere Großeltern diese Tonreihe für einen adäquaten Ausdruck gerade dieses Affects ansehen konnten. Dafür ist z. B. die außerordentliche Verschiedenheit ein Beweis, mit der viele Mozartʼsche, Beethovenʼsche und Weberʼsche Compositionen zur Zeit ihrer Neuheit im Gegensatz zu heute auf die Herzen der Hörer wirkten. Wie viele Werke von Mozart erklärte man zu ihrer Zeit für das leidenschaftlichste, feurigste und kühnste, was überhaupt an musikalischen Stimmungsbildern möglich schien. Der Behaglichkeit und dem reinen Wohlsein, welches aus Haydnʼs Symphonien ausströme, stellte man die Ausbrüche heftiger Leidenschaft, ernstester Kämpfe, bitterer, schneidender Schmerzen in Mozartʼs Musik gegenüber. Zwanzig bis dreißig Jahre später entschied man genau so zwischen Beethoven und Mozart. Die Stelle Mozartʼs als Repräsentanten der heftigen, hinreißenden Leidenschaft nahm Beethoven ein, und Mozart war zu der olympischen Classicität Haydnʼs avancirt. Aehnliche Wandlungen seiner Anschauung erfährt jeder aufmerksame Musiker im Laufe eines längeren Lebens an sich selbst. Durch diese Verschiedenheit der Gefühlswirkung ist jedoch die musikalische Schätzung vieler einst so aufregend wirkender Werke, der ästhetische Genuß, den ihre Originalität und Schönheit uns heute noch bereitet, an und für sich nicht alterirt. Der Zusammenhang musikalischer Werke mit gewissen Stimmungen besteht also nicht immer, überall, nothwendig, als ein absolut Zwingendes, er ist vielmehr unvergleichlich wandelbarer als in jeder andern Kunst.</cell>
+               <cell xml:id="v5">Kann überhaupt das Gefühl keine Basis für ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen Fühlens Wesentliches zu bemerken. Wir meinen hier nicht bloß die konventionelle Befangenheit, die es ermöglicht, daß unser Fühlen und Vorstellen oft durch Texte, Überschriften und andere bloß gelegentliche Gedankenverbindungen, besonders in Kirchen-, Kriegs- und Theaterkompositionen eine Richtung erhält, welche wir fälschlich dem Charakter der Musik an sich zuzuschreiben geneigt sind. Vielmehr ist überhaupt der Zusammenhang eines Tonstückes mit der dadurch hervorgerufenen Gefühlsbewegung kein unbedingt kausaler, sondern es wechselt diese Stimmung mit dem wechselnden Standpunkt unserer musikalischen Erfahrungen und Eindrücke. Wir begreifen heute oft kaum, wie unsere Großeltern diese Tonreihe für einen entsprechenden Ausdruck gerade dieses Affekts ansehen konnten. Dafür ist z. B. die außerordentliche Verschiedenheit ein Beweis, mit der viele Mozartsche, Beethovensche und Webersche Kompositionen zur Zeit ihrer Neuheit im Gegensatz zu heute auf die Herzen der Hörer wirkten. Wie viele Werke von Mozart erklärte man zu ihrer Zeit für das leidenschaftlichste, feurigste und kühnste, was überhaupt an musikalischen Stimmungsbildern möglich schien. Der Behaglichkeit und dem reinen Wohlsein, welches aus Haydns Symphonieen ausströme, stellte man die Ausbrüche heftiger Leidenschaft, ernstester Kämpfe, bitterer, schneidender Schmerzen in Mozarts Musik gegenüber. Zwanzig bis dreißig Jahre später entschied man genau so zwischen Beethoven und Mozart. Die Stelle Mozarts als Repräsentanten der heftigen, hinreißenden Leidenschaft nahm Beethoven ein, und Mozart war zu der olympischen Klassicität Haydns avanciert. Ähnliche Wandlungen seiner Anschauung erfährt jeder aufmerksame Musiker im Laufe eines längeren Lebens an sich selbst. Durch diese Verschiedenheit der Gefühlswirkung ist jedoch die musikalische Schätzung vieler einst so aufregend wirkender Werke, der ästhetische Genuß, den ihre Originalität und Schönheit uns heute noch bereitet, an und für sich nicht alteriert. Der Zusammenhang musikalischer Werke mit gewissen Stimmungen besteht also nicht immer, überall, notwendig, als ein absolut Zwingendes, er ist vielmehr unvergleichlich wandelbarer als in jeder andern Kunst.</cell>
+               <cell xml:id="v6">Kann überhaupt das Gefühl keine Basis für ästhetische Gesetze sein, so ist obendrein gegen die Sicherheit des musikalischen Fühlens Wesentliches zu bemerken. Wir meinen hier nicht bloß die konventionelle Befangenheit, die es ermöglicht, das unser Fühlen und Vorstellen oft durch Texte, Überschriften und andere bloß gelegentliche Gedankenverbindungen, besonders in Kirchen- Kriegs-, und Theaterkompositionen eine Richtung erhält, welche wir fälschlich dem Charakter der Musik an sich zuzuschreiben geneigt sind. Vielmehr ist überhaupt der Zusammenhang eines Tonstückes mit der dadurch hervorgerufenen Gefühlsbewegung kein unbedingt kausaler, sondern es wechselt diese Stimmung mit dem wechselnden Standpunkt unserer musikalischen Erfahrungen und Eindrücke. Wir begreifen heute oft kaum, wie unsere Großeltern diese Tonreihe für einen entsprechenden Ausdruck gerade dieses Affekts ansehen konnten. Dafür ist z. B. die außerordentliche Verschiedenheit ein Beweis, mit der viele Mozartsche, Beethovensche und Webersche Kompositionen zur Zeit ihrer Neuheit im Gegensatz zu heute auf die Herzen der Hörer wirkten. Wie viele Werke von Mozart erklärte man zu ihrer Zeit für das leidenschaftlichste, feurigste und kühnste, was überhaupt an musikalischen Stimmungsbildern möglich schien. Der Behaglichkeit und dem reinen Wohlsein, welches aus Haydns Symphonieen ausströme, stellte man die Ausbrüche heftiger Leidenschaft, ernstester Kämpfe, bitterer, schneidender Schmerzen in Mozarts Musik gegenüber. Zwanzig bis dreißig Jahre später entschied man genau so zwischen Beethoven und Mozart. Die Stelle Mozarts als Repräsentanten der heftigen, hinreißenden Leidenschaft nahm Beethoven ein, und Mozart war zu der olympischen Klassicität Haydns avanciert. Ähnliche Wandlungen seiner Anschauung erfährt jeder aufmerksame Musiker im Laufe eines längeren Lebens an sich selbst. Durch diese Verschiedenheit der Gefühlswirkung ist jedoch die musikalische Schätzung vieler einst so aufregend wirkender Werke, der ästhetische Genuß, den ihre Originalität und Schönheit uns heute noch bereitet, an und für sich nicht alteriert. Der Zusammenhang musikalischer Werke mit gewissen Stimmungen besteht also nicht immer, überall, notwendig, als ein absolut Zwingendes, er ist vielmehr unvergleichlich wandelbarer als in jeder andern Kunst.</cell>
             </row>
          </table>
       </body>

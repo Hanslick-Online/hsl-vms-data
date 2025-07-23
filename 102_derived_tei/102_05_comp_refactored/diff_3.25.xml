@@ -19,8 +19,7 @@
             <item>
                <list type="selectPar">
                   <head>Paragraph auswählen</head>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
+                  <item>V2.1 &amp; V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
                   <item>V2.5</item>
@@ -32,6 +31,7 @@
                   <item>1.4</item>
                   <item>1.5</item>
                   <item>1.6</item>
+                  <item>1.7</item>
                   <item>1.8</item>
                   <item>1.9</item>
                   <item>1.10</item>
@@ -48,10 +48,13 @@
                   <item>1.21</item>
                   <item>1.22</item>
                   <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
                   <item>1.27</item>
+                  <item>1.28</item>
                   <item>1.29</item>
                   <item>1.30</item>
-                  <item>1.30.1</item>
                   <item>1.31</item>
                   <item>2.1</item>
                   <item>2.2</item>
@@ -74,7 +77,8 @@
                   <item>2.18</item>
                   <item>2.19</item>
                   <item>2.20</item>
-                  <item>2.21 &amp; 2.22</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.23</item>
                   <item>2.24</item>
                   <item>2.25</item>
@@ -97,7 +101,6 @@
                   <item>2.42</item>
                   <item>2.43</item>
                   <item>2.44</item>
-                  <item>2.44.1</item>
                   <item>2.45</item>
                   <item>2.46</item>
                   <item>2.47</item>
@@ -145,7 +148,8 @@
                   <item>3.44</item>
                   <item>3.45</item>
                   <item>3.46</item>
-                  <item>4.1 &amp; 4.2</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
                   <item>4.3</item>
                   <item>4.4</item>
                   <item>4.5</item>
@@ -271,24 +275,24 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.30.1</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.44.1</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>4.1 &amp; 4.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
-                  <item>4.1</item>
-                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -298,12 +302,8 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.7</item>
-                  <item>4.2</item>
-                  <item>1.4 &amp; 1.5</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
-                  <item>V2.1 &amp; V2.2</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
                </list>
             </item>
          </list>
@@ -312,64 +312,64 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e2315a1048964">VMS 1</ref>
+                     <ref target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html#d1e2315a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e2483a1048964">VMS 2</ref>
+                     <ref target="t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html#d1e2483a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e2608a1048964">VMS 3</ref>
-                     <ref type="nextLink" target="diff_3.26.html">3.26</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e2626a1048964">VMS 4</ref>
+                     <ref target="t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html#d1e2608a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e2557a1048964">VMS 5</ref>
+                     <ref target="t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html#d1e2626a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e3062a1048964">VMS 6</ref>
+                     <ref target="t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html#d1e2557a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e3016a1048964">VMS 7</ref>
+                     <ref target="t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html#d1e3062a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e3031a1048964">VMS 8</ref>
+                     <ref target="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html#d1e3016a1048964">VMS 7</ref>
+                     <ref type="nextLink" target="diff_3.26.html">3.26</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.24.html">3.24</ref>
+                     <ref target="t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.html#d1e3031a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e3036a1048964">VMS 9</ref>
+                     <ref target="t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.html#d1e3036a1048964">VMS 9</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.24.html">3.24</ref>
-                     <ref target="hanslick-vms#d1e2990a1048964">VMS 10</ref>
+                     <ref target="t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.html#d1e2990a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_3.26.html">3.26</ref>
                   </seg>
                </cell>
@@ -379,8 +379,8 @@
                <cell xml:id="v2">Die Erforschung der Natur jedes einzelnen musikalischen Elementes, seines Zusammenhanges mit einem bestimmten Eindruck (– nur der Thatsache, nicht des letzten Grundes –), endlich die Zurückführung dieser speciellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik,“ welche so viele Autoren ersehnen, ohne uns nebenbei mitzutheilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Accords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Roth, jener Grün, oder dieser Hoffnung, jener Mißmuth, sondern nur durch Subsumirung der specifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Princip. Wären dergestalt die einzelnen Factoren in ihrer Isolirung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Combinationen bestimmen und modificiren. Der Harmonie und der contrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Composition eingeräumt. Nur ging man in dieser Vindication viel zu oberflächlich und atomistisch zu Werke. Man setzte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls (– bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob –), im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehaltes aufgeführt, als erlernbar und Product des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolirung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themaʼs entspringen zugleich in Einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegensatzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovenʼs Coriolan- und Mendelssohnʼs Hebriden-Ouvertüre, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossiniʼs Thema „o Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder complicirte Accordenfolgen an die Stellen des nothdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein Aller zu, und die Verstümmlung Eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie, oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Accorden, dort alle Trivialität in deren Mangel zu finden, ist baare Schulmeisterei. Die Camelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – das läßt sich nicht übertragen, und ist doch jede von ihnen schön!</cell>
                <cell xml:id="v3">Die Erforschung der Natur jedes einzelnen musikalischen Elementes, seines Zusammenhanges mit einem bestimmten Eindruck – nur der Thatsache, nicht des letzten Grundes –, endlich die Zurückführung dieser speciellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik,“ welche so viele Autoren ersehnen, ohne uns nebenbei mitzutheilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Accords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Roth, jener Grün, oder dieser Hoffnung, jener Mißmuth, sondern nur durch Subsumirung der specifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Princip. Wären dergestalt die einzelnen Factoren in ihrer Isolirung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Combinationen bestimmen und modificiren. Der Harmonie und der contrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Composition eingeräumt. Nur ging man in dieser Vindication viel zu oberflächlich und atomistisch zu Werke. Man bestimmte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls – bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob –; im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehalts aufgeführt, als erlernbar und Product des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolirung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themas entspringen zugleich in Einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegensatzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovenʼs Coriolan- und Mendelssohnʼs Hebriden-Ouvertüre, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossiniʼs Thema „o Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder complicirte Accordenfolgen an die Stellen des nothdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein Aller zu, und die Verstümmlung Eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie, oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Accorden, dort alle Trivialität in deren Mangel zu finden, ist baare Schulmeisterei. Die Camelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – da läßt sich nichts übertragen, und ist doch jede von ihnen schön!</cell>
                <cell xml:id="v4">Die Erforschung der Natur jedes einzelnen musikalischen Elementes, seines Zusammenhanges mit einem bestimmten Eindruck – nur der Thatsache, nicht des letzten Grundes –, endlich die Zurückführung dieser speciellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik“, welche so viele Autoren ersehnen, ohne uns nebenbei mitzutheilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Accords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Roth, jener Grün, oder dieser Hoffnung, jener Mißmuth, sondern nur durch Subsumirung der specifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Princip. Wären dergestalt die einzelnen Factoren in ihrer Isolirung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Combinationen bestimmen und modificiren. Der Harmonie und der contrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Composition eingeräumt. Nur ging man in dieser Vindication viel zu oberflächlich und atomistisch zu Werke. Man bestimmte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls – bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob –; im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehalts aufgeführt, als erlernbar und Product des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolirung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themas entspringen zugleich in einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegensatzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovenʼs Coriolan- und Mendelssohnʼs Hebriden-Ouvertüre, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossiniʼs Thema „o Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder complicirte Accordenfolgen an die Stellen des nothdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein Aller zu, und die Verstümmlung eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie, oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Accorden, dort alle Trivialität in deren Mangel zu finden, ist baare Schulmeisterei. Die Camelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – da läßt sich nichts übertragen, und ist doch jede von ihnen schön!</cell>
-               <cell xml:id="v5">Die Erforschung der Natur jedes einzelnen musikalischen Elements, seines Zusammenhanges mit einem bestimmten Eindruck – nur der Thatsache, nicht des letzten Grundes – endlich die Zurückführung dieser speciellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik,“ welche so viele Autoren ersehnen, ohne uns nebenbei mitzutheilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Accords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Roth, jener Grün, oder dieser Hoffnung, jener Mißmuth, sondern nur durch Subsumirung der specifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Princip. Wären dergestalt die einzelnen Factoren in ihrer Isolirung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Combinationen bestimmen und modificiren. Der Harmonie und der contrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Composition eingeräumt. Nur ging man in dieser Vindication viel zu oberflächlich und atomistisch zu Werke. Man bestimmte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls – bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob; im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehalts aufgeführt, als erlernbar und Product des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolirung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themas entspringen zugleich in einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegen satzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovenʼs Coriolan- und Mendelssohnʼs Hebriden-Ouvertüre, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossiniʼs Thema „o, Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder complicirte Accordenfolgen an die Stellen des nothdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein Aller zu, und die Verstümmlung eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Accorden, dort alle Trivialität in deren Mangel zu finden, ist baare Schulmeisterei. Die Camelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – da läßt sich nichts übertragen, und ist doch jede von ihnen schön!</cell>
-               <cell xml:id="v6">Die Erforschung der Natur jedes einzelnen musikalischen Elementes, seines Zusammenhanges mit einem bestimmten Eindruck, – nur der Thatsache, nicht des letzten Grundes, – endlich die Zurückführung dieser speciellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik“, welche so viele Autoren ersehnen, ohne uns nebenbei mitzutheilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Accords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Roth, jener Grün, oder dieser Hoffnung, jener Mißmuth, sondern nur durch Subsumirung der specifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Princip. Wären dergestalt die einzelnen Factoren in ihrer Isolirung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Combinationen bestimmen und modificiren. Der Harmonie und der contrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Composition eingeräumt. Nur ging man in dieser Vindication viel zu oberflächlich und atomistisch zu Werke. Man bestimmte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls – bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob; im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehalts aufgeführt, als erlernbar und Product des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolirung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themas entspringen zugleich in einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegen satzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovenʼs Coriolan- und Mendelssohnʼs Hebriden-Ouverture, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossiniʼs Thema „O, Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder complicirte Accordenfolgen an die Stellen des nothdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein Aller zu, und die Verstümmlung eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Accorden, dort alle Trivialität in deren Mangel zu finden, ist baare Schulmeisterei. Die Camelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – da läßt sich nichts übertragen, und ist doch jede von ihnen schön!</cell>
+               <cell xml:id="v5">Die Erforschung der Natur jedes einzelnen musikalischen Elements, seines Zusammenhanges mit einem bestimmten Eindruck – nur der Thatsache, nicht des letzten Grundes – endlich die Zurückführung dieser speciellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik,“ welche so viele Autoren ersehnen, ohne uns nebenbei mitzutheilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Accords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Roth, jener Grün, oder dieser Hoffnung, jener Mißmuth, sondern nur durch Subsumirung der specifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Princip. Wären dergestalt die einzelnen Factoren in ihrer Isolirung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Combinationen bestimmen und modificiren. Der Harmonie und der contrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Composition eingeräumt. Nur ging man in dieser Vindication viel zu oberflächlich und atomistisch zu Werke. Man bestimmte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls – bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob; im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehalts aufgeführt, als erlernbar und Product des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolirung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themas entspringen zugleich in einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegensatzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovenʼs Coriolan- und Mendelssohnʼs Hebriden-Ouvertüre, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossiniʼs Thema „o, Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder complicirte Accordenfolgen an die Stellen des nothdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein Aller zu, und die Verstümmlung eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Accorden, dort alle Trivialität in deren Mangel zu finden, ist baare Schulmeisterei. Die Camelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – da läßt sich nichts übertragen, und ist doch jede von ihnen schön!</cell>
+               <cell xml:id="v6">Die Erforschung der Natur jedes einzelnen musikalischen Elementes, seines Zusammenhanges mit einem bestimmten Eindruck, – nur der Thatsache, nicht des letzten Grundes, – endlich die Zurückführung dieser speciellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik“, welche so viele Autoren ersehnen, ohne uns nebenbei mitzutheilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Accords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Roth, jener Grün, oder dieser Hoffnung, jener Mißmuth, sondern nur durch Subsumirung der specifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Princip. Wären dergestalt die einzelnen Factoren in ihrer Isolirung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Combinationen bestimmen und modificiren. Der Harmonie und der contrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Composition eingeräumt. Nur ging man in dieser Vindication viel zu oberflächlich und atomistisch zu Werke. Man bestimmte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls – bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob; im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehalts aufgeführt, als erlernbar und Product des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolirung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themas entspringen zugleich in einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegensatzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovenʼs Coriolan- und Mendelssohnʼs Hebriden-Ouverture, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossiniʼs Thema „O, Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder complicirte Accordenfolgen an die Stellen des nothdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein Aller zu, und die Verstümmlung eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Accorden, dort alle Trivialität in deren Mangel zu finden, ist baare Schulmeisterei. Die Camelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – da läßt sich nichts übertragen, und ist doch jede von ihnen schön!</cell>
                <cell xml:id="v7">Die Erforschung der Natur jedes einzelnen musikalischen Elementes, seines Zusammenhanges mit einem bestimmten Eindruck, – nur der Thatsache, nicht des letzten Grundes, – endlich die Zurückführung dieser speziellen Beobachtungen auf allgemeine Gesetze: das wäre jene „philosophische Begründung der Musik“, welche so viele Autoren ersehnen, ohne uns nebenbei mitzuteilen, was sie darunter eigentlich verstehen. Die psychische und physische Einwirkung jedes Akkords, jedes Rhythmus, jedes Intervalls wird aber nimmermehr erklärt, indem man sagt: dieser ist Rot, jener Grün, oder dieser Hoffnung, jener Mißmut, sondern nur durch Subsumierung der spezifisch musikalischen Eigenschaften unter allgemeine ästhetische Kategorien und dieser unter Ein oberstes Prinzip. Wären dergestalt die einzelnen Faktoren in ihrer Isolierung erklärt, so müßte weiter gezeigt werden, wie sie einander in den verschiedensten Kombinationen bestimmen und modifizieren. Der Harmonie und der kontrapunktischen Begleitung haben die meisten Tongelehrten eine vorzügliche Stellung zu dem geistigen Gehalt der Komposition eingeräumt. Nur ging man in dieser Vindikation viel zu oberflächlich und atomistisch zu Werke. Man bestimmte die Melodie als Eingebung des Genies, als Trägerin der Sinnlichkeit und des Gefühls – bei dieser Gelegenheit erhielten die Italiener ein gnädiges Lob; im Gegensatz zur Melodie wurde die Harmonie als Trägerin des gediegenen Gehalts aufgeführt, als erlernbar und Produkt des Nachdenkens. Es ist seltsam, wie lange man sich mit einer so dürftigen Anschauungsweise zufrieden stellen konnte. Beiden Behauptungen liegt ein Richtiges zu Grunde, doch gelten sie weder in dieser Allgemeinheit, noch kommen sie in solcher Isolierung vor. Der Geist ist Eins und die musikalische Erfindung eines Künstlers gleichfalls. Melodie und Harmonie eines Themas entspringen zugleich in einer Rüstung aus dem Haupt des Tondichters. Weder das Gesetz der Unterordnung noch des Gegensatzes trifft das Wesen des Verhältnisses der Harmonie zur Melodie. Beide können hier gleichzeitige Entfaltungskraft ausüben, dort sich einander freiwillig unterordnen, – in dem einen wie dem andern Fall kann die höchste geistige Schönheit erreicht werden. Istʼs etwa die (ganz fehlende) Harmonie in den Hauptmotiven zu Beethovens Coriolan- und Mendelssohns Hebriden-Ouverture, was ihnen den Ausdruck gedankenreichen Tiefsinns verleiht? Wird man Rossinis Thema „O, Mathilde“ oder ein neapolitanisches Volkslied mit mehr Geist erfüllen, wenn man einen basso continuo, oder komplizierte Akkordenfolgen an die Stellen des notdürftigen Harmoniegeländes setzt? Diese Melodie mußte mit dieser Harmonie zugleich erdacht werden, mit diesem Rhythmus und dieser Klanggattung. Der geistige Gehalt kommt nur dem Verein aller zu, und die Verstümmlung eines Gliedes verletzt den Ausdruck auch der übrigen. Das Vorherrschen der Melodie oder der Harmonie oder des Rhythmus kommt dem Ganzen zu Gute, und hier allen Geist in den Akkorden, dort alle Trivialität in deren Mangel zu finden, ist bare Schulmeisterei. Die Kamelie kommt duftlos zu Tage, die Lilie farblos, die Rose prangt für beide Sinne – da läßt sich nichts übertragen, und ist doch jede von ihnen schön!</cell>
             </row>
          </table>

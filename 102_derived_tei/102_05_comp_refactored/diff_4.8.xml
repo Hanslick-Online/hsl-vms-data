@@ -19,8 +19,7 @@
             <item>
                <list type="selectPar">
                   <head>Paragraph auswählen</head>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
+                  <item>V2.1 &amp; V2.2</item>
                   <item>V2.3</item>
                   <item>V2.4</item>
                   <item>V2.5</item>
@@ -32,6 +31,7 @@
                   <item>1.4</item>
                   <item>1.5</item>
                   <item>1.6</item>
+                  <item>1.7</item>
                   <item>1.8</item>
                   <item>1.9</item>
                   <item>1.10</item>
@@ -48,10 +48,13 @@
                   <item>1.21</item>
                   <item>1.22</item>
                   <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
                   <item>1.27</item>
+                  <item>1.28</item>
                   <item>1.29</item>
                   <item>1.30</item>
-                  <item>1.30.1</item>
                   <item>1.31</item>
                   <item>2.1</item>
                   <item>2.2</item>
@@ -74,7 +77,8 @@
                   <item>2.18</item>
                   <item>2.19</item>
                   <item>2.20</item>
-                  <item>2.21 &amp; 2.22</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.23</item>
                   <item>2.24</item>
                   <item>2.25</item>
@@ -97,7 +101,6 @@
                   <item>2.42</item>
                   <item>2.43</item>
                   <item>2.44</item>
-                  <item>2.44.1</item>
                   <item>2.45</item>
                   <item>2.46</item>
                   <item>2.47</item>
@@ -145,7 +148,8 @@
                   <item>3.44</item>
                   <item>3.45</item>
                   <item>3.46</item>
-                  <item>4.1 &amp; 4.2</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
                   <item>4.3</item>
                   <item>4.4</item>
                   <item>4.5</item>
@@ -271,24 +275,24 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.30.1</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.44.1</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>4.1 &amp; 4.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
                   <item>V1.4</item>
                   <item>V1.5</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
-                  <item>4.1</item>
-                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -298,12 +302,8 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.7</item>
-                  <item>4.2</item>
-                  <item>1.4 &amp; 1.5</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
-                  <item>V2.1 &amp; V2.2</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
                </list>
             </item>
          </list>
@@ -312,66 +312,66 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e3110a1048964">VMS 1</ref>
+                     <ref target="t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html#d1e3110a1048964">VMS 1</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e3263a1048964">VMS 2</ref>
+                     <ref target="t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html#d1e3263a1048964">VMS 2</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e3652a1048964">VMS 3</ref>
-                     <ref type="nextLink" target="diff_4.9.html">4.9</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e3604a1048964">VMS 4</ref>
+                     <ref target="t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html#d1e3652a1048964">VMS 3</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e3520a1048964">VMS 5</ref>
+                     <ref target="t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html#d1e3604a1048964">VMS 4</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e4110a1048964">VMS 6</ref>
+                     <ref target="t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html#d1e3520a1048964">VMS 5</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e4036a1048964">VMS 7</ref>
+                     <ref target="t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html#d1e4110a1048964">VMS 6</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e4070a1048964">VMS 8</ref>
+                     <ref target="t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html#d1e4036a1048964">VMS 7</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e4081a1048964">VMS 9</ref>
+                     <ref target="t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.html#d1e4070a1048964">VMS 8</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.7.html">4.7</ref>
-                     <ref target="hanslick-vms#d1e4043a1048964">VMS 10</ref>
+                     <ref target="t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.html#d1e4081a1048964">VMS 9</ref>
+                     <ref type="nextLink" target="diff_4.9.html">4.9</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.7.html">4.7</ref>
+                     <ref target="t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.html#d1e4043a1048964">VMS 10</ref>
                      <ref type="nextLink" target="diff_4.9.html">4.9</ref>
                   </seg>
                </cell>
@@ -380,8 +380,8 @@
                <cell xml:id="v1">Wir haben die Thätigkeit des Componirens als ein Bilden aufgefaßt; als solches ist sie wesentlich objectiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjectivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge der Componisten: Sentimentalität, Energie, Nettigkeit, sich durch die consequente Bevorzugung gewisser Tonarten, Rhythmen, Uebergänge recht wohl nach den allgemeinen Momenten abdrücken, welche die Musik wiederzugeben fähig ist. Was der gefühlvolle und was der geistreiche Componist bringt, der graziöse oder der erhabene, ist zuerst und vor Allem Musik (objectives Gebilde). Principiell untergeordnet bleibt das subjective Moment immer, nur wird es nach Verschiedenheit der Individualität in ein verschiedenes Größenverhältniß zu dem objectiven treten. Man vergleiche vorwiegend subjective Naturen, denen es um Aussprache ihrer gewaltigen oder sentimentalen Innerlichkeit zu thun ist (Beethoven, Spohr), im Gegensatz zu klar Formenden (Mozart, Mendelssohn). Ihre Werke werden sich von einander durch unverkennbare Eigenthümlichkeiten unterscheiden, und als Gesammtbild die Individualität ihrer Schöpfer abspiegeln, doch wurden sie alle, die einen wie die andern, als selbstständiges Schöne, rein musikalisch um ihretwillen erschaffen, und erst innerhalb der Grenzen dieses künstlerischen Bildens mehr oder weniger subjectiv ausgestattet. Ins Extrem gesteigert, läßt sich daher wohl eine Musik denken, welche blos Musik, aber keine, die blos Gefühl wäre.</cell>
                <cell xml:id="v2">Wir haben die Thätigkeit des Componirens als ein Bilden aufgefaßt; als solches ist sie wesentlich objectiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjectivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Componisten: Sentimentalität, Energie, Nettigkeit, sich durch die consequente Bevorzugung gewisser Tonarten, Rhythmen, Uebergänge recht wohl nach den allgemeinen Momenten abdrücken, welche die Musik wiederzugeben fähig ist. Was der gefühlvolle und was der geistreiche Componist bringt, der graziöse oder der erhabene, ist zuerst und vor Allem Musik, objectives Gebilde. Principiell untergeordnet bleibt das subjective Moment immer, nur wird es nach Verschiedenheit der Individualität in ein verschiedenes Größenverhältniß zu dem objectiven treten. Man vergleiche vorwiegend subjective Naturen, denen es um Aussprache ihrer gewaltigen oder sentimentalen Innerlichkeit zu thun ist (Beethoven, Spohr), im Gegensatz zu klar Formenden (Mozart, Mendelssohn). Ihre Werke werden sich von einander durch unverkennbare Eigenthümlichkeiten unterscheiden und als Gesammtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbstständiges Schöne rein musikalisch um ihretwillen erschaffen, und erst innerhalb der Grenzen dieses künstlerischen Bildens mehr oder weniger subjectiv ausgestattet. Ins Extrem gesteigert, läßt sich daher wohl eine Musik denken, welche blos Musik, aber keine, die blos Gefühl wäre.</cell>
                <cell xml:id="v3">Wir haben die Thätigkeit des Componirens als ein Bilden aufgefaßt; als solches ist sie wesentlich objectiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjectivität des ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Componisten: Sentimentalität, Energie, Nettigkeit, sich durch die consequente Bevorzugung gewisser Tonarten, Rhythmen, Uebergänge recht wohl nach den allgemeinen Momenten abdrücken, welche die Musik wiederzugeben fähig ist. Was der gefühlvolle und was der geistreiche Componist bringt, der graziöse oder der erhabene, ist zuerst und vor Allem Musik, objectives Gebilde. Principiell untergeordnet bleibt das subjective Moment immer, nur wird es nach Verschiedenheit der Individualität in ein verschiedenes Größenverhältniß zu dem objectiven treten. Man vergleiche vorwiegend subjective Naturen, denen es um Aussprache ihrer gewaltigen oder sentimentalen Innerlichkeit zu thun ist (Beethoven, Spohr), im Gegensatz zu klar Formenden (Mozart, Mendelssohn). Ihre Werke werden sich von einander durch unverkennbare Eigenthümlichkeiten unterscheiden und als Gesammtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbstständiges Schöne rein musikalisch um ihretwillen erschaffen, und erst innerhalb der Grenzen dieses künstlerischen Bildens mehr oder weniger subjectiv ausgestattet. Ins Extrem gesteigert, läßt sich daher wohl eine Musik denken, welche blos Musik, aber keine, die blos Gefühl wäre.</cell>
-               <cell xml:id="v4">Wir haben die Thätigkeit des Componirens als ein Bilden aufgefaßt; als solches ist sie durchaus objectiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjectivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Componisten: Sentimentalität, Energie, Heiterkeit u. s. w. sich durch die consequente Bevorzugung gewisser Tonarten, Rhythmen, Uebergänge recht wohl nach den allgemeinen Momenten abdrücken, welche die Musik wiederzu geben fähig ist. Einmal vom Kunstwerk aufgesogen, interessieren aber diese Charakterzüge nurmehr als musikalische Bestimmtheiten, als Charakter der Composition, nicht des Componisten. Was der gefühlvolle und was der geistreiche Componist bringt, der graziöse oder der erhabene, ist zuerst und vor Allem Musik, objectives Gebilde. Ihre Werke werden sich von einander durch unverkennbare Eigenthümlichkeiten unterscheiden und als Gesammtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbstständiges Schöne rein musikalisch um ihretwillen erschaffen.</cell>
-               <cell xml:id="v5">Wir haben die Thätigkeit des Componirens als ein Bilden aufgefaßt; als solches ist sie durchaus objectiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjectivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Componisten: Sentimentalität, Energie, Heiterkeit u. s. w. sich durch die consequente Bevorzugung gewisser Tonarten, Rhythmen, Uebergänge recht wohl nach den allgemeinen Momenten abdrücken, welche die Musik wiederzugeben fähig ist. Einmal vom Kunstwerk aufgesogen, interessiren aber diese Charakterzüge nur mehr als musikalische Bestimmtheiten, als Charakter der Composition, nicht des Componisten. Was der gefühlvolle und was der geistreiche Componist bringt, der graziöse oder der erhabene, ist zuerst und vor Allem Musik, objectives Gebilde. Ihre Werke werden sich von einander durch unverkennbare Eigenthümlichkeiten unterscheiden und als Gesammtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbstständiges Schöne rein musikalisch um ihretwillen erschaffen.</cell>
+               <cell xml:id="v4">Wir haben die Thätigkeit des Componirens als ein Bilden aufgefaßt; als solches ist sie durchaus objectiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjectivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Componisten: Sentimentalität, Energie, Heiterkeit u. s. w. sich durch die consequente Bevorzugung gewisser Tonarten, Rhythmen, Uebergänge recht wohl nach den allgemeinen Momenten abdrücken, welche die Musik wiederzugeben fähig ist. Einmal vom Kunstwerk aufgesogen, interessieren aber diese Charakterzüge nurmehr als musikalische Bestimmtheiten, als Charakter der Composition, nicht des Componisten. Was der gefühlvolle und was der geistreiche Componist bringt, der graziöse oder der erhabene, ist zuerst und vor Allem Musik, objectives Gebilde. Ihre Werke werden sich von einander durch unverkennbare Eigenthümlichkeiten unterscheiden und als Gesammtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbstständiges Schöne rein musikalisch um ihretwillen erschaffen.</cell>
+               <cell xml:id="v5">Wir haben die Thätigkeit des Componirens als ein Bilden aufgefaßt; als solches ist sie durchaus objectiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjectivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Componisten: Sentimentalität, Energie, Heiterkeit u. s. w. sich durch die consequente Bevorzugung gewisser Tonarten, Rhythmen, Uebergänge recht wohl nach den allgemeinen Momenten abdrücken, welche die Musik wiederzugeben fähig ist. Einmal vom Kunstwerk aufgesogen, interessiren aber diese Charakterzüge nurmehr als musikalische Bestimmtheiten, als Charakter der Composition, nicht des Componisten. Was der gefühlvolle und was der geistreiche Componist bringt, der graziöse oder der erhabene, ist zuerst und vor Allem Musik, objectives Gebilde. Ihre Werke werden sich von einander durch unverkennbare Eigenthümlichkeiten unterscheiden und als Gesammtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbstständiges Schöne rein musikalisch um ihretwillen erschaffen.</cell>
                <cell xml:id="v6">Wir haben die Thätigkeit des Komponierens als ein Bilden aufgefaßt; als solches ist sie durchaus objektiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjektivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Komponisten: Sentimentalität, Energie, Heiterkeit u. s. w. sich durch die konsequente Bevorzugung gewisser Tonarten, Rhythmen, Übergänge recht wohl nach den allgemeinen Momenten ausdrücken, welche die Musik wiederzugeben fähig ist. Einmal vom Kunstwerk aufgesogen, interessieren aber diese Charakterzüge nurmehr als musikalische Bestimmtheiten, als Charakter der Komposition, nicht des Komponisten. Was der gefühlvolle und was der geistreiche Komponist bringt, der graziöse oder der erhabene, ist zuerst und vor allem Musik, objektives Gebilde. Ihre Werke werden sich voneinander durch unverkennbare Eigentümlichkeiten unterscheiden und als Gesamtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbständiges Schöne rein musikalisch um ihretwillen erschaffen.</cell>
                <cell xml:id="v7">Wir haben die Thätigkeit des Komponierens als ein Bilden aufgefaßt; als solches ist sie durchaus objektiv. Der Tonsetzer formt ein selbstständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjektivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Komponisten: Sentimentalität, Energie, Heiterkeit u. s. w. sich durch die konsequente Bevorzugung gewisser Tonarten, Rhythmen, Übergänge recht wohl nach den allgemeinen Momenten ausdrücken, welche die Musik wiederzugeben fähig ist. Einmal vom Kunstwerk aufgesogen, interessieren aber diese Charakterzüge nunmehr als musikalische Bestimmtheiten, als Charakter der Komposition, nicht des Komponisten. Was der gefühlvolle und was der geistreiche Komponist bringt, der graziöse oder der erhabene, ist zuerst und vor allem Musik, objektives Gebilde. Ihre Werke werden sich voneinander durch unverkennbare Eigentümlichkeiten unterscheiden und als Gesamtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbständiges Schöne rein musikalisch um ihretwillen erschaffen.</cell>
                <cell xml:id="v8">Wir haben die Thätigkeit des Komponierens als ein Bilden aufgefaßt; als solches ist sie durchaus objektiv. Der Tonsetzer formt ein selbständiges Schöne. Der unendlich ausdrucksfähige, geistige Stoff der Töne läßt es zu, daß die Subjektivität des in ihnen Bildenden sich in der Art seines Formens auspräge. Da schon den einzelnen musikalischen Elementen ein charakteristischer Ausdruck eignet, so werden vorherrschende Charakterzüge des Komponisten: Sentimentalität, Energie, Heiterkeit u. s. w. sich durch die konsequente Bevorzugung gewisser Tonarten, Rhythmen, Übergänge recht wohl nach den allgemeinen Momenten ausdrücken, welche die Musik wiederzugeben fähig ist. Einmal vom Kunstwerk aufgesogen, interessieren aber diese Charakterzüge nunmehr als musikalische Bestimmtheiten, als Charakter der Komposition, nicht des Komponisten. Was der gefühlvolle und was der geistreiche Komponist bringt, der graziöse oder der erhabene, ist zuerst und vor allem Musik, objektives Gebilde. Ihre Werke werden sich voneinander durch unverkennbare Eigentümlichkeiten unterscheiden und als Gesamtbild die Individualität ihrer Schöpfer abspiegeln; doch wurden sie alle, die einen wie die andern, als selbständiges Schöne rein musikalisch um ihretwillen erschaffen.</cell>
