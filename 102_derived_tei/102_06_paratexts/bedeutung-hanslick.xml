@@ -224,20 +224,18 @@
                <head>Eduard Hanslicks Schriften</head>
                <div type="block">
                   <list type="bibl">
-                     <item>„Ueber den subjektiven Eindruck der Musik und seine Stellung in der Aesthetik“, in: <emph>Oesterreichische Blätter für Literatur und Kunst</emph> <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18530725&amp;seite=5&amp;zoom=33">30 (1853), 177–178;</ref> <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18530801&amp;seite=7&amp;zoom=33">31 (1853), 181–182</ref>; <ref target="https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18530815&amp;seite=3&amp;zoom=33">33 (1853), 193–195</ref>.</item>
-                     <item><ref target="https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=18540313&amp;seite=6&amp;zoom=33">„Die Tonkunst in ihren Beziehungen zur Natur“</ref>, in: <emph>Oesterreichische Blätter für Literatur und Kunst</emph> 11 (1854), 78–80.</item>
-                     <item><emph><ref target="https://hanslick.acdh.oeaw.ac.at/t__01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der
-                              Tonkunst</ref></emph>, Leipzig: Rudolph Weigel, 1854. Weitere
-                        Auflagen: <list>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">2. Auflage</ref>, Leipzig: Rudolph Weigel, 1858.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">3. Auflage</ref>, Leipzig: Rudolph Weigel, 1865.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html">4. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1874.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html">5. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1876.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html">6. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1881.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html">7. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1885.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__08_VMS_1891_TEI_AW_26-01-21-TEI-P5.html">8. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1891.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__09_VMS_1896_TEI_AW_26-01-21-TEI-P5.html">9. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1896.</item>
-                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__10_VMS_1902_TEI_AW_26-01-21-TEI-P5.html">10. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1902.</item>
+                     <item>„Ueber den subjektiven Eindruck der Musik und seine Stellung in der Aesthetik“, in: <emph>Oesterreichische Blätter für Literatur und Kunst</emph> <ref target="https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_1.html">30 (1853), 177–178</ref>; <ref target="https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_2.html">31 (1853), 181–182</ref>; <ref target="https://hanslick.acdh.oeaw.ac.at/d__Hanslick_UeberdensubjektivenEindruckderMusik_3.html">33 (1853), 193–195</ref>.</item>
+                     <item><ref target="https://hanslick.acdh.oeaw.ac.at/d__Hanslick_DieTonkunstinihrenBeziehungenzurNatur_1.html">„Die Tonkunst in ihren Beziehungen zur Natur“</ref>, in: <emph>Oesterreichische Blätter für Literatur und Kunst</emph> 11 (1854), 78–80.</item>
+                     <item><emph><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_01_1854.html">Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</ref></emph>, Leipzig: Rudolph Weigel, 1854. Weitere Auflagen: <list>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_02_1858.html">2. Auflage</ref>, Leipzig: Rudolph Weigel, 1858.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_03_1865.html">3. Auflage</ref>, Leipzig: Rudolph Weigel, 1865.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_04_1874.html">4. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1874.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_05_1876.html">5. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1876.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_06_1881.html">6. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1881.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_07_1885.html">7. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1885.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_08_1891.html">8. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1891.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_09_1896.html">9. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1896.</item>
+                           <item><ref target="https://hanslick.acdh.oeaw.ac.at/t__VMS_Auflage_10_1902.html">10. Auflage</ref>, Leipzig: Johann Ambrosius Barth, 1902.</item>
                         </list></item>
                      <item><emph><ref target="https://www.digitale-sammlungen.de/de/view/bsb10598665?page=4,5">Geschichte des Concertwesens in Wien</ref></emph>, Wien: Wilhelm Braumüller, 1869.</item>
                      <item><emph><ref target="https://www.digitale-sammlungen.de/de/view/bsb11727302?page=,1">Geschichte des Concertwesens in Wien</ref></emph>, Band 2, <emph>Aus dem Concertsaal. Kritiken und Schilderungen aus den letzten 20 Jahren des Wiener Musiklebens nebst einem Anhang, Musikalische Reisebriefe aus England, Frankreich und der Schweiz</emph>, Wien: Wilhelm Braumüller, 1870.</item>
@@ -245,9 +243,7 @@
                      <item><emph><ref target="https://www.digitale-sammlungen.de/de/view/bsb11727297?page=8,9">Musikalische Stationen. Neue Folge der „Modernen Oper“</ref></emph>, Berlin: A. Hofmann, 1880.</item>
                      <item><emph><ref target="https://www.digitale-sammlungen.de/de/view/bsb11556958?page=8,9">Aus dem Opernleben der Gegenwart. Der „Modernen Oper“ III. Theil. Neue Kritiken und Studien</ref></emph>, Berlin: A. Hofmann, 1884.</item>
                      <item><emph><ref target="https://www.digitale-sammlungen.de/de/view/bsb11556962?page=8,9">Suite. Aufsätze über Musik und Musiker</ref></emph>, Wien: Franz Prochaska, 1884.</item>
-                     <item><emph><ref target="https://www.digitale-sammlungen.de/de/view/bsb11556956?page=8,9">Concerte, Componisten und Virtuosen der letzten fünfzehn Jahre,
-                              1870–1885. Kritiken</ref></emph>, Berlin: Allgemeiner Verein für
-                        deutsche Literatur, 1886.</item>
+                     <item><emph><ref target="https://www.digitale-sammlungen.de/de/view/bsb11556956?page=8,9">Concerte, Componisten und Virtuosen der letzten fünfzehn Jahre, 1870–1885. Kritiken</ref></emph>, Berlin: Allgemeiner Verein für deutsche Literatur, 1886.</item>
                      <item><ref target="https://austria-forum.org/web-books/kpwde01de1886onb/00000138">„Die Musik in Wien“</ref>, in: <emph>Die österreichisch-ungarische Monarchie in Wort und Bild</emph>, Band 1, <emph>Wien und Niederösterreich</emph>, hg. von Kronprinz Erzherzog Rudolf, Wien: Druck und Verlag der k. u. k. Hof- und Staatsdruckerei, 1886, 123–138.</item>
                      <item><emph><ref target="https://archive.org/details/musikalischessk00hansgoog/page/n8/mode/2up">Musikalisches Skizzenbuch. Der „Modernen Oper“ IV. Theil. Neue Kritiken und Schilderungen</ref></emph>, Berlin: Allgemeiner Verein für deutsche Litteratur, 1888.</item>
                      <item><ref target="https://www.digitale-sammlungen.de/de/view/bsb11472059?q=%28eduard+hanslick+Wien+1848%E2%80%931888%29&amp;page=312,313">„Musik“</ref>, in: <emph>Wien 1848–1888. Denkschrift zum 2. December 1888</emph>, hg. vom Gemeinderathe der Stadt Wien, Wien: Carl Konegen, 1888, Band 2, 301–342.</item>
@@ -264,70 +260,37 @@
                   <head>Übersetzungen von <emph>Vom Musikalisch-Schönen</emph></head>
                   <div type="block">
                      <list type="bibl">
-                        <item>Albanisch: <emph>Për të bukurën muzikore</emph>, übers. von Bekim
-                           Ramadani, Tetovo: Universiteti Shtetëror i Tetovës, Fakulteti i muzikës,
-                           2014.</item>
-                        <item>Bengalisch: <emph>Saṃgīte sundara</emph>, übers. von [unbekannt],
-                           Kalkutta: Jijnāsā, 1969.</item>
-                        <item>Bulgarisch: <emph>Za muzikalno krasivoto</emph>, übers. von Maria
-                           Kaitazov, Sofia: LIK, 1998.</item>
-                        <item>Chinesisch: <emph>Lun yin le de mei</emph>, übers. von Yang Ye Zhi,
-                           Peking: Ren min yin le chu ban she, 1980.</item>
-                        <item>Englisch: <emph>The Beautiful in Music</emph>, übers. von Gustav
-                           Cohen, London: Novello and Company, 1891.</item>
-                        <item>Englisch: <emph>On the Musically Beautiful</emph>, übers. von Geoffrey
-                           Payzant, Indianapolis: Hackett Publishing, 1986.</item>
-                        <item>Englisch: <emph>Eduard Hanslick’s ‘On the Musically Beautiful’</emph>,
-                           übers. von Lee Rothfarb and Christoph Landerer, Oxford: Oxford University
-                           Press, 2018.</item>
-                        <item>Finnisch: <emph>Musiikille ominaisesta kauneudesta</emph>, übers. von
-                           Ilkka Oramo, Tampere: Niin &amp; Näin, 2014.</item>
-                        <item>Französisch: <emph>Du beau dans la musique</emph>, übers. von Charles
-                           Bannelier, Paris: Brandus, 1877.</item>
-                        <item>Französisch: <emph>Du beau dans la musique</emph>, übers. von
-                           Jean-Jacques Nattiez, Paris: Bourgois, 1986.</item>
-                        <item>Französisch: <emph>Du beau musical</emph>, übers. von Alexandre
-                           Lissner, Paris: Hermann, 2012.</item>
-                        <item>Italienisch: <emph>Del bello nella musica</emph>, übers. von Luigi
-                           Torchi, Mailand: Ricordi, 1883.</item>
-                        <item>Italienisch: <hi rend="italic">Il bello musicale</hi>, übers. von
-                           Mariangela Dona, Mailand: Minuziano, 1945.</item>
-                        <item>Italienisch: <hi rend="italic">Il bello musicale</hi>, übers. von
-                           Leonardo Distaso, Palermo: Aesthetica, 2001.</item>
-                        <item>Japanisch: <emph>Hansurikku no ongaku biron</emph>, übers. von Hirosada Tamura,
-                           Tokio: Iwanami Shoten, 1924.</item>
-                        <item>Japanisch: <emph>Ongaku biron</emph>, übers. von Mamoru Watanabe,
-                           Tokio: Iwanami Shoten, 1960.</item>
-                        <item>Katalanisch: <emph>Sobre la bellesa musical</emph>, übers. von Ariadna
-                           Soler i Subils und Oriol Ponsatí-Murlà, Girona: Accent, 2010.</item>
-                        <item>Mazedonisch: <emph>Za muzički ubavoto</emph>, übers. von Sašo
-                           Milenkoski, Skopje: Kulturno-Informativen Centar, 2009.</item>
-                        <item>Norwegisch: <emph>Om Det Skjønne i Musikken</emph>, übers. von Karl
-                           Bjørset, Bergen: Huuns Forlag, 1885.</item>
-                        <item>Niederländisch: <emph>Over het begrip van schoon in de muziek</emph>,
-                           übers. von Daniel Kiehl, Den Haag: D. N. F. Kiehl, 1892.</item>
-                        <item>Polnisch: <emph>O pięknie w muzyce</emph>, übers. von Stanisław
-                           Niewiadomski, Warschau: Arct, 1903.</item>
-                        <item>Polnisch: <emph>O pie̢knie muzycznym</emph>, übers. von Joanna Giel,
-                           Breslau: Wydawnictwo Uniwersytetu Wrocławskiego, 2017.</item>
-                        <item>Portugiesisch: <emph>Do belo musical</emph>, übers. von Simone Neto, Campinas:
-                           Editora da Unicamp, 1992. </item>
-                        <item>Portugiesisch: <emph>Do belo musical</emph>, übers. von Artur Morão,
-                           Covilhã: Universidade da Beira Interior, 2011.</item>
-                        <item>Russisch: <emph>O muzykalʹno-prekrasnom</emph>, übers. von G. A. Laroche, Moskau:
-                           Jurgensona, 1895.</item>
-                        <item>Schwedisch: <emph>Om det sköna i musiken</emph>, übers. von Britta
-                           Collinder, Uppsala: Almqvist &amp; Wiksells, 1955.</item>
-                        <item>Serbisch: <emph>O muzički lijepom</emph>, übers. von Ivan Foht,
-                           Belgrad: Beogradski Izdavačko-Grafički Zavod, 1977.</item>
-                        <item>Spanisch: <emph>De la belleza en la música</emph>, übers. von Elisa de
-                           Luxán de García Dana, Madrid: Casa Editorial de Medina, 1865.</item>
-                        <item>Spanisch: <emph>De lo bello en la música</emph>, übers. von Alfredo
-                           Cahn, Buenos Aires: Ricordi, 1947.</item>
-                        <item>Tschechisch: <emph>O hudebním krásnu</emph>, übers. von Jaroslav Střítecký,
-                           Prag: Editio Supraphon, 1973.</item>
-                        <item>Ungarisch: <emph>A zenei szép</emph>, übers. von Csobó Péter
-                           György, Budapest: Typotex, 2007.</item>
+                        <item>Albanisch: <emph>Për të bukurën muzikore</emph>, übers. von Bekim Ramadani, Tetovo: Universiteti Shtetëror i Tetovës, Fakulteti i muzikës, 2014.</item>
+                        <item>Bengalisch: <emph>Saṃgīte sundara</emph>, übers. von [unbekannt], Kalkutta: Jijnāsā, 1969.</item>
+                        <item>Bulgarisch: <emph>Za muzikalno krasivoto</emph>, übers. von Maria Kaitazov, Sofia: LIK, 1998.</item>
+                        <item>Chinesisch: <emph>Lun yin le de mei</emph>, übers. von Yang Ye Zhi, Peking: Ren min yin le chu ban she, 1980.</item>
+                        <item>Englisch: <emph>The Beautiful in Music</emph>, übers. von Gustav Cohen, London: Novello and Company, 1891.</item>
+                        <item>Englisch: <emph>On the Musically Beautiful</emph>, übers. von Geoffrey Payzant, Indianapolis: Hackett Publishing, 1986.</item>
+                        <item>Englisch: <emph>Eduard Hanslick’s ‘On the Musically Beautiful’</emph>, übers. von Lee Rothfarb and Christoph Landerer, Oxford: Oxford University Press, 2018.</item>
+                        <item>Finnisch: <emph>Musiikille ominaisesta kauneudesta</emph>, übers. von Ilkka Oramo, Tampere: Niin &amp; Näin, 2014.</item>
+                        <item>Französisch: <emph>Du beau dans la musique</emph>, übers. von Charles Bannelier, Paris: Brandus, 1877.</item>
+                        <item>Französisch: <emph>Du beau dans la musique</emph>, übers. von Jean-Jacques Nattiez, Paris: Bourgois, 1986.</item>
+                        <item>Französisch: <emph>Du beau musical</emph>, übers. von Alexandre Lissner, Paris: Hermann, 2012.</item>
+                        <item>Italienisch: <emph>Del bello nella musica</emph>, übers. von Luigi Torchi, Mailand: Ricordi, 1883.</item>
+                        <item>Italienisch: <hi rend="italic">Il bello musicale</hi>, übers. von Mariangela Dona, Mailand: Minuziano, 1945.</item>
+                        <item>Italienisch: <hi rend="italic">Il bello musicale</hi>, übers. von Leonardo Distaso, Palermo: Aesthetica, 2001.</item>
+                        <item>Japanisch: <emph>Hansurikku no ongaku biron</emph>, übers. von Hirosada Tamura, Tokio: Iwanami Shoten, 1924.</item>
+                        <item>Japanisch: <emph>Ongaku biron</emph>, übers. von Mamoru Watanabe, Tokio: Iwanami Shoten, 1960.</item>
+                        <item>Katalanisch: <emph>Sobre la bellesa musical</emph>, übers. von Ariadna Soler i Subils und Oriol Ponsatí-Murlà, Girona: Accent, 2010.</item>
+                        <item>Mazedonisch: <emph>Za muzički ubavoto</emph>, übers. von Sašo Milenkoski, Skopje: Kulturno-Informativen Centar, 2009.</item>
+                        <item>Norwegisch: <emph>Om Det Skjønne i Musikken</emph>, übers. von Karl Bjørset, Bergen: Huuns Forlag, 1885.</item>
+                        <item>Niederländisch: <emph>Over het begrip van schoon in de muziek</emph>, übers. von Daniel Kiehl, Den Haag: D. N. F. Kiehl, 1892.</item>
+                        <item>Polnisch: <emph>O pięknie w muzyce</emph>, übers. von Stanisław Niewiadomski, Warschau: Arct, 1903.</item>
+                        <item>Polnisch: <emph>O pie̢knie muzycznym</emph>, übers. von Joanna Giel, Breslau: Wydawnictwo Uniwersytetu Wrocławskiego, 2017.</item>
+                        <item>Portugiesisch: <emph>Do belo musical</emph>, übers. von Simone Neto, Campinas: Editora da Unicamp, 1992. </item>
+                        <item>Portugiesisch: <emph>Do belo musical</emph>, übers. von Artur Morão, Covilhã: Universidade da Beira Interior, 2011.</item>
+                        <item>Russisch: <emph>O muzykalʹno-prekrasnom</emph>, übers. von G. A. Laroche, Moskau: Jurgensona, 1895.</item>
+                        <item>Schwedisch: <emph>Om det sköna i musiken</emph>, übers. von Britta Collinder, Uppsala: Almqvist &amp; Wiksells, 1955.</item>
+                        <item>Serbisch: <emph>O muzički lijepom</emph>, übers. von Ivan Foht, Belgrad: Beogradski Izdavačko-Grafički Zavod, 1977.</item>
+                        <item>Spanisch: <emph>De la belleza en la música</emph>, übers. von Elisa de Luxán de García Dana, Madrid: Casa Editorial de Medina, 1865.</item>
+                        <item>Spanisch: <emph>De lo bello en la música</emph>, übers. von Alfredo Cahn, Buenos Aires: Ricordi, 1947.</item>
+                        <item>Tschechisch: <emph>O hudebním krásnu</emph>, übers. von Jaroslav Střítecký, Prag: Editio Supraphon, 1973.</item>
+                        <item>Ungarisch: <emph>A zenei szép</emph>, übers. von Csobó Péter György, Budapest: Typotex, 2007.</item>
                      </list>
                   </div>
                </div>
