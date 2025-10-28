@@ -30,48 +30,59 @@
   <text>
       <body xml:lang="en-US">
          <div type="main">
-            <head>History of “Hanslick in Context”</head>
+            <head>History of “Hanslick Online”</head>
             <byline>Alexander Wilfing, 2025</byline>
             <div type="inline">
-               <p>“Hanslick in Context” is a long-term research project, conducted by <ref target="https://orcid.org/0000-0002-7568-3737">Christoph Landerer</ref> and
-                     <ref target="https://orcid.org/0000-0002-0117-3574">Alexander Wilfing</ref>
-                  since 2014 as part of several individual projects located at the <ref target="https://www.oeaw.ac.at/en/">Austrian Academy of Sciences</ref>,
-                  initially hosted by the <ref target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft/geschichte-der-vorgaengerinstitutionen">Institute of History of Art and Musicology</ref> (2014–2019) and, as of 2020,
-                  by the <ref target="https://www.oeaw.ac.at/acdh/research/musicology">Austrian
-                     Centre for Digital Humanities, Department of
-                     Musicology</ref> (ACDH). Our research focuses on Hanslick’s historically
-                  significant treatise <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
-                     Aesthetik der Tonkunst</emph> (Leipzig: Rudolph Weigel, 1854; <emph>On the
-                     Musically Beautiful: A Contribution to the Revision of the Aesthetics of
-                     Music</emph>)—which during Hanslick’s lifetime appeared in ten revised
-                  editions— Hanslick’s activities as a music critic, and his professorship in the
-                  “History and Aesthetics of Musical Art” in Vienna, the earliest such position in
-                  German-language academia. Landerer has examined Hanslick’s aesthetics repeatedly
-                  since about 1990: his first study on the topic, “Bernard Bolzano, Eduard Hanslick
-                  und die Geschichte des musikästhetischen Objektivismus,” was already published in
-                  1993 in <emph>Kriterion</emph> (<ref target="https://www.degruyter.com/journal/key/krt/5/1/html">no. 5</ref> and
+               <p>“Hanslick Online” emerged from research projects conducted by <ref
+                     target="https://orcid.org/0000-0002-7568-3737">Christoph Landerer</ref> and
+                     <ref target="https://orcid.org/0000-0002-0117-3574">Alexander Wilfing</ref> at
+                  the <ref target="https://www.oeaw.ac.at/en/">Austrian Academy of Sciences</ref>
+                  beginning in 2017. These projects were initially housed at the <ref
+                     target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft/geschichte-der-vorgaengerinstitutionen"
+                     >Institute of History of Art and Musicology</ref> (2014–2019) and, in 2020,
+                  moved to the <ref target="https://www.oeaw.ac.at/acdh/research/musicology"
+                     >Austrian Centre for Digital Humanities, Department of Musicology</ref> (ACDH).
+                  Their research focuses on Hanslick’s historically significant treatise <emph>Vom
+                     Musikalisch-Schönen: Ein Beitrag zur Revision der Aesthetik der Tonkunst</emph>
+                  (Leipzig: Rudolph Weigel, 1854; <emph>On the Musically Beautiful: A Contribution
+                     to the Revision of the Aesthetics of Music</emph>)—which during Hanslick’s
+                  lifetime appeared in ten revised editions—Hanslick’s activities as a music critic,
+                  and his professorship in the “History and Aesthetics of Musical Art” in Vienna,
+                  the earliest such position in German-language academia. Landerer has examined
+                  Hanslick’s aesthetics repeatedly since about 1990: his first study on the topic,
+                  “Bernard Bolzano, Eduard Hanslick und die Geschichte des musikästhetischen
+                  Objektivismus,” was already published in 1993 in <emph>Kriterion</emph> (<ref
+                     target="https://www.degruyter.com/journal/key/krt/5/1/html">no. 5</ref> and
                      <ref target="https://www.degruyter.com/journal/key/krt/6/1/html">no. 6</ref>),
                   and in 2001–2003 he visited the University of Toronto on an Erwin Schrödinger
-                  Fellowship (<ref target="https://www.fwf.ac.at/en/research-radar/10.55776/J1995">J1995</ref> / <ref target="https://www.fwf.ac.at/en/research-radar/10.55776/J2161">J2161</ref>),
-                  conducting the research project “Eduard Hanslick’s Musical Aesthetics in the
-                  Context of Austrian Intellectual History” with Geoffrey Payzant, who had
-                  translated <emph>Vom Musikalisch-Schönen</emph> into English in 1986 as <emph>On
-                     the Musically Beautiful</emph>. Wilfing’s research has dealt with Hanslick
-                  since his dissertation <ref target="https://utheses.univie.ac.at/detail/37993#"><emph>Eduard Hanslicks Rezeption im englischen Sprachraum</emph></ref>
-                  (completed in 2016 and published in 2019 as <ref target="https://www.jstor.org/stable/j.ctvktrwbs"><emph>Re-Reading Hanslick’s
+                  Fellowship (<ref target="https://doi.org/10.55776/J1995">J1995</ref> / <ref
+                     target="https://doi.org/10.55776/J2161">J2161</ref>), conducting the research
+                  project “Eduard Hanslick’s Musical Aesthetics in the Context of Austrian
+                  Intellectual History” with Geoffrey Payzant, who had translated <emph>Vom
+                     Musikalisch-Schönen</emph> into English in 1986 as <emph>On the Musically
+                     Beautiful</emph>. Wilfing’s research has dealt with Hanslick since preparing
+                  his dissertation <ref target="https://utheses.univie.ac.at/detail/37993#"
+                        ><emph>Eduard Hanslicks Rezeption im englischen Sprachraum</emph></ref>
+                  (completed in 2016 and published in 2019 as <ref
+                     target="https://www.jstor.org/stable/j.ctvktrwbs"><emph>Re-Reading Hanslick’s
                         Aesthetics</emph></ref>), which explores his aesthetics as well as his
                   impact on various disciplinary discourses, ranging from musicology and music
                   philosophy to music psychology, literary theory, art history, and musical
-                  criticism. Moreover, he directed the project <ref target="https://www.oeaw.ac.at/acdh/research/musicology/research/project-archive/hanslick-adler-and-musicology">Creating an Academic Discipline: Eduard Hanslick, Guido Adler, and the
+                  criticism. Moreover, he directed the project <ref
+                     target="https://www.oeaw.ac.at/acdh/research/musicology/research/project-archive/hanslick-adler-and-musicology"
+                     >Creating an Academic Discipline: Eduard Hanslick, Guido Adler, and the
                      Establishment of Musicological Methodology in 19th-Century Vienna</ref> (Erwin
-                  Schrödinger Fellowship <ref target="https://www.fwf.ac.at/en/research-radar/10.55776/J4529">J4529</ref>)
-                  from 2021 to 2023—conducted at the <ref target="https://www.aesthetics.mpg.de/en/research/department-of-music.html">Max
-                     Planck Institute for Empirical Aesthetics</ref> (Frankfurt a.M.), <ref target="https://www.muni.cz/en/about-us/organizational-structure/faculty-of-arts/213600-deptof-art-history">Masarykova Univerzita</ref> (Brno), and the ACDH—which (among other things)
+                  Schrödinger Fellowship <ref target="https://doi.org/10.55776/J4529">J4529</ref>)
+                  from 2021 to 2023—conducted at the <ref
+                     target="https://www.aesthetics.mpg.de/en/research/department-of-music.html">Max
+                     Planck Institute for Empirical Aesthetics</ref> (Frankfurt a.M.), <ref
+                     target="https://www.muni.cz/en/about-us/organizational-structure/faculty-of-arts/213600-deptof-art-history"
+                     >Masarykova Univerzita</ref> (Brno), and the ACDH—which (among other things)
                   investigated Hanslick’s professorship, and has recently been analyzing Hanslick’s
-                  critical writings. “Hanslick in Context,” which explores the historical background
-                  of Hanslick’s activities as an aesthetic theorist, music critic, and musicologist,
-                  consists—as of 2025—of the following individual research projects, for which
-                  Landerer and Wilfing have received support from various funding bodies: </p>
+                  critical writings. The overall project series, which explores the historical
+                  background of Hanslick’s activities as an aesthetic theorist, music critic, and
+                  musicologist, consists—as of 2025—of the following individual research projects,
+                  for which Landerer and Wilfing have received support from various funding bodies: </p>
                   <figure>
                      <graphic url="images/Projektgeschichte_Hanslick_Kongress_new.jpg"/>
                      <head>Program of the <ref target="https://www.oeaw.ac.at/de/acdh/detail/news/eduard-hanslick-im-kontext-3">conference “Hanslick im Kontext,”</ref> photograph by Franz Pflügl; by
@@ -83,17 +94,24 @@
                <list type="bibl">
                   <item>2014–2017, <ref target="https://www.oeaw.ac.at/acdh/research/musicology/research/project-archive/hanslick-in-context">Hanslick in Context: Hanslick’s Aesthetic Ideas, Their Genesis, and Their
                         Place in the History of Ideas</ref> (stand-alone project, funded by the
-                     Austrian Science Fund FWF, <ref target="https://www.fwf.ac.at/en/research-radar/10.55776/P26610">P26610</ref>, P.I. Christoph Landerer)</item>
+                     Austrian Science Fund FWF, <ref target="https://doi.org/10.55776/P26610">P26610</ref>, P.I. Christoph Landerer)</item>
                   <item>2017–2018, <ref target="https://www.oeaw.ac.at/acdh/research/musicology/research/project-archive/hanslick-in-context">Studies in the Genesis of Hanslick’s <emph>Vom Musikalisch-Schönen</emph>:
                         Textual and Contextual Analysis</ref> (stand-alone project, funded by the
                      Anniversary Fund of the Austrian Central Bank, 17508, P.I. Christoph
                      Landerer)</item>
                   <item>2018–2021, <ref target="https://www.oeaw.ac.at/acdh/research/musicology/research/project-archive/hanslick-in-context">Eduard Hanslick’s <emph>Vom Musikalisch-Schönen</emph>: An Analysis of the
                         Dynamic Features of the Text and Its Contexts</ref> (stand-alone project,
-                     funded by the Austrian Science Fund FWF, <ref target="https://www.fwf.ac.at/en/research-radar/10.55776/P30554">P30554</ref>, P.I. Christoph Landerer)</item>
+                     funded by the Austrian Science Fund FWF, <ref target="https://doi.org/10.55776/P30554">P30554</ref>, P.I. Christoph Landerer)</item>
+                  <item>2021–2023, <ref
+                        target="https://www.oeaw.ac.at/acdh/research/musicology/research/project-archive/hanslick-adler-and-musicology"
+                        >Creating an Academic Discipline: Eduard Hanslick, Guido Adler, and the
+                        Establishment of Musicological Methodology in 19th-Century Vienna</ref>
+                     (Erwin Schrödinger Fellowship, funded by the Austrian Science Fund FWF, <ref
+                        target="https://doi.org/10.55776/J4529"
+                        >J4529</ref>, P.I. Alexander Wilfing)</item>
                   <item>2022–2026, <ref target="https://www.oeaw.ac.at/acdh/research/musicology/research/composers-editions/hanslicks-criticism">Eduard Hanslick’s Criticism Between Aesthetics, Journalism, and
                         Scholarship</ref> (stand-alone project, funded by the Austrian Science Fund
-                     FWF, <ref target="https://www.fwf.ac.at/en/research-radar/10.55776/P35379">P35379</ref>, P.I. Alexander Wilfing)</item>
+                     FWF, <ref target="https://doi.org/10.55776/P35379">P35379</ref>, P.I. Alexander Wilfing)</item>
                   <item>2024–2025, <ref
                         target="https://www.oeaw.ac.at/acdh/research/musicology/research/composers-editions/criticizing-hanslick"
                         >The Critic Under Scrutiny: The Reviews of Eduard Hanslick’s On the
@@ -104,7 +122,7 @@
                            ><emph>Vom Musikalisch-Schönen</emph>: Reconstructing Hanslick’
                         Aesthetics Analytically</ref> (stand-alone project, funded by the Austrian
                      Science Fund FWF, <ref
-                        target="https://www.fwf.ac.at/en/research-radar/10.55776/PAT2049024"
+                        target="https://doi.org/10.55776/PAT2049024"
                         >PAT2049024</ref>, P.I. Alexander Wilfing)</item>
                </list>
             </div>
