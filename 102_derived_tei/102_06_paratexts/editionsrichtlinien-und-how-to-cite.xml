@@ -31,18 +31,23 @@
      <body xml:lang="de-AT">
          <div type="main">
             <head>Editionsrichtlinien und Zitiervorschlag</head>
-            <p>Stand Ende 2024 umfasst die Website „Hanslick Online“ drei distinkte textliche
+            <p>Stand Ende 2025 umfasst die Website „Hanslick Online“ vier distinkte textliche
                Korpora zu Eduard Hanslick:<list>
                   <item>die Edition der 10 Auflagen von Hanslicks Ästhetik-Traktat <emph>Vom
                         Musikalisch-Schönen</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von
                      Daniel Elsner und Meike Wilfing-Albrecht (2023),</item>
                   <item>die Edition von Hanslicks Schriften für die <hi rend="italic">Neue Freie
                         Presse</hi>, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina
-                     Bamer, Daniel Elsner, Anna-Maria Pfiel und Fernando Sanz-Lázaro (2023–2025)
+                     Bamer, Daniel Elsner, Anna-Maria Pfiel und Fernando Sanz-Lázaro
+                     (2023–2026),</item>
+                  <item>die Edition der Rezensionen zur 1. Auflage von <emph>Vom
+                        Musikalisch-Schönen</emph>, hrsg. von Alexander Wilfing und Anna-Maria Pfiel
+                     unter Mitarbeit von Daniel Elsner und Fernando Sanz-Lázaro (2024–2025),
                      und</item>
-                  <item>die Edition der Kritiken zur 1. Auflage von <emph>Vom
-                        Musikalisch-Schönen</emph>, hrsg. von Anna-Maria Pfiel and Alexander Wilfing unter Mitarbeit von
-                     Daniel Elsner und Fernando Sanz-Lázaro (2024–2025).</item>
+                  <item>die Edition von Dokumenten im Umfeld von <emph>Vom
+                        Musikalisch-Schönen</emph> und Hanslicks Professur, hrsg. von Alexander
+                     Wilfing und Meike Wilfing-Albrecht unter Mitarbeit von Fernando Sanz-Lázaro
+                     (2025).</item>
                </list></p>
             <p>Die Editionen wurden / werden von Alexander Wilfing geleitet und von Daniel Elsner
                und (seit 2025) Fernando Sanz-Lázaro technisch umgesetzt. Das Logo von „Hanslick
@@ -57,15 +62,21 @@
                      / Datum, in <hi rend="italic">Eduard Hanslicks Schriften für die „Neue Freie
                         Presse“</hi>, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina
                      Bamer, Daniel Elsner, Anna-Maria Pfiel und Fernando Sanz-Lázaro (Wien: ACDH,
-                     2023–2025), Hyperlink (Umbrüche aktivieren, pbs=on).</item>
+                     2023–2026), Hyperlink (Umbrüche aktivieren, pbs=on).</item>
                   <item>Autorname, „Titel. Untertitel“, in <emph>Zeitschrift</emph>, Nr. / Datum, in
                         <hi rend="italic">Die Rezensionen zu Eduard Hanslicks „Vom
-                        Musikalisch-Schönen“ (1854–1857)</hi>, hrsg. von Anna-Maria Pfiel und Alexander Wilfing unter
-                     Mitarbeit von Daniel Elsner und Fernando Sanz-Lázaro (Wien:
-                     ACDH, 2024–2025), Hyperlink (Umbrüche aktivieren, pbs=on).</item>
+                        Musikalisch-Schönen“ (1854–1857)</hi>, hrsg. von Alexander Wilfing und
+                     Anna-Maria Pfiel unter Mitarbeit von Daniel Elsner und Fernando Sanz-Lázaro
+                     (Wien: ACDH, 2024–2025), Hyperlink (Umbrüche aktivieren, pbs=on).</item>
+                  <item>Autorname, „Titel. Untertitel“, in <emph>Zeitschrift</emph>, Nr. / Datum, in
+                        <hi rend="italic">Dokumente zu Eduard Hanslicks „Vom
+                        Musikalisch-Schönen“</hi>, hrsg. von Alexander Wilfing und Meike
+                     Wilfing-Albrecht unter Mitarbeit von Fernando Sanz-Lázaro (Wien: ACDH, 2025),
+                     Hyperlink (Umbrüche aktivieren, pbs=on).</item>
                </list></p>
             <div type="sub">
-               <head>Editionsrichtlinien (<hi rend="italic">Vom Musikalisch-Schönen</hi>)</head>
+               <head>Quellen und Editionsrichtlinien (<hi rend="italic">Vom
+                  Musikalisch-Schönen</hi>)</head>
                <byline>Alexander Wilfing und Meike Wilfing-Albrecht, 2023</byline>
                <p>Die Grundlage dieser Edition bilden die 10 Auflagen von Eduard Hanslicks
                   Ästhetik-Traktat <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der
@@ -126,8 +137,8 @@
                   individuell nachgeprüft werden. </p>
             </div>
             <div type="sub">
-               <head>Editionsrichtlinien (Hanslicks Schriften für die <hi rend="italic">Neue Freie
-                     Presse</hi> und die Rezensionen von <hi rend="italic">Vom
+               <head>Quellen und Editionsrichtlinien (Hanslicks Schriften für die <hi rend="italic"
+                     >Neue Freie Presse</hi> und die Rezensionen von <hi rend="italic">Vom
                      Musikalisch-Schönen</hi>)</head>
                <byline>Alexander Wilfing, 2024</byline>
                <p>Die Regeln der Edition von Hanslicks Schriften für die <hi rend="italic">Neue
@@ -185,6 +196,48 @@
                      >03.03.</ref> und <ref
                      target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=83"
                      >10.03.1855</ref>).</p>            
+            </div>
+            <div type="sub">
+               <head>Quellen und Editionsrichtlinien (Dokumente zu <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi> und Hanslicks Professur)</head>
+               <byline>Alexander Wilfing und Meike Wilfing-Albrecht, 2025</byline>
+               <p>Dieses Korpus umfasst zwei Arten von Texten im Umfeld von <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi>: (1) Hanslicks Aufsätze „Ueber den subjektiven
+                  Eindruck der Musik und seine Stellung in der Aesthetik“ (1853, 3 Teile) und „Die
+                  Tonkunst in ihren Beziehungen zur Natur“ (1854), erschienen in <hi rend="italic"
+                     >Oesterreichische Blätter für Literatur und Kunst</hi>. Diese Texte, die
+                  Hanslick mit wenigen Eingriffen zu Kapitel 4–6 von <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi> umarbeitete, repräsentieren wahrscheinlich die
+                  ältesten Sektionen seines Traktats. (2) Ausgewählte Dokumente aus Hanslicks
+                  Personalakt an der Universität Wien. Da Hanslick <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi> im Jahr 1856 retrospektiv als Habilitation einreichte,
+                  gewähren Dokumente wie etwa sein Lebenslauf und Ansuchen um Habilitation, aber
+                  auch die Gutachten des Philosophen Franz Karl Lott, wesentliche Aufschlüsse zu
+                  Hanslicks Methodik, den Kontexten seiner Dozentur / Professur, und den Revisionen
+                  zur zweiten Auflage des Traktats. Die Digitalisate zu (1) entstammen dem
+                  Zeitungsportal der Bayrischen Staatsbibliothek (<ref
+                     target="https://digipress.digitale-sammlungen.de/">digiPress</ref>), jene zu
+                  (2) wurden dem Projekt vom Archiv der Universität Wien als hochwertige
+                  Digitalisate kostenfrei zur Verfügung gestellt (<ref
+                     target="https://scopeq.cc.univie.ac.at/Query/detail.aspx?I"
+                     >Archivinformationssystem</ref>). </p>
+               <p>Meike Wilfing-Albrecht fertigte bereits 2017 eine Transkription des Personalakts
+                  im Rahmen eines Werkvertrags für das Projekt „Hanslick im Kontext“ an. Die
+                  ausgewählten Dokumente wurden mittels <ref target="https://www.transkribus.org/en"
+                     >Transkribus</ref> übertragen und auf Basis dieser Arbeit validiert. Die
+                  TEI-Annotation, Formatierung und Datenerfassung wurde durch Alexander Wilfing
+                  besorgt. Die Auswahl erfolgte aufgrund inhaltlicher Prinzipien: Das Korpus umfasst
+                  Dateien, die mit Hanslicks Stellungen an der Universität Wien in direkter
+                  Verbindung stehen oder Aufschlüsse zur Entstehung, Entwicklung und Interpretation
+                  von <hi rend="italic">Vom Musikalisch-Schönen</hi> versprechen. Inhaltlich
+                  marginale Dokumente (Krankschreibungen, Urlaubsansuchen, Refundierungen, etc.)
+                  fanden daher keine Berücksichtigung. Die Editionsrichtlinien von (1) entsprechen
+                  vollständig jenen zu Hanslicks Schriften für die <hi rend="italic">Neue Freie
+                     Presse</hi> und zu den Rezensionen von <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi> (siehe oben). Bei (2) wurde eine weitgehend
+                  unveränderte Übertragung unter Beibehaltung von Schreibfehlern durchgeführt.
+                  Unterstreichungen wurden, wie bei den anderen Korpora der Sperrdruck, kursiviert
+                  formatiert. Unleserliche Passagen wurden zudem mit „[???]“ gekennzeichnet.</p>            
             </div>
             <div type="sub">
                <head>Erhebung, Selektion und Darstellung  von Daten</head>

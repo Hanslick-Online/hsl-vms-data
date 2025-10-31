@@ -17,7 +17,7 @@
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2023">2024</date>
+            <date when="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
@@ -36,25 +36,36 @@
                Sie beinhaltet Ergebnisse mehrerer Drittmittel-Projekte, in deren Rahmen <ref target="https://orcid.org/0000-0002-7568-3737">Christoph Landerer</ref> und <ref target="https://orcid.org/0000-0002-0117-3574">Alexander Wilfing</ref> seit dem Jahr 2014 die historischen Kontexte Hanslicks
                sowie seiner Schriften ausloten.</p>
             <p>Besonderes Augenmerk liegt dabei auf den zahlreichen Adaptionen, die diese Texte zu
-               Hanslicks Lebzeiten erfuhren. „Hanslick Online“ stellt diese Texte (Stand 2024:
+               Hanslicks Lebzeiten erfuhren. „Hanslick Online“ stellt diese Texte (Stand 2025:
                   1.<ref target="toc_t.html"><emph>Vom Musikalisch-Schönen</emph></ref>, 2.
                Hanslicks Schriften für die <ref target="toc.html"><emph>Neue Freie
-                  Presse</emph></ref> und 3. Rezensionen der 1. Auflage von <ref target="toc_vms.html"><emph>Vom Musikalisch-Schönen</emph></ref>) nicht
-               nur bereit, sondern macht ebenso direkte Vergleiche zwischen den Varianten möglich.
-               Damit füllt diese Website eine Lücke der modernen Hanslick-Forschung, die die
-               dynamische Entwicklung von Hanslicks Denkweise immer stärker in den Blick nimmt.</p>
-            <p>Das Drop-Down-Menü „Projekt“ gibt eine kurze Skizze der <ref target="bedeutung-hanslick.html">historischen Bedeutung Hanslicks</ref> vom
-               neunzehnten Jahrhundert bis zur Gegenwart, erläutert <ref target="projektziele.html">Intention und Zweck dieser Website</ref> und beschreibt detailliert die <ref target="projektgeschichte.html">Abfolge jener Projekte</ref>, deren Resultate zur
+                  Presse</emph></ref>, 3. <ref target="toc_vms.html">Rezensionen</ref> der 1. Auflage von <emph>Vom Musikalisch-Schönen</emph> und 4. Dokumente zu <emph>Vom Musikalisch-Schönen</emph> im Umfeld von
+               <ref target="toc_doc.html">Hanslicks Professur</ref>) nicht nur bereit, sondern macht ebenso direkte Vergleiche
+               zwischen den Varianten möglich. Damit füllt diese Website eine Lücke der modernen
+               Hanslick-Forschung, die die dynamische Entwicklung von Hanslicks Denkweise immer
+               stärker in den Blick nimmt.</p>
+            <p>Das Drop-Down-Menü „Projekt“ gibt eine kurze Skizze der <ref
+                  target="bedeutung-hanslick.html">historischen Bedeutung Hanslicks</ref> vom
+               neunzehnten Jahrhundert bis zur Gegenwart (inklusive einer Aufstellung seiner
+               Publikationen mit Verlinkung zu Digitalisaten, sowie Übersetzungen seiner
+               ästhetischen Abhandlung), erläutert <ref target="projektziele.html">Intention und
+                  Zweck dieser Website</ref> und beschreibt detailliert die <ref
+                  target="projektgeschichte.html">Abfolge jener Projekte</ref>, deren Resultate zur
                Schaffung von „Hanslick Online“ geführt haben. Die Ergebnisse der Teilprojekte können
-               unter Aktivitäten (<ref target="publikationen.html">Publikationen</ref>, <ref target="einzelvortraege.html">Einzelvorträge</ref> und <ref target="veranstaltungen.html">Veranstaltungen</ref>) vollständig eingesehen
+               unter Aktivitäten (<ref target="publikationen.html">Publikationen</ref>, <ref
+                  target="einzelvortraege.html">Einzelvorträge</ref> und <ref
+                  target="veranstaltungen.html">Veranstaltungen</ref>) vollständig eingesehen
                werden.</p>
-            <p>Unter dem Drop-Down-Menü „Edition“ findet man die <ref target="toc_t.html">10 Auflagen von
-                     <emph>Vom Musikalisch-Schönen</emph></ref> und die Option zum Vergleich
-               zwischen beliebig gewählten Varianten mittels automatisierter Kollationierung. Bis
-               Ende 2026 werden hier auch Hanslicks Schriften für die <ref target="toc.html"><emph>Neue Freie Presse</emph></ref> (fortlaufende Publikation) und bis Sommer 2025 die
-               <ref target="toc_vms.html">Kritiken seines Traktats</ref> mit TEI-Markup erscheinen. Als Schlussstein der Projektreihe
-               wurde Ende 2024 ein Projekt bewilligt, das <emph>Vom Musikalisch-Schönen</emph>
-               kommentiert sowie dessen inhaltliche Entwicklung visualisiert.</p>
+            <p>Unter dem Drop-Down-Menü „Edition“ findet man die <ref target="toc_t.html">10
+                  Auflagen von <emph>Vom Musikalisch-Schönen</emph></ref> und die Option zum
+               Vergleich zwischen beliebig gewählten Varianten mittels automatisierter
+               Kollationierung. Hier sind auch Hanslicks <ref target="toc.html">Schriften für die 
+                     <emph>Neue Freie Presse</emph></ref> (fortlaufende Publikation bis Ende 2026),
+               die <ref target="toc_vms.html">Kritiken seines Traktats</ref> und <ref target="toc_doc.html">Dokumente zu
+                  <emph>Vom Musikalisch-Schönen</emph></ref> mit TEI-Markup erscheinen. Als Schlussstein
+               der Projektreihe wurde Ende 2024 ein Projekt bewilligt, das <emph>Vom
+                  Musikalisch-Schönen</emph> kommentiert sowie dessen inhaltliche Entwicklung
+               visualisiert.</p>
             <p>„Hanslick Online“ ist ein work in progress, das zukünftig inhaltlich wie technisch
                erweitert wird. Falls Sie zur Optimierung der digitalen Editionen und der Website
                Vorschläge und Ideen oder auch Fragen zu Hanslick, den Projekten, sowie deren

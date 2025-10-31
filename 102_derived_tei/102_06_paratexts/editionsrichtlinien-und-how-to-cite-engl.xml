@@ -31,18 +31,21 @@
       <body xml:lang="en-US">
          <div type="main">
             <head>Editorial Conventions and How to Cite</head>
-            <p>As of the end of 2024, the website “Hanslick Online” provides three distinct textual
+            <p>By the end of 2025, the website “Hanslick Online” provides four distinct textual
                corpora related to Eduard Hanslick:<list>
                   <item>an edition of all ten versions of Hanslick’s aesthetic treatise <emph>Vom
                         Musikalisch-Schönen</emph>, ed. by Alexander Wilfing in collaboration with
                      Daniel Elsner and Meike Wilfing-Albrecht (2023),</item>
                   <item>an edition of Hanslick’s writings for the <hi rend="italic">Neue Freie
                         Presse</hi>, ed. by Alexander Wilfing in collaboration with Katharina Bamer,
-                     Daniel Elsner, Anna-Maria Pfiel, and Fernando Sanz-Lázaro (2023–2025),
-                     and</item>
+                     Daniel Elsner, Anna-Maria Pfiel, and Fernando Sanz-Lázaro (2023–2026),</item>
                   <item>an edition of reviews of the initial edition of <emph>Vom
-                        Musikalisch-Schönen</emph>, ed. by Anna-Maria Pfiel and Alexander Wilfing in collaboration with
-                     Daniel Elsner and Fernando Sanz-Lázaro (2024–2025).</item>
+                        Musikalisch-Schönen</emph>, ed. by Alexander Wilfing and Anna-Maria Pfiel in
+                     collaboration with Daniel Elsner and Fernando Sanz-Lázaro (2024–2025),
+                     and</item>
+                  <item>an edition of documents in relation to <emph>Vom Musikalisch-Schönen</emph>
+                     and Hanslick’s professorship, ed. by Alexander Wilfing and Meike
+                     Wilfing-Albrecht in collaboration with Fernando Sanz-Lázaro (2025).</item>
                </list></p>
             <p>The editions were / are led by Alexander Wilfing, with Daniel Elsner and (since 2025)
                Fernando Sanz-Lázaro overseeing their technical realization. The logo of “Hanslick
@@ -56,16 +59,22 @@
                   <item>Eduard Hanslick, “Title: Subtitle,” in <emph>Neue Freie Presse</emph>, No. /
                      Date, in <hi rend="italic">Eduard Hanslicks Schriften für die “Neue Freie
                         Presse”</hi>, ed. by Alexander Wilfing in collaboration with Katharina
-                     Bamer, Daniel Elsner, Anna-Maria Pfiel, and Fernando Sanz-Lázaro (Vienna:
-                     ACDH, 2023–2025), hyperlink (switch on line breaks display, pbs=on).</item>
+                     Bamer, Daniel Elsner, Anna-Maria Pfiel, and Fernando Sanz-Lázaro (Vienna: ACDH,
+                     2023–2026), hyperlink (switch on line breaks display, pbs=on).</item>
                   <item>Author, „Title: Subtitle“, in <emph>Journal</emph>, No. / Date, in <hi
                         rend="italic">Die Rezensionen zu Eduard Hanslicks “Vom Musikalisch-Schönen”
-                        (1854–1857)</hi>, ed. by Anna-Maria Pfiel and Alexander Wilfing in collaboration with Daniel
-                     Elsner and Fernando Sanz-Lázaro (Vienna: ACDH,
+                        (1854–1857)</hi>, ed. by Alexander Wilfing and Anna-Maria Pfiel in
+                     collaboration with Daniel Elsner and Fernando Sanz-Lázaro (Vienna: ACDH,
                      2024–2025), hyperlink (switch on line breaks display, pbs=on).</item>
+                  <item>Author, „Title: Subtitle“, in <emph>Journal</emph>, No. / Date, in <hi
+                        rend="italic">Dokumente zu Eduard Hanslicks „Vom Musikalisch-Schönen“</hi>,
+                     ed. by Alexander Wilfing and Meike Wilfing-Albrecht in collaboration with
+                     Fernando Sanz-Lázaro (Vienna: ACDH, 2025), hyperlink (switch on line breaks
+                     display, pbs=on).</item>
                </list></p>
             <div type="sub">
-               <head>Editorial Conventions (<hi rend="italic">Vom Musikalisch-Schönen</hi>)</head>
+               <head>Sources and Editorial Conventions (<hi rend="italic">Vom
+                     Musikalisch-Schönen</hi>)</head>
                <byline>Alexander Wilfing and Meike Wilfing-Albrecht, 2023</byline>
                <p>This edition is based on the ten versions of Eduard Hanslick’s aesthetic treatise
                      <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Ästhetik der
@@ -124,9 +133,9 @@
                   reproduction.</p>
             </div>
             <div type="sub">
-               <head>Editorial Conventions (Hanslick’s Writings for the <hi rend="italic">Neue Freie
-                     Presse</hi> and the Reviews of <hi rend="italic">Vom
-                  Musikalisch-Schönen</hi>)</head>
+               <head>Sources and Editorial Conventions (Hanslick’s Writings for the <hi
+                     rend="italic">Neue Freie Presse</hi> and the Reviews of <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi>)</head>
                <byline>Alexander Wilfing, 2024</byline>
                <p>The guidelines for the edition of Hanslick’s writings for the <hi rend="italic"
                      >Neue Freie Presse</hi> and the reviews of the initial edition of <emph>Vom
@@ -184,6 +193,47 @@
                      3</ref>, and <ref
                      target="https://www.digitale-sammlungen.de/en/view/bsb10527506?page=83">March
                      10, 1855</ref>).</p>
+            </div>
+            <div type="sub">
+               <head>Sources and Editorial Conventions (Documents on <hi rend="italic">Vom
+                     Musikalisch-Schönen</hi> and Hanslick’s Professorship)</head>
+               <byline>Alexander Wilfing and Meike Wilfing-Albrecht, 2025</byline>
+               <p>This corpus is made up of two types of texts related to <emph>Vom
+                     Musikalisch-Schönen</emph>: (1) Hanslick’s essays “Ueber den subjektiven
+                  Eindruck der Musik und seine Stellung in der Aesthetik” (1853, in three parts) and
+                  “Die Tonkunst in ihren Beziehungen zur Natur” (1854), published in
+                     <emph>Oesterreichische Blätter für Literatur und Kunst</emph>. Hanslick later
+                  reworked these texts with minimal changes into chapters 4–6 of <emph>Vom
+                     Musikalisch-Schönen</emph>; they probably represent the earliest sections of
+                  his aesthetic treatise. (2) Selected documents from Hanslick’s personnel file at
+                  the University of Vienna. Since Hanslick submitted <emph>Vom
+                     Musikalisch-Schönen</emph> as his habilitation dissertation in 1856, documents
+                  including his CV, his habilitation application, and the evaluation by the
+                  philosopher Franz Karl Lott offer crucial insight into Hanslick’s methodology, the
+                  institutional contexts of his academic appointment, and his revisions for the
+                  treatise’s second edition. The digitized materials for (1) stem from the Bavarian
+                  State Library’s newspaper portal (<ref
+                     target="https://digipress.digitale-sammlungen.de/">digiPress</ref>); those for
+                  (2) were kindly provided to the project without charge as high-quality digital
+                  images by the University of Vienna Archive (<ref
+                     target="https://scopeq.cc.univie.ac.at/Query/detail.aspx?I"
+                     >Archivinformationssystem</ref>).</p>
+               <p>Meike Wilfing-Albrecht prepared a complete transcription of Hanslick’s personnel
+                  file in 2017 under a service contract for the project “Hanslick im Kontext.” The
+                  selected documents were later digitized using <ref
+                     target="https://www.transkribus.org/en">Transkribus</ref> and checked against
+                  this earlier work. Alexander Wilfing researched named entity data and completed
+                  the TEI markup and formatting. Selection criteria were content-driven: the corpus
+                  includes only files directly related to Hanslick’s appointments at the University
+                  of Vienna or those offering insights into the genesis, development, and
+                  interpretation of <emph>Vom Musikalisch-Schönen</emph>. Documents of marginal
+                  relevance (sick notes, leave requests, reimbursements, etc.) were excluded. The
+                  editorial guidelines for (1) follow those applied to Hanslick’s writings for the
+                     <hi rend="italic">Neue Freie Presse</hi> and to reviews of <emph>Vom
+                     Musikalisch-Schönen</emph> (see above). For (2), the editions preserve the
+                  original text unchanged, retaining spelling errors. Underlined text, like spaced
+                  letters elsewhere in “Hanslick Online,” appears in italics. Illegible passages are
+                  marked “[???].”</p>            
             </div>
             <div type="sub">
                <head>Collection, Selection, and Presentation of Data</head>

@@ -17,7 +17,7 @@
                <addrLine>1010 Vienna</addrLine>
             </address>
             <pubPlace>Vienna</pubPlace>
-            <date when="2023">2024</date>
+            <date when="2025">2025</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</licence>
             </availability>
@@ -38,36 +38,37 @@
                   target="https://orcid.org/0000-0002-7568-3737">Christoph Landerer</ref> and <ref target="https://orcid.org/0000-0002-0117-3574">Alexander Wilfing</ref> have been exploring the
                historical contexts of Hanslick and his works since 2014.</p>
             <p>Particular attention is paid to the numerous adaptations these texts have gone
-               through during Hanslick’s lifetime. Besides making these texts (so far, 1. <ref
-                  target="toc_t.html"><emph>Vom Musikalisch-Schönen</emph></ref>, 2.
-               Hanslick’s writings for the <ref target="toc.html"><emph>Neue Freie
-                  Presse</emph></ref>, and 3. reviews of the initial edition of <ref
-                  target="toc_vms.html"><emph>Vom Musikalisch-Schönen</emph></ref>) publicly
-               available, “Hanslick Online” also facilitates automated comparisons between textual
-               variants. The website thereby fills a gap in Hanslick scholarship, which is currently
-               focusing more and more on the dynamic evolution and fluctuation of Hanslick’s
-               mindset.</p>
+               through during Hanslick’s lifetime. Besides making these texts (as of 2025, 1. <ref
+                  target="toc_t.html"><emph>Vom Musikalisch-Schönen</emph></ref>, 2. Hanslick’s
+               writings for the <ref target="toc.html"><emph>Neue Freie Presse</emph></ref>, 3. <ref
+                  target="toc_vms.html">reviews</ref> of the initial edition of <emph>Vom
+                  Musikalisch-Schönen</emph>, and 4. documents on <emph>Vom Musikalisch-Schönen</emph> and
+               <ref target="toc_doc.html">Hanslick’s professorship</ref>) publicly available, “Hanslick Online” also facilitates
+               automated comparisons between textual variants. The website thereby fills a gap in
+               Hanslick scholarship, which is currently focusing more and more on the dynamic
+               evolution and fluctuation of Hanslick’s mindset.</p>
             <p>The “Project” drop-down menu provides a brief sketch of <ref
                   target="bedeutung-hanslick-engl.html?lang=en">Hanslick’s historical
-                  relevance</ref> from the nineteenth century to the present, explains the <ref
-                  target="projektziele-engl.html?lang=en">intention and purpose</ref> of the present
-               website, and recounts the <ref target="projektgeschichte-engl.html?lang=en">sequence
-                  of research projects</ref>, the results of which led to the preparation of
-               “Hanslick Online.” The scholarly outcome of these research projects may be viewed
-               under the “Activities” subheading (<ref target="publikationen-engl.html?lang=en"
-                  >publications</ref>, <ref target="einzelvortraege-engl.html?lang=en"
-                  >presentations</ref>, and <ref target="veranstaltungen-engl.html?lang=en"
-                  >events</ref>).</p>
-            <p>Under the “Edition” drop-down menu, you will find the <ref
-               target="toc_t.html">ten editions of
-                     <emph>Vom Musikalisch-Schönen</emph></ref> and the option to compare variants
-               by means of automated collation. By the end of 2026, Hanslick’s writings for the <ref
-                  target="toc.html"><emph>Neue Freie Presse</emph></ref> and, by summer 2025, the <ref target="toc_vms.html">reviews of
-                  <emph>Vom Musikalisch-Schönen</emph></ref> will also be published, including TEI markup
-               (in progress). As the culmination of the project series, a closing project has been
-               granted in late 2024 that will fund both a commentary of <emph>Vom
-                  Musikalisch-Schönen</emph> and the visualization of various textual
-               properties.</p>
+                  relevance</ref> from the nineteenth century to the present (including a catalogue
+               of his publication with hyperlinks to digital copies, and translations of his
+               aesthetic treatise), explains the <ref target="projektziele-engl.html?lang=en"
+                  >intention and purpose</ref> of the present website, and recounts the <ref
+                  target="projektgeschichte-engl.html?lang=en">sequence of research projects</ref>,
+               the results of which led to the preparation of “Hanslick Online.” The scholarly
+               outcome of these research projects may be viewed under the “Activities” subheading
+                  (<ref target="publikationen-engl.html?lang=en">publications</ref>, <ref
+                  target="einzelvortraege-engl.html?lang=en">presentations</ref>, and <ref
+                  target="veranstaltungen-engl.html?lang=en">events</ref>).</p>
+            <p>Under the “Edition” drop-down menu, you will find the <ref target="toc_t.html">ten
+                  editions of <emph>Vom Musikalisch-Schönen</emph></ref> and the option to compare
+               variants by means of automated collation. Here, you can also find Hanslick’s <ref
+                  target="toc.html">writings for the <emph>Neue Freie Presse</emph></ref> (ongoing
+               publication finished by the end of 2026), the <ref target="toc_vms.html">reviews of
+                     <emph>Vom Musikalisch-Schönen</emph></ref>, and <ref target="toc_doc.html"
+                  >documents on <emph>Vom Musikalisch-Schönen</emph></ref>, including TEI markup. As
+               the culmination of the project series, a closing project has been granted in late
+               2024 that will fund both a commentary of <emph>Vom Musikalisch-Schönen</emph> and the
+               visualization of various textual properties.</p>
             <p>“Hanslick Online” is a work in progress, which we intend to expand in terms of
                content and digital functions in the not too distant future. If you have any ideas or
                suggestions for optimizing the digital edition and the website, or questions
