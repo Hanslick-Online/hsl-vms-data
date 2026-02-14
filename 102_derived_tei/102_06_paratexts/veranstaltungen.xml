@@ -31,17 +31,39 @@
       <body xml:lang="de-AT">
          <div type="main">
             <head>Veranstaltungen</head>
-            <byline>17.09.2025</byline>
+            <byline>14.02.2026</byline>
             <div type="block">
+               <head>Lehrveranstaltungen</head>
+               <list type="bibl">
+                  <item>2026 VO „<ref
+                        target="https://ufind.univie.ac.at/de/course.html?lv=160083&amp;semester=2026S"
+                        >Musikphilosophie vom 18. Jahrhundert bis zur Gegenwart</ref>“ am Institut
+                     für Musikwissenschaft, Universität Wien, Alexander Wilfing.</item>
+                  <item>2025. UE „<ref
+                        target="https://ufind.univie.ac.at/en/course.ht ml?lv=160085&amp;semester=2025W"
+                        >Definition, Ontology, Authenticity, Emotion, Value: Eine Einführung in die
+                        analytische Musikästhetik</ref>“ am Institut für Musikwissenschaft,
+                     Universität Wien, Alexander Wilfing.</item>
+                  <item>2025. UE „<ref
+                     target="https://ufind.univie.ac.at/de/course.html?lv=160084&amp;semester=2025S"
+                     >Meinung formen, Kanon bilden, Agenden pushen: Deutschsprachige Musikkritik
+                     im 19. Jahrhundert</ref>“ am Institut für Musikwissenschaft, Universität
+                     Wien, Alexander Wilfing.</item>
+                  <item>2017. BA-Seminar „<ref
+                     target="https://ufind.univie.ac.at/de/course.html?lv=160055&amp;semester=2017S"
+                     >Eduard Hanslicks <hi rend="italic">Vom
+                        Musikalisch-Schönen</hi>: Text, Kontext, Rezeption</ref>“ am Institut für
+                     Musikwissenschaft, Universität Wien, Alexander Wilfing.</item>
+               </list>
+            </div>
+            <div type="block">
+               <head>Konferenzen und Workshops</head>
                <list type="bibl">
                   <item>2025/09. „<ref target="https://www.oeaw.ac.at/de/acdh/forschung/musikwissenschaft/forschung/komponistinnen-editionen/hanslicks-kritiken/eduard-hanslick-1825-2025">Eduard Hanslick, 1825–2025: Hintergründe, Kontexte, Wirkung</ref>“,
                      zweisprachiges internationales Symposium anlässlich des 200. Geburtstages von
                      Eduard Hanslick, organisiert von Alexander Wilfing unter Mitarbeit von Meike
                      Wilfing-Albrecht, Austrian Centre for Digital Humanities,
                      Österreichische Akademie der Wissenschaften, Eigenfinanzierung ACDH.</item>
-                  <item>2025/08. „<ref target="https://www.ardaudiothek.de/episode/urn:ard:episode:08e33c66e0a315e8">Eduard Hanslick zum 200. Geburtstag</ref>“, Interview mit Christoph
-                     Landerer und Alexander Wilfing für „Meine Musik“, Radio 3, RBB, moderiert von
-                     Matthias Käther</item>
                   <item>2025/05. „The Aesthetic Legacy of Eduard Hanslick“, Buchpräsentation des
                      Bandes <hi rend="italic">The Aesthetic Legacy of Eduard Hanslick: Close
                         Readings and Critical Perspectives</hi> (New York: Routledge, 2025),
@@ -49,9 +71,41 @@
                      und Nick Zangwill; Online Connections Seminar, European Network for the
                      Philosophy of Music.</item>
                   <item>2025/03. „<ref target="https://www.daad.cam.ac.uk/workshops/composer-critics-and-their-music-reflections-on-minds-of-the-nineteenth-century#overview">Composer-Critics and Their Music: Reflections on Minds of the Nineteenth
-                        Century</ref>“, Workshop organisiert von Alexander Wilfing in Zusammenarbeit
-                     mit David Trippett, Christ’s College, Cambridge, gefördert vom DAAD.</item>
-                  <item>2024/07. „<ref target="https://www.oeaw.ac.at/news/auch-klassische-komponisten-hatten-beefs">Auch klassische Komponisten hatten Beefs</ref>“, Interview mit Alexander
+                     Century</ref>“, Workshop organisiert von Alexander Wilfing in Zusammenarbeit
+                     mit David Trippett, Christ’s College, Cambridge, gefördert vom DAAD.</item> 
+                  <item>2023/04. „Geschichte, Gegenwart und Zukunft der Musikwissenschaft(en)“,
+                     Workshop am Austrian Centre for Digital Humanities,
+                     organisiert von Alexander Wilfing, Österreichische Akademie der Wissenschaften,
+                     gefördert vom FWF.</item>
+                  <item>2020/04. „New Directions in Hanslick Scholarship“, Workshop organisiert von
+                     Christoph Landerer und Alexander Wilfing am Institut für Musikwissenschaft,
+                     Universität Wien, gefördert vom FWF und der Österreichischen Akademie der
+                     Wissenschaften (aufgrund COVID-19 Pandemie abgesagt).</item>
+                  <item>2019/07. Organisation der special session „Hanslick’s Concepts: Meaning, Translation, Reception“, 7th Biennial Music and Philosophy Conference, London; Organisation: Alexander Wilfing; Vortragende: Christoph Landerer, Lee Rothfarb und Alexander Wilfing; für weitere Details und das Programm der Konferenz, vgl. <ref target="https://musicandphilosophy.ac.uk/events/mpsg-2019/">https://musicandphilosophy.ac.uk/events/mpsg-2019/</ref>.</item>
+                  <item>2017/03. „Probleme der Hanslick-Forschung“, Workshop am Institut für kunst-
+                     und musikhistorische Forschungen, Österreichische Akademie der Wissenschaften,
+                     organisiert von Christoph Landerer und Alexander Wilfing, gefördert von der
+                     Österreichischen Akademie der Wissenschaften und der Stadt Wien.</item>
+                  <item>2016/09. „Hanslick im Kontext / Hanslick in Context“, zweisprachige
+                     internationale Fachtagung, Österreichische Gesellschaft für Musik, organisiert
+                     von Christoph Landerer und Alexander Wilfing, gefördert vom FWF, der
+                     Österreichischen Akademie der Wissenschaften und der Stadt Wien; für weitere
+                     Details und das Programm der Konferenz, vgl. <ref target="http://hanslick2016.com/">http://hanslick2016.com/</ref> und <ref target="https://www.oeaw.ac.at/de/acdh/detail/news/eduard-hanslick-im-kontext-3">https://www.oeaw.ac.at/de/acdh/detail/news/eduard-hanslick-im-kontext-3</ref>.</item>
+               </list>
+            </div>
+            <div type="block">
+               <head>Wissenschaftskommunikation</head>
+               <list type="bibl">
+                  <item>2025/12. „<ref target="https://oe1.orf.at/programm/20251208/816320/Der-Kritikerpapst-Eduard-Hanslick">Der Kritikerpapst Eduard Hanslick: Zum 200. Geburtstag des wohl
+                     gefürchtetsten Musikkritikers des 19. Jahrhunderts</ref>“, Interview mit Alexander
+                     Wilfing für „Opus: Das Musikkolloquium,“ Ö1, moderiert von Walter
+                     Weidringer.</item> 
+                  <item>2025/08. „<ref target="https://www.ardaudiothek.de/episode/urn:ard:episode:08e33c66e0a315e8">Eduard Hanslick zum 200. Geburtstag</ref>“, Interview mit Christoph
+                     Landerer und Alexander Wilfing für „Meine Musik“, Radio 3, RBB, moderiert von
+                     Matthias Käther</item>
+                  <item>2024/07. „<ref
+                        target="https://www.oeaw.ac.at/news/auch-klassische-komponisten-hatten-beefs"
+                        >Auch klassische Komponisten hatten Beefs</ref>“, Interview mit Alexander
                      Wilfing für die Österreichische Akademie der Wissenschaften, moderiert von
                      Karin Cerny.</item>
                   <item>2024/05. „<ref target="https://www.youtube.com/watch?v=zIbSLcYHQSg">Der
@@ -72,28 +126,11 @@
                      und Anja Bunzel (Institut für Kunstgeschichte, Tschechische Akademie der
                      Wissenschaften) am Austrian Centre for Digital Humanities, Österreichische Akademie der Wissenschaften. Programmheft downloadbar
                      unter <ref target="https://www.academia.edu/106512915/Booklet_Hanslick_Concert_Vienna_September_29_2023_">https://www.academia.edu/106512915/Booklet_Hanslick_Concert_Vienna_September_29_2023_</ref>.</item>
-                  <item>2023/04. „Geschichte, Gegenwart und Zukunft der Musikwissenschaft(en)“,
-                     Workshop am Austrian Centre for Digital Humanities,
-                     organisiert von Alexander Wilfing, Österreichische Akademie der Wissenschaften,
-                     gefördert vom FWF.</item>
-                  <item>2020/04. „New Directions in Hanslick Scholarship“, Workshop organisiert von
-                     Christoph Landerer und Alexander Wilfing am Institut für Musikwissenschaft,
-                     Universität Wien, gefördert vom FWF und der Österreichischen Akademie der
-                     Wissenschaften (aufgrund COVID-19 Pandemie abgesagt).</item>
-                  <item>2019/07. Organisation der special session „Hanslick’s Concepts: Meaning, Translation, Reception“, 7th Biennial Music and Philosophy Conference, London; Organisation: Alexander Wilfing; Vortragende: Christoph Landerer, Lee Rothfarb und Alexander Wilfing; für weitere Details und das Programm der Konferenz, vgl. <ref target="https://musicandphilosophy.ac.uk/events/mpsg-2019/">https://musicandphilosophy.ac.uk/events/mpsg-2019/</ref>.</item>
-                  <item>2017/03. „Probleme der Hanslick-Forschung“, Workshop am Institut für kunst-
-                     und musikhistorische Forschungen, Österreichische Akademie der Wissenschaften,
-                     organisiert von Christoph Landerer und Alexander Wilfing, gefördert von der
-                     Österreichischen Akademie der Wissenschaften und der Stadt Wien.</item>
                   <item>2016/12. „<ref target="https://oe1.orf.at/programm/20161205/453376/Apropos-Musik">Der böse
                         Besserwisser: Eduard Hanslick</ref>“, Interview mit Christoph Landerer, Lee
                      Rothfarb und Alexander Wilfing für die Radiosendung „Apropos Musik“ (Ö1),
                      moderiert von Johannes Leopold Mayer.</item>
-                  <item>2016/09. „Hanslick im Kontext / Hanslick in Context“, zweisprachige
-                     internationale Fachtagung, Österreichische Gesellschaft für Musik, organisiert
-                     von Christoph Landerer und Alexander Wilfing, gefördert vom FWF, der
-                     Österreichischen Akademie der Wissenschaften und der Stadt Wien; für weitere
-                     Details und das Programm der Konferenz, vgl. <ref target="http://hanslick2016.com/">http://hanslick2016.com/</ref> und <ref target="https://www.oeaw.ac.at/de/acdh/detail/news/eduard-hanslick-im-kontext-3">https://www.oeaw.ac.at/de/acdh/detail/news/eduard-hanslick-im-kontext-3</ref>.</item>
+                  
                </list>
             </div>
          </div>

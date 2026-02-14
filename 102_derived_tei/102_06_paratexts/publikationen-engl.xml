@@ -31,7 +31,7 @@
       <body xml:lang="en-US">
          <div type="main">
             <head>Publications</head>
-            <byline>September 17, 2025</byline>
+            <byline>February 14, 2026</byline>
             <div type="block">
                <head>Books and Editions</head>
                <list type="bibl">
@@ -39,8 +39,21 @@
                   <item>2025–2026. <emph>Dokumente zu Eduard Hanslicks “Vom Musikalisch-Schönen”</emph>. Edited by Alexander Wilfing in collaboration with Fernando Sanz-Lázaro and Meike Wilfing-Albrecht. Vienna: ACDH, <ref target="https://hanslick.acdh.oeaw.ac.at/toc_doc.html">https://hanslick.acdh.oeaw.ac.at/toc_doc.html</ref>.</item>
                   <item>2025. <emph>The Music Critic as Composer: The Songs of Eduard Hanslick</emph>. Edited by Alexander Wilfing. Klingende Forschung 8 / Tondokumente aus dem Phonogrammarchiv der ÖAW 50. Vienna: Verlag der Österreichischen Akademie der Wissenschaften, <ref target="https://verlag.oeaw.ac.at/produkt/the-music-critic-as-composer-the-songs-of-eduard-hanslick/99201021">https://verlag.oeaw.ac.at/produkt/the-music-critic-as-composer-the-songs-of-eduard-hanslick/99201021</ref>.</item>
                   <item>2024–2025. <hi rend="italic">Die Rezensionen zu Eduard Hanslicks “Vom Musikalisch-Schönen” (1854–1857)</hi>. Edited by Anna-Maria Pfiel and Alexander Wilfing in collaboration with Daniel Elsner and Fernando Sanz-Lázaro. Vienna: ACDH, <ref target="https://hanslick.acdh.oeaw.ac.at/toc_vms.html">https://hanslick.acdh.oeaw.ac.at/toc_vms.html</ref>.</item>
-                  <item>2024. Lee Rothfarb, Alexander Wilfing, and Christoph Landerer, eds. <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical Perspectives</emph>. New York: Routledge, <ref target="https://doi.org/10.4324/9781003016403">https://doi.org/10.4324/9781003016403</ref>.</item>
-                  <item>2023–ongoing. Eduard Hanslick, <emph>Schriften für die “Neue Freie Presse,” 1864–1904</emph>, ed. by Alexander Wilfing in collaboration with Katharina Bamer, Daniel Elsner, Anna-Maria Pfiel, and Fernando Sanz-Lázaro. Vienna: ACDH. Open access edition, including TEI markup (615 items as of October 2025), <ref target="https://hanslick.acdh.oeaw.ac.at/toc.html">https://hanslick.acdh.oeaw.ac.at/toc.html</ref>.</item>
+                  <item>2024. Lee Rothfarb, Alexander Wilfing, and Christoph Landerer, eds.
+                        <emph>The Aesthetic Legacy of Eduard Hanslick: Close Readings and Critical
+                        Perspectives</emph>. New York: Routledge, <ref
+                        target="https://doi.org/10.4324/9781003016403"
+                        >https://doi.org/10.4324/9781003016403</ref>. Reviewed by: <list>
+                        <item>Matthew Pritchard (2025), <hi rend="italic">Music &amp; Letters</hi>,
+                              <ref target="https://doi.org/10.1093/ml/gcaf183"
+                              >https://doi.org/10.1093/ml/gcaf183</ref>.</item>
+                     </list></item>
+                  <item>2023–ongoing. Eduard Hanslick, <emph>Schriften für die “Neue Freie Presse,”
+                        1864–1904</emph>, ed. by Alexander Wilfing in collaboration with Katharina
+                     Bamer, Daniel Elsner, Anna-Maria Pfiel, and Fernando Sanz-Lázaro. Vienna: ACDH.
+                     Open access edition, including TEI markup (670 items as of February 2026), <ref
+                        target="https://hanslick.acdh.oeaw.ac.at/toc.html"
+                        >https://hanslick.acdh.oeaw.ac.at/toc.html</ref>.</item>
                   <item>2023. Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Ästhetik der Tonkunst</emph>, ed. by Alexander Wilfing in collaboration with Meike Wilfing-Albrecht and Daniel Elsner. Vienna: ACDH. Open access edition of all ten editions, 1854–1902, including TEI markup and automated paragraph collation, <ref target="https://hanslick.acdh.oeaw.ac.at/toc_t.html">https://hanslick.acdh.oeaw.ac.at/toc_t.html</ref>.</item>
                   <item>2022–ongoing. Coelsch-Foinser, Sabine, Meike Wilfing-Albrecht, and Alexander Wilfing, eds. “Production Archives 02: Production Contexts.” Special issue, <emph>Open Library of Humanities</emph>, <ref target="https://doi.org/10.16995/olh.collection.454">https://doi.org/10.16995/olh.collection.454</ref>.</item>
                   <item>2020. Wilfing, Alexander, Christoph Landerer, and Meike Wilfing-Albrecht, eds. <emph>Hanslick im Kontext: Perspektiven auf die Ästhetik, Musikkritik und das historische Umfeld von Eduard Hanslick / Hanslick in Context: Perspectives on the Aesthetics, Musical Criticism, and Historical Setting of Eduard Hanslick</emph>. Vienna: Hollitzer, <ref target="https://doi.org/10.2307/j.ctv1cdx6qk">https://doi.org/10.2307/j.ctv1cdx6qk</ref>.</item>
