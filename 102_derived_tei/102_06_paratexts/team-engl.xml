@@ -159,6 +159,25 @@
                   <item>Website: <ref type="web" target="https://www.oeaw.ac.at/acdh/institute/team/staff-members/fernando-sanz-lazaro">Österreichische Akademie der Wissenschaften</ref></item>
                </list>
                <figure>
+                  <graphic url="images/Portrait_Thell_1.jpg"/>
+               </figure>
+               <list type="biography">
+                  <item><hi rend="bold">Annika Thell, BA</hi></item>
+                  <item>intern student: <ref type="web"
+                        target="https://www.oeaw.ac.at/acdh/research/musicology/research/composers-editions/hanslicks-criticism"
+                        >Hanslick in <emph>Neue Freie Presse</emph></ref>, 07/2023</item>
+                  <item>project member: <ref type="web"
+                        target="https://www.oeaw.ac.at/acdh/research/musicology/research/composers-editions/hanslicks-criticism"
+                        >Hanslick in <emph>Neue Freie Presse</emph></ref>, 2026</item>
+                  <item>Austrian Academy of Sciences, Austrian Centre for Digital Humanities</item>
+                  <item>Bäckerstrasse 13, 1010 Vienna</item>
+                  <item>Email: <ref type="mail" target="annika.thell@oeaw.ac.at"
+                        >annika.thell(at)oeaw.ac.at</ref></item>
+                  <item>Website: <ref type="web"
+                        target="https://www.oeaw.ac.at/acdh/institute/team/staff-members/annika-thell"
+                        >Österreichische Akademie der Wissenschaften</ref></item>
+               </list>
+               <figure>
                   <graphic url="images/Portrait_Wilfing-Albrecht_new.jpg"/>
                </figure>
                <list type="biography">
@@ -238,16 +257,6 @@
                   <item>Universitätsring 1, 1010 Vienna</item>
                   <item>Email: <ref type="mail" target="a11907594@unet.univie.ac.at"
                      >a11907594(at)unet.univie.ac.at</ref></item>
-               </list>
-               <figure>
-                  <graphic url="images/Portrait_Thell_1.jpg"/>
-               </figure>
-               <list type="biography">
-                  <item><hi rend="bold">Annika Thell</hi>, intern student (<ref type="web" target="https://www.oeaw.ac.at/acdh/research/musicology/research/composers-editions/hanslicks-criticism">Hanslick in <emph>Neue
-                     Freie Presse</emph></ref>, 07/2023)</item>
-                  <item>University of Vienna</item>
-                  <item>Universitätsring 1, 1010 Vienna</item>
-                  <item>Email: <ref type="mail" target="a11931965@unet.univie.ac.at">a11931965(at)unet.univie.ac.at</ref></item>
                </list>
             </div>
          </div>

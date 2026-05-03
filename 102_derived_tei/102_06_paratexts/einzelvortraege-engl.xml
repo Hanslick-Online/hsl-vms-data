@@ -31,10 +31,19 @@
      <body xml:lang="en-US">
          <div type="main">
             <head>Lectures Related to Hanslick</head>
-            <byline>February 14, 2026</byline>
+            <byline>April 28, 2026</byline>
             <div type="block">
                <head>Invited Lectures</head>
                <list type="bibl">
+                  <item>2026/05. Wilfing-Albrecht, Meike and Alexander Wilfing. “Between Critical
+                     Apparatus and TEI Markup: Editing Brahms and Hanslick at the Austrian Academy
+                     of Sciences,” Shanghai Conservatory of Music, Shanghai</item>
+                  <item>2026/05. Wilfing, Alexander. “Music and Emotion in Analytical Philosophy: A
+                     Cognitive Beginning and Its Aftermath,” Shanghai Conservatory of Music,
+                     Shanghai</item>
+                  <item>2026/05. Wilfing, Alexander. “Which <hi rend="italic">Vom
+                        Musikalisch-Schönen</hi>? Conception, Disorder, and Revision in Eduard
+                     Hanslick’s Aesthetics,” Shanghai Conservatory of Music, Shanghai</item>
                   <item>2025/12. Wilfing, Alexander. “Music Critic, Aesthetic Theorist, Music
                      Scholar: Eduard Hanslick, Hanslick Research and the Issue of Translation”,
                      Department of Musicology, Prague.</item>
@@ -253,20 +262,21 @@
             <div type="block">
                <head>(Informal) Project Presentations and Round Tables</head>
                <list type="bibl">
-                  <item>2026/03. “Von der Traktatanalyse zur kritischen Öffentlichkeit: Zwei
-                     Forschungsperspektiven auf Musikästhetik und Wissensproduktion,” lecture for
-                     the reading group “Composers and Editions” of the ACDH, Vienna.</item>
+                  <item>2026/04. Wilfing, Alexander. “Creating a Digital Edition: The Hanslick
+                     Online Project,” guest lecture for the seminar on musical editing practice at
+                     the Institute of Musicology, Faculty of Arts, Charles University Prague</item>
+                  <item>2026/03. Wilfing, Alexander. “Von der Traktatanalyse zur kritischen
+                     Öffentlichkeit: Zwei Forschungsperspektiven auf Musikästhetik und
+                     Wissensproduktion,” lecture for the reading group “Composers and Editions” of
+                     the ACDH, Vienna.</item>
                   <item>2026/03. Wilfing, Alexander. Presentation of  “<hi rend="italic">On the
                         Musically Beautiful</hi>: Reconstructing Hanslick’s Aesthetics Analytically”
                      at the jour fixe of the Department of Musicology and Dance Studies, Paris
                      Lodron University, Salzburg.</item>
-                  <item>2026/02. Presentation of  <hi rend="italic">Hanslick Online</hi> as part of
-                     an excursion by <ref target="https://dhd2026.digitalhumanities.de/">DHd
-                        2026</ref> delegates to the ACDH, Vienna.</item>
-                  <item>2026/01. “Von der Traktatanalyse zur kritischen Öffentlichkeit: Zwei
-                     Forschungsperspektiven auf Musikästhetik und Wissensproduktion,” lecture during
-                     the jour fixe of the Department for Literary and Print Culture Studies, ACDH,
-                     Vienna.</item>
+                  <item>2026/01. Wilfing, Alexander. “Von der Traktatanalyse zur kritischen
+                     Öffentlichkeit: Zwei Forschungsperspektiven auf Musikästhetik und
+                     Wissensproduktion,” lecture during the jour fixe of the Department for Literary
+                     and Print Culture Studies, ACDH, Vienna.</item>
                   <item>2025/09. Boisits, Barbara, and Alexander Wilfing. Introduction to “<ref
                         target="https://www.oeaw.ac.at/acdh/research/musicology/research/composers-editions/hanslicks-criticism/eduard-hanslick-1825-2025"
                         >Eduard Hanslick, 1825–2025: Background, Context, Legacy</ref>,” Austrian
