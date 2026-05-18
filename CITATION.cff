@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: >-
+  Hanslick-Online/hsl-vms-data: Hanslick "Vom Musikalisch-Schönen" - TEI/XML
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+grant: 'https://doi.org/10.55776/PAT2049024'
+authors:
+  - given-names: Alexander
+    family-names: Wilfing
+    affiliation: 'https://ror.org/03anc3s24'
+    orcid: 'https://orcid.org/0000-0002-0117-3574'
+    role: 'Principal Investigator'
+  - given-names: Christoph
+    family-names: Landerer
+    affiliation: 'https://ror.org/05gs8cd61'
+    role: Researcher
+  - given-names: Fernando
+    family-names: Sanz-Lázaro
+    orcid: 'https://orcid.org/0000-0002-8815-6741'
+    affiliation: 'https://ror.org/03anc3s24'
+    role: 'Research Data Engineer'
