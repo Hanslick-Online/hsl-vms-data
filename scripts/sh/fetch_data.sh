@@ -8,3 +8,6 @@ unzip main
 mv hsl-entities-main/out/*.xml ./data/indices
 rm -rf hsl-entities-main
 rm main.zip
+
+echo "fetch collation docs"
+python3 ./scripts/py/fetch_collation_docs.py

@@ -27,6 +27,7 @@ The preliminary TEI documents are placed into 102_02_tei-simple where they shoul
 
 ### Building the paragraph diffs
 
+* run `python3 scripts/py/fetch_collation_docs.py` to refresh the four fetched pre-publication witnesses from `hsl-vms-docs`
 * run the *comp* transformation scenario
 * diff TEI documents will be placed into 102_05_comp
 
