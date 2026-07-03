@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hanslick Online - Network</title>
+            <title>Hanslick Online - Beziehungsgraph</title>
          </titleStmt>
          <publicationStmt>
             <publisher>
@@ -30,7 +30,7 @@
   <text>
       <body xml:lang="de-AT">
          <div type="main">
-            <head>Grafiken</head>
+            <head>Beziehungsgraph</head>
             <div type="block">
             </div>
          </div>
