@@ -31,7 +31,7 @@
       <body xml:lang="de-AT">
          <div type="main">
             <head>Publikationen</head>
-            <byline>06.08.2026</byline>
+            <byline>04.11.2026</byline>
             <div type="block">
                <head>Bücher</head>
                <list type="bibl">
@@ -76,7 +76,7 @@
                   <item>2023–2026. Eduard Hanslick, <emph>Schriften für die “Neue Freie Presse,”
                         1864–1904</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von Katharina
                      Bamer, Daniel Elsner, Anna-Maria Pfiel, Fernando Sanz-Lázaro und Annika Thell.
-                     Wien: ACDH. Open Access Edition mit TEI-Markup (773 Texte, Stand 08/2026), <ref
+                     Wien: ACDH. Open Access Edition mit TEI-Markup (821 Texte, Stand 11/2026), <ref
                         target="https://hanslick.acdh.oeaw.ac.at/toc.html"
                         >https://hanslick.acdh.oeaw.ac.at/toc.html</ref>.</item>
                   <item>2023. Eduard Hanslick, <emph>Vom Musikalisch-Schönen: Ein Beitrag zur Revision der Ästhetik der Tonkunst</emph>, hrsg. von Alexander Wilfing unter Mitarbeit von Meike Wilfing-Albrecht, Daniel Elsner und Mehmet Emir. Wien: ACDH. Open Access Edition aller 10 Auflagen, 1854–1902 mit TEI-Markup und automatisierter Kollationierung, <ref target="https://hanslick.acdh.oeaw.ac.at/toc_t.html">https://hanslick.acdh.oeaw.ac.at/toc_t.html</ref>.</item>
@@ -143,11 +143,34 @@
             <div type="block">
                <head>Lexikon Artikel</head>
                <list type="bibl">
-                  <item>2025. Wilfing, Alexander. „Eduard Hanslick, Univ.-Prof. Dr. jur.“ In <emph>650 plus – Geschichte der Universität Wien</emph>, <ref target="https://geschichte.univie.ac.at/de/personen/eduard-hanslick">https://geschichte.univie.ac.at/de/personen/eduard-hanslick</ref>.</item>
-                  <item>2023. Landerer, Christoph und Alexander Wilfing. „Eduard Hanslick, <emph>Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der Tonkunst</emph>.“ In <emph>Lexikon Schriften über Musik</emph>, Bd. 2, <emph>Musikästhetik in Europa und Nordamerika</emph>, hrsg. von Felix Wörner und Melanie Wald-Fuhrmann, S. 316–319. Kassel: Bärenreiter; Berlin: Metzler.</item>
-                  <item>2023. Wilfing, Alexander. „Eduard Hanslick, <emph>Censur und Kunst-Kritik</emph>.“ In <emph>Lexikon Schriften über Musik</emph>, Bd. 2, <emph>Musikästhetik in Europa und Nordamerika</emph>, hrsg. von Felix Wörner und Melanie Wald-Fuhrmann, S. 314–316. Kassel: Bärenreiter; Berlin: Metzler.</item>
-                  <item>2023. Wilfing, Alexander. „Hanslicks historische Bedeutung / Hanslick’s Historical Relevance.“ In <emph>Hanslick Online</emph>, hrsg. von Alexander Wilfing, <ref target="https://hanslick.acdh.oeaw.ac.at/bedeutung-hanslick.html">https://hanslick.acdh.oeaw.ac.at/bedeutung-hanslick.html?lang=de</ref></item>
-                  <item>2019. Wilfing, Alexander und Christoph Landerer. „Eduard Hanslick.“ <emph>Internet Encyclopedia of Philosophy</emph>, <ref target="https://iep.utm.edu/hanslick/">https://iep.utm.edu/hanslick/</ref>.</item>
+                  <item>2026. Wilfing, Alexander. „Eduard Hanslick.“ In <emph>Dizionario
+                        enciclopedico universale della musica e dei musicisti</emph>, hrsg. von
+                     Antonio Baldassarre and Daniela Castaldo, <ref
+                        target="https://deumm.org/deu/stable/617727"
+                        >https://deumm.org/deu/stable/617727</ref>.</item>
+                  <item>2025. Wilfing, Alexander. „Eduard Hanslick, Univ.-Prof. Dr. jur.“ In
+                        <emph>650 plus – Geschichte der Universität Wien</emph>, <ref
+                        target="https://geschichte.univie.ac.at/de/personen/eduard-hanslick"
+                        >https://geschichte.univie.ac.at/de/personen/eduard-hanslick</ref>.</item>
+                  <item>2023. Landerer, Christoph und Alexander Wilfing. „Eduard Hanslick, <emph>Vom
+                        Musikalisch-Schönen. Ein Beitrag zur Revision der Ästhetik der
+                        Tonkunst</emph>.“ In <emph>Lexikon Schriften über Musik</emph>, Bd. 2,
+                        <emph>Musikästhetik in Europa und Nordamerika</emph>, hrsg. von Felix Wörner
+                     und Melanie Wald-Fuhrmann, S. 316–319. Kassel: Bärenreiter; Berlin:
+                     Metzler.</item>
+                  <item>2023. Wilfing, Alexander. „Eduard Hanslick, <emph>Censur und
+                        Kunst-Kritik</emph>.“ In <emph>Lexikon Schriften über Musik</emph>, Bd. 2,
+                        <emph>Musikästhetik in Europa und Nordamerika</emph>, hrsg. von Felix Wörner
+                     und Melanie Wald-Fuhrmann, S. 314–316. Kassel: Bärenreiter; Berlin:
+                     Metzler.</item>
+                  <item>2023. Wilfing, Alexander. „Hanslicks historische Bedeutung / Hanslick’s
+                     Historical Relevance.“ In <emph>Hanslick Online</emph>, hrsg. von Alexander
+                     Wilfing, <ref target="https://hanslick.acdh.oeaw.ac.at/bedeutung-hanslick.html"
+                        >https://hanslick.acdh.oeaw.ac.at/bedeutung-hanslick.html?lang=de</ref></item>
+                  <item>2019. Wilfing, Alexander und Christoph Landerer. „Eduard Hanslick.“
+                        <emph>Internet Encyclopedia of Philosophy</emph>, <ref
+                        target="https://iep.utm.edu/hanslick/"
+                     >https://iep.utm.edu/hanslick/</ref>.</item>
                </list>
             </div>
                <div type="block">
@@ -177,10 +200,12 @@
                   <head>Artikel / Kapitel</head>
                   <list type="bibl">
                   <item>Boisits, Barbara und Alexander Wilfing. „Hanslick, Eduard“, <ref target="https://www.musiklexikon.ac.at/ml"><hi rend="italic">Oesterreichisches Musiklexikon Online</hi></ref>. Herausgegeben von Barbara Boisits (Überarbeitung des Original-Artikels von Barbara Boisits von 2023), <ref target="https://dx.doi.org/10.1553/0x0001d073">https://dx.doi.org/10.1553/0x0001d073</ref> (Einreichung bis Mitte 2026).</item>
-                  <item>Wilfing, Alexander. „Eduard Hanslick.“ In <emph>Dizionario enciclopedico universale della musica e dei musicisti</emph>, hrsg. von Antonio Baldassarre and Daniela Castaldo, <ref target="https://www.rilm.org/deumm-online/">https://www.rilm.org/deumm-online/</ref> (akzeptiert).</item>
                   <item>Wilfing, Alexander. „Culture, Politics, and Aesthetic Discord: Bruckner and Hanslick in Vienna’s Musico-Critical Landscape (1865–1902).“ In <emph>200 Jahre Bruckner—100 Jahre Bruckner-Forschung</emph>, hrsg. von Clemens Gubsch und Andrea Harrandt. Wien: Verlag der Österreichischen Akademie der Wissenschaften (in Begutachtung).</item>
                   <item>Wilfing, Alexander. „<hi rend="italic">Wissenschaft</hi>,<hi rend="italic"> Musikwissenschaft</hi>,<hi rend="italic">Musikgeschichtswissenschaft</hi>: Viennese Concepts of Musical Research, 1856–1919.“ In <emph>Music and National Identity in Germany and Austria</emph>, hrsg. von Jeremy Barham. New York: Routledge (in Begutachtung).</item>
-                  <item>Wilfing, Alexander. „Der Kritiker in der Kritik: Die Rezensionen zu Eduard Hanslicks Traktat <hi rend="italic">Vom Musikalisch-Schönen</hi> (1854–1857).” In <hi rend="italic">Archiv für Musikwissenschaft</hi> (Einreichung bis Ende 2026).</item>
+                  <item>Wilfing, Alexander. „Der Kritiker in der Kritik: Die Rezensionen zu Eduard
+                        Hanslicks Traktat <hi rend="italic">Vom Musikalisch-Schönen</hi>
+                        (1854–1857).” In <hi rend="italic">Archiv für Musikwissenschaft</hi>
+                        (Einreichung bis Mitte 2027).</item>
                </list>
                </div>
             </div>

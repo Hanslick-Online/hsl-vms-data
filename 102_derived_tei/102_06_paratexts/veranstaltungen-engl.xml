@@ -31,24 +31,32 @@
       <body xml:lang="en-US">
          <div type="main">
             <head>Events</head>
-            <byline>August 6, 2026</byline>
+            <byline>November 11, 2026</byline>
             <div type="block">
                <head>Lehrveranstaltungen</head>
                <list type="bibl">
-                  <item>2026. Seminar “Richard Wagner als Komponist, Schriftsteller und
-                     Kultur-Ereignis,” Department of Musicology, University of Vienna, Alexander
+                  <item>2026. Seminar “<ref
+                     target="https://ufind.univie.ac.at/en/course.html?lv=160085&amp;semester=2026W"
+                     >Richard Wagner als Komponist, Schriftsteller und
+                     Kultur-Ereignis</ref>,” Department of Musicology, University of Vienna, Alexander
                      Wilfing.</item>
+                  <item>2026. Lecture Course „<ref
+                        target="https://uspdigital.usp.br/janus/componente/disciplinasOferecidasInicial.jsf?action=3&amp;sgldis=CMU6154"
+                        >Eduard Hanslick e os Debates sobre a Autonomia da Música: Estética, Crítica
+                        e Recepção</ref>“ Escola de Comunicações e Artes, Universidade de São Paulo,
+                     Alexander Wilfing with Rodrigo Passos Felicissimo and Mário Rodrigues Videira
+                     Junior (Visiting Professor).</item>
                   <item>2026. Lecture Course “<ref
-                        target="https://ufind.univie.ac.at/de/course.html?lv=160083&amp;semester=2026S"
+                     target="https://ufind.univie.ac.at/en/course.html?lv=160083&amp;semester=2026S"
                         >Musikphilosophie vom 18. Jahrhundert bis zur Gegenwart</ref>,” Department
                      of Musicology, University of Vienna, Alexander Wilfing.</item>
-                  <item>2025. Seminar “<ref target="https://ufind.univie.ac.at/en/course.ht ml?lv=160085&amp;semester=2025W">Definition, Ontology, Authenticity, Emotion, Value: Eine Einführung in die
+                  <item>2025. Seminar “<ref target="https://ufind.univie.ac.at/en/course.html?lv=160085&amp;semester=2025W">Definition, Ontology, Authenticity, Emotion, Value: Eine Einführung in die
                         analytische Musikästhetik</ref>,” Department of Musicology, University of
                      Vienna, Alexander Wilfing.</item>
-                  <item>2025. Seminar “<ref target="https://ufind.univie.ac.at/de/course.html?lv=160084&amp;semester=2025S">Meinung formen, Kanon bilden, Agenden pushen: Deutschsprachige Musikkritik
+                  <item>2025. Seminar “<ref target="https://ufind.univie.ac.at/en/course.html?lv=160084&amp;semester=2025S">Meinung formen, Kanon bilden, Agenden pushen: Deutschsprachige Musikkritik
                         im 19. Jahrhundert</ref>,” Department of Musicology, University of Vienna,
                      Alexander Wilfing.</item>
-                  <item>2017. Bachelor Seminar “<ref target="https://ufind.univie.ac.at/de/course.html?lv=160055&amp;semester=2017S">Eduard Hanslicks <hi rend="italic">Vom Musikalisch-Schönen</hi>: Text,
+                  <item>2017. Bachelor Seminar “<ref target="https://ufind.univie.ac.at/en/course.html?lv=160055&amp;semester=2017S">Eduard Hanslicks <hi rend="italic">Vom Musikalisch-Schönen</hi>: Text,
                         Kontext, Rezeption</ref>,” Department of Musicology, University of Vienna ,
                      Alexander Wilfing.</item>   
                </list>
